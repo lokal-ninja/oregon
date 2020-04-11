@@ -1,0 +1,1 @@
+Oregon is a state in the Pacific Northwest region on the West Coast of the United States. The Columbia River delineates much of Oregon's northern boundary with Washington, while the Snake River delineates much of its eastern boundary with Idaho. The parallel 42° north delineates the southern boundary with California and Nevada. (Wikipedia)
