@@ -1,0 +1,4 @@
+---
+title: "Searings of Bend"
+url: /bend/searings-of-bend/
+---

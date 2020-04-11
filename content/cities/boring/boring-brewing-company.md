@@ -1,0 +1,4 @@
+---
+title: "Boring Brewing Company"
+url: /boring/boring-brewing-company/
+---
