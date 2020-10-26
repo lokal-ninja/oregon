@@ -1,12 +1,12 @@
 id: 4735343190
 type: node
-shop: bakery
-latitude: 45.5124483
-longitude: -122.66549300000001
+shop: pastry
+latitude: 45.5125211
+longitude: -122.66549370000001
 postcode: "97214"
 city: Portland
 street: "Southeast Water Avenue"
 housenumber: 1430
-phone: ""
-opening_hours: ""
+phone: "+1 503 2347085"
+opening_hours: "Mo-Fr 08:00-16:00; PH off"
 website: "http://sugarstreetportland.com/"

@@ -1,4 +1,4 @@
 ---
-title: "J.Jill"
+title: "J. Jill"
 url: /clackamas/j-jill/
 ---

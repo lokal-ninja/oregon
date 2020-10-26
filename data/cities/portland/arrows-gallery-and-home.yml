@@ -1,12 +1,12 @@
 id: 3866363273
 type: node
 shop: antiques
-latitude: 45.589674
-longitude: -122.7558575
+latitude: 45.589480800000004
+longitude: -122.7560954
 postcode: "97203"
 city: Portland
 street: "North Philadelphia Avenue"
 housenumber: 7227
 phone: ""
-opening_hours: "Su 12:00-18:00; Mo-We off; Th 18:00-20:00; Fr,Sa 12:00-20:00"
+opening_hours: "Mo-We off,Th 18:00-20:00,Fr,Sa 12:00-20:00,Su 12:00-18:00"
 website: ""

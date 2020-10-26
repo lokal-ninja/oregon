@@ -1,12 +1,12 @@
-id: 266495622
-type: way
-shop: confectionery
-latitude: 45.4860234
-longitude: -122.7488938
-postcode: "97225"
+id: 6565336175
+type: node
+shop: pastry
+latitude: 45.514212300000004
+longitude: -122.6843061
+postcode: "97201"
 city: Portland
-street: "Southwest Beaverton Hillsdale Highway"
-housenumber: 6990
+street: "Southwest Park Avenue"
+housenumber: 1503
 phone: ""
 opening_hours: ""
-website: "http://sesamedonuts.com/"
+website: ""
