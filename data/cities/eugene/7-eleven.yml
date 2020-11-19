@@ -1,12 +1,12 @@
-id: 311039616
-type: way
+id: 8069493970
+type: node
 shop: convenience
-latitude: 44.119397500000005
-longitude: -123.13783860000001
-postcode: ""
+latitude: 44.0495521
+longitude: -123.08391850000001
+postcode: "97401"
 city: Eugene
-street: "River Road"
-housenumber: 3821
+street: "East Broadway"
+housenumber: 590
 phone: ""
-opening_hours: ""
-website: "https://www.7-eleven.com/locations/or/eugene/3821-river-rd-22249"
+opening_hours: "24/7"
+website: ""
