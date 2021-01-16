@@ -1,4 +1,4 @@
 ---
-title: "BI-Mart"
+title: "Bi-Mart"
 url: /la-pine/bi-mart/
 ---
