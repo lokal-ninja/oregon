@@ -1,6 +1,5 @@
 id: 485234645
 type: way
-shop: supermarket
 latitude: 45.3039823
 longitude: -122.7624303
 postcode: "97070"
@@ -8,5 +7,5 @@ city: Wilsonville
 street: "Southwest Wilsonville Road"
 housenumber: 8255
 phone: "+1-503-404-2819"
-opening_hours: "00:00-01:00,06:00-24:00"
+opening_hours: "06:00-23:00"
 website: "https://www.safeway.com/"

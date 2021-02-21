@@ -1,12 +1,11 @@
-id: 288742761
-type: way
-shop: supermarket
-latitude: 45.4778433
-longitude: -122.6955942
-postcode: "97239"
+id: 3787098631
+type: node
+latitude: 45.529861000000004
+longitude: -122.68515180000001
+postcode: "97209"
 city: Portland
-street: "Southwest Capitol Highway"
-housenumber: 6344
-phone: "+1-971-229-2184"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://basicsmarket.com/"
+street: "Northwest 14th Avenue"
+housenumber: 938
+phone: ""
+opening_hours: ""
+website: ""

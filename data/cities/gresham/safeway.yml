@@ -1,6 +1,5 @@
 id: 147984078
 type: way
-shop: supermarket
 latitude: 45.505608300000006
 longitude: -122.41728920000001
 postcode: "97030"
@@ -8,5 +7,5 @@ city: Gresham
 street: "Northeast Division Street"
 housenumber: 1455
 phone: "+1-503-492-7270"
-opening_hours: "00:00-01:00,06:00-24:00"
+opening_hours: "06:00-23:00"
 website: "https://www.safeway.com/"

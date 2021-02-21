@@ -1,6 +1,5 @@
 id: 6306727638
 type: node
-shop: shop
 latitude: 45.5120464
 longitude: -122.65246710000001
 postcode: "97214"
@@ -8,5 +7,5 @@ city: Portland
 street: "Southeast Hawthorne Boulevard"
 housenumber: 1310
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Su 11:00-18:00"
 website: "http://www.pdxloungelizard.com/"
