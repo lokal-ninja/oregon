@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /astoria/fastenal/
-shop: hardware
+shop: trade
 ---
