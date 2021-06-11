@@ -1,6 +1,6 @@
 ---
 title: Milwaukie
 url: /milwaukie/
-latitude: 45.445390100000004
-longitude: -122.63928890000001
+latitude: 45.444005100000005
+longitude: -122.6412523
 ---

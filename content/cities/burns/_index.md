@@ -1,6 +1,6 @@
 ---
 title: Burns
 url: /burns/
-latitude: 43.586260700000004
-longitude: -119.05410320000001
+latitude: 43.5861256
+longitude: -119.05441370000001
 ---

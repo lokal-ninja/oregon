@@ -1,11 +1,11 @@
-id: 3199452595
-type: node
-latitude: 45.4865341
-longitude: -122.8063968
+id: 234700977
+type: way
+latitude: 45.486710900000006
+longitude: -122.80659290000001
 postcode: "97005"
 city: Beaverton
 street: "Southwest Watson Avenue"
-housenumber: 4589
+housenumber: 4575-4595;4589
 phone: "+1-503-574-4057"
 opening_hours: "Mo-Sa 11:00-22:00; Su 11:00-21:00"
 website: "http://hotboxoregon.com/"
