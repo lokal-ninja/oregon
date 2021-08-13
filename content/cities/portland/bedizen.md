@@ -1,5 +1,5 @@
 ---
 title: "Bedizen"
 url: /portland/bedizen/
-shop: boutique
+shop: clothes
 ---

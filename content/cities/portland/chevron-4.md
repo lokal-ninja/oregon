@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /portland/chevron-4/
-shop: convenience
+shop: car repair
 ---

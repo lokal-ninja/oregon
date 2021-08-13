@@ -1,5 +1,5 @@
 ---
 title: "Altar"
 url: /portland/altar/
-shop: boutique
+shop: clothes
 ---

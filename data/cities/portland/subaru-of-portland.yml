@@ -1,11 +1,11 @@
-id: 107502295
-type: way
-latitude: 45.5227413
-longitude: -122.6616262
-postcode: "97214"
+id: 8921569149
+type: node
+latitude: 45.5218275
+longitude: -122.66121600000001
+postcode: ""
 city: Portland
-street: "East Burnside Street"
-housenumber: 400
+street: "Southeast Grand Avenue"
+housenumber: 107
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa 09:00-19:00; Su 10:00-18:00"
+opening_hours: "Mo-Sa 08:00-17:00"
 website: "https://www.subaruofportland.com/"
