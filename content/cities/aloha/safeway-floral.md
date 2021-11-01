@@ -1,5 +1,5 @@
 ---
-title: "Safeway - Floral"
+title: "Safeway Floral"
 url: /aloha/safeway-floral/
 shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Beard’s Framing"
+title: "Beard's Framing"
 url: /portland/beards-framing/
 shop: frame
 ---
