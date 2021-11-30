@@ -1,6 +1,6 @@
 ---
-title: North powder
+title: North Powder
 url: /north-powder/
-latitude: 
-longitude: 
+latitude: 45.0284737
+longitude: -117.91993860000001
 ---

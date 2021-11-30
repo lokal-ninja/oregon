@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /warrenton/tj-maxx/
-shop: clothes
+shop: department store
 ---

@@ -1,6 +1,6 @@
 ---
 title: Blachly
 url: /blachly/
-latitude: 44.194844
-longitude: -123.5351023
+latitude: 44.194667100000004
+longitude: -123.53515060000001
 ---
