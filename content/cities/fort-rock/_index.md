@@ -1,6 +1,6 @@
 ---
 title: Fort Rock
 url: /fort-rock/
-latitude: 43.356265
-longitude: -121.05489720000001
+latitude: 43.3561519
+longitude: -121.05387800000001
 ---
