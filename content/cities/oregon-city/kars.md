@@ -1,5 +1,5 @@
 ---
 title: "KARS"
 url: /oregon-city/kars/
-shop: car repair
+shop: car parts
 ---
