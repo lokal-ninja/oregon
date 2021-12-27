@@ -1,5 +1,5 @@
 ---
 title: "What's New?"
 url: /portland/whats-new/
-shop: furniture
+shop: Möbel
 ---

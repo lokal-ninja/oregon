@@ -1,5 +1,5 @@
 ---
 title: "Hollister"
 url: /clackamas/hollister/
-shop: clothes
+shop: Kleidung
 ---

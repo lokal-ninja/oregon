@@ -1,5 +1,5 @@
 ---
 title: "Judith Arnell Jewelers"
 url: /portland/judith-arnell-jewelers/
-shop: jewelry
+shop: Schmuck
 ---

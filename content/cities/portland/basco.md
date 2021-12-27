@@ -1,5 +1,5 @@
 ---
 title: "Basco"
 url: /portland/basco/
-shop: electronics
+shop: Elektronik
 ---

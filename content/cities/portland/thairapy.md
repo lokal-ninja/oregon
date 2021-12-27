@@ -1,5 +1,5 @@
 ---
 title: "Thairapy"
 url: /portland/thairapy/
-shop: beauty
+shop: Kosmetik
 ---

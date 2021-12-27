@@ -1,6 +1,6 @@
 ---
 title: Sutherlin
 url: /sutherlin/
-latitude: 43.3896628
-longitude: -123.31235980000001
+latitude: 43.387
+longitude: -123.337
 ---

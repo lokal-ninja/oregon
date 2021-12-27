@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /portland/great-clips-2/
-shop: hairdresser
+shop: Friseur
 ---

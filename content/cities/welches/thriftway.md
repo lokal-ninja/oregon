@@ -1,5 +1,5 @@
 ---
 title: "Thriftway"
 url: /welches/thriftway/
-shop: supermarket
+shop: Supermarkt
 ---

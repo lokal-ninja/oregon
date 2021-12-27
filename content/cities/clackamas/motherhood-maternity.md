@@ -1,5 +1,5 @@
 ---
 title: "Motherhood Maternity"
 url: /clackamas/motherhood-maternity/
-shop: clothes
+shop: Kleidung
 ---

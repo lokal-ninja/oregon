@@ -1,6 +1,6 @@
 ---
 title: Sherwood
 url: /sherwood/
-latitude: 45.3569315
-longitude: -122.8403744
+latitude: 45.366
+longitude: -122.833
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cloche"
 url: /portland/cloche/
-shop: beauty
+shop: Kosmetik
 ---

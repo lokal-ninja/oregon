@@ -1,5 +1,5 @@
 ---
 title: "The Missing Link"
 url: /milwaukie/the-missing-link/
-shop: bicycle
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rom"
 url: /portland/rom/
-shop: shoes
+shop: Schuhe
 ---

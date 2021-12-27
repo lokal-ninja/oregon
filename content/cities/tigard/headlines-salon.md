@@ -1,5 +1,5 @@
 ---
 title: "Headlines Salon"
 url: /tigard/headlines-salon/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sitte"
 url: /portland/sitte/
-shop: furniture
+shop: Möbel
 ---

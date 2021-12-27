@@ -1,5 +1,5 @@
 ---
 title: "The Beauty Collective"
 url: /portland/the-beauty-collective/
-shop: beauty
+shop: Kosmetik
 ---

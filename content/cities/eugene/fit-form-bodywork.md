@@ -1,5 +1,5 @@
 ---
 title: "Fit Form Bodywork"
 url: /eugene/fit-form-bodywork/
-shop: massage
+shop: Massage
 ---

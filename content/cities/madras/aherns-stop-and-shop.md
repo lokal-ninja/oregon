@@ -1,5 +1,5 @@
 ---
 title: "Aherns Stop and Shop"
 url: /madras/aherns-stop-and-shop/
-shop: convenience
+shop: Lebensmittel
 ---

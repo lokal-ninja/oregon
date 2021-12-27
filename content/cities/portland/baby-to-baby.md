@@ -1,5 +1,5 @@
 ---
 title: "Baby to Baby"
 url: /portland/baby-to-baby/
-shop: baby goods
+shop: Babysachen
 ---

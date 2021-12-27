@@ -1,5 +1,5 @@
 ---
 title: "Tomorrow Cleaners"
 url: /oak-grove/tomorrow-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

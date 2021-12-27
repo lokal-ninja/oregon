@@ -1,6 +1,6 @@
 ---
 title: Coquille
 url: /coquille/
-latitude: 43.177055
-longitude: -124.18760800000001
+latitude: 43.174
+longitude: -124.188
 ---

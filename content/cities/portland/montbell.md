@@ -1,5 +1,5 @@
 ---
 title: "Montbell"
 url: /portland/montbell/
-shop: outdoor
+shop: Outdoor
 ---

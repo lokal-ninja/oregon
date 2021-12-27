@@ -1,5 +1,5 @@
 ---
 title: "Origins"
 url: /tigard/origins/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /tigard/visionworks/
-shop: optician
+shop: Optiker
 ---

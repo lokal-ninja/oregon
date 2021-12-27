@@ -1,5 +1,5 @@
 ---
 title: "VilleVelo"
 url: /portland/villevelo/
-shop: confectionery
+shop: Süßwaren
 ---

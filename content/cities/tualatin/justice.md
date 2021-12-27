@@ -1,5 +1,5 @@
 ---
 title: "Justice"
 url: /tualatin/justice/
-shop: clothes
+shop: Kleidung
 ---

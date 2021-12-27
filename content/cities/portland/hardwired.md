@@ -1,5 +1,5 @@
 ---
 title: "Hardwired"
 url: /portland/hardwired/
-shop: hifi
+shop: Hifi
 ---

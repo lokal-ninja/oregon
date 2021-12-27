@@ -1,5 +1,5 @@
 ---
 title: "Silverado Portland"
 url: /tigard/silverado-portland/
-shop: jewelry
+shop: Schmuck
 ---

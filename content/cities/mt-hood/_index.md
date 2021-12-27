@@ -1,6 +1,6 @@
 ---
 title: Mt. Hood
 url: /mt-hood/
-latitude: 
-longitude: 
+latitude: 45.497
+longitude: -121.596
 ---

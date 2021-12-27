@@ -1,5 +1,5 @@
 ---
 title: "Liquor Store"
 url: /saint-helens/liquor-store/
-shop: alcohol
+shop: Spirituosen
 ---

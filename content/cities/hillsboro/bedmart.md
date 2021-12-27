@@ -1,5 +1,5 @@
 ---
 title: "BedMart"
 url: /hillsboro/bedmart/
-shop: bed
+shop: Betten
 ---

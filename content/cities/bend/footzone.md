@@ -1,5 +1,5 @@
 ---
 title: "FootZone"
 url: /bend/footzone/
-shop: shoes
+shop: Schuhe
 ---

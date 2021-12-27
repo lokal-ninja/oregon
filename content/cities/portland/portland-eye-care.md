@@ -1,5 +1,5 @@
 ---
 title: "Portland Eye Care"
 url: /portland/portland-eye-care/
-shop: optician
+shop: Optiker
 ---

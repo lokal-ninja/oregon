@@ -1,5 +1,5 @@
 ---
 title: "Plumeria"
 url: /portland/plumeria/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eoff"
 url: /portland/eoff/
-shop: hardware
+shop: Eisenwaren
 ---

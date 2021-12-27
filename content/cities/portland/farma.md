@@ -1,5 +1,5 @@
 ---
 title: "Farma"
 url: /portland/farma/
-shop: cannabis
+shop: Hanf
 ---

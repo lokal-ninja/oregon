@@ -1,6 +1,6 @@
 ---
 title: Canyonville
 url: /canyonville/
-latitude: 42.927612
-longitude: -123.28120200000001
+latitude: 42.926
+longitude: -123.279
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OSU Beaver Store"
 url: /portland/osu-beaver-store/
-shop: clothes
+shop: Kleidung
 ---

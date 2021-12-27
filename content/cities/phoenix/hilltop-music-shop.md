@@ -1,5 +1,5 @@
 ---
 title: "Hilltop Music Shop"
 url: /phoenix/hilltop-music-shop/
-shop: music
+shop: Musik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pomegranate"
 url: /bend/pomegranate/
-shop: gift
+shop: Andenken
 ---

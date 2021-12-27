@@ -1,6 +1,6 @@
 ---
 title: Clackamas
 url: /clackamas/
-latitude: 45.1608821
-longitude: -122.23050380000001
+latitude: 45.419
+longitude: -122.565
 ---

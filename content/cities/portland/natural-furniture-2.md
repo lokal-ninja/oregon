@@ -1,5 +1,5 @@
 ---
 title: "Natural Furniture"
 url: /portland/natural-furniture-2/
-shop: furniture
+shop: Möbel
 ---

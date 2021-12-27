@@ -1,5 +1,5 @@
 ---
 title: "Hive"
 url: /portland/hive/
-shop: interior decoration
+shop: Raumausstattung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cottage Grove
 url: /cottage-grove/
-latitude: 43.7974729
-longitude: -123.0588963
+latitude: 43.797
+longitude: -123.062
 ---

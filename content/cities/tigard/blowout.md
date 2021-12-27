@@ -1,5 +1,5 @@
 ---
 title: "Blowout"
 url: /tigard/blowout/
-shop: hairdresser
+shop: Friseur
 ---

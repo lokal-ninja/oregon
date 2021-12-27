@@ -1,5 +1,5 @@
 ---
 title: "Complexions"
 url: /portland/complexions/
-shop: beauty
+shop: Kosmetik
 ---

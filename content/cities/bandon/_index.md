@@ -1,6 +1,6 @@
 ---
 title: Bandon
 url: /bandon/
-latitude: 43.119563400000004
-longitude: -124.4094086
+latitude: 43.119
+longitude: -124.403
 ---

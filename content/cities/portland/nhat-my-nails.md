@@ -1,5 +1,5 @@
 ---
 title: "Nhat My Nails"
 url: /portland/nhat-my-nails/
-shop: beauty
+shop: Kosmetik
 ---

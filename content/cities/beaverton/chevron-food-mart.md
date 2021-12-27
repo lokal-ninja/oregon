@@ -1,5 +1,5 @@
 ---
 title: "Chevron Food Mart"
 url: /beaverton/chevron-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

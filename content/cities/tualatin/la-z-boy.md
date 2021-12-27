@@ -1,5 +1,5 @@
 ---
 title: "La-Z-Boy"
 url: /tualatin/la-z-boy/
-shop: furniture
+shop: Möbel
 ---

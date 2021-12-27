@@ -1,5 +1,5 @@
 ---
 title: "Bolt"
 url: /portland/bolt/
-shop: fabric
+shop: Textil
 ---

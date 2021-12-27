@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /medford/aarons/
-shop: furniture
+shop: Möbel
 ---

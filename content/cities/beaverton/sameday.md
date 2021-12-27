@@ -1,5 +1,5 @@
 ---
 title: "Sameday"
 url: /beaverton/sameday/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cynergy E-Bikes"
 url: /portland/cynergy-e-bikes/
-shop: bicycle
+shop: Fahrrad
 ---

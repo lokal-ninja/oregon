@@ -1,6 +1,6 @@
 ---
 title: Winston
 url: /winston/
-latitude: 43.122011900000004
-longitude: -123.41313830000001
+latitude: 43.123
+longitude: -123.416
 ---

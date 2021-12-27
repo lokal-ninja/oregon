@@ -1,5 +1,5 @@
 ---
 title: "Plaid Pantry"
 url: /wilsonville/plaid-pantry/
-shop: convenience
+shop: Lebensmittel
 ---

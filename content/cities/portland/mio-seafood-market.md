@@ -1,5 +1,5 @@
 ---
 title: "Mio Seafood Market"
 url: /portland/mio-seafood-market/
-shop: seafood
+shop: Fisch
 ---

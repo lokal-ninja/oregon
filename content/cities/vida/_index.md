@@ -1,6 +1,6 @@
 ---
 title: Vida
 url: /vida/
-latitude: 44.145864700000004
-longitude: -122.5697729
+latitude: 44.123
+longitude: -122.39
 ---

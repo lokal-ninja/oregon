@@ -1,6 +1,6 @@
 ---
 title: Rosenburg
 url: /rosenburg/
-latitude: 
-longitude: 
+latitude: 43.213
+longitude: -123.352
 ---

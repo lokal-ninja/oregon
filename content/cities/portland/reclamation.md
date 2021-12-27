@@ -1,5 +1,5 @@
 ---
 title: "Reclamation"
 url: /portland/reclamation/
-shop: houseware
+shop: Haushaltsartikel
 ---

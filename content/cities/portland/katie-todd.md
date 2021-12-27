@@ -1,5 +1,5 @@
 ---
 title: "Katie Todd"
 url: /portland/katie-todd/
-shop: art
+shop: Kunst
 ---

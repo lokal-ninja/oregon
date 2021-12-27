@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /salem/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

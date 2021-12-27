@@ -1,5 +1,5 @@
 ---
 title: "Natural Edge Furniture"
 url: /bend/natural-edge-furniture/
-shop: furniture
+shop: Möbel
 ---

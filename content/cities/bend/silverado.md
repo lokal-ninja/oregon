@@ -1,5 +1,5 @@
 ---
 title: "Silverado"
 url: /bend/silverado/
-shop: jewelry
+shop: Schmuck
 ---

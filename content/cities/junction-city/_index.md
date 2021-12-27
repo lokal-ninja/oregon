@@ -1,6 +1,6 @@
 ---
 title: Junction City
 url: /junction-city/
-latitude: 44.2191935
-longitude: -123.204785
+latitude: 44.221
+longitude: -123.201
 ---

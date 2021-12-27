@@ -1,5 +1,5 @@
 ---
 title: "Bui's Natural Tofu"
 url: /portland/buis-natural-tofu/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

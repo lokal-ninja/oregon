@@ -1,6 +1,6 @@
 ---
 title: Keizer
 url: /keizer/
-latitude: 44.996900000000004
-longitude: -123.02662670000001
+latitude: 44.984
+longitude: -123.027
 ---

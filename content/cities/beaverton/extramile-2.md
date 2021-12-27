@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /beaverton/extramile-2/
-shop: convenience
+shop: Lebensmittel
 ---

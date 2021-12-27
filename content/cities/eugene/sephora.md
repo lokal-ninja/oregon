@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /eugene/sephora/
-shop: beauty
+shop: Kosmetik
 ---

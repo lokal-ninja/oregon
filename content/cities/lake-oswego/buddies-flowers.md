@@ -1,5 +1,5 @@
 ---
 title: "Buddies Flowers"
 url: /lake-oswego/buddies-flowers/
-shop: florist
+shop: Blumen
 ---

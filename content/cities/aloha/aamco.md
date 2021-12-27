@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /aloha/aamco/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Spray
 url: /spray/
-latitude: 44.834306500000004
-longitude: -119.7944489
+latitude: 44.835
+longitude: -119.794
 ---

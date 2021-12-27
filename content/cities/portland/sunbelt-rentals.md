@@ -1,5 +1,5 @@
 ---
 title: "Sunbelt Rentals"
 url: /portland/sunbelt-rentals/
-shop: shop
+shop: Allgemein
 ---

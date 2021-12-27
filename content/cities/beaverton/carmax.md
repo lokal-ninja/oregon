@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /beaverton/carmax/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /clackamas/gap/
-shop: clothes
+shop: Kleidung
 ---

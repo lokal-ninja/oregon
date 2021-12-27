@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /hillsboro/edible-arrangements/
-shop: gift
+shop: Andenken
 ---

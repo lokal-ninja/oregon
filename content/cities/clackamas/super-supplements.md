@@ -1,5 +1,5 @@
 ---
 title: "Super Supplements"
 url: /clackamas/super-supplements/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

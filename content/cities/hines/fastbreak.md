@@ -1,5 +1,5 @@
 ---
 title: "FastBreak"
 url: /hines/fastbreak/
-shop: convenience
+shop: Lebensmittel
 ---

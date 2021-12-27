@@ -1,5 +1,5 @@
 ---
 title: "Shryock's Mens Wear"
 url: /salem/shryocks-mens-wear/
-shop: clothes
+shop: Kleidung
 ---

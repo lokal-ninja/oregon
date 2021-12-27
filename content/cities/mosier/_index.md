@@ -1,6 +1,6 @@
 ---
 title: Mosier
 url: /mosier/
-latitude: 45.6835405
-longitude: -121.3985181
+latitude: 45.684
+longitude: -121.396
 ---

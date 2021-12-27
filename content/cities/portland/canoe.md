@@ -1,5 +1,5 @@
 ---
 title: "Canoe"
 url: /portland/canoe/
-shop: gift
+shop: Andenken
 ---

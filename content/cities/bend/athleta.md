@@ -1,5 +1,5 @@
 ---
 title: "Athleta"
 url: /bend/athleta/
-shop: clothes
+shop: Kleidung
 ---

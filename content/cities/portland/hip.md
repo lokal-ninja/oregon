@@ -1,5 +1,5 @@
 ---
 title: "Hip"
 url: /portland/hip/
-shop: furniture
+shop: Möbel
 ---

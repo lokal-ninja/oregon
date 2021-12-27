@@ -1,5 +1,5 @@
 ---
 title: "Canby Station Cleaners"
 url: /canby/canby-station-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

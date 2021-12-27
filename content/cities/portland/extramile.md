@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /portland/extramile/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Power Sports Marine"
 url: /portland/power-sports-marine/
-shop: boat
+shop: Boot
 ---

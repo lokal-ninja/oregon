@@ -1,5 +1,5 @@
 ---
 title: "Splendid"
 url: /portland/splendid/
-shop: clothes
+shop: Kleidung
 ---

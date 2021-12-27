@@ -1,5 +1,5 @@
 ---
 title: "Orn Hansen"
 url: /portland/orn-hansen/
-shop: clothes
+shop: Kleidung
 ---

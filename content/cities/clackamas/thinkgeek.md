@@ -1,5 +1,5 @@
 ---
 title: "ThinkGeek"
 url: /clackamas/thinkgeek/
-shop: gift
+shop: Andenken
 ---

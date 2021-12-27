@@ -1,5 +1,5 @@
 ---
 title: "Malka"
 url: /portland/malka/
-shop: jewelry
+shop: Schmuck
 ---

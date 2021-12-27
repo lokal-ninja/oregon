@@ -1,6 +1,6 @@
 ---
 title: Gaston
 url: /gaston/
-latitude: 45.436225900000004
-longitude: -123.13923620000001
+latitude: 45.447
+longitude: -123.152
 ---

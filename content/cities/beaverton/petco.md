@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /beaverton/petco/
-shop: pet
+shop: Tiere
 ---

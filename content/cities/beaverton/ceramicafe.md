@@ -1,5 +1,5 @@
 ---
 title: "CeramiCafe"
 url: /beaverton/ceramicafe/
-shop: craft
+shop: Basteln
 ---

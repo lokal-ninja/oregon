@@ -1,6 +1,6 @@
 ---
 title: Vernonia
 url: /vernonia/
-latitude: 45.858722900000004
-longitude: -123.19289200000001
+latitude: 45.859
+longitude: -123.194
 ---

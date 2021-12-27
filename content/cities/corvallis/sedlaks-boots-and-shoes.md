@@ -1,5 +1,5 @@
 ---
 title: "Sedlak's Boots and Shoes"
 url: /corvallis/sedlaks-boots-and-shoes/
-shop: shoes
+shop: Schuhe
 ---

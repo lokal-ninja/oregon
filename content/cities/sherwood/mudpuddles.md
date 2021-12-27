@@ -1,5 +1,5 @@
 ---
 title: "Mudpuddles"
 url: /sherwood/mudpuddles/
-shop: toys
+shop: Spielzeug
 ---

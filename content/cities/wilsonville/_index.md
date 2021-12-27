@@ -1,6 +1,6 @@
 ---
 title: Wilsonville
 url: /wilsonville/
-latitude: 45.309921800000005
-longitude: -122.76816020000001
+latitude: 45.303
+longitude: -122.773
 ---

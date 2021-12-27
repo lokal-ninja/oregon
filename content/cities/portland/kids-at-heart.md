@@ -1,5 +1,5 @@
 ---
 title: "Kids at Heart"
 url: /portland/kids-at-heart/
-shop: toys
+shop: Spielzeug
 ---

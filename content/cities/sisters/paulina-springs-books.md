@@ -1,5 +1,5 @@
 ---
 title: "Paulina Springs Books"
 url: /sisters/paulina-springs-books/
-shop: books
+shop: Bücher
 ---

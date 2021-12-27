@@ -1,5 +1,5 @@
 ---
 title: "Samsonite"
 url: /troutdale/samsonite/
-shop: bag
+shop: Taschen & Koffer
 ---

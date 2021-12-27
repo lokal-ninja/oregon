@@ -1,5 +1,5 @@
 ---
 title: "Garnish"
 url: /portland/garnish/
-shop: clothes
+shop: Kleidung
 ---

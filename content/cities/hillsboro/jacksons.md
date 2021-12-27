@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /hillsboro/jacksons/
-shop: convenience
+shop: Lebensmittel
 ---

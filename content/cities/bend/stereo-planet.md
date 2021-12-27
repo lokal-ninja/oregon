@@ -1,5 +1,5 @@
 ---
 title: "Stereo Planet"
 url: /bend/stereo-planet/
-shop: hifi
+shop: Hifi
 ---

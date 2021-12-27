@@ -1,6 +1,6 @@
 ---
 title: Knappa
 url: /knappa/
-latitude: 46.1687212
-longitude: -123.5818368
+latitude: 46.168
+longitude: -123.582
 ---

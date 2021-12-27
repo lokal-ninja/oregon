@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /gresham/walgreens/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Parr Lumber"
 url: /portland/parr-lumber-2/
-shop: trade
+shop: Baustoffe
 ---

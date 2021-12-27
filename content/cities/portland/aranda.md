@@ -1,5 +1,5 @@
 ---
 title: "Aranda"
 url: /portland/aranda/
-shop: hairdresser
+shop: Friseur
 ---

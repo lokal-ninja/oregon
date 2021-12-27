@@ -1,5 +1,5 @@
 ---
 title: "Fred Meyer"
 url: /wood-village/fred-meyer/
-shop: supermarket
+shop: Supermarkt
 ---

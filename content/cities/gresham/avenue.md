@@ -1,5 +1,5 @@
 ---
 title: "Avenue"
 url: /gresham/avenue/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clary Sage Herbarium"
 url: /portland/clary-sage-herbarium/
-shop: herbalist
+shop: Kräuter
 ---

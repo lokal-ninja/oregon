@@ -1,5 +1,5 @@
 ---
 title: "Eurocar"
 url: /portland/eurocar/
-shop: car repair
+shop: Autowerkstatt
 ---

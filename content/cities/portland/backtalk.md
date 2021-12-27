@@ -1,5 +1,5 @@
 ---
 title: "Backtalk"
 url: /portland/backtalk/
-shop: clothes
+shop: Kleidung
 ---

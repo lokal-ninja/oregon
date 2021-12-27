@@ -1,5 +1,5 @@
 ---
 title: "Green Zebra Grocery"
 url: /portland/green-zebra-grocery-2/
-shop: supermarket
+shop: Supermarkt
 ---

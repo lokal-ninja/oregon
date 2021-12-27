@@ -1,5 +1,5 @@
 ---
 title: "Backyard Bird Shop"
 url: /portland/backyard-bird-shop/
-shop: pet
+shop: Tiere
 ---

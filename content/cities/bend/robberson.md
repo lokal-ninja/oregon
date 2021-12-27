@@ -1,5 +1,5 @@
 ---
 title: "Robberson"
 url: /bend/robberson/
-shop: car
+shop: Autohaus
 ---

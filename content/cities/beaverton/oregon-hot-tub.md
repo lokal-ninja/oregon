@@ -1,5 +1,5 @@
 ---
 title: "Oregon Hot Tub"
 url: /beaverton/oregon-hot-tub/
-shop: shop
+shop: Allgemein
 ---

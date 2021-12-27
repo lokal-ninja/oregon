@@ -1,5 +1,5 @@
 ---
 title: "Purple Parrot"
 url: /eagle-point/purple-parrot/
-shop: lottery
+shop: Lotterie
 ---

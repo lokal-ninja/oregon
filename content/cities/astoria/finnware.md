@@ -1,5 +1,5 @@
 ---
 title: "FinnWare"
 url: /astoria/finnware/
-shop: gift
+shop: Andenken
 ---

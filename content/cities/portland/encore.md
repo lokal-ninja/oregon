@@ -1,5 +1,5 @@
 ---
 title: "Encore"
 url: /portland/encore/
-shop: hifi
+shop: Hifi
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Twisted"
 url: /portland/twisted/
-shop: shop
+shop: Allgemein
 ---

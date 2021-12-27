@@ -1,5 +1,5 @@
 ---
 title: "Crossroads"
 url: /portland/crossroads/
-shop: clothes
+shop: Kleidung
 ---

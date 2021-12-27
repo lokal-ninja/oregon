@@ -1,5 +1,5 @@
 ---
 title: "Mt. Scott Funeral Home"
 url: /portland/mt-scott-funeral-home/
-shop: funeral directors
+shop: Bestattungen
 ---

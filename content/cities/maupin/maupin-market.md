@@ -1,5 +1,5 @@
 ---
 title: "Maupin Market"
 url: /maupin/maupin-market/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Icon Nails"
 url: /sherwood/icon-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Champs"
 url: /clackamas/champs/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "All Seasons Florist"
 url: /beaverton/all-seasons-florist/
-shop: florist
+shop: Blumen
 ---

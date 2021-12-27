@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /salem/lids/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /sherwood/walgreens/
-shop: chemist
+shop: Drogerie
 ---

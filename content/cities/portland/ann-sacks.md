@@ -1,5 +1,5 @@
 ---
 title: "Ann Sacks"
 url: /portland/ann-sacks/
-shop: tiles
+shop: Fliesen
 ---

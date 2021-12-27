@@ -1,5 +1,5 @@
 ---
 title: "Capitol Nails"
 url: /portland/capitol-nails/
-shop: beauty
+shop: Kosmetik
 ---

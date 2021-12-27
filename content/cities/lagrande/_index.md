@@ -1,6 +1,6 @@
 ---
 title: LaGrande
 url: /lagrande/
-latitude: 
-longitude: 
+latitude: 45.331
+longitude: -118.097
 ---

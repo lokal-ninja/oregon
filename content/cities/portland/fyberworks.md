@@ -1,5 +1,5 @@
 ---
 title: "Fyberworks"
 url: /portland/fyberworks/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Island City
 url: /island-city/
-latitude: 45.3409671
-longitude: -118.04466180000001
+latitude: 45.336
+longitude: -118.059
 ---

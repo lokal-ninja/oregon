@@ -1,5 +1,5 @@
 ---
 title: "Popina"
 url: /portland/popina/
-shop: clothes
+shop: Kleidung
 ---

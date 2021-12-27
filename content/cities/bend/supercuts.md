@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /bend/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

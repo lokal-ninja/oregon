@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /bend/visionworks/
-shop: optician
+shop: Optiker
 ---

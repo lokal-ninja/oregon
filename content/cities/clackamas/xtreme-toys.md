@@ -1,5 +1,5 @@
 ---
 title: "Xtreme Toys"
 url: /clackamas/xtreme-toys/
-shop: toys
+shop: Spielzeug
 ---

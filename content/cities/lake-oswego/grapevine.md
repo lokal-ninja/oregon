@@ -1,5 +1,5 @@
 ---
 title: "Grapevine"
 url: /lake-oswego/grapevine/
-shop: clothes
+shop: Kleidung
 ---

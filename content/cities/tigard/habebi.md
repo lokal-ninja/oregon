@@ -1,5 +1,5 @@
 ---
 title: "Habebi"
 url: /tigard/habebi/
-shop: tobacco
+shop: Tabak
 ---

@@ -1,6 +1,6 @@
 ---
 title: Philomath
 url: /philomath/
-latitude: 44.5400013
-longitude: -123.367613
+latitude: 44.54
+longitude: -123.372
 ---

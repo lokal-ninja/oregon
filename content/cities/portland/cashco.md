@@ -1,5 +1,5 @@
 ---
 title: "CashCo"
 url: /portland/cashco/
-shop: pawnbroker
+shop: Leiher
 ---

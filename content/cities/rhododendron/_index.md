@@ -1,6 +1,6 @@
 ---
 title: Rhododendron
 url: /rhododendron/
-latitude: 45.3295632
-longitude: -121.91119060000001
+latitude: 45.327
+longitude: -121.909
 ---

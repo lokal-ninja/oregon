@@ -1,6 +1,6 @@
 ---
 title: West Linn
 url: /west-linn/
-latitude: 45.3656761
-longitude: -122.6123141
+latitude: 45.385
+longitude: -122.64
 ---

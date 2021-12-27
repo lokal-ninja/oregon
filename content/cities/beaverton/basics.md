@@ -1,5 +1,5 @@
 ---
 title: "basics"
 url: /beaverton/basics/
-shop: butcher
+shop: Metzgerei
 ---

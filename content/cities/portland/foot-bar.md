@@ -1,5 +1,5 @@
 ---
 title: "Foot Bar"
 url: /portland/foot-bar/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LexiDog"
 url: /portland/lexidog/
-shop: pet
+shop: Tiere
 ---

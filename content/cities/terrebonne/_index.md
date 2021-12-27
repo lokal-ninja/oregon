@@ -1,6 +1,6 @@
 ---
 title: Terrebonne
 url: /terrebonne/
-latitude: 44.352652600000006
-longitude: -121.1786591
+latitude: 44.361
+longitude: -121.139
 ---

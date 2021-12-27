@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /lebanon/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

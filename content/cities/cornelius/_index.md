@@ -1,6 +1,6 @@
 ---
 title: Cornelius
 url: /cornelius/
-latitude: 45.519800100000005
-longitude: -123.0556202
+latitude: 45.544
+longitude: -123.04
 ---

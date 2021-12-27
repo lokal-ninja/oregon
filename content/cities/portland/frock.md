@@ -1,5 +1,5 @@
 ---
 title: "Frock"
 url: /portland/frock/
-shop: clothes
+shop: Kleidung
 ---

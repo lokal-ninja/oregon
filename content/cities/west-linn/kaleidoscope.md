@@ -1,5 +1,5 @@
 ---
 title: "Kaleidoscope"
 url: /west-linn/kaleidoscope/
-shop: confectionery
+shop: Süßwaren
 ---

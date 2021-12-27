@@ -1,6 +1,6 @@
 ---
 title: St. Helens
 url: /st-helens/
-latitude: 
-longitude: 
+latitude: 45.845
+longitude: -122.828
 ---

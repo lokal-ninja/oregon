@@ -1,5 +1,5 @@
 ---
 title: "Lithia"
 url: /medford/lithia/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /milwaukie/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

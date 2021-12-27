@@ -1,6 +1,6 @@
 ---
 title: Metolius
 url: /metolius/
-latitude: 44.5865092
-longitude: -121.17837610000001
+latitude: 44.582
+longitude: -121.183
 ---

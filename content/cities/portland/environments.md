@@ -1,5 +1,5 @@
 ---
 title: "Environments"
 url: /portland/environments/
-shop: interior decoration
+shop: Raumausstattung
 ---

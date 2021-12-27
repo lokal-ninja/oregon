@@ -1,6 +1,6 @@
 ---
 title: Bend
 url: /bend/
-latitude: 44.0581728
-longitude: -121.3153096
+latitude: 44.149
+longitude: -121.331
 ---

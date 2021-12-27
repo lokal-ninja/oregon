@@ -1,5 +1,5 @@
 ---
 title: "Jackalope"
 url: /portland/jackalope/
-shop: tattoo
+shop: Tattoo
 ---

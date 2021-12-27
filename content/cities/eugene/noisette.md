@@ -1,5 +1,5 @@
 ---
 title: "Noisette"
 url: /eugene/noisette/
-shop: bakery
+shop: Bäckerei
 ---

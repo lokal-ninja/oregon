@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /hillsboro/gamestop/
-shop: video games
+shop: Videospiele
 ---

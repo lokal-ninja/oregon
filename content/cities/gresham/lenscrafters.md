@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /gresham/lenscrafters/
-shop: optician
+shop: Optiker
 ---

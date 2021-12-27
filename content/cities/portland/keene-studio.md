@@ -1,5 +1,5 @@
 ---
 title: "Keene Studio"
 url: /portland/keene-studio/
-shop: photo
+shop: Foto
 ---

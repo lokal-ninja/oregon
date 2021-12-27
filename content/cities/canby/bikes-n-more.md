@@ -1,5 +1,5 @@
 ---
 title: "Bikes 'N More"
 url: /canby/bikes-n-more/
-shop: bicycle
+shop: Fahrrad
 ---

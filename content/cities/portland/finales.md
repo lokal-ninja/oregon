@@ -1,5 +1,5 @@
 ---
 title: "Finales"
 url: /portland/finales/
-shop: pastry
+shop: Konditorei
 ---

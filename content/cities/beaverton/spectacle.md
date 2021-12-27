@@ -1,5 +1,5 @@
 ---
 title: "Spectacle"
 url: /beaverton/spectacle/
-shop: optician
+shop: Optiker
 ---

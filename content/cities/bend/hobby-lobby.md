@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /bend/hobby-lobby/
-shop: craft
+shop: Basteln
 ---

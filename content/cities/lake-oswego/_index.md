@@ -1,6 +1,6 @@
 ---
 title: Lake Oswego
 url: /lake-oswego/
-latitude: 45.4206749
-longitude: -122.67064900000001
+latitude: 45.419
+longitude: -122.663
 ---

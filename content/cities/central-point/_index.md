@@ -1,6 +1,6 @@
 ---
 title: Central Point
 url: /central-point/
-latitude: 42.376782000000006
-longitude: -122.912721
+latitude: 42.378
+longitude: -122.906
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nadeau"
 url: /tigard/nadeau/
-shop: furniture
+shop: Möbel
 ---

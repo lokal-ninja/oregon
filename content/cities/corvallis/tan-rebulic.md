@@ -1,5 +1,5 @@
 ---
 title: "Tan Rebulic"
 url: /corvallis/tan-rebulic/
-shop: beauty
+shop: Kosmetik
 ---

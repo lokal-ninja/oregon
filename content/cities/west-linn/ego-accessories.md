@@ -1,5 +1,5 @@
 ---
 title: "Ego Accessories"
 url: /west-linn/ego-accessories/
-shop: clothes
+shop: Kleidung
 ---

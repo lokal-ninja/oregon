@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /portland/metropcs/
-shop: shop
+shop: Allgemein
 ---

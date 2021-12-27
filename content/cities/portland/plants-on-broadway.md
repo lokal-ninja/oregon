@@ -1,5 +1,5 @@
 ---
 title: "Plants On Broadway"
 url: /portland/plants-on-broadway/
-shop: garden centre
+shop: Garten-Center
 ---

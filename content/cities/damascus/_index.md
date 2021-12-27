@@ -1,6 +1,6 @@
 ---
 title: Damascus
 url: /damascus/
-latitude: 45.4176261
-longitude: -122.45898500000001
+latitude: 45.418
+longitude: -122.457
 ---

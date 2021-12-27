@@ -1,5 +1,5 @@
 ---
 title: "El Ranchito"
 url: /beaverton/el-ranchito/
-shop: convenience
+shop: Lebensmittel
 ---

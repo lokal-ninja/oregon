@@ -1,5 +1,5 @@
 ---
 title: "Quin"
 url: /portland/quin/
-shop: confectionery
+shop: Süßwaren
 ---

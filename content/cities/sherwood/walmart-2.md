@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /sherwood/walmart-2/
-shop: optician
+shop: Optiker
 ---

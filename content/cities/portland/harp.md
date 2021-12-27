@@ -1,5 +1,5 @@
 ---
 title: "Harp"
 url: /portland/harp/
-shop: doityourself
+shop: Baumarkt
 ---

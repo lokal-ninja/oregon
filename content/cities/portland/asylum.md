@@ -1,5 +1,5 @@
 ---
 title: "Asylum"
 url: /portland/asylum/
-shop: gift
+shop: Andenken
 ---

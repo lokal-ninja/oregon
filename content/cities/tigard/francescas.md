@@ -1,5 +1,5 @@
 ---
 title: "Francesca's"
 url: /tigard/francescas/
-shop: clothes
+shop: Kleidung
 ---

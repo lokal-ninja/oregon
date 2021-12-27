@@ -1,5 +1,5 @@
 ---
 title: "Ensemble"
 url: /west-linn/ensemble/
-shop: hairdresser
+shop: Friseur
 ---

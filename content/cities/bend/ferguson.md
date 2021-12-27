@@ -1,5 +1,5 @@
 ---
 title: "Ferguson"
 url: /bend/ferguson/
-shop: trade
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moore's Quality Cleaners"
 url: /portland/moores-quality-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

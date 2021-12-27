@@ -1,5 +1,5 @@
 ---
 title: "Harry's Coin Shop"
 url: /beaverton/harrys-coin-shop/
-shop: collector
+shop: Sammler
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /sandy/ampm-2/
-shop: convenience
+shop: Lebensmittel
 ---

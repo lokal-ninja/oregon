@@ -1,5 +1,5 @@
 ---
 title: "Switch"
 url: /portland/switch/
-shop: shoes
+shop: Schuhe
 ---

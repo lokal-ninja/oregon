@@ -1,5 +1,5 @@
 ---
 title: "BedMart"
 url: /tigard/bedmart-2/
-shop: bed
+shop: Betten
 ---

@@ -1,6 +1,6 @@
 ---
 title: Corbett
 url: /corbett/
-latitude: 45.5314503
-longitude: -122.29225670000001
+latitude: 45.532
+longitude: -122.285
 ---

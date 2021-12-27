@@ -1,5 +1,5 @@
 ---
 title: "Collage"
 url: /portland/collage/
-shop: craft
+shop: Basteln
 ---

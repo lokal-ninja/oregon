@@ -1,6 +1,6 @@
 ---
 title: Mount Hood
 url: /mount-hood/
-latitude: 45.5377455
-longitude: -121.56843110000001
+latitude: 45.332
+longitude: -121.665
 ---

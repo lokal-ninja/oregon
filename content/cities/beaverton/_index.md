@@ -1,6 +1,6 @@
 ---
 title: Beaverton
 url: /beaverton/
-latitude: 45.487172300000005
-longitude: -122.80378
+latitude: 45.53
+longitude: -122.869
 ---

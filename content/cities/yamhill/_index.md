@@ -1,6 +1,6 @@
 ---
 title: Yamhill
 url: /yamhill/
-latitude: 45.2298399
-longitude: -123.2180414
+latitude: 45.341
+longitude: -123.188
 ---

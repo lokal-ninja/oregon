@@ -1,6 +1,6 @@
 ---
 title: Wood Village
 url: /wood-village/
-latitude: 
-longitude: 
+latitude: 45.537
+longitude: -122.418
 ---

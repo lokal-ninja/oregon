@@ -1,5 +1,5 @@
 ---
 title: "Pet Pros"
 url: /portland/pet-pros/
-shop: pet
+shop: Tiere
 ---

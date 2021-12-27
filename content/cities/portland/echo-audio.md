@@ -1,5 +1,5 @@
 ---
 title: "Echo Audio"
 url: /portland/echo-audio/
-shop: hifi
+shop: Hifi
 ---

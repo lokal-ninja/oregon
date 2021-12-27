@@ -1,6 +1,6 @@
 ---
 title: Scappoose
 url: /scappoose/
-latitude: 45.757299700000004
-longitude: -122.8743589
+latitude: 45.758
+longitude: -122.878
 ---

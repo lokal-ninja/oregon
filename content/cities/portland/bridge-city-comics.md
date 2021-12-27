@@ -1,5 +1,5 @@
 ---
 title: "Bridge City Comics"
 url: /portland/bridge-city-comics/
-shop: books
+shop: Bücher
 ---

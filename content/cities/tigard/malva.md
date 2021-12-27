@@ -1,5 +1,5 @@
 ---
 title: "Malva"
 url: /tigard/malva/
-shop: hairdresser
+shop: Friseur
 ---

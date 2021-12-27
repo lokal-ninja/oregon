@@ -1,6 +1,6 @@
 ---
 title: Eagle Point
 url: /eagle-point/
-latitude: 42.4718284
-longitude: -122.8014155
+latitude: 42.468
+longitude: -122.814
 ---

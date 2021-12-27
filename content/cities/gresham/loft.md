@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /gresham/loft/
-shop: clothes
+shop: Kleidung
 ---

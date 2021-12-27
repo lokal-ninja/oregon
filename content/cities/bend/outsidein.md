@@ -1,5 +1,5 @@
 ---
 title: "OutsideIn"
 url: /bend/outsidein/
-shop: shoes
+shop: Schuhe
 ---
