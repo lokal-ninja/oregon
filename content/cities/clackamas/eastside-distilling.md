@@ -1,5 +1,5 @@
 ---
 title: "Eastside Distilling"
 url: /clackamas/eastside-distilling/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clementine"
 url: /bend/clementine/
-shop: Andenken
+shop: gift
 ---

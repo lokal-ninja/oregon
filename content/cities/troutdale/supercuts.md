@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /troutdale/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

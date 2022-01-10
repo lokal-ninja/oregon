@@ -1,5 +1,5 @@
 ---
 title: "Wilsonville Diamond"
 url: /wilsonville/wilsonville-diamond/
-shop: Schmuck
+shop: jewelry
 ---

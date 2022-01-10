@@ -1,5 +1,5 @@
 ---
 title: "Mari"
 url: /portland/mari/
-shop: Raumausstattung
+shop: interior decoration
 ---

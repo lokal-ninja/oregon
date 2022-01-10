@@ -1,5 +1,5 @@
 ---
 title: "Johnny Law Motors"
 url: /portland/johnny-law-motors/
-shop: Autoteile
+shop: car parts
 ---

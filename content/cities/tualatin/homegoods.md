@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /tualatin/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LexiDog"
 url: /lake-oswego/lexidog/
-shop: Tiere
+shop: pet
 ---

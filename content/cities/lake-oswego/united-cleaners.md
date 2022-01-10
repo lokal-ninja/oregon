@@ -1,5 +1,5 @@
 ---
 title: "United Cleaners"
 url: /lake-oswego/united-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

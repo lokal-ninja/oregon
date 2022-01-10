@@ -1,5 +1,5 @@
 ---
 title: "Leeward"
 url: /portland/leeward/
-shop: Kleidung
+shop: clothes
 ---

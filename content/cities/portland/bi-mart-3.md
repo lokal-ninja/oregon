@@ -1,5 +1,5 @@
 ---
 title: "Bi-Mart"
 url: /portland/bi-mart-3/
-shop: Warenhaus
+shop: department store
 ---

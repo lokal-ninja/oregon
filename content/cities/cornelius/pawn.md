@@ -1,5 +1,5 @@
 ---
 title: "Pawn"
 url: /cornelius/pawn/
-shop: Gebrauchtwaren
+shop: charity
 ---

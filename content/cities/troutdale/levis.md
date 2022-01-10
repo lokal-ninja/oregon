@@ -1,5 +1,5 @@
 ---
 title: "Levi's"
 url: /troutdale/levis/
-shop: Kleidung
+shop: clothes
 ---

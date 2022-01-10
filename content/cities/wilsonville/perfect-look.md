@@ -1,5 +1,5 @@
 ---
 title: "Perfect Look"
 url: /wilsonville/perfect-look/
-shop: Friseur
+shop: hairdresser
 ---

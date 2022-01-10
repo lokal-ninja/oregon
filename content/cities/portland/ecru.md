@@ -1,5 +1,5 @@
 ---
 title: "Ecru"
 url: /portland/ecru/
-shop: Schreibwaren
+shop: office supplies
 ---

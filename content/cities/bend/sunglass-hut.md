@@ -1,5 +1,5 @@
 ---
 title: "Sunglass Hut"
 url: /bend/sunglass-hut/
-shop: Optiker
+shop: optician
 ---

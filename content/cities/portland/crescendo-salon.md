@@ -1,5 +1,5 @@
 ---
 title: "Crescendo Salon"
 url: /portland/crescendo-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JR's"
 url: /bend/jrs/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Recycled Chic"
 url: /portland/recycled-chic/
-shop: Kleidung
+shop: clothes
 ---

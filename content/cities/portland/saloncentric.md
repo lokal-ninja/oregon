@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
 url: /portland/saloncentric/
-shop: Kosmetik
+shop: beauty
 ---

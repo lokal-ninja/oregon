@@ -1,5 +1,5 @@
 ---
 title: "De Stijl"
 url: /portland/de-stijl/
-shop: Friseur
+shop: hairdresser
 ---

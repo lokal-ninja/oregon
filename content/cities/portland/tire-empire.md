@@ -1,5 +1,5 @@
 ---
 title: "Tire Empire"
 url: /portland/tire-empire/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bloom"
 url: /portland/bloom/
-shop: Garten-Center
+shop: garden centre
 ---

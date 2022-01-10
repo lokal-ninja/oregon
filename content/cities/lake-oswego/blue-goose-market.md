@@ -1,5 +1,5 @@
 ---
 title: "Blue Goose Market"
 url: /lake-oswego/blue-goose-market/
-shop: Lebensmittel
+shop: convenience
 ---

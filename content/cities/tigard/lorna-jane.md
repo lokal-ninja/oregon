@@ -1,5 +1,5 @@
 ---
 title: "Lorna Jane"
 url: /tigard/lorna-jane/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grafletics"
 url: /portland/grafletics/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Five Star Storage"
 url: /fairview/five-star-storage/
-shop: Mieten
+shop: storage rental
 ---

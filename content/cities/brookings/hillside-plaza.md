@@ -1,5 +1,5 @@
 ---
 title: "Hillside Plaza"
 url: /brookings/hillside-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

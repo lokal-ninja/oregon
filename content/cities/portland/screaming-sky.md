@@ -1,5 +1,5 @@
 ---
 title: "Screaming Sky"
 url: /portland/screaming-sky/
-shop: Kunst
+shop: art
 ---

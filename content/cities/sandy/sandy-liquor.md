@@ -1,5 +1,5 @@
 ---
 title: "Sandy Liquor"
 url: /sandy/sandy-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Stylish Stork"
 url: /bend/the-stylish-stork/
-shop: Babysachen
+shop: baby goods
 ---

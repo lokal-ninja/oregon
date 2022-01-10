@@ -1,5 +1,5 @@
 ---
 title: "SoundSource Hearing Center"
 url: /portland/soundsource-hearing-center/
-shop: Hörgeräte
+shop: hearing aids
 ---

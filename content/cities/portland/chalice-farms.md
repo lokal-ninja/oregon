@@ -1,5 +1,5 @@
 ---
 title: "Chalice Farms"
 url: /portland/chalice-farms/
-shop: Hanf
+shop: cannabis
 ---

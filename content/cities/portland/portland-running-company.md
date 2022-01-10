@@ -1,5 +1,5 @@
 ---
 title: "Portland Running Company"
 url: /portland/portland-running-company/
-shop: Sport
+shop: sports
 ---

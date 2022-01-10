@@ -1,5 +1,5 @@
 ---
 title: "Maidenform"
 url: /troutdale/maidenform/
-shop: Kleidung
+shop: clothes
 ---

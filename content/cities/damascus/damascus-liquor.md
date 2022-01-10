@@ -1,5 +1,5 @@
 ---
 title: "Damascus Liquor"
 url: /damascus/damascus-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

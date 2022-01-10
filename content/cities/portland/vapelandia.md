@@ -1,5 +1,5 @@
 ---
 title: "Vapelandia"
 url: /portland/vapelandia/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "London Influence"
 url: /portland/london-influence/
-shop: Friseur
+shop: hairdresser
 ---

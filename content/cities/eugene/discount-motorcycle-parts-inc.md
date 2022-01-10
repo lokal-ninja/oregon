@@ -1,5 +1,5 @@
 ---
 title: "Discount Motorcycle Parts, Inc."
 url: /eugene/discount-motorcycle-parts-inc/
-shop: Allgemein
+shop: shop
 ---

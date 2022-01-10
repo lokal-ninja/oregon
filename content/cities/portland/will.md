@@ -1,5 +1,5 @@
 ---
 title: "Will"
 url: /portland/will/
-shop: Leder
+shop: leather
 ---

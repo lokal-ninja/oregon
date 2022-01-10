@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /happy-valley/michaels/
-shop: Basteln
+shop: craft
 ---

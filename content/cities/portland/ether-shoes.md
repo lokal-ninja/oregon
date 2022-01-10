@@ -1,5 +1,5 @@
 ---
 title: "Ether Shoes"
 url: /portland/ether-shoes/
-shop: Schuhe
+shop: shoes
 ---

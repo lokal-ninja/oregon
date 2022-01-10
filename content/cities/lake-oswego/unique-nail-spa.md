@@ -1,5 +1,5 @@
 ---
 title: "Unique Nail Spa"
 url: /lake-oswego/unique-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

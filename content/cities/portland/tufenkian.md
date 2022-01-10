@@ -1,5 +1,5 @@
 ---
 title: "Tufenkian"
 url: /portland/tufenkian/
-shop: Teppiche
+shop: carpet
 ---

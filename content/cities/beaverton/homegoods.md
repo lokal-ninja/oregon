@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /beaverton/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

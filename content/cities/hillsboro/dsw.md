@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /hillsboro/dsw/
-shop: Schuhe
+shop: shoes
 ---

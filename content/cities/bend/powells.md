@@ -1,5 +1,5 @@
 ---
 title: "Powell's"
 url: /bend/powells/
-shop: Süßwaren
+shop: confectionery
 ---

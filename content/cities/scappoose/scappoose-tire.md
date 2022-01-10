@@ -1,5 +1,5 @@
 ---
 title: "Scappoose TIRE"
 url: /scappoose/scappoose-tire/
-shop: Reifen
+shop: tyres
 ---

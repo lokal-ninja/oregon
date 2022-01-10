@@ -1,5 +1,5 @@
 ---
 title: "Bennett Urban Farm Store"
 url: /hillsboro/bennett-urban-farm-store/
-shop: Andenken
+shop: gift
 ---

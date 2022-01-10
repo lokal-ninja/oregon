@@ -1,5 +1,5 @@
 ---
 title: "Mathnasium"
 url: /portland/mathnasium/
-shop: Allgemein
+shop: shop
 ---

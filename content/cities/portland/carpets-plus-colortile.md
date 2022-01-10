@@ -1,5 +1,5 @@
 ---
 title: "Carpets Plus Colortile"
 url: /portland/carpets-plus-colortile/
-shop: Teppiche
+shop: carpet
 ---

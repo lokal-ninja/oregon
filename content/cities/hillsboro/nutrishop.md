@@ -1,5 +1,5 @@
 ---
 title: "Nutrishop"
 url: /hillsboro/nutrishop/
-shop: Drogerie
+shop: chemist
 ---

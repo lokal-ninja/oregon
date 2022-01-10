@@ -1,5 +1,5 @@
 ---
 title: "Peterson's"
 url: /portland/petersons/
-shop: Lebensmittel
+shop: convenience
 ---

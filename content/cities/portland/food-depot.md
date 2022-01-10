@@ -1,5 +1,5 @@
 ---
 title: "Food Depot"
 url: /portland/food-depot/
-shop: Supermarkt
+shop: supermarket
 ---

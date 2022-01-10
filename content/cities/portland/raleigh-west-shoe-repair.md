@@ -1,5 +1,5 @@
 ---
 title: "Raleigh West Shoe Repair"
 url: /portland/raleigh-west-shoe-repair/
-shop: Schneiderei
+shop: tailor
 ---

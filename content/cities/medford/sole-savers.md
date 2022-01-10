@@ -1,5 +1,5 @@
 ---
 title: "Sole Savers"
 url: /medford/sole-savers/
-shop: Autohaus
+shop: car
 ---

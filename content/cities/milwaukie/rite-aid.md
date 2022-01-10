@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /milwaukie/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

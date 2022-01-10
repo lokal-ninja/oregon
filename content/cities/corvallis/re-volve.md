@@ -1,5 +1,5 @@
 ---
 title: "re•volve"
 url: /corvallis/re-volve/
-shop: Gebrauchtwaren
+shop: charity
 ---

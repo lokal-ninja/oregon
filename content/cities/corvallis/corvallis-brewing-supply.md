@@ -1,5 +1,5 @@
 ---
 title: "Corvallis Brewing Supply"
 url: /corvallis/corvallis-brewing-supply/
-shop: Spirituosen
+shop: alcohol
 ---

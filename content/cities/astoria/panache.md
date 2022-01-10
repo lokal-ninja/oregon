@@ -1,5 +1,5 @@
 ---
 title: "Panache"
 url: /astoria/panache/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Johnson Creek Market"
 url: /portland/johnson-creek-market/
-shop: Lebensmittel
+shop: convenience
 ---

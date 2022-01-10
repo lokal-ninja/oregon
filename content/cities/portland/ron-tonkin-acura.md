@@ -1,5 +1,5 @@
 ---
 title: "Ron Tonkin Acura"
 url: /portland/ron-tonkin-acura/
-shop: Autohaus
+shop: car
 ---

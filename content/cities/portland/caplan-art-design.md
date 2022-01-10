@@ -1,5 +1,5 @@
 ---
 title: "Caplan Art Design"
 url: /portland/caplan-art-design/
-shop: Kunst
+shop: art
 ---

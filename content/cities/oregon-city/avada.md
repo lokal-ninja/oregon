@@ -1,5 +1,5 @@
 ---
 title: "Avada"
 url: /oregon-city/avada/
-shop: Hörgeräte
+shop: hearing aids
 ---

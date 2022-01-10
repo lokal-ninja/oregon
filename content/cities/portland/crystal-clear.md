@@ -1,5 +1,5 @@
 ---
 title: "Crystal Clear"
 url: /portland/crystal-clear/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

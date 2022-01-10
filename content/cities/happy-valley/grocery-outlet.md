@@ -1,5 +1,5 @@
 ---
 title: "Grocery Outlet"
 url: /happy-valley/grocery-outlet/
-shop: Supermarkt
+shop: supermarket
 ---

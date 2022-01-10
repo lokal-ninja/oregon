@@ -1,5 +1,5 @@
 ---
 title: "Sahlia Jewelry"
 url: /portland/sahlia-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

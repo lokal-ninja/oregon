@@ -1,5 +1,5 @@
 ---
 title: "Nectar - Whiteacre"
 url: /eugene/nectar-whiteacre/
-shop: Hanf
+shop: cannabis
 ---

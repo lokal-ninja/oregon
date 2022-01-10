@@ -1,5 +1,5 @@
 ---
 title: "McLoughlin Chevrolet"
 url: /portland/mcloughlin-chevrolet/
-shop: Autohaus
+shop: car
 ---

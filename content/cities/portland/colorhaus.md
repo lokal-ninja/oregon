@@ -1,5 +1,5 @@
 ---
 title: "Colorhaus"
 url: /portland/colorhaus/
-shop: Kopieren
+shop: copyshop
 ---

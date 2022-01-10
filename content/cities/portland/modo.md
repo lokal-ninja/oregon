@@ -1,5 +1,5 @@
 ---
 title: "Modo"
 url: /portland/modo/
-shop: Kleidung
+shop: clothes
 ---

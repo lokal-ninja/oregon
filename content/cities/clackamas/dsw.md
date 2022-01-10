@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /clackamas/dsw/
-shop: Schuhe
+shop: shoes
 ---

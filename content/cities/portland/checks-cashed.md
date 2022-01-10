@@ -1,5 +1,5 @@
 ---
 title: "Checks Cashed"
 url: /portland/checks-cashed/
-shop: Leiher
+shop: pawnbroker
 ---

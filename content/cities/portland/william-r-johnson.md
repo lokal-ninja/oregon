@@ -1,5 +1,5 @@
 ---
 title: "William R. Johnson"
 url: /portland/william-r-johnson/
-shop: Schmuck
+shop: jewelry
 ---

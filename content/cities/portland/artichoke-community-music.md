@@ -1,5 +1,5 @@
 ---
 title: "Artichoke Community Music"
 url: /portland/artichoke-community-music/
-shop: Instrumente
+shop: musical instrument
 ---

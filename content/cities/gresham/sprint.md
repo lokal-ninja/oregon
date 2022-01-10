@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /gresham/sprint/
-shop: Handy
+shop: mobile phone
 ---

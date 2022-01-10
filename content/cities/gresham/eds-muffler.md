@@ -1,5 +1,5 @@
 ---
 title: "Ed's Muffler"
 url: /gresham/eds-muffler/
-shop: Autowerkstatt
+shop: car repair
 ---

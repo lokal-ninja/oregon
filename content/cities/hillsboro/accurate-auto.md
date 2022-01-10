@@ -1,5 +1,5 @@
 ---
 title: "Accurate Auto"
 url: /hillsboro/accurate-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

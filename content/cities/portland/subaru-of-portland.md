@@ -1,5 +1,5 @@
 ---
 title: "Subaru of Portland"
 url: /portland/subaru-of-portland/
-shop: Autowerkstatt
+shop: car repair
 ---

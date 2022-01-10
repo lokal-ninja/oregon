@@ -1,5 +1,5 @@
 ---
 title: "FastBreak Corner Store"
 url: /la-pine/fastbreak-corner-store/
-shop: Lebensmittel
+shop: convenience
 ---

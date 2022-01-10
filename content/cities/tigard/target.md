@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /tigard/target/
-shop: Warenhaus
+shop: department store
 ---

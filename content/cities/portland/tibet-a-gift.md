@@ -1,5 +1,5 @@
 ---
 title: "Tibet A Gift"
 url: /portland/tibet-a-gift/
-shop: Andenken
+shop: gift
 ---

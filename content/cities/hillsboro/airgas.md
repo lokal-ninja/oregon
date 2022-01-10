@@ -1,5 +1,5 @@
 ---
 title: "Airgas"
 url: /hillsboro/airgas/
-shop: Gasflaschen
+shop: gas
 ---

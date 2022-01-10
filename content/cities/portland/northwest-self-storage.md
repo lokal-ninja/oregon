@@ -1,5 +1,5 @@
 ---
 title: "Northwest Self Storage"
 url: /portland/northwest-self-storage/
-shop: Mieten
+shop: storage rental
 ---

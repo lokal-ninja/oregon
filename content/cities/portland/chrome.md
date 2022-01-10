@@ -1,5 +1,5 @@
 ---
 title: "Chrome"
 url: /portland/chrome/
-shop: Kleidung
+shop: clothes
 ---

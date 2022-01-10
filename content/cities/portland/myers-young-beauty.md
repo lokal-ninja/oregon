@@ -1,5 +1,5 @@
 ---
 title: "Myers + Young Beauty"
 url: /portland/myers-young-beauty/
-shop: Kosmetik
+shop: beauty
 ---

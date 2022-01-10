@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /happy-valley/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

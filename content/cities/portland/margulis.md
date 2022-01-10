@@ -1,5 +1,5 @@
 ---
 title: "Margulis"
 url: /portland/margulis/
-shop: Schmuck
+shop: jewelry
 ---

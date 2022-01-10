@@ -1,5 +1,5 @@
 ---
 title: "Richard Herrera"
 url: /portland/richard-herrera/
-shop: Friseur
+shop: hairdresser
 ---

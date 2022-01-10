@@ -1,5 +1,5 @@
 ---
 title: "Seastar Bakery"
 url: /portland/seastar-bakery/
-shop: Bäckerei
+shop: bakery
 ---

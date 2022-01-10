@@ -1,5 +1,5 @@
 ---
 title: "Etcetera"
 url: /portland/etcetera/
-shop: Andenken
+shop: gift
 ---

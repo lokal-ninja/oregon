@@ -1,5 +1,5 @@
 ---
 title: "Express"
 url: /clackamas/express/
-shop: Kleidung
+shop: clothes
 ---

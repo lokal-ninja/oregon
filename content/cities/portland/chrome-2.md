@@ -1,5 +1,5 @@
 ---
 title: "Chrome"
 url: /portland/chrome-2/
-shop: Friseur
+shop: hairdresser
 ---

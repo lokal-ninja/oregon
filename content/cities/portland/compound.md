@@ -1,5 +1,5 @@
 ---
 title: "Compound"
 url: /portland/compound/
-shop: Kleidung
+shop: clothes
 ---

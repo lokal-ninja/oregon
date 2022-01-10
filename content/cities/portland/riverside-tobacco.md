@@ -1,5 +1,5 @@
 ---
 title: "Riverside Tobacco"
 url: /portland/riverside-tobacco/
-shop: Tabak
+shop: tobacco
 ---

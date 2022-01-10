@@ -1,5 +1,5 @@
 ---
 title: "Center Market"
 url: /oakridge/center-market/
-shop: Lebensmittel
+shop: convenience
 ---

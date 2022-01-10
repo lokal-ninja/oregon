@@ -1,5 +1,5 @@
 ---
 title: "Fantasy"
 url: /portland/fantasy/
-shop: Erotik
+shop: erotic
 ---

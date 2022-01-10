@@ -1,5 +1,5 @@
 ---
 title: "Absolute Window Tinting"
 url: /lake-oswego/absolute-window-tinting/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Watchworks"
 url: /portland/watchworks/
-shop: Uhren
+shop: watches
 ---

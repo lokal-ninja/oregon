@@ -1,5 +1,5 @@
 ---
 title: "Harbor Freight Tools"
 url: /tigard/harbor-freight-tools/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oregon Wellness Partners"
 url: /portland/oregon-wellness-partners/
-shop: Hanf
+shop: cannabis
 ---

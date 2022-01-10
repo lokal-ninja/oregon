@@ -1,5 +1,5 @@
 ---
 title: "Urbantopia"
 url: /portland/urbantopia/
-shop: Friseur
+shop: hairdresser
 ---

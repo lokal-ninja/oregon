@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /tigard/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

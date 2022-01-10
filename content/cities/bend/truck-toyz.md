@@ -1,5 +1,5 @@
 ---
 title: "Truck Toyz"
 url: /bend/truck-toyz/
-shop: Autowerkstatt
+shop: car repair
 ---

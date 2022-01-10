@@ -1,5 +1,5 @@
 ---
 title: "Jockey"
 url: /troutdale/jockey/
-shop: Kleidung
+shop: clothes
 ---

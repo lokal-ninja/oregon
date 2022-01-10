@@ -1,5 +1,5 @@
 ---
 title: "Blumenthal Uniforms"
 url: /portland/blumenthal-uniforms/
-shop: Kleidung
+shop: clothes
 ---

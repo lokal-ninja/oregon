@@ -1,5 +1,5 @@
 ---
 title: "Miracle-Ear"
 url: /happy-valley/miracle-ear/
-shop: Hörgeräte
+shop: hearing aids
 ---

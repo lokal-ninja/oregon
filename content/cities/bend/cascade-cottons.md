@@ -1,5 +1,5 @@
 ---
 title: "Cascade Cottons"
 url: /bend/cascade-cottons/
-shop: Kleidung
+shop: clothes
 ---

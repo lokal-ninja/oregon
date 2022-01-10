@@ -1,5 +1,5 @@
 ---
 title: "Pure"
 url: /portland/pure/
-shop: Friseur
+shop: hairdresser
 ---

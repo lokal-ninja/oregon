@@ -1,5 +1,5 @@
 ---
 title: "Genuine Motor Company"
 url: /portland/genuine-motor-company/
-shop: Autohaus
+shop: car
 ---

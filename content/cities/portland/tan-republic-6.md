@@ -1,5 +1,5 @@
 ---
 title: "Tan Republic"
 url: /portland/tan-republic-6/
-shop: Kosmetik
+shop: beauty
 ---

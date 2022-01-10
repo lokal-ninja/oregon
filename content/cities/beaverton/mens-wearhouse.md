@@ -1,5 +1,5 @@
 ---
 title: "Men's Wearhouse"
 url: /beaverton/mens-wearhouse/
-shop: Kleidung
+shop: clothes
 ---

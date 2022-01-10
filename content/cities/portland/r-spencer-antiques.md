@@ -1,5 +1,5 @@
 ---
 title: "R. Spencer Antiques"
 url: /portland/r-spencer-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

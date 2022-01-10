@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /mcminnville/jacksons/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mariner Market"
 url: /cannon-beach/mariner-market/
-shop: Supermarkt
+shop: supermarket
 ---

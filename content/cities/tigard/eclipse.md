@@ -1,5 +1,5 @@
 ---
 title: "Eclipse"
 url: /tigard/eclipse/
-shop: Kosmetik
+shop: beauty
 ---

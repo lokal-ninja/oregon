@@ -1,5 +1,5 @@
 ---
 title: "Fred Meyer"
 url: /portland/fred-meyer/
-shop: Kiosk
+shop: kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oregon Euphorics"
 url: /bend/oregon-euphorics/
-shop: Hanf
+shop: cannabis
 ---

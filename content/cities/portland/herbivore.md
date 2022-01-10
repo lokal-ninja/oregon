@@ -1,5 +1,5 @@
 ---
 title: "Herbivore"
 url: /portland/herbivore/
-shop: Kleidung
+shop: clothes
 ---

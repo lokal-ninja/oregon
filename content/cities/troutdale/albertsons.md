@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /troutdale/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

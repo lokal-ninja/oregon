@@ -1,5 +1,5 @@
 ---
 title: "Pedego"
 url: /portland/pedego/
-shop: Fahrrad
+shop: bicycle
 ---

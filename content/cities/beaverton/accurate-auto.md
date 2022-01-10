@@ -1,5 +1,5 @@
 ---
 title: "Accurate Auto"
 url: /beaverton/accurate-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

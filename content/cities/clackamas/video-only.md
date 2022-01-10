@@ -1,5 +1,5 @@
 ---
 title: "Video Only"
 url: /clackamas/video-only/
-shop: Elektronik
+shop: electronics
 ---

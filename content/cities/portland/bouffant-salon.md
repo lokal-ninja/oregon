@@ -1,5 +1,5 @@
 ---
 title: "Bouffant Salon"
 url: /portland/bouffant-salon/
-shop: Friseur
+shop: hairdresser
 ---

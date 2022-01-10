@@ -1,5 +1,5 @@
 ---
 title: "Quick Trip Market"
 url: /eugene/quick-trip-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Deja Vu Interiors"
 url: /bend/deja-vu-interiors/
-shop: Möbel
+shop: furniture
 ---

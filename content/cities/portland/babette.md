@@ -1,5 +1,5 @@
 ---
 title: "Babette"
 url: /portland/babette/
-shop: Kleidung
+shop: clothes
 ---

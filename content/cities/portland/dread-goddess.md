@@ -1,5 +1,5 @@
 ---
 title: "Dread Goddess"
 url: /portland/dread-goddess/
-shop: Friseur
+shop: hairdresser
 ---

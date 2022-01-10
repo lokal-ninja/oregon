@@ -1,5 +1,5 @@
 ---
 title: "Central Oregon Audiology"
 url: /bend/central-oregon-audiology/
-shop: Hörgeräte
+shop: hearing aids
 ---

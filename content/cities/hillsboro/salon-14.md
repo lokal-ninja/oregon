@@ -1,5 +1,5 @@
 ---
 title: "Salon 14"
 url: /hillsboro/salon-14/
-shop: Kosmetik
+shop: beauty
 ---

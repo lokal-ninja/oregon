@@ -1,5 +1,5 @@
 ---
 title: "Sam Jennings Co."
 url: /medford/sam-jennings-co/
-shop: Autowerkstatt
+shop: car repair
 ---

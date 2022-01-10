@@ -1,5 +1,5 @@
 ---
 title: "Boot Barn"
 url: /bend/boot-barn/
-shop: Schuhe
+shop: shoes
 ---

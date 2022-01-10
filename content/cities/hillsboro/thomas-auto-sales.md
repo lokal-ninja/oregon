@@ -1,5 +1,5 @@
 ---
 title: "Thomas Auto Sales"
 url: /hillsboro/thomas-auto-sales/
-shop: Autohaus
+shop: car
 ---

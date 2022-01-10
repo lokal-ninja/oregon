@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /sherwood/sprint/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Red Sail"
 url: /portland/red-sail/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gumbo"
 url: /portland/gumbo/
-shop: Andenken
+shop: gift
 ---

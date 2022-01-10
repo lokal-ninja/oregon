@@ -1,5 +1,5 @@
 ---
 title: "Arlington Mart"
 url: /gladstone/arlington-mart/
-shop: Lebensmittel
+shop: convenience
 ---

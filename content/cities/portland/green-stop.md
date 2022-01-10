@@ -1,5 +1,5 @@
 ---
 title: "Green Stop"
 url: /portland/green-stop/
-shop: Hanf
+shop: cannabis
 ---

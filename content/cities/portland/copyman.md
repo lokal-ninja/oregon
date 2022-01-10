@@ -1,5 +1,5 @@
 ---
 title: "Copyman"
 url: /portland/copyman/
-shop: Kopieren
+shop: copyshop
 ---

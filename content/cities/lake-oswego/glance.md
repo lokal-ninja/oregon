@@ -1,5 +1,5 @@
 ---
 title: "Glance"
 url: /lake-oswego/glance/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Attis Trading Company"
 url: /portland/attis-trading-company/
-shop: Hanf
+shop: cannabis
 ---

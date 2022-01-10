@@ -1,5 +1,5 @@
 ---
 title: "Pro Tek Automotive"
 url: /portland/pro-tek-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

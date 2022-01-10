@@ -1,5 +1,5 @@
 ---
 title: "Savvy Plus"
 url: /portland/savvy-plus/
-shop: Kleidung
+shop: clothes
 ---

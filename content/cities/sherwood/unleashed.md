@@ -1,5 +1,5 @@
 ---
 title: "Unleashed"
 url: /sherwood/unleashed/
-shop: Tiere
+shop: pet
 ---

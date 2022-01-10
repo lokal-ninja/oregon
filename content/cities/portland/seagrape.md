@@ -1,5 +1,5 @@
 ---
 title: "Seagrape"
 url: /portland/seagrape/
-shop: Drogerie
+shop: chemist
 ---

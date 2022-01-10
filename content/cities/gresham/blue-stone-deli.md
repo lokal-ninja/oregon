@@ -1,5 +1,5 @@
 ---
 title: "Blue Stone Deli"
 url: /gresham/blue-stone-deli/
-shop: Feinkost
+shop: deli
 ---

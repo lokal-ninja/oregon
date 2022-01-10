@@ -1,5 +1,5 @@
 ---
 title: "For Paws PDX"
 url: /portland/for-paws-pdx/
-shop: Tiere
+shop: pet
 ---

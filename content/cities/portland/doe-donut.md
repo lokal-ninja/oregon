@@ -1,5 +1,5 @@
 ---
 title: "Doe Donut"
 url: /portland/doe-donut/
-shop: Bäckerei
+shop: bakery
 ---

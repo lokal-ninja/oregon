@@ -1,5 +1,5 @@
 ---
 title: "Hair Styles Unlimited"
 url: /portland/hair-styles-unlimited/
-shop: Friseur
+shop: hairdresser
 ---

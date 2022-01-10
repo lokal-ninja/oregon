@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /portland/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

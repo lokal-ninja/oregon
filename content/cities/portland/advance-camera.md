@@ -1,5 +1,5 @@
 ---
 title: "Advance Camera"
 url: /portland/advance-camera/
-shop: Foto
+shop: photo
 ---

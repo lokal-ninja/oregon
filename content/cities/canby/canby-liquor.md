@@ -1,5 +1,5 @@
 ---
 title: "Canby Liquor"
 url: /canby/canby-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Angel Nails"
 url: /canby/angel-nails/
-shop: Kosmetik
+shop: beauty
 ---

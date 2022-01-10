@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /happy-valley/ross/
-shop: Warenhaus
+shop: department store
 ---

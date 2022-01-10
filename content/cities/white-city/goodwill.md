@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /white-city/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

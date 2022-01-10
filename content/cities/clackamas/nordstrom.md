@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom"
 url: /clackamas/nordstrom/
-shop: Warenhaus
+shop: department store
 ---

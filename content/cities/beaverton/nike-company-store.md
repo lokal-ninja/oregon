@@ -1,5 +1,5 @@
 ---
 title: "Nike Company Store"
 url: /beaverton/nike-company-store/
-shop: Kleidung
+shop: clothes
 ---

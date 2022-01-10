@@ -1,5 +1,5 @@
 ---
 title: "Accent Verticals"
 url: /boring/accent-verticals/
-shop: Jalousien
+shop: window blind
 ---

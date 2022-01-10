@@ -1,5 +1,5 @@
 ---
 title: "Tuesday Morning"
 url: /beaverton/tuesday-morning/
-shop: Haushaltsartikel
+shop: houseware
 ---

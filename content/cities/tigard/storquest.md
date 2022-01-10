@@ -1,5 +1,5 @@
 ---
 title: "StorQuest"
 url: /tigard/storquest/
-shop: Mieten
+shop: storage rental
 ---

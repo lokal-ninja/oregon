@@ -1,5 +1,5 @@
 ---
 title: "Stonehenge Designs"
 url: /portland/stonehenge-designs/
-shop: Schreibwaren
+shop: office supplies
 ---

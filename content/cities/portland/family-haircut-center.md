@@ -1,5 +1,5 @@
 ---
 title: "Family Haircut Center"
 url: /portland/family-haircut-center/
-shop: Friseur
+shop: hairdresser
 ---

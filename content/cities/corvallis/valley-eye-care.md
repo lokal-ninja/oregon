@@ -1,5 +1,5 @@
 ---
 title: "Valley Eye Care"
 url: /corvallis/valley-eye-care/
-shop: Optiker
+shop: optician
 ---

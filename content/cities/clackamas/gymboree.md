@@ -1,5 +1,5 @@
 ---
 title: "Gymboree"
 url: /clackamas/gymboree/
-shop: Kleidung
+shop: clothes
 ---

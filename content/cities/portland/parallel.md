@@ -1,5 +1,5 @@
 ---
 title: "Parallel"
 url: /portland/parallel/
-shop: Kleidung
+shop: clothes
 ---

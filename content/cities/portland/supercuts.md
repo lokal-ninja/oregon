@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /portland/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

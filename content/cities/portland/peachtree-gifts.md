@@ -1,5 +1,5 @@
 ---
 title: "Peachtree Gifts"
 url: /portland/peachtree-gifts/
-shop: Schreibwaren
+shop: office supplies
 ---

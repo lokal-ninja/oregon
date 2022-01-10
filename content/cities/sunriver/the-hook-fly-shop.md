@@ -1,5 +1,5 @@
 ---
 title: "The Hook Fly Shop"
 url: /sunriver/the-hook-fly-shop/
-shop: Angeln
+shop: fishing
 ---

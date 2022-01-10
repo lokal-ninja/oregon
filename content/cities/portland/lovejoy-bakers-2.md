@@ -1,5 +1,5 @@
 ---
 title: "Lovejoy Bakers"
 url: /portland/lovejoy-bakers-2/
-shop: Bäckerei
+shop: bakery
 ---

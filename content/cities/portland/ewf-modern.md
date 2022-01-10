@@ -1,5 +1,5 @@
 ---
 title: "EWF Modern"
 url: /portland/ewf-modern/
-shop: Möbel
+shop: furniture
 ---

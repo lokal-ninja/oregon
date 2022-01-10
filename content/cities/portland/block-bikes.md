@@ -1,5 +1,5 @@
 ---
 title: "Block Bikes"
 url: /portland/block-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

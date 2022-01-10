@@ -1,5 +1,5 @@
 ---
 title: "Bluemercury"
 url: /tigard/bluemercury/
-shop: Kosmetik
+shop: beauty
 ---

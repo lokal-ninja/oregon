@@ -1,5 +1,5 @@
 ---
 title: "Honda of Salem"
 url: /salem/honda-of-salem/
-shop: Autohaus
+shop: car
 ---

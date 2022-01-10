@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /troutdale/clarks/
-shop: Schuhe
+shop: shoes
 ---

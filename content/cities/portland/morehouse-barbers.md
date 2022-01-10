@@ -1,5 +1,5 @@
 ---
 title: "Morehouse Barbers"
 url: /portland/morehouse-barbers/
-shop: Friseur
+shop: hairdresser
 ---

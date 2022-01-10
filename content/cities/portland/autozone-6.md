@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /portland/autozone-6/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beaverton Eye Health"
 url: /beaverton/beaverton-eye-health/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baker Garage"
 url: /baker-city/baker-garage/
-shop: Autohaus
+shop: car
 ---

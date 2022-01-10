@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /eugene/dsw/
-shop: Schuhe
+shop: shoes
 ---

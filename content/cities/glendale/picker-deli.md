@@ -1,5 +1,5 @@
 ---
 title: "Picker Deli"
 url: /glendale/picker-deli/
-shop: Feinkost
+shop: deli
 ---

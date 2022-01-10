@@ -1,5 +1,5 @@
 ---
 title: "Jennyfer's Boutique"
 url: /portland/jennyfers-boutique/
-shop: Kleidung
+shop: clothes
 ---

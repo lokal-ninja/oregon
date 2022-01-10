@@ -1,5 +1,5 @@
 ---
 title: "Platinum Records"
 url: /portland/platinum-records/
-shop: Hifi
+shop: hifi
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Everett Street Autoworks"
 url: /portland/everett-street-autoworks/
-shop: Autowerkstatt
+shop: car repair
 ---

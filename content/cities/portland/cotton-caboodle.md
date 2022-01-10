@@ -1,5 +1,5 @@
 ---
 title: "Cotton Caboodle"
 url: /portland/cotton-caboodle/
-shop: Kleidung
+shop: clothes
 ---

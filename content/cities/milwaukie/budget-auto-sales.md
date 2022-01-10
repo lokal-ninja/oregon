@@ -1,5 +1,5 @@
 ---
 title: "Budget Auto Sales"
 url: /milwaukie/budget-auto-sales/
-shop: Autohaus
+shop: car
 ---

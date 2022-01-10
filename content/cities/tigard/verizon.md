@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /tigard/verizon/
-shop: Handy
+shop: mobile phone
 ---

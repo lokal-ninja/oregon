@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /clackamas/loft/
-shop: Kleidung
+shop: clothes
 ---

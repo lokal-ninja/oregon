@@ -1,5 +1,5 @@
 ---
 title: "Zumbido de Portland"
 url: /portland/zumbido-de-portland/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PSU Bike Hub"
 url: /portland/psu-bike-hub/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lone Crow Bungalow"
 url: /bend/lone-crow-bungalow/
-shop: Haushaltsartikel
+shop: houseware
 ---

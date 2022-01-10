@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /beaverton/chevron/
-shop: Autowerkstatt
+shop: car repair
 ---

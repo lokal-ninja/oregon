@@ -1,5 +1,5 @@
 ---
 title: "Western Pet Supply"
 url: /portland/western-pet-supply/
-shop: Tiere
+shop: pet
 ---

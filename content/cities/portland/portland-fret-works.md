@@ -1,5 +1,5 @@
 ---
 title: "Portland Fret Works"
 url: /portland/portland-fret-works/
-shop: Instrumente
+shop: musical instrument
 ---

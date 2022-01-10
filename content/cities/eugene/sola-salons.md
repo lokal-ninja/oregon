@@ -1,5 +1,5 @@
 ---
 title: "Sola Salons"
 url: /eugene/sola-salons/
-shop: Kosmetik
+shop: beauty
 ---

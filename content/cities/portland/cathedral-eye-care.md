@@ -1,5 +1,5 @@
 ---
 title: "Cathedral Eye Care"
 url: /portland/cathedral-eye-care/
-shop: Optiker
+shop: optician
 ---

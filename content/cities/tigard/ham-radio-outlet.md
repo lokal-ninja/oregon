@@ -1,5 +1,5 @@
 ---
 title: "Ham Radio Outlet"
 url: /tigard/ham-radio-outlet/
-shop: Radiotechnik
+shop: radiotechnics
 ---

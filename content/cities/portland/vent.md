@@ -1,5 +1,5 @@
 ---
 title: "Vent"
 url: /portland/vent/
-shop: Schmuck
+shop: jewelry
 ---

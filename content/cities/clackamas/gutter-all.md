@@ -1,5 +1,5 @@
 ---
 title: "Gutter All"
 url: /clackamas/gutter-all/
-shop: Baustoffe
+shop: trade
 ---

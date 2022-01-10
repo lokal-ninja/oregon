@@ -1,5 +1,5 @@
 ---
 title: "Wild Rogue Emporium"
 url: /grants-pass/wild-rogue-emporium/
-shop: Kleidung
+shop: clothes
 ---

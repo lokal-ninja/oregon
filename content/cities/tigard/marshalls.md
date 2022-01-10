@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /tigard/marshalls/
-shop: Warenhaus
+shop: department store
 ---

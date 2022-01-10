@@ -1,5 +1,5 @@
 ---
 title: "Steven Smith Teamaker"
 url: /portland/steven-smith-teamaker/
-shop: Tee
+shop: tea
 ---

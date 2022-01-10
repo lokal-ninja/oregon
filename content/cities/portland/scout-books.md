@@ -1,5 +1,5 @@
 ---
 title: "Scout Books"
 url: /portland/scout-books/
-shop: Schreibwaren
+shop: office supplies
 ---

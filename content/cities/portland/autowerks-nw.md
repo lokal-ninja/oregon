@@ -1,5 +1,5 @@
 ---
 title: "Autowerks NW"
 url: /portland/autowerks-nw/
-shop: Autowerkstatt
+shop: car repair
 ---

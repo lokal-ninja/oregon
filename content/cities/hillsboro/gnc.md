@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /hillsboro/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

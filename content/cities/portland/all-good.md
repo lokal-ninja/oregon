@@ -1,5 +1,5 @@
 ---
 title: "All Good"
 url: /portland/all-good/
-shop: Kleidung
+shop: clothes
 ---

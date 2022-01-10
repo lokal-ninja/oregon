@@ -1,5 +1,5 @@
 ---
 title: "The Duck Store"
 url: /bend/the-duck-store/
-shop: Andenken
+shop: gift
 ---

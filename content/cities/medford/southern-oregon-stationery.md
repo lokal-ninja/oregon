@@ -1,5 +1,5 @@
 ---
 title: "Southern Oregon Stationery"
 url: /medford/southern-oregon-stationery/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Book Bin"
 url: /salem/the-book-bin/
-shop: Bücher
+shop: books
 ---

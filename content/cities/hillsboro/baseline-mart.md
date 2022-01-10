@@ -1,5 +1,5 @@
 ---
 title: "Baseline Mart"
 url: /hillsboro/baseline-mart/
-shop: Lebensmittel
+shop: convenience
 ---

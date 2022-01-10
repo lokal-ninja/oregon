@@ -1,5 +1,5 @@
 ---
 title: "Harvest Fresh"
 url: /mcminnville/harvest-fresh/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Terwilliger Nails"
 url: /portland/terwilliger-nails/
-shop: Kosmetik
+shop: beauty
 ---

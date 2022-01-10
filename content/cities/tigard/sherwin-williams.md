@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /tigard/sherwin-williams/
-shop: Farben
+shop: paint
 ---

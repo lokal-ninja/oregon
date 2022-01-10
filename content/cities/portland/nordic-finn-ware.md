@@ -1,5 +1,5 @@
 ---
 title: "Nordic Finn Ware"
 url: /portland/nordic-finn-ware/
-shop: Andenken
+shop: gift
 ---

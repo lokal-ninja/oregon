@@ -1,5 +1,5 @@
 ---
 title: "Portland Smash"
 url: /portland/portland-smash/
-shop: Sport
+shop: sports
 ---

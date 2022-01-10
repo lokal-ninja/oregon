@@ -1,5 +1,5 @@
 ---
 title: "Green Drop Garage"
 url: /portland/green-drop-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

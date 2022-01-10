@@ -1,5 +1,5 @@
 ---
 title: "Dosha"
 url: /clackamas/dosha/
-shop: Friseur
+shop: hairdresser
 ---

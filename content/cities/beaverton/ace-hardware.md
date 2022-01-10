@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /beaverton/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sabye"
 url: /sherwood/sabye/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Emily Gilbert"
 url: /portland/emily-gilbert/
-shop: Massage
+shop: massage
 ---

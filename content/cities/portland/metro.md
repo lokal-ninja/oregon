@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /portland/metro/
-shop: Kleidung
+shop: clothes
 ---

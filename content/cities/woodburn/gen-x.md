@@ -1,5 +1,5 @@
 ---
 title: "Gen X"
 url: /woodburn/gen-x/
-shop: Kleidung
+shop: clothes
 ---

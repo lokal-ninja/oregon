@@ -1,5 +1,5 @@
 ---
 title: "Eagle Bargain"
 url: /milwaukie/eagle-bargain/
-shop: Warenhaus
+shop: department store
 ---

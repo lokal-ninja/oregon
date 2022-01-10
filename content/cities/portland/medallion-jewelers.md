@@ -1,5 +1,5 @@
 ---
 title: "Medallion Jewelers"
 url: /portland/medallion-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

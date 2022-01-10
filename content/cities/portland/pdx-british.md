@@ -1,5 +1,5 @@
 ---
 title: "PDX British"
 url: /portland/pdx-british/
-shop: Autowerkstatt
+shop: car repair
 ---

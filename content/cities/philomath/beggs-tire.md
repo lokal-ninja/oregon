@@ -1,5 +1,5 @@
 ---
 title: "Beggs Tire"
 url: /philomath/beggs-tire/
-shop: Reifen
+shop: tyres
 ---

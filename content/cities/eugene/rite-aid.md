@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /eugene/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

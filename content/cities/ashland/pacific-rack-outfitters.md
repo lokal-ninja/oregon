@@ -1,5 +1,5 @@
 ---
 title: "Pacific Rack Outfitters"
 url: /ashland/pacific-rack-outfitters/
-shop: Autoteile
+shop: car parts
 ---

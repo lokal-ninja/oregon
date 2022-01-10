@@ -1,5 +1,5 @@
 ---
 title: "MVP"
 url: /portland/mvp/
-shop: Autowerkstatt
+shop: car repair
 ---

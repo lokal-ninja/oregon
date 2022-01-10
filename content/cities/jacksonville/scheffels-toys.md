@@ -1,5 +1,5 @@
 ---
 title: "Scheffel's Toys"
 url: /jacksonville/scheffels-toys/
-shop: Spielzeug
+shop: toys
 ---

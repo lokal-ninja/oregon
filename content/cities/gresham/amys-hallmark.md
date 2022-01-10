@@ -1,5 +1,5 @@
 ---
 title: "Amy's Hallmark"
 url: /gresham/amys-hallmark/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eight Women"
 url: /portland/eight-women/
-shop: Kleidung
+shop: clothes
 ---

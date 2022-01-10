@@ -1,5 +1,5 @@
 ---
 title: "The Arc"
 url: /philomath/the-arc/
-shop: Gebrauchtwaren
+shop: charity
 ---

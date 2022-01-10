@@ -1,5 +1,5 @@
 ---
 title: "Luminous"
 url: /depoe-bay/luminous/
-shop: Kosmetik
+shop: beauty
 ---

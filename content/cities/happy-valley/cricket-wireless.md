@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /happy-valley/cricket-wireless/
-shop: Handy
+shop: mobile phone
 ---

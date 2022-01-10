@@ -1,5 +1,5 @@
 ---
 title: "G-Star Raw"
 url: /portland/g-star-raw/
-shop: Kleidung
+shop: clothes
 ---

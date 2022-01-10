@@ -1,5 +1,5 @@
 ---
 title: "Birkenstock"
 url: /bend/birkenstock/
-shop: Schuhe
+shop: shoes
 ---

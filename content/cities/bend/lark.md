@@ -1,5 +1,5 @@
 ---
 title: "Lark"
 url: /bend/lark/
-shop: Haushaltsartikel
+shop: houseware
 ---

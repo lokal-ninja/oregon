@@ -1,5 +1,5 @@
 ---
 title: "The Green Remedy"
 url: /portland/the-green-remedy/
-shop: Hanf
+shop: cannabis
 ---

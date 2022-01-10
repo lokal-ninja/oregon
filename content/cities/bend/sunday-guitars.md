@@ -1,5 +1,5 @@
 ---
 title: "Sunday Guitars"
 url: /bend/sunday-guitars/
-shop: Instrumente
+shop: musical instrument
 ---

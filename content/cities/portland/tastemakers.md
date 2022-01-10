@@ -1,5 +1,5 @@
 ---
 title: "Tastemakers"
 url: /portland/tastemakers/
-shop: Friseur
+shop: hairdresser
 ---

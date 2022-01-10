@@ -1,5 +1,5 @@
 ---
 title: "Buttercraft"
 url: /portland/buttercraft/
-shop: Feinkost
+shop: deli
 ---

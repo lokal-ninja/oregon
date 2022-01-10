@@ -1,5 +1,5 @@
 ---
 title: "Lubliner Florist"
 url: /portland/lubliner-florist/
-shop: Blumen
+shop: florist
 ---

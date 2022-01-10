@@ -1,5 +1,5 @@
 ---
 title: "Ruby Jewel"
 url: /portland/ruby-jewel/
-shop: Eisprodukte
+shop: ice cream
 ---

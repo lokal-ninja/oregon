@@ -1,5 +1,5 @@
 ---
 title: "Salon Boheme"
 url: /astoria/salon-boheme/
-shop: Kosmetik
+shop: beauty
 ---

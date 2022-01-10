@@ -1,5 +1,5 @@
 ---
 title: "Voodoo Doughnut"
 url: /oak-grove/voodoo-doughnut/
-shop: Konditorei
+shop: pastry
 ---

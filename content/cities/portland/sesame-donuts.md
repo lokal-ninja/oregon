@@ -1,5 +1,5 @@
 ---
 title: "Sesame Donuts"
 url: /portland/sesame-donuts/
-shop: Konditorei
+shop: pastry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hello Sunshine"
 url: /bend/hello-sunshine/
-shop: Kleidung
+shop: clothes
 ---

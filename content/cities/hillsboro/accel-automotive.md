@@ -1,5 +1,5 @@
 ---
 title: "Accel Automotive"
 url: /hillsboro/accel-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

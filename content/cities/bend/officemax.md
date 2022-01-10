@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /bend/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

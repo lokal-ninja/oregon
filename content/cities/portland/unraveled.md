@@ -1,5 +1,5 @@
 ---
 title: "Unraveled"
 url: /portland/unraveled/
-shop: Allgemein
+shop: shop
 ---

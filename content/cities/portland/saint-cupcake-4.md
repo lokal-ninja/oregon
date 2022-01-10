@@ -1,5 +1,5 @@
 ---
 title: "Saint Cupcake"
 url: /portland/saint-cupcake-4/
-shop: Bäckerei
+shop: bakery
 ---

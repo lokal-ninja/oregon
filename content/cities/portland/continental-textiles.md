@@ -1,5 +1,5 @@
 ---
 title: "Continental Textiles"
 url: /portland/continental-textiles/
-shop: Allgemein
+shop: shop
 ---

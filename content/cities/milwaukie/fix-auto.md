@@ -1,5 +1,5 @@
 ---
 title: "Fix Auto"
 url: /milwaukie/fix-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

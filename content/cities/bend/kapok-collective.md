@@ -1,5 +1,5 @@
 ---
 title: "Kapok Collective"
 url: /bend/kapok-collective/
-shop: Andenken
+shop: gift
 ---

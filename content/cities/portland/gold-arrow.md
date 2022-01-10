@@ -1,5 +1,5 @@
 ---
 title: "Gold + Arrow"
 url: /portland/gold-arrow/
-shop: Friseur
+shop: hairdresser
 ---

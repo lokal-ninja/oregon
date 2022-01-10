@@ -1,5 +1,5 @@
 ---
 title: "Elegance"
 url: /grants-pass/elegance/
-shop: Antiquitäten
+shop: antiques
 ---

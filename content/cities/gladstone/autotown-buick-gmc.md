@@ -1,5 +1,5 @@
 ---
 title: "Autotown Buick GMC"
 url: /gladstone/autotown-buick-gmc/
-shop: Autohaus
+shop: car
 ---

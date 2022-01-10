@@ -1,5 +1,5 @@
 ---
 title: "Hungry Heart"
 url: /portland/hungry-heart/
-shop: Bäckerei
+shop: bakery
 ---

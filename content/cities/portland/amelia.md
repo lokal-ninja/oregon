@@ -1,5 +1,5 @@
 ---
 title: "Amelia"
 url: /portland/amelia/
-shop: Kleidung
+shop: clothes
 ---

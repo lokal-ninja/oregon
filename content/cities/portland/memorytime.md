@@ -1,5 +1,5 @@
 ---
 title: "Memorytime"
 url: /portland/memorytime/
-shop: Computer
+shop: computer
 ---

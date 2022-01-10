@@ -1,5 +1,5 @@
 ---
 title: "Cat Six Cycles"
 url: /portland/cat-six-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JosephK"
 url: /clackamas/josephk/
-shop: Schmuck
+shop: jewelry
 ---

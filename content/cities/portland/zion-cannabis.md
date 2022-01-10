@@ -1,5 +1,5 @@
 ---
 title: "Zion Cannabis"
 url: /portland/zion-cannabis/
-shop: Hanf
+shop: cannabis
 ---

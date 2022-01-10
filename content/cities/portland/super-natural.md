@@ -1,5 +1,5 @@
 ---
 title: "Super Natural"
 url: /portland/super-natural/
-shop: Kleidung
+shop: clothes
 ---

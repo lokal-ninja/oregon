@@ -1,5 +1,5 @@
 ---
 title: "Sur La Table"
 url: /tigard/sur-la-table/
-shop: Haushaltsartikel
+shop: houseware
 ---

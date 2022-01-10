@@ -1,5 +1,5 @@
 ---
 title: "Chico's"
 url: /lake-oswego/chicos/
-shop: Kleidung
+shop: clothes
 ---

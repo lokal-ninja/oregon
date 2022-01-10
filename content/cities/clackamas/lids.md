@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /clackamas/lids/
-shop: Kleidung
+shop: clothes
 ---

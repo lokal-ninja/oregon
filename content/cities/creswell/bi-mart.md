@@ -1,5 +1,5 @@
 ---
 title: "Bi-Mart"
 url: /creswell/bi-mart/
-shop: Warenhaus
+shop: department store
 ---

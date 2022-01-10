@@ -1,5 +1,5 @@
 ---
 title: "ProDesign Solutions"
 url: /tigard/prodesign-solutions/
-shop: Raumausstattung
+shop: interior decoration
 ---

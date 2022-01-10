@@ -1,5 +1,5 @@
 ---
 title: "Videorama"
 url: /portland/videorama/
-shop: Videothek
+shop: video
 ---

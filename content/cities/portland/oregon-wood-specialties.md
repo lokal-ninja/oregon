@@ -1,5 +1,5 @@
 ---
 title: "Oregon Wood Specialties"
 url: /portland/oregon-wood-specialties/
-shop: Baustoffe
+shop: trade
 ---

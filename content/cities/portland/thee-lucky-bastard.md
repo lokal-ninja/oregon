@@ -1,5 +1,5 @@
 ---
 title: "Thee Lucky Bastard"
 url: /portland/thee-lucky-bastard/
-shop: Antiquitäten
+shop: antiques
 ---

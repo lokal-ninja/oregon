@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /roseburg/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

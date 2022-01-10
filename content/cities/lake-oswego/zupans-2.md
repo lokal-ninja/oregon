@@ -1,5 +1,5 @@
 ---
 title: "Zupan's"
 url: /lake-oswego/zupans-2/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autotek International"
 url: /portland/autotek-international/
-shop: Autowerkstatt
+shop: car repair
 ---

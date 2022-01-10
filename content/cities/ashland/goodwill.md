@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /ashland/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ward Stroud"
 url: /portland/ward-stroud/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /tigard/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

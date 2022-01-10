@@ -1,5 +1,5 @@
 ---
 title: "Artico Lite Inc"
 url: /portland/artico-lite-inc/
-shop: Allgemein
+shop: shop
 ---

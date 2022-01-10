@@ -1,5 +1,5 @@
 ---
 title: "Free Geek"
 url: /portland/free-geek/
-shop: Computer
+shop: computer
 ---

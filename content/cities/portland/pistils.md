@@ -1,5 +1,5 @@
 ---
 title: "Pistils"
 url: /portland/pistils/
-shop: Garten-Center
+shop: garden centre
 ---

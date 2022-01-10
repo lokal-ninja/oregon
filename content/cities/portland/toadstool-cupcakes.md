@@ -1,5 +1,5 @@
 ---
 title: "Toadstool Cupcakes"
 url: /portland/toadstool-cupcakes/
-shop: Süßwaren
+shop: confectionery
 ---

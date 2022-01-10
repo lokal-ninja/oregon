@@ -1,5 +1,5 @@
 ---
 title: "V Shop"
 url: /portland/v-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /oregon-city/autozone/
-shop: Autoteile
+shop: car parts
 ---

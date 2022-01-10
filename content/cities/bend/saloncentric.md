@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
 url: /bend/saloncentric/
-shop: Kosmetik
+shop: beauty
 ---

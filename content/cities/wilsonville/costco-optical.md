@@ -1,5 +1,5 @@
 ---
 title: "Costco Optical"
 url: /wilsonville/costco-optical/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burlington Coat Factory"
 url: /happy-valley/burlington-coat-factory/
-shop: Kleidung
+shop: clothes
 ---

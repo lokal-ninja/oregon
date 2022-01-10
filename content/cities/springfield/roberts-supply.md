@@ -1,5 +1,5 @@
 ---
 title: "Roberts Supply"
 url: /springfield/roberts-supply/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bi-Mart"
 url: /aloha/bi-mart/
-shop: Warenhaus
+shop: department store
 ---

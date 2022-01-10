@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /the-dalles/u-haul/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FastBreak"
 url: /central-point/fastbreak/
-shop: Lebensmittel
+shop: convenience
 ---

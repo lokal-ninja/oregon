@@ -1,5 +1,5 @@
 ---
 title: "Chevron Auto Care"
 url: /portland/chevron-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

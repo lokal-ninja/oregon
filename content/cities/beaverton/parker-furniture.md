@@ -1,5 +1,5 @@
 ---
 title: "Parker Furniture"
 url: /beaverton/parker-furniture/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Artifact"
 url: /portland/artifact/
-shop: Gebrauchtwaren
+shop: charity
 ---

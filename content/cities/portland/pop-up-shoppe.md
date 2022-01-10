@@ -1,5 +1,5 @@
 ---
 title: "Pop-Up Shoppe"
 url: /portland/pop-up-shoppe/
-shop: Kleidung
+shop: clothes
 ---

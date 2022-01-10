@@ -1,5 +1,5 @@
 ---
 title: "University Market"
 url: /portland/university-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Party Spot"
 url: /aloha/the-party-spot/
-shop: Partyzubehör
+shop: party
 ---

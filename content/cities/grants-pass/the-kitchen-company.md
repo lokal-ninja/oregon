@@ -1,5 +1,5 @@
 ---
 title: "The Kitchen Company"
 url: /grants-pass/the-kitchen-company/
-shop: Küchen
+shop: kitchen
 ---

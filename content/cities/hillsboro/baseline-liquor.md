@@ -1,5 +1,5 @@
 ---
 title: "Baseline Liquor"
 url: /hillsboro/baseline-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilco"
 url: /springfield/wilco/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

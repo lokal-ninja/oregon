@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /mcminnville/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

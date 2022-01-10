@@ -1,5 +1,5 @@
 ---
 title: "Rustom Nissan of Portland"
 url: /portland/rustom-nissan-of-portland-2/
-shop: Autoteile
+shop: car parts
 ---

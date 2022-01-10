@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /aloha/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

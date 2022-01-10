@@ -1,5 +1,5 @@
 ---
 title: "Miss Meers"
 url: /tigard/miss-meers/
-shop: Schuhe
+shop: shoes
 ---

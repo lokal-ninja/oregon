@@ -1,5 +1,5 @@
 ---
 title: "The Market"
 url: /portland/the-market/
-shop: Hofladen
+shop: farm
 ---

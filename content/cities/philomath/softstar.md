@@ -1,5 +1,5 @@
 ---
 title: "Softstar"
 url: /philomath/softstar/
-shop: Schuhe
+shop: shoes
 ---

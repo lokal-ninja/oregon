@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /tigard/lush/
-shop: Kosmetik
+shop: beauty
 ---

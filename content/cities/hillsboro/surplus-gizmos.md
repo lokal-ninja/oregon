@@ -1,5 +1,5 @@
 ---
 title: "Surplus Gizmos"
 url: /hillsboro/surplus-gizmos/
-shop: Elektronik
+shop: electronics
 ---

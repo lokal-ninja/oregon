@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /bend/best-buy/
-shop: Elektronik
+shop: electronics
 ---

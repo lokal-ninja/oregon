@@ -1,5 +1,5 @@
 ---
 title: "Fringe the Salon"
 url: /beaverton/fringe-the-salon/
-shop: Friseur
+shop: hairdresser
 ---

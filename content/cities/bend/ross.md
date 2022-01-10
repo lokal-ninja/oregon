@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /bend/ross/
-shop: Warenhaus
+shop: department store
 ---

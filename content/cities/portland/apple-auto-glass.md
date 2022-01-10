@@ -1,5 +1,5 @@
 ---
 title: "Apple Auto Glass"
 url: /portland/apple-auto-glass/
-shop: Autowerkstatt
+shop: car repair
 ---

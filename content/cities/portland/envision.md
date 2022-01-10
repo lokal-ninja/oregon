@@ -1,5 +1,5 @@
 ---
 title: "Envision"
 url: /portland/envision/
-shop: Raumausstattung
+shop: interior decoration
 ---

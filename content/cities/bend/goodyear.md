@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /bend/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

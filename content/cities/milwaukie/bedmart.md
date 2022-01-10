@@ -1,5 +1,5 @@
 ---
 title: "BedMart"
 url: /milwaukie/bedmart/
-shop: Betten
+shop: bed
 ---

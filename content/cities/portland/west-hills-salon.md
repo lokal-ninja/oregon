@@ -1,5 +1,5 @@
 ---
 title: "West Hills Salon"
 url: /portland/west-hills-salon/
-shop: Kosmetik
+shop: beauty
 ---

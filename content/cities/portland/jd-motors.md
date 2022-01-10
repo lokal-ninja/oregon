@@ -1,5 +1,5 @@
 ---
 title: "JD Motors"
 url: /portland/jd-motors/
-shop: Autohaus
+shop: car
 ---

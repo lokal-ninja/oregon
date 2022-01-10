@@ -1,5 +1,5 @@
 ---
 title: "Country Store"
 url: /svensen/country-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wax On Spa"
 url: /portland/wax-on-spa/
-shop: Kosmetik
+shop: beauty
 ---

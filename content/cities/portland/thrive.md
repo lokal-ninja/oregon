@@ -1,5 +1,5 @@
 ---
 title: "Thrive"
 url: /portland/thrive/
-shop: Massage
+shop: massage
 ---

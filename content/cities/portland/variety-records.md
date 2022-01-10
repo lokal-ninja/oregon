@@ -1,5 +1,5 @@
 ---
 title: "Variety Records"
 url: /portland/variety-records/
-shop: Musik
+shop: music
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunruse Market"
 url: /milwaukie/sunruse-market/
-shop: Lebensmittel
+shop: convenience
 ---

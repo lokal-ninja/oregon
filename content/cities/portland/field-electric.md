@@ -1,5 +1,5 @@
 ---
 title: "Field Electric"
 url: /portland/field-electric/
-shop: Fahrrad
+shop: bicycle
 ---

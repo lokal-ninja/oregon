@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /beaverton/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

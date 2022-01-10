@@ -1,5 +1,5 @@
 ---
 title: "Comic Cave"
 url: /portland/comic-cave/
-shop: Bücher
+shop: books
 ---

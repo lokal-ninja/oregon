@@ -1,5 +1,5 @@
 ---
 title: "Spoken Moto"
 url: /bend/spoken-moto/
-shop: Motorrad
+shop: motorcycle
 ---

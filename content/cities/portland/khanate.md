@@ -1,5 +1,5 @@
 ---
 title: "Khanate"
 url: /portland/khanate/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Luxmoto"
 url: /portland/luxmoto/
-shop: Autohaus
+shop: car
 ---

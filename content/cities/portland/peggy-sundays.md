@@ -1,5 +1,5 @@
 ---
 title: "Peggy Sundays"
 url: /portland/peggy-sundays/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rack Attack"
 url: /portland/rack-attack/
-shop: Autoteile
+shop: car parts
 ---

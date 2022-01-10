@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /grants-pass/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Good Feet"
 url: /hillsboro/good-feet/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fountain"
 url: /portland/fountain/
-shop: Andenken
+shop: gift
 ---

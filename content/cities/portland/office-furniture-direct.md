@@ -1,5 +1,5 @@
 ---
 title: "Office Furniture Direct"
 url: /portland/office-furniture-direct/
-shop: Möbel
+shop: furniture
 ---

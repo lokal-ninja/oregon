@@ -1,5 +1,5 @@
 ---
 title: "Optima Salons"
 url: /beaverton/optima-salons/
-shop: Kosmetik
+shop: beauty
 ---

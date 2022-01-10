@@ -1,5 +1,5 @@
 ---
 title: "Beaverton Hyundai"
 url: /beaverton/beaverton-hyundai-2/
-shop: Autohaus
+shop: car
 ---

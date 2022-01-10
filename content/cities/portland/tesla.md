@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /portland/tesla/
-shop: Autowerkstatt
+shop: car repair
 ---

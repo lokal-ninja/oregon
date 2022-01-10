@@ -1,5 +1,5 @@
 ---
 title: "Gap Kids"
 url: /hillsboro/gap-kids/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baxter Auto Parts"
 url: /portland/baxter-auto-parts-3/
-shop: Autoteile
+shop: car parts
 ---

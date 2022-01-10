@@ -1,5 +1,5 @@
 ---
 title: "Belmont Eco Laundry"
 url: /portland/belmont-eco-laundry/
-shop: Wäscherei
+shop: laundry
 ---

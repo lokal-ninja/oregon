@@ -1,5 +1,5 @@
 ---
 title: "Beaverton Automatic Transmissions Specialist"
 url: /beaverton/beaverton-automatic-transmissions-specialist/
-shop: Autowerkstatt
+shop: car repair
 ---

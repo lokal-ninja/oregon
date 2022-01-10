@@ -1,5 +1,5 @@
 ---
 title: "Vitamin Plaza"
 url: /canby/vitamin-plaza/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

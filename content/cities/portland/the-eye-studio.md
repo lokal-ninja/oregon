@@ -1,5 +1,5 @@
 ---
 title: "The Eye Studio"
 url: /portland/the-eye-studio/
-shop: Optiker
+shop: optician
 ---

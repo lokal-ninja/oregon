@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /wood-village/verizon/
-shop: Handy
+shop: mobile phone
 ---

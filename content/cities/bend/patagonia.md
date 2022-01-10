@@ -1,5 +1,5 @@
 ---
 title: "Patagonia"
 url: /bend/patagonia/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Legum Design"
 url: /bend/legum-design/
-shop: Raumausstattung
+shop: interior decoration
 ---

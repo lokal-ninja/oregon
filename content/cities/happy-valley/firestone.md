@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /happy-valley/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

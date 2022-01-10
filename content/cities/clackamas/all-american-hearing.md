@@ -1,5 +1,5 @@
 ---
 title: "All American Hearing"
 url: /clackamas/all-american-hearing/
-shop: Hörgeräte
+shop: hearing aids
 ---

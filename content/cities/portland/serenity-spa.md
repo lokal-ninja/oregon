@@ -1,5 +1,5 @@
 ---
 title: "Serenity SPA"
 url: /portland/serenity-spa/
-shop: Massage
+shop: massage
 ---

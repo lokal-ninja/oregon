@@ -1,5 +1,5 @@
 ---
 title: "Richard's"
 url: /portland/richards/
-shop: Lebensmittel
+shop: convenience
 ---

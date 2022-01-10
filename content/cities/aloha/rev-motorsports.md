@@ -1,5 +1,5 @@
 ---
 title: "REV Motorsports"
 url: /aloha/rev-motorsports/
-shop: Autowerkstatt
+shop: car repair
 ---

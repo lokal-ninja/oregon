@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /happy-valley/sprint/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ceremony"
 url: /portland/ceremony/
-shop: Friseur
+shop: hairdresser
 ---

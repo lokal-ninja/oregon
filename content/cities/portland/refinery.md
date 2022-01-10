@@ -1,5 +1,5 @@
 ---
 title: "Refinery"
 url: /portland/refinery/
-shop: Hanf
+shop: cannabis
 ---

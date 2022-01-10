@@ -1,5 +1,5 @@
 ---
 title: "Adorn"
 url: /portland/adorn-2/
-shop: Kleidung
+shop: clothes
 ---

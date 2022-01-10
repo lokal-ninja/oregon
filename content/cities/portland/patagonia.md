@@ -1,5 +1,5 @@
 ---
 title: "Patagonia"
 url: /portland/patagonia/
-shop: Kleidung
+shop: clothes
 ---

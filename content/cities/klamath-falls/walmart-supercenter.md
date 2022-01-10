@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /klamath-falls/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "One Drop Bottle Shop"
 url: /portland/one-drop-bottle-shop/
-shop: Spirituosen
+shop: alcohol
 ---

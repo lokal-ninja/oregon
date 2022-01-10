@@ -1,5 +1,5 @@
 ---
 title: "Archive Photo"
 url: /portland/archive-photo/
-shop: Foto
+shop: photo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Guitar Center"
 url: /clackamas/guitar-center/
-shop: Instrumente
+shop: musical instrument
 ---

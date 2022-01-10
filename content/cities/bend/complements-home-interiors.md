@@ -1,5 +1,5 @@
 ---
 title: "Complements Home Interiors"
 url: /bend/complements-home-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

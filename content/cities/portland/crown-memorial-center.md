@@ -1,5 +1,5 @@
 ---
 title: "Crown Memorial Center"
 url: /portland/crown-memorial-center/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spectrum Embroidery"
 url: /beaverton/spectrum-embroidery/
-shop: Kleidung
+shop: clothes
 ---

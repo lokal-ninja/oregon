@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /eugene/target/
-shop: Warenhaus
+shop: department store
 ---

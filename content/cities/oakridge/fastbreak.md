@@ -1,5 +1,5 @@
 ---
 title: "FastBreak"
 url: /oakridge/fastbreak/
-shop: Lebensmittel
+shop: convenience
 ---

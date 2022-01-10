@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /bend/sprint-3/
-shop: Handy
+shop: mobile phone
 ---

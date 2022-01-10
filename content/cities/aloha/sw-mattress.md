@@ -1,5 +1,5 @@
 ---
 title: "SW Mattress"
 url: /aloha/sw-mattress/
-shop: Betten
+shop: bed
 ---

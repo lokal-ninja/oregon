@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /hood-river/walmart/
-shop: Warenhaus
+shop: department store
 ---

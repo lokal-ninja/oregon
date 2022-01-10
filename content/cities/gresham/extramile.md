@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /gresham/extramile/
-shop: Lebensmittel
+shop: convenience
 ---

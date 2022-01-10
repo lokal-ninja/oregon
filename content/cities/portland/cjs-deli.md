@@ -1,5 +1,5 @@
 ---
 title: "CJs Deli"
 url: /portland/cjs-deli/
-shop: Feinkost
+shop: deli
 ---

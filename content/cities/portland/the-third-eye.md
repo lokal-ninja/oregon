@@ -1,5 +1,5 @@
 ---
 title: "The Third Eye"
 url: /portland/the-third-eye/
-shop: Tabak
+shop: tobacco
 ---

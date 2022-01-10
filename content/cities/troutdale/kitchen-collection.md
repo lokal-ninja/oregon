@@ -1,5 +1,5 @@
 ---
 title: "Kitchen Collection"
 url: /troutdale/kitchen-collection/
-shop: Haushaltsartikel
+shop: houseware
 ---

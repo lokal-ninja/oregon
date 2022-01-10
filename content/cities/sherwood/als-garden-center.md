@@ -1,5 +1,5 @@
 ---
 title: "Al's Garden Center"
 url: /sherwood/als-garden-center/
-shop: Garten-Center
+shop: garden centre
 ---

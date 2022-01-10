@@ -1,5 +1,5 @@
 ---
 title: "Moonstruck"
 url: /portland/moonstruck/
-shop: Süßwaren
+shop: confectionery
 ---

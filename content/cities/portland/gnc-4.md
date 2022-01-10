@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /portland/gnc-4/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

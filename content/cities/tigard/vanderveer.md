@@ -1,5 +1,5 @@
 ---
 title: "VanderVeer"
 url: /tigard/vanderveer/
-shop: Kosmetik
+shop: beauty
 ---

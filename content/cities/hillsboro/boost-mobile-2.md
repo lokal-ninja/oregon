@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /hillsboro/boost-mobile-2/
-shop: Handy
+shop: mobile phone
 ---

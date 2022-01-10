@@ -1,5 +1,5 @@
 ---
 title: "Absolute Automotive"
 url: /eugene/absolute-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

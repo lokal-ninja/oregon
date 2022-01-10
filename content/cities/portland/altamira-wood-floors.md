@@ -1,5 +1,5 @@
 ---
 title: "Altamira Wood Floors"
 url: /portland/altamira-wood-floors/
-shop: Raumausstattung
+shop: interior decoration
 ---

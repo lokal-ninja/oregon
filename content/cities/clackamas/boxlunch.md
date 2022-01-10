@@ -1,5 +1,5 @@
 ---
 title: "BoxLunch"
 url: /clackamas/boxlunch/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Post Lingerie"
 url: /tigard/post-lingerie/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /west-linn/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

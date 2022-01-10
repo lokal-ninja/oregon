@@ -1,5 +1,5 @@
 ---
 title: "Line Up Shop"
 url: /portland/line-up-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aria"
 url: /beaverton/aria/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pearl Hardware"
 url: /portland/pearl-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

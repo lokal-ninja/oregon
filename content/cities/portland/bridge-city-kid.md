@@ -1,5 +1,5 @@
 ---
 title: "Bridge City Kid"
 url: /portland/bridge-city-kid/
-shop: Babysachen
+shop: baby goods
 ---

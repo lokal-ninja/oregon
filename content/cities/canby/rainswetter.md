@@ -1,5 +1,5 @@
 ---
 title: "Rainswetter"
 url: /canby/rainswetter/
-shop: Kleidung
+shop: clothes
 ---

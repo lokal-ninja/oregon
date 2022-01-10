@@ -1,5 +1,5 @@
 ---
 title: "Salon Nyla"
 url: /portland/salon-nyla/
-shop: Kosmetik
+shop: beauty
 ---

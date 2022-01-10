@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /beaverton/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

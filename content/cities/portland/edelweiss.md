@@ -1,5 +1,5 @@
 ---
 title: "Edelweiss"
 url: /portland/edelweiss/
-shop: Feinkost
+shop: deli
 ---

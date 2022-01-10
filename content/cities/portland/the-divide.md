@@ -1,5 +1,5 @@
 ---
 title: "The Divide"
 url: /portland/the-divide/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gladys Bikes"
 url: /portland/gladys-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

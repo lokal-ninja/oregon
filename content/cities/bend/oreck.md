@@ -1,5 +1,5 @@
 ---
 title: "Oreck"
 url: /bend/oreck/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

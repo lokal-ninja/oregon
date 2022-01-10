@@ -1,5 +1,5 @@
 ---
 title: "Tangerine"
 url: /bend/tangerine/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cindie’s"
 url: /portland/cindies/
-shop: Erotik
+shop: erotic
 ---

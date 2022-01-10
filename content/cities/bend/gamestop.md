@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /bend/gamestop/
-shop: Videospiele
+shop: video games
 ---

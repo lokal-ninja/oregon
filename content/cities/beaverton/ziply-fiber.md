@@ -1,5 +1,5 @@
 ---
 title: "Ziply Fiber"
 url: /beaverton/ziply-fiber/
-shop: Handy
+shop: mobile phone
 ---

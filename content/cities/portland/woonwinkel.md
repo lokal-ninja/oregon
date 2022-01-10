@@ -1,5 +1,5 @@
 ---
 title: "Woonwinkel"
 url: /portland/woonwinkel/
-shop: Andenken
+shop: gift
 ---

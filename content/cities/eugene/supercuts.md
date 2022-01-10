@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /eugene/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

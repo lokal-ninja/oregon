@@ -1,5 +1,5 @@
 ---
 title: "The Garden Corner"
 url: /tualatin/the-garden-corner/
-shop: Garten-Center
+shop: garden centre
 ---

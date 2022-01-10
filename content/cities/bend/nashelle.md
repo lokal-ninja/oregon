@@ -1,5 +1,5 @@
 ---
 title: "Nashelle"
 url: /bend/nashelle/
-shop: Schmuck
+shop: jewelry
 ---

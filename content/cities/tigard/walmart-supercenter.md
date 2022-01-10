@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /tigard/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

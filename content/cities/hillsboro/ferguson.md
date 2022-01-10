@@ -1,5 +1,5 @@
 ---
 title: "Ferguson"
 url: /hillsboro/ferguson/
-shop: Baustoffe
+shop: trade
 ---

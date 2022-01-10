@@ -1,5 +1,5 @@
 ---
 title: "ABC Produce"
 url: /portland/abc-produce/
-shop: Supermarkt
+shop: supermarket
 ---

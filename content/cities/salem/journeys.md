@@ -1,5 +1,5 @@
 ---
 title: "Journeys"
 url: /salem/journeys/
-shop: Schuhe
+shop: shoes
 ---

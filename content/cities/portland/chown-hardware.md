@@ -1,5 +1,5 @@
 ---
 title: "Chown Hardware"
 url: /portland/chown-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

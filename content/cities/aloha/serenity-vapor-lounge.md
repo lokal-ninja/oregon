@@ -1,5 +1,5 @@
 ---
 title: "Serenity Vapor Lounge"
 url: /aloha/serenity-vapor-lounge/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

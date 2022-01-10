@@ -1,5 +1,5 @@
 ---
 title: "Roses Glassworks"
 url: /portland/roses-glassworks/
-shop: Baustoffe
+shop: trade
 ---

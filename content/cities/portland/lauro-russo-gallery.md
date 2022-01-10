@@ -1,5 +1,5 @@
 ---
 title: "Lauro Russo Gallery"
 url: /portland/lauro-russo-gallery/
-shop: Kunst
+shop: art
 ---

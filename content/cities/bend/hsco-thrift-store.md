@@ -1,5 +1,5 @@
 ---
 title: "HSCO Thrift Store"
 url: /bend/hsco-thrift-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

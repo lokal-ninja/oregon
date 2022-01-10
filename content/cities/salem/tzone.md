@@ -1,5 +1,5 @@
 ---
 title: "TZONE"
 url: /salem/tzone/
-shop: Andenken
+shop: gift
 ---

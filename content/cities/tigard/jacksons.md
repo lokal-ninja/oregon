@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /tigard/jacksons/
-shop: Lebensmittel
+shop: convenience
 ---

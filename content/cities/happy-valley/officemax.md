@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /happy-valley/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

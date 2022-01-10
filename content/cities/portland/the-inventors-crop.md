@@ -1,5 +1,5 @@
 ---
 title: "The Inventors Crop"
 url: /portland/the-inventors-crop/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beacon Sound"
 url: /portland/beacon-sound/
-shop: Musik
+shop: music
 ---

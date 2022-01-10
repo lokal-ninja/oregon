@@ -1,5 +1,5 @@
 ---
 title: "Fashion Floors"
 url: /medford/fashion-floors/
-shop: Fußböden
+shop: flooring
 ---

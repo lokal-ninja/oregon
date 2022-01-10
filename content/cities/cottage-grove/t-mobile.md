@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /cottage-grove/t-mobile/
-shop: Handy
+shop: mobile phone
 ---

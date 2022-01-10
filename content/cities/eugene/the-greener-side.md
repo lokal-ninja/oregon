@@ -1,5 +1,5 @@
 ---
 title: "The Greener Side"
 url: /eugene/the-greener-side/
-shop: Hanf
+shop: cannabis
 ---

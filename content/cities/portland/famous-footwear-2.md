@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /portland/famous-footwear-2/
-shop: Schuhe
+shop: shoes
 ---

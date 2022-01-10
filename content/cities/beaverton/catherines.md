@@ -1,5 +1,5 @@
 ---
 title: "Catherines"
 url: /beaverton/catherines/
-shop: Kleidung
+shop: clothes
 ---

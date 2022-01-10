@@ -1,5 +1,5 @@
 ---
 title: "Sandy Bicycle"
 url: /sandy/sandy-bicycle/
-shop: Fahrrad
+shop: bicycle
 ---

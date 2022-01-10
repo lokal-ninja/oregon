@@ -1,5 +1,5 @@
 ---
 title: "Bi-Mart"
 url: /brookings/bi-mart/
-shop: Warenhaus
+shop: department store
 ---

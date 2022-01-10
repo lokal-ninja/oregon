@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /bend/albertsons-2/
-shop: Supermarkt
+shop: supermarket
 ---

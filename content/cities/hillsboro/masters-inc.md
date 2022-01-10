@@ -1,5 +1,5 @@
 ---
 title: "Masters Inc"
 url: /hillsboro/masters-inc/
-shop: Allgemein
+shop: shop
 ---

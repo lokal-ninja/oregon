@@ -1,5 +1,5 @@
 ---
 title: "The Difference"
 url: /lake-oswego/the-difference/
-shop: Kleidung
+shop: clothes
 ---
