@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
-url: /bend/cosmoprof/
+url: /happy-valley/cosmoprof/
 shop: hairdresser supply
 ---
