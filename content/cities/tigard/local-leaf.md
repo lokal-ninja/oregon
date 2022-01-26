@@ -1,5 +1,5 @@
 ---
 title: "Local Leaf"
-url: /portland/local-leaf/
+url: /tigard/local-leaf/
 shop: cannabis
 ---
