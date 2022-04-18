@@ -1,5 +1,5 @@
 ---
 title: "Family Fun Cycles"
 url: /cannon-beach/family-fun-cycles/
-shop: shop
+shop: storage rental
 ---
