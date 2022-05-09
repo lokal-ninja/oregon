@@ -1,5 +1,5 @@
 ---
 title: "Tumalo Country Store"
-url: /tumalo/tumalo-country-store/
+url: /bend/tumalo-country-store-2/
 shop: convenience
 ---
