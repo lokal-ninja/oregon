@@ -1,5 +1,5 @@
 ---
-title: "Busheler's Saw and Mower"
+title: "Busheler's Saw & Mower"
 url: /springfield/bushelers-saw-and-mower/
 shop: shop
 ---
