@@ -1,6 +1,6 @@
 ---
 title: Seaside
 url: /seaside/
-latitude: 46
-longitude: -123.916
+latitude: 45.98
+longitude: -123.931
 ---
