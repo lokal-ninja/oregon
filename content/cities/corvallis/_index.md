@@ -1,6 +1,6 @@
 ---
 title: Corvallis
 url: /corvallis/
-latitude: 44.55
-longitude: -123.309
+latitude: 44.565
+longitude: -123.259
 ---
