@@ -1,5 +1,5 @@
 ---
-title: "Art Department."
+title: "Art Department"
 url: /salem/art-department/
 shop: paint
 ---
