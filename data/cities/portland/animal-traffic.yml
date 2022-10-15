@@ -1,11 +1,11 @@
-id: 6377765008
-type: node
-latitude: 45.52162
-longitude: -122.6815
-postcode: "97205"
+id: 527325191
+type: way
+latitude: 45.55219
+longitude: -122.6754
+postcode: "97227"
 city: Portland
-street: "Southwest 10th Avenue"
-housenumber: 429
-phone: ""
-opening_hours: ""
+street: "North Mississippi Avenue"
+housenumber: 4000
+phone: "+1-503-249-4000"
+opening_hours: "Mo-Sa 11:00-19:00; Su 11:00-18:00"
 website: "https://www.animaltrafficpdx.com/"

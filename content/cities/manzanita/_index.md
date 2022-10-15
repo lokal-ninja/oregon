@@ -1,6 +1,6 @@
 ---
 title: Manzanita
 url: /manzanita/
-latitude: 45.72
-longitude: -123.929
+latitude: 45.718
+longitude: -123.938
 ---
