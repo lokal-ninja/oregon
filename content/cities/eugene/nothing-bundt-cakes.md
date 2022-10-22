@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
-url: /tualatin/nothing-bundt-cakes/
+url: /eugene/nothing-bundt-cakes/
 shop: pastry
 ---
