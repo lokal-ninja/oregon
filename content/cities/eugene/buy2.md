@@ -1,5 +1,5 @@
 ---
-title: "buy2"
+title: "Buy2"
 url: /eugene/buy2/
 shop: convenience
 ---
