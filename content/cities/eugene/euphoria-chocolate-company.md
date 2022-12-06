@@ -1,5 +1,5 @@
 ---
 title: "Euphoria Chocolate Company"
 url: /eugene/euphoria-chocolate-company/
-shop: chocolate
+shop: confectionery
 ---
