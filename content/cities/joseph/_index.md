@@ -1,6 +1,6 @@
 ---
 title: Joseph
 url: /joseph/
-latitude: 45.356
-longitude: -117.23
+latitude: 45.276
+longitude: -117.209
 ---
