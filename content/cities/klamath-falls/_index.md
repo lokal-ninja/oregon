@@ -1,6 +1,6 @@
 ---
 title: Klamath Falls
 url: /klamath-falls/
-latitude: 42.227
-longitude: -121.781
+latitude: 42.226
+longitude: -121.782
 ---

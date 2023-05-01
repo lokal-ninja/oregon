@@ -1,6 +1,6 @@
 ---
 title: Christmas Valley
 url: /christmas-valley/
-latitude: 43.238
-longitude: -120.681
+latitude: 43.237
+longitude: -120.696
 ---
