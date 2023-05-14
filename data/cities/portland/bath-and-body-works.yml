@@ -1,11 +1,11 @@
-id: 5771246007
-type: node
-latitude: 45.53233
-longitude: -122.65303
-postcode: "97232"
+id: 422432355
+type: way
+latitude: 45.5748
+longitude: -122.55882
+postcode: "97220"
 city: Portland
-street: ""
-housenumber: 957
-phone: ""
-opening_hours: ""
-website: ""
+street: "Northeast Cascades Parkway"
+housenumber: 9967
+phone: "+1-503-284-4222"
+opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
+website: "https://www.bathandbodyworks.com/"
