@@ -1,6 +1,6 @@
 ---
 title: Baker City
 url: /baker-city/
-latitude: 44.778
+latitude: 44.777
 longitude: -117.83
 ---

@@ -1,6 +1,6 @@
 ---
 title: Waldport
 url: /waldport/
-latitude: 44.427
-longitude: -124.068
+latitude: 44.43
+longitude: -124.059
 ---
