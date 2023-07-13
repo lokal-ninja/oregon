@@ -1,6 +1,6 @@
 ---
 title: Eugene
 url: /eugene/
-latitude: 44.049
-longitude: -123.136
+latitude: 44.092
+longitude: -123.094
 ---
