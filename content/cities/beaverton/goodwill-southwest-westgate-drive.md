@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /beaverton/goodwill/
+url: /beaverton/goodwill-southwest-westgate-drive/
 shop: charity
 ---

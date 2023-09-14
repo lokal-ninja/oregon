@@ -1,5 +1,5 @@
 ---
 title: "Hertz"
-url: /bend/hertz/
+url: /bend/hertz-northeast-savannah-drive/
 shop: car
 ---

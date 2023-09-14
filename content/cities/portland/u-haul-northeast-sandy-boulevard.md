@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
-url: /portland/u-haul/
+url: /portland/u-haul-northeast-sandy-boulevard/
 shop: storage rental
 ---

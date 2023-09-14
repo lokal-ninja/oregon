@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /milwaukie/safeway/
+url: /milwaukie/safeway-southeast-king-road/
 shop: supermarket
 ---

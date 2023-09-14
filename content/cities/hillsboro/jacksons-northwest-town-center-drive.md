@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
-url: /hillsboro/jacksons/
+url: /hillsboro/jacksons-northwest-town-center-drive/
 shop: convenience
 ---

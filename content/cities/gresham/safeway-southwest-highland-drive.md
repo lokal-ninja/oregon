@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /gresham/safeway/
+url: /gresham/safeway-southwest-highland-drive/
 shop: supermarket
 ---

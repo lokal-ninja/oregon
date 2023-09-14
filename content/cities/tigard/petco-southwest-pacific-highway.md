@@ -1,5 +1,5 @@
 ---
 title: "Petco"
-url: /tigard/petco/
+url: /tigard/petco-southwest-pacific-highway/
 shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Natural Furniture"
-url: /portland/natural-furniture/
+url: /portland/natural-furniture-northeast-broadway/
 shop: furniture
 ---

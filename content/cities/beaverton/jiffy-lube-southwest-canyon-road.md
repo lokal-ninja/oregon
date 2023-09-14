@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
-url: /beaverton/jiffy-lube/
+url: /beaverton/jiffy-lube-southwest-canyon-road/
 shop: car repair
 ---

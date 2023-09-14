@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
-url: /portland/public-storage/
+url: /portland/public-storage-northeast-92nd-avenue/
 shop: storage rental
 ---

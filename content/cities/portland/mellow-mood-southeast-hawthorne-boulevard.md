@@ -1,5 +1,5 @@
 ---
 title: "Mellow Mood"
-url: /portland/mellow-mood/
+url: /portland/mellow-mood-southeast-hawthorne-boulevard/
 shop: tobacco
 ---

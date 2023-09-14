@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /portland/verizon/
+url: /portland/verizon-southeast-powell-boulevard/
 shop: mobile phone
 ---

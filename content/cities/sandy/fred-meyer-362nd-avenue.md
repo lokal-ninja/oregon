@@ -1,5 +1,5 @@
 ---
 title: "Fred Meyer"
-url: /sandy/fred-meyer/
+url: /sandy/fred-meyer-362nd-avenue/
 shop: supermarket
 ---

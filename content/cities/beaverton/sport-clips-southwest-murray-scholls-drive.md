@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
-url: /beaverton/sport-clips/
+url: /beaverton/sport-clips-southwest-murray-scholls-drive/
 shop: hairdresser
 ---

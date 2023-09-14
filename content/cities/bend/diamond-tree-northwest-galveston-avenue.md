@@ -1,5 +1,5 @@
 ---
 title: "Diamond Tree"
-url: /bend/diamond-tree/
+url: /bend/diamond-tree-northwest-galveston-avenue/
 shop: cannabis
 ---

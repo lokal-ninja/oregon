@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /beaverton/atandt/
+url: /beaverton/atandt-southwest-canyon-road/
 shop: mobile phone
 ---

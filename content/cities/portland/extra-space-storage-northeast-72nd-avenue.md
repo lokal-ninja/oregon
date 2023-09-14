@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
-url: /portland/extra-space-storage/
+url: /portland/extra-space-storage-northeast-72nd-avenue/
 shop: storage rental
 ---

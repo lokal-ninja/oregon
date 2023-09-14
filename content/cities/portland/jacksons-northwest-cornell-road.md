@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
-url: /portland/jacksons/
+url: /portland/jacksons-northwest-cornell-road/
 shop: convenience
 ---

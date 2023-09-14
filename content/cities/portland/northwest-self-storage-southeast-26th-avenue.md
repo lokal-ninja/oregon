@@ -1,5 +1,5 @@
 ---
 title: "Northwest Self Storage"
-url: /portland/northwest-self-storage/
+url: /portland/northwest-self-storage-southeast-26th-avenue/
 shop: storage rental
 ---

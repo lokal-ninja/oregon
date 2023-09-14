@@ -1,5 +1,5 @@
 ---
 title: "BedMart"
-url: /portland/bedmart/
+url: /portland/bedmart-north-starlight-avenue/
 shop: bed
 ---

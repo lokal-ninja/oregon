@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /portland/verizon/
+url: /portland/verizon-southwest-broadway/
 shop: mobile phone
 ---

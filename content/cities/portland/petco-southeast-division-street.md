@@ -1,5 +1,5 @@
 ---
 title: "Petco"
-url: /portland/petco/
+url: /portland/petco-southeast-division-street/
 shop: pet
 ---

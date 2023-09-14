@@ -1,5 +1,5 @@
 ---
 title: "Bishops Barbershop"
-url: /portland/bishops-barbershop/
+url: /portland/bishops-barbershop-southwest-capitol-highway/
 shop: hairdresser
 ---

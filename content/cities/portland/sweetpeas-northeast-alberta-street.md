@@ -1,5 +1,5 @@
 ---
 title: "Sweetpea's"
-url: /portland/sweetpeas/
+url: /portland/sweetpeas-northeast-alberta-street/
 shop: clothes
 ---

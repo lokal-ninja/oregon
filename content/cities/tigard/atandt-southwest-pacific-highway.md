@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /tigard/atandt/
+url: /tigard/atandt-southwest-pacific-highway/
 shop: mobile phone
 ---

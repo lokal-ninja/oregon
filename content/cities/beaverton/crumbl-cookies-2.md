@@ -1,5 +1,5 @@
 ---
 title: "Crumbl Cookies"
-url: /beaverton/crumbl-cookies/
+url: /beaverton/crumbl-cookies-2/
 shop: pastry
 ---

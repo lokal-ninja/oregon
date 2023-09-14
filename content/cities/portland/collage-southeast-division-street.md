@@ -1,5 +1,5 @@
 ---
 title: "Collage"
-url: /portland/collage/
+url: /portland/collage-southeast-division-street/
 shop: craft
 ---

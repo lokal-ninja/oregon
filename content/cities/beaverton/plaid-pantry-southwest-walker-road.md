@@ -1,5 +1,5 @@
 ---
 title: "Plaid Pantry"
-url: /beaverton/plaid-pantry/
+url: /beaverton/plaid-pantry-southwest-walker-road/
 shop: convenience
 ---

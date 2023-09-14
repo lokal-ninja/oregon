@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /portland/atandt/
+url: /portland/atandt-north-lombard-street/
 shop: mobile phone
 ---

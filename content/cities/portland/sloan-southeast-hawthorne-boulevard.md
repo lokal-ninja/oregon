@@ -1,5 +1,5 @@
 ---
 title: "Sloan"
-url: /portland/sloan/
+url: /portland/sloan-southeast-hawthorne-boulevard/
 shop: clothes
 ---

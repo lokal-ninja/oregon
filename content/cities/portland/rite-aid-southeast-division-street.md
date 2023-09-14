@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
-url: /portland/rite-aid/
+url: /portland/rite-aid-southeast-division-street/
 shop: chemist
 ---

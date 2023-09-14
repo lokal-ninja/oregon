@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
-url: /portland/chevron/
+url: /portland/chevron-west-burnside-street/
 shop: car repair
 ---

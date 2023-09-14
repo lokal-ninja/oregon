@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /portland/target/
+url: /portland/target-northeast-cascades-parkway/
 shop: department store
 ---

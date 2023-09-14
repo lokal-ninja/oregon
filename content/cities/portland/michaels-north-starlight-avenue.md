@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
-url: /portland/michaels/
+url: /portland/michaels-north-starlight-avenue/
 shop: craft
 ---

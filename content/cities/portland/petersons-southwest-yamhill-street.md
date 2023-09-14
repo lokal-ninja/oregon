@@ -1,5 +1,5 @@
 ---
 title: "Peterson's"
-url: /portland/petersons/
+url: /portland/petersons-southwest-yamhill-street/
 shop: convenience
 ---

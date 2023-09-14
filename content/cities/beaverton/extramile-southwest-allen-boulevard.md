@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
-url: /beaverton/extramile/
+url: /beaverton/extramile-southwest-allen-boulevard/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /portland/target/
+url: /portland/target-north-tomahawk-island-drive/
 shop: department store
 ---

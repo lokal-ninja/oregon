@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
-url: /eugene/jiffy-lube/
+url: /eugene/jiffy-lube-west-7th-avenue/
 shop: car repair
 ---

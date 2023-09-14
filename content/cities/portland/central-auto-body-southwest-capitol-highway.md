@@ -1,5 +1,5 @@
 ---
 title: "Central Auto Body"
-url: /portland/central-auto-body/
+url: /portland/central-auto-body-southwest-capitol-highway/
 shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
-url: /portland/chevron/
+url: /portland/chevron-northwest-lovejoy-street/
 shop: convenience
 ---

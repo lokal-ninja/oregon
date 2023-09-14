@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
-url: /portland/chevron/
+url: /portland/chevron-northeast-martin-luther-king-junior-boulevard/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
-url: /portland/albertsons/
+url: /portland/albertsons-northeast-prescott-street/
 shop: supermarket
 ---

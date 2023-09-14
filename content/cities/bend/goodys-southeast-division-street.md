@@ -1,5 +1,5 @@
 ---
 title: "Goody's"
-url: /bend/goodys/
+url: /bend/goodys-southeast-division-street/
 shop: confectionery
 ---

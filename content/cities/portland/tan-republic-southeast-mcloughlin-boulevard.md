@@ -1,5 +1,5 @@
 ---
 title: "Tan Republic"
-url: /portland/tan-republic/
+url: /portland/tan-republic-southeast-mcloughlin-boulevard/
 shop: beauty
 ---

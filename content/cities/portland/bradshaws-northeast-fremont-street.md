@@ -1,5 +1,5 @@
 ---
 title: "Bradshaw's"
-url: /portland/bradshaws/
+url: /portland/bradshaws-northeast-fremont-street/
 shop: car repair
 ---

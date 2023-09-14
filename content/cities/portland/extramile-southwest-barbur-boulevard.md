@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
-url: /portland/extramile/
+url: /portland/extramile-southwest-barbur-boulevard/
 shop: convenience
 ---

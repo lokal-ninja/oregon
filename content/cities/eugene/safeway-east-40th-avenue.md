@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /eugene/safeway/
+url: /eugene/safeway-east-40th-avenue/
 shop: supermarket
 ---

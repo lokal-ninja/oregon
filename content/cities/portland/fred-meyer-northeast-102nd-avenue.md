@@ -1,5 +1,5 @@
 ---
 title: "Fred Meyer"
-url: /portland/fred-meyer/
+url: /portland/fred-meyer-northeast-102nd-avenue/
 shop: supermarket
 ---

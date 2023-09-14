@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
-url: /beaverton/jacksons/
+url: /beaverton/jacksons-northwest-waterhouse-avenue/
 shop: convenience
 ---

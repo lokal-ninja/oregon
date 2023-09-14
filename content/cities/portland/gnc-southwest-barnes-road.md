@@ -1,5 +1,5 @@
 ---
 title: "GNC"
-url: /portland/gnc/
+url: /portland/gnc-southwest-barnes-road/
 shop: nutrition supplements
 ---

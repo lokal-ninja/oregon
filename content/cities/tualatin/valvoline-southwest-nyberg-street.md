@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
-url: /tualatin/valvoline/
+url: /tualatin/valvoline-southwest-nyberg-street/
 shop: car repair
 ---

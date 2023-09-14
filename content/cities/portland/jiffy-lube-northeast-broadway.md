@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
-url: /portland/jiffy-lube/
+url: /portland/jiffy-lube-northeast-broadway/
 shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trek"
-url: /portland/trek/
+url: /portland/trek-southeast-milwaukie-avenue/
 shop: bicycle
 ---

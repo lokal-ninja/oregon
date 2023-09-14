@@ -1,5 +1,5 @@
 ---
 title: "BedMart"
-url: /tigard/bedmart/
+url: /tigard/bedmart-southwest-bonita-road/
 shop: bed
 ---

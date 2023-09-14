@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /corvallis/verizon/
+url: /corvallis/verizon-northwest-harrison-boulevard/
 shop: mobile phone
 ---

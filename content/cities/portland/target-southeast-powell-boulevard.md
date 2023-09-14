@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /portland/target/
+url: /portland/target-southeast-powell-boulevard/
 shop: department store
 ---

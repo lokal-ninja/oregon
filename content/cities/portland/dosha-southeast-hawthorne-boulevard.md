@@ -1,5 +1,5 @@
 ---
 title: "Dosha"
-url: /portland/dosha/
+url: /portland/dosha-southeast-hawthorne-boulevard/
 shop: hairdresser
 ---

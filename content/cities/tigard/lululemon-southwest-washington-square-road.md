@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
-url: /tigard/lululemon/
+url: /tigard/lululemon-southwest-washington-square-road/
 shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
-url: /eugene/petsmart/
+url: /eugene/petsmart-chad-drive/
 shop: pet
 ---

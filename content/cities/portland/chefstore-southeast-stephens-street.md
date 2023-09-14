@@ -1,5 +1,5 @@
 ---
 title: "CHEF'STORE"
-url: /portland/chefstore/
+url: /portland/chefstore-southeast-stephens-street/
 shop: wholesale
 ---

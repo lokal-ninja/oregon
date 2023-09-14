@@ -1,5 +1,5 @@
 ---
 title: "Parr Lumber"
-url: /portland/parr-lumber/
+url: /portland/parr-lumber-northwest-19th-avenue/
 shop: trade
 ---

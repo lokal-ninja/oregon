@@ -1,5 +1,5 @@
 ---
 title: "Super Natural"
-url: /portland/super-natural/
+url: /portland/super-natural-northeast-alberta-street/
 shop: clothes
 ---

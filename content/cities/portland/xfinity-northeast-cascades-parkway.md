@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
-url: /portland/xfinity/
+url: /portland/xfinity-northeast-cascades-parkway/
 shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /portland/shell/
+url: /portland/shell-southwest-capitol-highway/
 shop: convenience
 ---

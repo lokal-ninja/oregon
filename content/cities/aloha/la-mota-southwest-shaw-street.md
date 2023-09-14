@@ -1,5 +1,5 @@
 ---
 title: "La Mota"
-url: /aloha/la-mota/
+url: /aloha/la-mota-southwest-shaw-street/
 shop: cannabis
 ---

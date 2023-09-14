@@ -1,5 +1,5 @@
 ---
 title: "QFC"
-url: /portland/qfc/
+url: /portland/qfc-southeast-milwaukie-avenue/
 shop: supermarket
 ---

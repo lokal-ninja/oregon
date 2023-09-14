@@ -1,5 +1,5 @@
 ---
 title: "Ross"
-url: /portland/ross/
+url: /portland/ross-north-tomahawk-island-drive/
 shop: department store
 ---

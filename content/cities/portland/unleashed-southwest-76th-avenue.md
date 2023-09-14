@@ -1,5 +1,5 @@
 ---
 title: "Unleashed"
-url: /portland/unleashed/
+url: /portland/unleashed-southwest-76th-avenue/
 shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Columbia"
-url: /portland/columbia/
+url: /portland/columbia-southwest-broadway/
 shop: clothes
 ---

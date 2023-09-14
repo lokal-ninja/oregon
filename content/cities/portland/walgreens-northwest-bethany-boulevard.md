@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /portland/walgreens/
+url: /portland/walgreens-northwest-bethany-boulevard/
 shop: chemist
 ---

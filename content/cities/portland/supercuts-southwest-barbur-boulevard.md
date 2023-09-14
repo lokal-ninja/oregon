@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /portland/supercuts/
+url: /portland/supercuts-southwest-barbur-boulevard/
 shop: hairdresser
 ---

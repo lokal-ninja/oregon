@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
-url: /portland/valvoline/
+url: /portland/valvoline-northeast-weidler-street/
 shop: car repair
 ---

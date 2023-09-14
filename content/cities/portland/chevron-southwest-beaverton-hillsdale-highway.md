@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
-url: /portland/chevron/
+url: /portland/chevron-southwest-beaverton-hillsdale-highway/
 shop: car repair
 ---

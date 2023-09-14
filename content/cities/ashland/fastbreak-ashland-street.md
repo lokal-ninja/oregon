@@ -1,5 +1,5 @@
 ---
 title: "FastBreak"
-url: /ashland/fastbreak/
+url: /ashland/fastbreak-ashland-street/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gilt + Gossamer"
-url: /eugene/gilt-gossamer/
-shop: shoes
+url: /eugene/gilt-gossamer-east-5th-avenue/
+shop: clothes
 ---

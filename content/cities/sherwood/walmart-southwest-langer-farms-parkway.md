@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
-url: /sherwood/walmart/
+url: /sherwood/walmart-southwest-langer-farms-parkway/
 shop: optician
 ---

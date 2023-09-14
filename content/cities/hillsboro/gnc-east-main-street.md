@@ -1,5 +1,5 @@
 ---
 title: "GNC"
-url: /hillsboro/gnc/
+url: /hillsboro/gnc-east-main-street/
 shop: nutrition supplements
 ---

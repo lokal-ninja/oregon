@@ -1,5 +1,5 @@
 ---
 title: "GNC"
-url: /portland/gnc/
+url: /portland/gnc-north-pavilion-avenue/
 shop: nutrition supplements
 ---

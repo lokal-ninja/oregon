@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
-url: /lake-oswego/jacksons/
+url: /lake-oswego/jacksons-bangy-road/
 shop: convenience
 ---

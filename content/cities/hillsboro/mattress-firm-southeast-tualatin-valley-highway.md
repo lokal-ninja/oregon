@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
-url: /hillsboro/mattress-firm/
+url: /hillsboro/mattress-firm-southeast-tualatin-valley-highway/
 shop: bed
 ---

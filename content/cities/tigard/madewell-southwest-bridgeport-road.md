@@ -1,5 +1,5 @@
 ---
 title: "Madewell"
-url: /tigard/madewell/
+url: /tigard/madewell-southwest-bridgeport-road/
 shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
-url: /tigard/jacksons/
+url: /tigard/jacksons-southwest-pacific-highway/
 shop: convenience
 ---

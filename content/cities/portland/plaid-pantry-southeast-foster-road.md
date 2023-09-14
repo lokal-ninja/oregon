@@ -1,5 +1,5 @@
 ---
 title: "Plaid Pantry"
-url: /portland/plaid-pantry/
+url: /portland/plaid-pantry-southeast-foster-road/
 shop: convenience
 ---

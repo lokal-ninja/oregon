@@ -1,5 +1,5 @@
 ---
 title: "Zupan's"
-url: /portland/zupans/
+url: /portland/zupans-south-macadam-avenue/
 shop: supermarket
 ---

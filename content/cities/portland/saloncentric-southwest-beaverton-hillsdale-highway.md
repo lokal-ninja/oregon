@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
-url: /portland/saloncentric/
+url: /portland/saloncentric-southwest-beaverton-hillsdale-highway/
 shop: beauty
 ---

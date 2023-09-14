@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /beaverton/verizon/
+url: /beaverton/verizon-southwest-cascade-avenue/
 shop: mobile phone
 ---

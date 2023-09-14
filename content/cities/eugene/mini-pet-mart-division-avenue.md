@@ -1,5 +1,5 @@
 ---
 title: "Mini Pet Mart"
-url: /eugene/mini-pet-mart/
+url: /eugene/mini-pet-mart-division-avenue/
 shop: pet
 ---
