@@ -1,5 +1,5 @@
 ---
-title: "Fjällräven"
+title: "Fjallraven"
 url: /portland/fjallraven/
-shop: outdoor
+shop: clothes
 ---
