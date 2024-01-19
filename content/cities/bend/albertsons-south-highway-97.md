@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
-url: /bend/albertsons-northeast-3rd-street/
+url: /bend/albertsons-south-highway-97/
 shop: supermarket
 ---
