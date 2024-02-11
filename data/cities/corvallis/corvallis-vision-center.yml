@@ -7,5 +7,5 @@ city: Corvallis
 street: "Northwest 3rd Street"
 housenumber: 227
 phone: "+1 541 757 1120"
-opening_hours: "Mo-Fr 07:30-17:00"
+opening_hours: "Mo-Fr 07:30-12:00,12:45-17:00"
 website: ""
