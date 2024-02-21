@@ -1,6 +1,6 @@
 ---
 title: Lincoln City
 url: /lincoln-city/
-latitude: 44.928
-longitude: -124.015
+latitude: 44.961
+longitude: -124.014
 ---
