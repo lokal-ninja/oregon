@@ -1,5 +1,5 @@
 ---
 title: "Bi-Mart"
-url: /eugene/bi-mart-west-18th-avenue/
+url: /eugene/bi-mart-willakenzie-road/
 shop: department store
 ---
