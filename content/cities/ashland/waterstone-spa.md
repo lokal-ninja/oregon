@@ -1,5 +1,5 @@
 ---
-title: "waterstone spa"
+title: "Waterstone Spa"
 url: /ashland/waterstone-spa/
-shop: shop
+shop: beauty
 ---
