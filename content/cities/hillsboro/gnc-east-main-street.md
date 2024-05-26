@@ -1,5 +1,5 @@
 ---
 title: "GNC"
-url: /portland/gnc-northeast-102nd-avenue/
+url: /hillsboro/gnc-east-main-street/
 shop: nutrition supplements
 ---
