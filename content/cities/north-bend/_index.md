@@ -1,6 +1,6 @@
 ---
 title: North Bend
 url: /north-bend/
-latitude: 43.405
-longitude: -124.236
+latitude: 43.404
+longitude: -124.233
 ---

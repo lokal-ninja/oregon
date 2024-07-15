@@ -1,6 +1,6 @@
 ---
 title: Redmond
 url: /redmond/
-latitude: 44.321
-longitude: -121.169
+latitude: 44.264
+longitude: -121.178
 ---

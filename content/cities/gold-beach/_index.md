@@ -1,6 +1,6 @@
 ---
 title: Gold Beach
 url: /gold-beach/
-latitude: 42.412
-longitude: -124.418
+latitude: 42.414
+longitude: -124.42
 ---
