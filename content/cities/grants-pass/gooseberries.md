@@ -1,5 +1,5 @@
 ---
 title: "Gooseberries"
 url: /grants-pass/gooseberries/
-shop: greengrocer
+shop: health food
 ---
