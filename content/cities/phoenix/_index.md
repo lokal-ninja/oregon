@@ -1,6 +1,6 @@
 ---
 title: Phoenix
 url: /phoenix/
-latitude: 42.283
-longitude: -122.818
+latitude: 42.27
+longitude: -122.81
 ---
