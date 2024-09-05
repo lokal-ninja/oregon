@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /troutdale/adidas/
-shop: sports
+shop: Sport
 ---

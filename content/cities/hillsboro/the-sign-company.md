@@ -1,5 +1,5 @@
 ---
 title: "The Sign Company"
 url: /hillsboro/the-sign-company/
-shop: shop
+shop: Allgemein
 ---

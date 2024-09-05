@@ -1,5 +1,5 @@
 ---
 title: "SpaceBuds"
 url: /eugene/spacebuds/
-shop: cannabis
+shop: Hanf
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AmeriGas"
 url: /portland/amerigas/
-shop: gas
+shop: Gasflaschen
 ---

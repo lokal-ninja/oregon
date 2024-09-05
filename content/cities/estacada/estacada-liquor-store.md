@@ -1,5 +1,5 @@
 ---
 title: "Estacada Liquor Store"
 url: /estacada/estacada-liquor-store/
-shop: alcohol
+shop: Spirituosen
 ---

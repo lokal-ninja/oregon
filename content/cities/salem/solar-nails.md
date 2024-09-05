@@ -1,5 +1,5 @@
 ---
 title: "Solar Nails"
 url: /salem/solar-nails/
-shop: beauty
+shop: Kosmetik
 ---

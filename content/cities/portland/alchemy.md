@@ -1,5 +1,5 @@
 ---
 title: "Alchemy"
 url: /portland/alchemy/
-shop: jewelry
+shop: Schmuck
 ---

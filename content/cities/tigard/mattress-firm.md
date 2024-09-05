@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /tigard/mattress-firm/
-shop: bed
+shop: Betten
 ---

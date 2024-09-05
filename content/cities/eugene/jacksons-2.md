@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /eugene/jacksons-2/
-shop: convenience
+shop: Lebensmittel
 ---

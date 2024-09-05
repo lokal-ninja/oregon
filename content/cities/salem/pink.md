@@ -1,5 +1,5 @@
 ---
 title: "Pink"
 url: /salem/pink/
-shop: clothes
+shop: Kleidung
 ---

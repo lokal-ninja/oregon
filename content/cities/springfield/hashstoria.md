@@ -1,5 +1,5 @@
 ---
 title: "Hashstoria"
 url: /springfield/hashstoria/
-shop: cannabis
+shop: Hanf
 ---

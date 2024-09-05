@@ -1,5 +1,5 @@
 ---
 title: "Alberta Street Gallery"
 url: /portland/alberta-street-gallery/
-shop: art
+shop: Kunst
 ---

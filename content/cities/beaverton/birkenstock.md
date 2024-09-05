@@ -1,5 +1,5 @@
 ---
 title: "Birkenstock"
 url: /beaverton/birkenstock/
-shop: shoes
+shop: Schuhe
 ---

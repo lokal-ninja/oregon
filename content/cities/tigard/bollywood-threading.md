@@ -1,5 +1,5 @@
 ---
 title: "Bollywood Threading"
 url: /tigard/bollywood-threading/
-shop: beauty
+shop: Kosmetik
 ---

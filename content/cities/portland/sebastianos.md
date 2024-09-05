@@ -1,5 +1,5 @@
 ---
 title: "Sebastiano's"
 url: /portland/sebastianos/
-shop: deli
+shop: Feinkost
 ---

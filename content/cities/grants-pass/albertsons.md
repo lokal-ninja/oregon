@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /grants-pass/albertsons/
-shop: supermarket
+shop: Supermarkt
 ---

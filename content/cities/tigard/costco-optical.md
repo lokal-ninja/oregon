@@ -1,5 +1,5 @@
 ---
 title: "Costco Optical"
 url: /tigard/costco-optical/
-shop: optician
+shop: Optiker
 ---

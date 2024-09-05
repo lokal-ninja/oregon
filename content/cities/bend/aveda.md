@@ -1,5 +1,5 @@
 ---
 title: "Aveda"
 url: /bend/aveda/
-shop: beauty
+shop: Kosmetik
 ---

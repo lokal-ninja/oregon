@@ -1,5 +1,5 @@
 ---
 title: "Emerald Laundry"
 url: /eugene/emerald-laundry/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Green"
 url: /portland/green/
-shop: hairdresser
+shop: Friseur
 ---

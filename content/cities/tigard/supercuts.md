@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /tigard/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

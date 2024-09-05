@@ -1,5 +1,5 @@
 ---
 title: "Faveur"
 url: /bend/faveur/
-shop: clothes
+shop: Kleidung
 ---

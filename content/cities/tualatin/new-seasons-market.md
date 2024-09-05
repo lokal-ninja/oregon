@@ -1,5 +1,5 @@
 ---
 title: "New Seasons Market"
 url: /tualatin/new-seasons-market/
-shop: supermarket
+shop: Supermarkt
 ---

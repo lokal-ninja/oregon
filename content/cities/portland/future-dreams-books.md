@@ -1,5 +1,5 @@
 ---
 title: "Future Dreams Books"
 url: /portland/future-dreams-books/
-shop: books
+shop: Bücher
 ---

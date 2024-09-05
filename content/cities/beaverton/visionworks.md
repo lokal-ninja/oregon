@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /beaverton/visionworks/
-shop: optician
+shop: Optiker
 ---

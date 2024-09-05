@@ -1,5 +1,5 @@
 ---
 title: "Coastal"
 url: /redmond/coastal/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

@@ -1,5 +1,5 @@
 ---
 title: "A-Max Security Solutions"
 url: /portland/a-max-security-solutions/
-shop: locksmith
+shop: Schlüsseldienst
 ---

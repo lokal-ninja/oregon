@@ -1,5 +1,5 @@
 ---
 title: "Solo's Salon"
 url: /corvallis/solos-salon/
-shop: beauty
+shop: Kosmetik
 ---

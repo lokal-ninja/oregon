@@ -1,5 +1,5 @@
 ---
 title: "Fly Dragon Spa"
 url: /portland/fly-dragon-spa/
-shop: beauty
+shop: Kosmetik
 ---

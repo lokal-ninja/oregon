@@ -1,5 +1,5 @@
 ---
 title: "FYI"
 url: /portland/fyi/
-shop: hairdresser
+shop: Friseur
 ---

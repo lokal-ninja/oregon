@@ -1,5 +1,5 @@
 ---
 title: "Slab"
 url: /bend/slab/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /beaverton/costco/
-shop: wholesale
+shop: Großhandel
 ---

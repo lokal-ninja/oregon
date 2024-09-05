@@ -1,5 +1,5 @@
 ---
 title: "Redpoint"
 url: /terrebonne/redpoint/
-shop: outdoor
+shop: Outdoor
 ---

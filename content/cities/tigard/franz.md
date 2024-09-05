@@ -1,5 +1,5 @@
 ---
 title: "Franz"
 url: /tigard/franz/
-shop: bakery
+shop: Bäckerei
 ---

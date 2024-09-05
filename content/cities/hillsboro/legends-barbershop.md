@@ -1,5 +1,5 @@
 ---
 title: "Legends Barbershop"
 url: /hillsboro/legends-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

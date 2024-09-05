@@ -1,5 +1,5 @@
 ---
 title: "Onyx Luxury Aesthetics"
 url: /albany/onyx-luxury-aesthetics/
-shop: beauty
+shop: Kosmetik
 ---

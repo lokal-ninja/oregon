@@ -1,5 +1,5 @@
 ---
 title: "Sweetpea"
 url: /portland/sweetpea/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
 url: /portland/extra-space-storage-southeast-belmont-street/
-shop: storage rental
+shop: Mieten
 ---

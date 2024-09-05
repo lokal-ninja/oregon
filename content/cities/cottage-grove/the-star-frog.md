@@ -1,5 +1,5 @@
 ---
 title: "The Star Frog"
 url: /cottage-grove/the-star-frog/
-shop: shop
+shop: Allgemein
 ---

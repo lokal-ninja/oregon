@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /hillsboro/costco/
-shop: wholesale
+shop: Großhandel
 ---

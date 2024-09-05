@@ -1,5 +1,5 @@
 ---
 title: "buy2"
 url: /florence/buy2/
-shop: convenience
+shop: Lebensmittel
 ---

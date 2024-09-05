@@ -1,5 +1,5 @@
 ---
 title: "Grasshopper"
 url: /portland/grasshopper/
-shop: baby goods
+shop: Babysachen
 ---

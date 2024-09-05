@@ -1,5 +1,5 @@
 ---
 title: "Bateman Carroll Funeral Home"
 url: /gresham/bateman-carroll-funeral-home/
-shop: funeral directors
+shop: Bestattungen
 ---

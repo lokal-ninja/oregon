@@ -1,5 +1,5 @@
 ---
 title: "Balm"
 url: /portland/balm/
-shop: beauty
+shop: Kosmetik
 ---

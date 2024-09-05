@@ -1,5 +1,5 @@
 ---
 title: "Harley-Davidson"
 url: /medford/harley-davidson/
-shop: motorcycle
+shop: Motorrad
 ---

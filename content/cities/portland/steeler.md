@@ -1,5 +1,5 @@
 ---
 title: "Steeler"
 url: /portland/steeler/
-shop: trade
+shop: Baustoffe
 ---

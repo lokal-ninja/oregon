@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /bend/lush/
-shop: beauty
+shop: Kosmetik
 ---

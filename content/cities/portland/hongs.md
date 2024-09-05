@@ -1,5 +1,5 @@
 ---
 title: "Hongs"
 url: /portland/hongs/
-shop: houseware
+shop: Haushaltsartikel
 ---

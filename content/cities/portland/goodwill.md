@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /portland/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grateful Heads"
 url: /portland/grateful-heads/
-shop: hairdresser
+shop: Friseur
 ---

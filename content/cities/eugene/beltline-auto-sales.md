@@ -1,5 +1,5 @@
 ---
 title: "Beltline Auto Sales"
 url: /eugene/beltline-auto-sales/
-shop: car
+shop: Autohaus
 ---

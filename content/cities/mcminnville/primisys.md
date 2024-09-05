@@ -1,5 +1,5 @@
 ---
 title: "Primisys"
 url: /mcminnville/primisys/
-shop: computer
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nectar"
 url: /milwaukie/nectar/
-shop: cannabis
+shop: Hanf
 ---

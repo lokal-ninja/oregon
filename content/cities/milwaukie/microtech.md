@@ -1,5 +1,5 @@
 ---
 title: "Microtech"
 url: /milwaukie/microtech/
-shop: computer
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Logik"
 url: /portland/logik/
-shop: hairdresser
+shop: Friseur
 ---

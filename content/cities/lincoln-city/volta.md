@@ -1,5 +1,5 @@
 ---
 title: "Volta"
 url: /lincoln-city/volta/
-shop: art
+shop: Kunst
 ---

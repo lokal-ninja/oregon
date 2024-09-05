@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /troutdale/jacksons/
-shop: convenience
+shop: Lebensmittel
 ---

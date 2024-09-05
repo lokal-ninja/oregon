@@ -1,5 +1,5 @@
 ---
 title: "Laundramat"
 url: /la-pine/laundramat/
-shop: laundry
+shop: Wäscherei
 ---

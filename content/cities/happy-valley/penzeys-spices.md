@@ -1,5 +1,5 @@
 ---
 title: "Penzeys Spices"
 url: /happy-valley/penzeys-spices/
-shop: spices
+shop: Gewürze
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kara's Kitchenware"
 url: /bend/karas-kitchenware/
-shop: houseware
+shop: Haushaltsartikel
 ---

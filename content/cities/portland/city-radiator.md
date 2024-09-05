@@ -1,5 +1,5 @@
 ---
 title: "City Radiator"
 url: /portland/city-radiator/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toms"
 url: /portland/toms/
-shop: shoes
+shop: Schuhe
 ---

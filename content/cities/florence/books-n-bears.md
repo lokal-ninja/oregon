@@ -1,5 +1,5 @@
 ---
 title: "Books 'n Bears"
 url: /florence/books-n-bears/
-shop: books
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vogue Nails"
 url: /portland/vogue-nails/
-shop: beauty
+shop: Kosmetik
 ---

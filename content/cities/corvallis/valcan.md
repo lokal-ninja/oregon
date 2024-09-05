@@ -1,5 +1,5 @@
 ---
 title: "valcan"
 url: /corvallis/valcan/
-shop: wine
+shop: Wein
 ---

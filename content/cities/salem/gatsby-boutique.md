@@ -1,5 +1,5 @@
 ---
 title: "Gatsby Boutique"
 url: /salem/gatsby-boutique/
-shop: jewelry
+shop: Schmuck
 ---

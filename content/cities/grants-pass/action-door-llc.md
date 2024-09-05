@@ -1,5 +1,5 @@
 ---
 title: "Action Door LLC"
 url: /grants-pass/action-door-llc/
-shop: doors
+shop: Türen
 ---

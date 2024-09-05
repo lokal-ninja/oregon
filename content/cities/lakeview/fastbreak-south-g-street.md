@@ -1,5 +1,5 @@
 ---
 title: "FastBreak"
 url: /lakeview/fastbreak-south-g-street/
-shop: convenience
+shop: Lebensmittel
 ---

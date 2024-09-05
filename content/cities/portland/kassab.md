@@ -1,5 +1,5 @@
 ---
 title: "Kassab"
 url: /portland/kassab/
-shop: jewelry
+shop: Schmuck
 ---

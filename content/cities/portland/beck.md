@@ -1,5 +1,5 @@
 ---
 title: "Beck"
 url: /portland/beck/
-shop: hairdresser
+shop: Friseur
 ---

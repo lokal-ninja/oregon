@@ -1,5 +1,5 @@
 ---
 title: "The Lamb Boutique"
 url: /portland/the-lamb-boutique/
-shop: boutique
+shop: Modehaus
 ---

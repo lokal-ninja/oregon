@@ -1,5 +1,5 @@
 ---
 title: "Gild"
 url: /portland/gild/
-shop: shoes
+shop: Schuhe
 ---

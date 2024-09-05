@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /clackamas/petco/
-shop: pet
+shop: Tiere
 ---

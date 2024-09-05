@@ -1,5 +1,5 @@
 ---
 title: "Mor"
 url: /tigard/mor/
-shop: furniture
+shop: Möbel
 ---

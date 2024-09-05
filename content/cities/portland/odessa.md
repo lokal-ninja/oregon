@@ -1,5 +1,5 @@
 ---
 title: "Odessa"
 url: /portland/odessa/
-shop: clothes
+shop: Kleidung
 ---

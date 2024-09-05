@@ -1,5 +1,5 @@
 ---
 title: "Rent-A-Center"
 url: /happy-valley/rent-a-center/
-shop: furniture
+shop: Möbel
 ---

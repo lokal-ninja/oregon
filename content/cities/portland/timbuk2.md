@@ -1,5 +1,5 @@
 ---
 title: "Timbuk2"
 url: /portland/timbuk2/
-shop: clothes
+shop: Kleidung
 ---

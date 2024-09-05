@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /gresham/best-buy/
-shop: electronics
+shop: Elektronik
 ---

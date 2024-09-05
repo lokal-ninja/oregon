@@ -1,5 +1,5 @@
 ---
 title: "BohNel"
 url: /portland/bohnel/
-shop: hairdresser
+shop: Friseur
 ---

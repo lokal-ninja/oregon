@@ -1,5 +1,5 @@
 ---
 title: "Mini Pet Mart"
 url: /lincoln-city/mini-pet-mart/
-shop: convenience
+shop: Lebensmittel
 ---

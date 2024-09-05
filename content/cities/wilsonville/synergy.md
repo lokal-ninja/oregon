@@ -1,5 +1,5 @@
 ---
 title: "Synergy"
 url: /wilsonville/synergy/
-shop: hairdresser
+shop: Friseur
 ---

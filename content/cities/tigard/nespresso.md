@@ -1,5 +1,5 @@
 ---
 title: "Nespresso"
 url: /tigard/nespresso/
-shop: coffee
+shop: Kaffee
 ---

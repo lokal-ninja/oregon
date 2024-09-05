@@ -1,5 +1,5 @@
 ---
 title: "Blackthorn"
 url: /portland/blackthorn/
-shop: houseware
+shop: Haushaltsartikel
 ---

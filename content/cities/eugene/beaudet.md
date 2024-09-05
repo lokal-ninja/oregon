@@ -1,5 +1,5 @@
 ---
 title: "Beaudet"
 url: /eugene/beaudet/
-shop: jewelry
+shop: Schmuck
 ---

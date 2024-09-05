@@ -1,5 +1,5 @@
 ---
 title: "Sole"
 url: /bend/sole/
-shop: massage
+shop: Massage
 ---

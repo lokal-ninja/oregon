@@ -1,5 +1,5 @@
 ---
 title: "Lily Nails"
 url: /portland/lily-nails/
-shop: beauty
+shop: Kosmetik
 ---

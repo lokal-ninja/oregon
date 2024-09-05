@@ -1,5 +1,5 @@
 ---
 title: "Wave"
 url: /sandy/wave/
-shop: electronics
+shop: Elektronik
 ---

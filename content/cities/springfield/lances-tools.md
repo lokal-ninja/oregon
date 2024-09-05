@@ -1,5 +1,5 @@
 ---
 title: "Lance’s Tools"
 url: /springfield/lances-tools/
-shop: antiques
+shop: Antiquitäten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Guentner's Gardens"
 url: /salem/guentners-gardens/
-shop: garden centre
+shop: Garten-Center
 ---

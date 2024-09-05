@@ -1,5 +1,5 @@
 ---
 title: "Terrex"
 url: /portland/terrex/
-shop: clothes
+shop: Kleidung
 ---

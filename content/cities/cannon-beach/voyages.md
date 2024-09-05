@@ -1,5 +1,5 @@
 ---
 title: "Voyages"
 url: /cannon-beach/voyages/
-shop: toys
+shop: Spielzeug
 ---

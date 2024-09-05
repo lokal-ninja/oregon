@@ -1,5 +1,5 @@
 ---
 title: "Topaz Farm"
 url: /portland/topaz-farm/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

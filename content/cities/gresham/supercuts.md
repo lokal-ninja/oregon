@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /gresham/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

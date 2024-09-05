@@ -1,5 +1,5 @@
 ---
 title: "NW Cannabis Club"
 url: /portland/nw-cannabis-club/
-shop: cannabis
+shop: Hanf
 ---

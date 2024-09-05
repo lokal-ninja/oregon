@@ -1,5 +1,5 @@
 ---
 title: "Cosube"
 url: /portland/cosube/
-shop: sports
+shop: Sport
 ---

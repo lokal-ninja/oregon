@@ -1,5 +1,5 @@
 ---
 title: "National Toner and Ink"
 url: /florence/national-toner-and-ink/
-shop: copyshop
+shop: Kopieren
 ---

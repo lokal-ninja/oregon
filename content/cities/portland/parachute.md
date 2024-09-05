@@ -1,5 +1,5 @@
 ---
 title: "Parachute"
 url: /portland/parachute/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Damal"
 url: /portland/damal/
-shop: clothes
+shop: Kleidung
 ---

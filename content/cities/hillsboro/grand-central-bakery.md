@@ -1,5 +1,5 @@
 ---
 title: "Grand Central Bakery"
 url: /hillsboro/grand-central-bakery/
-shop: bakery
+shop: Bäckerei
 ---

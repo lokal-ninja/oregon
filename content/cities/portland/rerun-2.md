@@ -1,5 +1,5 @@
 ---
 title: "Rerun 2"
 url: /portland/rerun-2/
-shop: charity
+shop: Gebrauchtwaren
 ---

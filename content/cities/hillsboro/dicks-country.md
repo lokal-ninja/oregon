@@ -1,5 +1,5 @@
 ---
 title: "Dick's Country"
 url: /hillsboro/dicks-country/
-shop: car
+shop: Autohaus
 ---

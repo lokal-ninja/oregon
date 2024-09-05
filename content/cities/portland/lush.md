@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /portland/lush/
-shop: beauty
+shop: Kosmetik
 ---

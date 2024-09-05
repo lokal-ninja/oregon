@@ -1,5 +1,5 @@
 ---
 title: "Fink's Luggage"
 url: /portland/finks-luggage/
-shop: bag
+shop: Taschen & Koffer
 ---

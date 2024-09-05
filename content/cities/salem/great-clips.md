@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /salem/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

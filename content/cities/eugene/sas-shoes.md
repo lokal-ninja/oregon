@@ -1,5 +1,5 @@
 ---
 title: "SAS Shoes"
 url: /eugene/sas-shoes/
-shop: shoes
+shop: Schuhe
 ---

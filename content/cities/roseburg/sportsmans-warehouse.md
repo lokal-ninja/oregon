@@ -1,5 +1,5 @@
 ---
 title: "Sportsman's Warehouse"
 url: /roseburg/sportsmans-warehouse/
-shop: outdoor
+shop: Outdoor
 ---

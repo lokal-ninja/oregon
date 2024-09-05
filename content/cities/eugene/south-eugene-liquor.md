@@ -1,5 +1,5 @@
 ---
 title: "South Eugene Liquor"
 url: /eugene/south-eugene-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

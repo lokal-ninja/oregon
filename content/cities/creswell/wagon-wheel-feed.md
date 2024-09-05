@@ -1,5 +1,5 @@
 ---
 title: "Wagon Wheel Feed"
 url: /creswell/wagon-wheel-feed/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

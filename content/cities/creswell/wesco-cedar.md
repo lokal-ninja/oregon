@@ -1,5 +1,5 @@
 ---
 title: "Wesco Cedar"
 url: /creswell/wesco-cedar/
-shop: trade
+shop: Baustoffe
 ---

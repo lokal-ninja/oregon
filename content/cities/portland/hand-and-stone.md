@@ -1,5 +1,5 @@
 ---
 title: "Hand and Stone"
 url: /portland/hand-and-stone/
-shop: massage
+shop: Massage
 ---

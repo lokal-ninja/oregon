@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /portland/sherwin-williams-southwest-poplar-lane/
-shop: paint
+shop: Farben
 ---

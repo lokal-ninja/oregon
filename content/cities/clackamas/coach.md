@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /clackamas/coach/
-shop: bag
+shop: Taschen & Koffer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Champ's"
 url: /portland/champs/
-shop: hairdresser
+shop: Friseur
 ---

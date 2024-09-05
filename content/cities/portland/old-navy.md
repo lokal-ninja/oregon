@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /portland/old-navy/
-shop: clothes
+shop: Kleidung
 ---

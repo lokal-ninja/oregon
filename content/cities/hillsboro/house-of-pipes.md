@@ -1,5 +1,5 @@
 ---
 title: "House of Pipes"
 url: /hillsboro/house-of-pipes/
-shop: tobacco
+shop: Tabak
 ---

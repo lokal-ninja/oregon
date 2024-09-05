@@ -1,5 +1,5 @@
 ---
 title: "Zumiez"
 url: /bend/zumiez/
-shop: clothes
+shop: Kleidung
 ---

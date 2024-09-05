@@ -1,5 +1,5 @@
 ---
 title: "Journeys Kidz"
 url: /clackamas/journeys-kidz/
-shop: shoes
+shop: Schuhe
 ---

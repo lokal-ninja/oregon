@@ -1,5 +1,5 @@
 ---
 title: "Footwise"
 url: /eugene/footwise/
-shop: shoes
+shop: Schuhe
 ---

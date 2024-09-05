@@ -1,5 +1,5 @@
 ---
 title: "Galveston Gardens"
 url: /bend/galveston-gardens/
-shop: garden centre
+shop: Garten-Center
 ---

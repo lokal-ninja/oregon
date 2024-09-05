@@ -1,5 +1,5 @@
 ---
 title: "Center Market"
 url: /depoe-bay/center-market/
-shop: convenience
+shop: Lebensmittel
 ---

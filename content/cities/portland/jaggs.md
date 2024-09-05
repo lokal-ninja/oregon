@@ -1,5 +1,5 @@
 ---
 title: "Jaggs"
 url: /portland/jaggs/
-shop: hairdresser
+shop: Friseur
 ---

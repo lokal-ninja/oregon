@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /portland/gamestop/
-shop: video games
+shop: Videospiele
 ---

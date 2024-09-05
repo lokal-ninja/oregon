@@ -1,5 +1,5 @@
 ---
 title: "Filson"
 url: /portland/filson/
-shop: clothes
+shop: Kleidung
 ---

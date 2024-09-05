@@ -1,5 +1,5 @@
 ---
 title: "Goldmark"
 url: /portland/goldmark/
-shop: jewelry
+shop: Schmuck
 ---

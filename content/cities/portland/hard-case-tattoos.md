@@ -1,5 +1,5 @@
 ---
 title: "Hard Case Tattoos"
 url: /portland/hard-case-tattoos/
-shop: tattoo
+shop: Tattoo
 ---

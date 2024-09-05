@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /tigard/pandora/
-shop: jewelry
+shop: Schmuck
 ---

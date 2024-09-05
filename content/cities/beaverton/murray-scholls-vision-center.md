@@ -1,5 +1,5 @@
 ---
 title: "Murray Scholls Vision Center"
 url: /beaverton/murray-scholls-vision-center/
-shop: optician
+shop: Optiker
 ---

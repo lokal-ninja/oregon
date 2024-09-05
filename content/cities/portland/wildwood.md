@@ -1,5 +1,5 @@
 ---
 title: "Wildwood"
 url: /portland/wildwood/
-shop: clothes
+shop: Kleidung
 ---

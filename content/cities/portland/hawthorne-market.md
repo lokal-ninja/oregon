@@ -1,5 +1,5 @@
 ---
 title: "Hawthorne Market"
 url: /portland/hawthorne-market/
-shop: convenience
+shop: Lebensmittel
 ---

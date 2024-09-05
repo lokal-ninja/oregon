@@ -1,5 +1,5 @@
 ---
 title: "Sacred Ground Massage"
 url: /portland/sacred-ground-massage/
-shop: massage
+shop: Massage
 ---

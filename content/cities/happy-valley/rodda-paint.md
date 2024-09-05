@@ -1,5 +1,5 @@
 ---
 title: "Rodda Paint"
 url: /happy-valley/rodda-paint/
-shop: paint
+shop: Farben
 ---

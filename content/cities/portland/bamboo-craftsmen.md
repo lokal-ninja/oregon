@@ -1,5 +1,5 @@
 ---
 title: "Bamboo Craftsmen"
 url: /portland/bamboo-craftsmen/
-shop: garden centre
+shop: Garten-Center
 ---

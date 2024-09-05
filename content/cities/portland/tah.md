@@ -1,5 +1,5 @@
 ---
 title: "TAH"
 url: /portland/tah/
-shop: bag
+shop: Taschen & Koffer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Uwajimaya"
 url: /beaverton/uwajimaya/
-shop: supermarket
+shop: Supermarkt
 ---

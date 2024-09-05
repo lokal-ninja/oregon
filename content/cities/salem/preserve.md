@@ -1,5 +1,5 @@
 ---
 title: "Preserve"
 url: /salem/preserve/
-shop: cannabis
+shop: Hanf
 ---

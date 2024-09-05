@@ -1,5 +1,5 @@
 ---
 title: "The Natural Nails"
 url: /portland/the-natural-nails/
-shop: beauty
+shop: Kosmetik
 ---

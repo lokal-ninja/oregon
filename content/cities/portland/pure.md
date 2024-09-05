@@ -1,5 +1,5 @@
 ---
 title: "Pure"
 url: /portland/pure/
-shop: hairdresser supply
+shop: Friseurbedarf
 ---

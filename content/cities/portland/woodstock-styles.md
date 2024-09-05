@@ -1,5 +1,5 @@
 ---
 title: "Woodstock Styles"
 url: /portland/woodstock-styles/
-shop: hairdresser
+shop: Friseur
 ---

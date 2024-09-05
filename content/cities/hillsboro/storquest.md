@@ -1,5 +1,5 @@
 ---
 title: "StorQuest"
 url: /hillsboro/storquest/
-shop: storage rental
+shop: Mieten
 ---

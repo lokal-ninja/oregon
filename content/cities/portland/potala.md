@@ -1,5 +1,5 @@
 ---
 title: "Potala"
 url: /portland/potala/
-shop: gift
+shop: Andenken
 ---

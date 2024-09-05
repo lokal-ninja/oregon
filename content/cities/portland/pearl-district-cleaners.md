@@ -1,5 +1,5 @@
 ---
 title: "Pearl District Cleaners"
 url: /portland/pearl-district-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

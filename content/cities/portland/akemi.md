@@ -1,5 +1,5 @@
 ---
 title: "Akemi"
 url: /portland/akemi/
-shop: hairdresser
+shop: Friseur
 ---

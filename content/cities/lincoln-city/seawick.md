@@ -1,5 +1,5 @@
 ---
 title: "Seawick"
 url: /lincoln-city/seawick/
-shop: gift
+shop: Andenken
 ---

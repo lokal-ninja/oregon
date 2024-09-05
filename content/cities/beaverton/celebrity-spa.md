@@ -1,5 +1,5 @@
 ---
 title: "Celebrity Spa"
 url: /beaverton/celebrity-spa/
-shop: beauty
+shop: Kosmetik
 ---

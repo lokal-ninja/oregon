@@ -1,5 +1,5 @@
 ---
 title: "Zenana"
 url: /portland/zenana/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Branches"
 url: /portland/branches/
-shop: gift
+shop: Andenken
 ---

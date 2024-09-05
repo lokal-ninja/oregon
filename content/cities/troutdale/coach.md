@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /troutdale/coach/
-shop: bag
+shop: Taschen & Koffer
 ---

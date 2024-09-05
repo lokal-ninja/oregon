@@ -1,5 +1,5 @@
 ---
 title: "Milk"
 url: /corvallis/milk/
-shop: sports
+shop: Sport
 ---

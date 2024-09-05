@@ -1,5 +1,5 @@
 ---
 title: "Super Supplements"
 url: /hillsboro/super-supplements/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

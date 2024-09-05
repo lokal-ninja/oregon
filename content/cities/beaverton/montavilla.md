@@ -1,5 +1,5 @@
 ---
 title: "Montavilla"
 url: /beaverton/montavilla/
-shop: fabric
+shop: Textil
 ---

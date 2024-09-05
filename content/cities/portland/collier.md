@@ -1,5 +1,5 @@
 ---
 title: "Collier"
 url: /portland/collier/
-shop: clothes
+shop: Kleidung
 ---

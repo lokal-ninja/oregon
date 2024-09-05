@@ -1,5 +1,5 @@
 ---
 title: "Pendleton"
 url: /tigard/pendleton/
-shop: clothes
+shop: Kleidung
 ---

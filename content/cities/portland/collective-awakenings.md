@@ -1,5 +1,5 @@
 ---
 title: "Collective Awakenings"
 url: /portland/collective-awakenings/
-shop: cannabis
+shop: Hanf
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aeropostale"
 url: /clackamas/aeropostale/
-shop: clothes
+shop: Kleidung
 ---

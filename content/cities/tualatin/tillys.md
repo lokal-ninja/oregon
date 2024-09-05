@@ -1,5 +1,5 @@
 ---
 title: "Tillys"
 url: /tualatin/tillys/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hearth"
 url: /tigard/hearth/
-shop: shoes
+shop: Schuhe
 ---

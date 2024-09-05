@@ -1,5 +1,5 @@
 ---
 title: "Frieghtliner Northwest"
 url: /redmond/frieghtliner-northwest/
-shop: shop
+shop: Allgemein
 ---

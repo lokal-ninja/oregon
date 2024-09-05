@@ -1,5 +1,5 @@
 ---
 title: "Benesere"
 url: /portland/benesere/
-shop: convenience
+shop: Lebensmittel
 ---

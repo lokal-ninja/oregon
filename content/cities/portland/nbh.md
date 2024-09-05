@@ -1,5 +1,5 @@
 ---
 title: "NBH"
 url: /portland/nbh/
-shop: trade
+shop: Baustoffe
 ---

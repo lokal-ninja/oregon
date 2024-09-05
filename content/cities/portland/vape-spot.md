@@ -1,5 +1,5 @@
 ---
 title: "Vape Spot"
 url: /portland/vape-spot/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

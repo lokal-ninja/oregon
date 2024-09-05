@@ -1,5 +1,5 @@
 ---
 title: "Garry Small Saab"
 url: /portland/garry-small-saab/
-shop: car
+shop: Autohaus
 ---

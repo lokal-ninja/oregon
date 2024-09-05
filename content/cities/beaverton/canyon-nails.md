@@ -1,5 +1,5 @@
 ---
 title: "Canyon Nails"
 url: /beaverton/canyon-nails/
-shop: beauty
+shop: Kosmetik
 ---

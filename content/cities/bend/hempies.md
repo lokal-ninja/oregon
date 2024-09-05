@@ -1,5 +1,5 @@
 ---
 title: "Hempies"
 url: /bend/hempies/
-shop: tobacco
+shop: Tabak
 ---

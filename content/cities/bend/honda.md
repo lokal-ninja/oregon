@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /bend/honda/
-shop: car
+shop: Autohaus
 ---

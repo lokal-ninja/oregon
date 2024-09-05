@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /eugene/rei/
-shop: outdoor
+shop: Outdoor
 ---

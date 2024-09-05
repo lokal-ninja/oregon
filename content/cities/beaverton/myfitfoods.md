@@ -1,5 +1,5 @@
 ---
 title: "MyFitFoods"
 url: /beaverton/myfitfoods/
-shop: health food
+shop: Bioladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trios'"
 url: /lake-oswego/trios/
-shop: jewelry
+shop: Schmuck
 ---

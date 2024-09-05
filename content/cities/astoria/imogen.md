@@ -1,5 +1,5 @@
 ---
 title: "Imogen"
 url: /astoria/imogen/
-shop: art
+shop: Kunst
 ---

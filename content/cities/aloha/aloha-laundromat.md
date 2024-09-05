@@ -1,5 +1,5 @@
 ---
 title: "Aloha Laundromat"
 url: /aloha/aloha-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

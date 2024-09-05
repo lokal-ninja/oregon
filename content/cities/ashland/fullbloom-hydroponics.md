@@ -1,5 +1,5 @@
 ---
 title: "Fullbloom Hydroponics"
 url: /ashland/fullbloom-hydroponics/
-shop: garden centre
+shop: Garten-Center
 ---

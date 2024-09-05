@@ -1,5 +1,5 @@
 ---
 title: "Adidas Employee Store"
 url: /portland/adidas-employee-store/
-shop: sports
+shop: Sport
 ---

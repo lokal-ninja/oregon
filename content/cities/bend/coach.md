@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /bend/coach/
-shop: bag
+shop: Taschen & Koffer
 ---

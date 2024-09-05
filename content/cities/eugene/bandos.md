@@ -1,5 +1,5 @@
 ---
 title: "Bando's"
 url: /eugene/bandos/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dari Mart"
 url: /albany/dari-mart/
-shop: convenience
+shop: Lebensmittel
 ---

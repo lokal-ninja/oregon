@@ -1,5 +1,5 @@
 ---
 title: "eNails"
 url: /portland/enails/
-shop: beauty
+shop: Kosmetik
 ---

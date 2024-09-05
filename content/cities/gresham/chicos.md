@@ -1,5 +1,5 @@
 ---
 title: "Chico's"
 url: /gresham/chicos/
-shop: clothes
+shop: Kleidung
 ---

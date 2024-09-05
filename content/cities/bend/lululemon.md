@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
 url: /bend/lululemon/
-shop: clothes
+shop: Kleidung
 ---

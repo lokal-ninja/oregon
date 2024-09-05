@@ -1,5 +1,5 @@
 ---
 title: "Just Move Boutique"
 url: /pleasant-hill/just-move-boutique/
-shop: clothes
+shop: Kleidung
 ---

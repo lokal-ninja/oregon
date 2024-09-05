@@ -1,5 +1,5 @@
 ---
 title: "MiniMini"
 url: /portland/minimini/
-shop: convenience
+shop: Lebensmittel
 ---

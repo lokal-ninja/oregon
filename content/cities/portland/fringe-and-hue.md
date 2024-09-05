@@ -1,5 +1,5 @@
 ---
 title: "Fringe and Hue"
 url: /portland/fringe-and-hue/
-shop: beauty
+shop: Kosmetik
 ---

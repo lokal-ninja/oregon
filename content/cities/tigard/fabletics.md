@@ -1,5 +1,5 @@
 ---
 title: "Fabletics"
 url: /tigard/fabletics/
-shop: clothes
+shop: Kleidung
 ---

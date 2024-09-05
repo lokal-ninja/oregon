@@ -1,5 +1,5 @@
 ---
 title: "Zales"
 url: /clackamas/zales/
-shop: jewelry
+shop: Schmuck
 ---

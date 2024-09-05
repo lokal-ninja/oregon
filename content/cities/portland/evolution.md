@@ -1,5 +1,5 @@
 ---
 title: "Evolution"
 url: /portland/evolution/
-shop: hairdresser
+shop: Friseur
 ---

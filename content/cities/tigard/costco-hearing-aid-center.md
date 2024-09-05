@@ -1,5 +1,5 @@
 ---
 title: "Costco Hearing Aid Center"
 url: /tigard/costco-hearing-aid-center/
-shop: hearing aids
+shop: Hörgeräte
 ---

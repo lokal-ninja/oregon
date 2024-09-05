@@ -1,5 +1,5 @@
 ---
 title: "Dragonvine"
 url: /springfield/dragonvine/
-shop: anime
+shop: Anime
 ---

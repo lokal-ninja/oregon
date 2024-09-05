@@ -1,5 +1,5 @@
 ---
 title: "Morgan"
 url: /clackamas/morgan/
-shop: jewelry
+shop: Schmuck
 ---

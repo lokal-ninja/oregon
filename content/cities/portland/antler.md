@@ -1,5 +1,5 @@
 ---
 title: "Antler"
 url: /portland/antler/
-shop: art
+shop: Kunst
 ---

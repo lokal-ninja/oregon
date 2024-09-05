@@ -1,5 +1,5 @@
 ---
 title: "PDXchange"
 url: /portland/pdxchange/
-shop: gift
+shop: Andenken
 ---

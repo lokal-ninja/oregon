@@ -1,5 +1,5 @@
 ---
 title: "Aerie"
 url: /clackamas/aerie/
-shop: clothes
+shop: Kleidung
 ---

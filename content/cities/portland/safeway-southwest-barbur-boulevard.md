@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /portland/safeway-southwest-barbur-boulevard/
-shop: supermarket
+shop: Supermarkt
 ---

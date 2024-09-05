@@ -1,5 +1,5 @@
 ---
 title: "Mindy's"
 url: /eugene/mindys/
-shop: clothes
+shop: Kleidung
 ---

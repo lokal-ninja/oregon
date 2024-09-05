@@ -1,5 +1,5 @@
 ---
 title: "Pendleton"
 url: /eugene/pendleton/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goldworks"
 url: /eugene/goldworks/
-shop: jewelry
+shop: Schmuck
 ---

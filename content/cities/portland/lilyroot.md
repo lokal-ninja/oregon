@@ -1,5 +1,5 @@
 ---
 title: "LilyRoot"
 url: /portland/lilyroot/
-shop: florist
+shop: Blumen
 ---

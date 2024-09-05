@@ -1,5 +1,5 @@
 ---
 title: "Dari Mart"
 url: /eugene/dari-mart/
-shop: convenience
+shop: Lebensmittel
 ---

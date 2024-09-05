@@ -1,5 +1,5 @@
 ---
 title: "Bootco"
 url: /clackamas/bootco/
-shop: shoes
+shop: Schuhe
 ---

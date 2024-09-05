@@ -1,5 +1,5 @@
 ---
 title: "Lube It USA"
 url: /eugene/lube-it-usa/
-shop: car repair
+shop: Autowerkstatt
 ---

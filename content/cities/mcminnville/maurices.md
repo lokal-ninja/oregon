@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /mcminnville/maurices/
-shop: clothes
+shop: Kleidung
 ---

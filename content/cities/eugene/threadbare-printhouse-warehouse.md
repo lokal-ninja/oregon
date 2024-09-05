@@ -1,5 +1,5 @@
 ---
 title: "Threadbare Printhouse - Warehouse"
 url: /eugene/threadbare-printhouse-warehouse/
-shop: clothes
+shop: Kleidung
 ---

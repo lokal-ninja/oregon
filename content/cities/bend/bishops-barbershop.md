@@ -1,5 +1,5 @@
 ---
 title: "Bishops Barbershop"
 url: /bend/bishops-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

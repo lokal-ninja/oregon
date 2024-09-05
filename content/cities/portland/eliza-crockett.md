@@ -1,5 +1,5 @@
 ---
 title: "Eliza Crockett"
 url: /portland/eliza-crockett/
-shop: massage
+shop: Massage
 ---

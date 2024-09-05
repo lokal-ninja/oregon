@@ -1,5 +1,5 @@
 ---
 title: "Nationale"
 url: /portland/nationale/
-shop: art
+shop: Kunst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Foot Spa Reflexology"
 url: /beaverton/foot-spa-reflexology/
-shop: beauty
+shop: Kosmetik
 ---

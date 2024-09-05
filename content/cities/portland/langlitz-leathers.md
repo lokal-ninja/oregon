@@ -1,5 +1,5 @@
 ---
 title: "Langlitz Leathers"
 url: /portland/langlitz-leathers/
-shop: leather
+shop: Leder
 ---

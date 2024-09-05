@@ -1,5 +1,5 @@
 ---
 title: "Oro"
 url: /portland/oro/
-shop: jewelry
+shop: Schmuck
 ---

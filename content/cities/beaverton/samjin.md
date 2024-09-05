@@ -1,5 +1,5 @@
 ---
 title: "Samjin"
 url: /beaverton/samjin/
-shop: gift
+shop: Andenken
 ---

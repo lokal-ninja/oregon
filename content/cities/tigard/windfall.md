@@ -1,5 +1,5 @@
 ---
 title: "Windfall"
 url: /tigard/windfall/
-shop: lottery
+shop: Lotterie
 ---

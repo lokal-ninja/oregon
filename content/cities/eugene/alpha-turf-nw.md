@@ -1,5 +1,5 @@
 ---
 title: "Alpha Turf NW"
 url: /eugene/alpha-turf-nw/
-shop: groundskeeping
+shop: Platzpflege
 ---

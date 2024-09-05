@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /eugene/nike/
-shop: clothes
+shop: Kleidung
 ---

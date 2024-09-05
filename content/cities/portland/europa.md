@@ -1,5 +1,5 @@
 ---
 title: "Europa"
 url: /portland/europa/
-shop: hairdresser
+shop: Friseur
 ---

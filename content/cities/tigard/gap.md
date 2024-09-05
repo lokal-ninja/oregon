@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /tigard/gap/
-shop: clothes
+shop: Kleidung
 ---

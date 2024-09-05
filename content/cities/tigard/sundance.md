@@ -1,5 +1,5 @@
 ---
 title: "Sundance"
 url: /tigard/sundance/
-shop: clothes
+shop: Kleidung
 ---

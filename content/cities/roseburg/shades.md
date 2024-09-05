@@ -1,5 +1,5 @@
 ---
 title: "Shades"
 url: /roseburg/shades/
-shop: beauty
+shop: Kosmetik
 ---

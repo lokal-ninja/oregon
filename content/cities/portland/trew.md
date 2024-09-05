@@ -1,5 +1,5 @@
 ---
 title: "Trew"
 url: /portland/trew/
-shop: clothes
+shop: Kleidung
 ---

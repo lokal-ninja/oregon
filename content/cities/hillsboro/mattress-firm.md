@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /hillsboro/mattress-firm/
-shop: bed
+shop: Betten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /tigard/safeway-southwest-barrows-road/
-shop: supermarket
+shop: Supermarkt
 ---

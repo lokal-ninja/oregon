@@ -1,5 +1,5 @@
 ---
 title: "Aesop"
 url: /portland/aesop/
-shop: hairdresser
+shop: Friseur
 ---

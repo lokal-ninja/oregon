@@ -1,5 +1,5 @@
 ---
 title: "Liquor Store"
 url: /cave-junction/liquor-store/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vino"
 url: /portland/vino/
-shop: wine
+shop: Wein
 ---

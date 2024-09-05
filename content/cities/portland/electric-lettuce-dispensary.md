@@ -1,5 +1,5 @@
 ---
 title: "Electric Lettuce Dispensary"
 url: /portland/electric-lettuce-dispensary/
-shop: cannabis
+shop: Hanf
 ---

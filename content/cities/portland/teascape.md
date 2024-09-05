@@ -1,5 +1,5 @@
 ---
 title: "TeaScape"
 url: /portland/teascape/
-shop: massage
+shop: Massage
 ---
