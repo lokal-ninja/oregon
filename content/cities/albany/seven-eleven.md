@@ -1,5 +1,5 @@
 ---
 title: "Seven Eleven"
 url: /albany/seven-eleven/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hattawear"
 url: /salem/hattawear/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilco"
 url: /corvallis/wilco/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

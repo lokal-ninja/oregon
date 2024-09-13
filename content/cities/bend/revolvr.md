@@ -1,5 +1,5 @@
 ---
 title: "Revolvr"
 url: /bend/revolvr/
-shop: Kleidung
+shop: clothes
 ---

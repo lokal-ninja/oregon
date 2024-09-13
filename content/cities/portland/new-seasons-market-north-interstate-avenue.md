@@ -1,5 +1,5 @@
 ---
 title: "New Seasons Market"
 url: /portland/new-seasons-market-north-interstate-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SunLan Lighting"
 url: /portland/sunlan-lighting/
-shop: Lampen
+shop: lamps
 ---

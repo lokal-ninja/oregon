@@ -1,5 +1,5 @@
 ---
 title: "Go Wireless"
 url: /portland/go-wireless/
-shop: Handy
+shop: mobile phone
 ---

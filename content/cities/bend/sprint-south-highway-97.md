@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /bend/sprint-south-highway-97/
-shop: Handy
+shop: mobile phone
 ---

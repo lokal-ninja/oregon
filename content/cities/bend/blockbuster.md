@@ -1,5 +1,5 @@
 ---
 title: "Blockbuster"
 url: /bend/blockbuster/
-shop: Videothek
+shop: video
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Halo Salon"
 url: /portland/halo-salon/
-shop: Friseur
+shop: hairdresser
 ---

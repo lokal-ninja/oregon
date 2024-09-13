@@ -1,5 +1,5 @@
 ---
 title: "Bridge Town Market"
 url: /lowell/bridge-town-market/
-shop: Supermarkt
+shop: supermarket
 ---

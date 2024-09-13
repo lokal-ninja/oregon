@@ -1,5 +1,5 @@
 ---
 title: "Queen Tattoo"
 url: /springfield/queen-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

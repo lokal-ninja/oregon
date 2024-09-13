@@ -1,5 +1,5 @@
 ---
 title: "ReRack"
 url: /portland/rerack/
-shop: Autoteile
+shop: car parts
 ---

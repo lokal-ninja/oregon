@@ -1,5 +1,5 @@
 ---
 title: "Flourish Boutique"
 url: /lincoln-city/flourish-boutique/
-shop: Kleidung
+shop: clothes
 ---

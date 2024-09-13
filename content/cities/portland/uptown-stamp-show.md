@@ -1,5 +1,5 @@
 ---
 title: "Uptown Stamp Show"
 url: /portland/uptown-stamp-show/
-shop: Sammler
+shop: collector
 ---

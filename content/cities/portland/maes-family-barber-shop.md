@@ -1,5 +1,5 @@
 ---
 title: "Mae's Family Barber Shop"
 url: /portland/maes-family-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

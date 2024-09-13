@@ -1,5 +1,5 @@
 ---
 title: "Whistle Stop Trains"
 url: /portland/whistle-stop-trains/
-shop: Modellbau
+shop: model
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /happy-valley/burlington/
-shop: Warenhaus
+shop: department store
 ---

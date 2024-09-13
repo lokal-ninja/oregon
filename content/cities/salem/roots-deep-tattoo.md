@@ -1,5 +1,5 @@
 ---
 title: "Roots Deep Tattoo"
 url: /salem/roots-deep-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

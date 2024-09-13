@@ -1,5 +1,5 @@
 ---
 title: "Cleaners"
 url: /west-linn/cleaners-willamette-drive/
-shop: Wäscherei
+shop: laundry
 ---

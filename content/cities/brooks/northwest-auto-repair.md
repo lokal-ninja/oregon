@@ -1,5 +1,5 @@
 ---
 title: "Northwest Auto Repair"
 url: /brooks/northwest-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

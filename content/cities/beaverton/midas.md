@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /beaverton/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Finish Line"
 url: /portland/finish-line/
-shop: Sport
+shop: sports
 ---

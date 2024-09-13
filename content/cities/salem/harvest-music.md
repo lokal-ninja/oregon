@@ -1,5 +1,5 @@
 ---
 title: "Harvest Music"
 url: /salem/harvest-music/
-shop: Musik
+shop: music
 ---

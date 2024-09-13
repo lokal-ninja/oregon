@@ -1,5 +1,5 @@
 ---
 title: "Garden Valley Laundromat"
 url: /roseburg/garden-valley-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

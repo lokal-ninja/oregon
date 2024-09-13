@@ -1,5 +1,5 @@
 ---
 title: "Herzog-Meier Volkswagen"
 url: /beaverton/herzog-meier-volkswagen-southwest-139th-way/
-shop: Autowerkstatt
+shop: car repair
 ---

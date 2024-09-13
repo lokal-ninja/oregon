@@ -1,5 +1,5 @@
 ---
 title: "Go Green Cleaners"
 url: /beaverton/go-green-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

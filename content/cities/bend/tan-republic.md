@@ -1,5 +1,5 @@
 ---
 title: "Tan Republic"
 url: /bend/tan-republic/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elegant Nails"
 url: /beaverton/elegant-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pacific Watersports"
 url: /aloha/pacific-watersports/
-shop: Sport
+shop: sports
 ---

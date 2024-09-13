@@ -1,5 +1,5 @@
 ---
 title: "Nectar"
 url: /beaverton/nectar/
-shop: Hanf
+shop: cannabis
 ---

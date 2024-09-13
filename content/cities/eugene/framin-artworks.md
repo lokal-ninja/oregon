@@ -1,5 +1,5 @@
 ---
 title: "Framin' Artworks"
 url: /eugene/framin-artworks/
-shop: Rahmen
+shop: frame
 ---

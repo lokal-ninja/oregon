@@ -1,5 +1,5 @@
 ---
 title: "Will Leather Goods"
 url: /eugene/will-leather-goods/
-shop: Leder
+shop: leather
 ---

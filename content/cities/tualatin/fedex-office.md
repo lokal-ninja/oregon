@@ -1,5 +1,5 @@
 ---
 title: "FedEx Office"
 url: /tualatin/fedex-office/
-shop: Kopieren
+shop: copyshop
 ---

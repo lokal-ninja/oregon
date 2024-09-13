@@ -1,5 +1,5 @@
 ---
 title: "Estilo"
 url: /bend/estilo/
-shop: Friseur
+shop: hairdresser
 ---

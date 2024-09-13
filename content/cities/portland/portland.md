@@ -1,5 +1,5 @@
 ---
 title: "Portland"
 url: /portland/portland/
-shop: Hanf
+shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walker Driveline Service"
 url: /talent/walker-driveline-service/
-shop: Autowerkstatt
+shop: car repair
 ---

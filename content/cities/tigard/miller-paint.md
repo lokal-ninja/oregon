@@ -1,5 +1,5 @@
 ---
 title: "Miller Paint"
 url: /tigard/miller-paint/
-shop: Farben
+shop: paint
 ---

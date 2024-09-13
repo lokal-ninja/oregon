@@ -1,5 +1,5 @@
 ---
 title: "Peloton"
 url: /tigard/peloton/
-shop: Sport
+shop: sports
 ---

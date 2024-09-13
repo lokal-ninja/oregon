@@ -1,5 +1,5 @@
 ---
 title: "B' Tan"
 url: /hillsboro/b-tan/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Diamond Sea"
 url: /portland/the-diamond-sea/
-shop: Kleidung
+shop: clothes
 ---

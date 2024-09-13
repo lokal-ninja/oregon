@@ -1,5 +1,5 @@
 ---
 title: "Marys Peak True Value"
 url: /philomath/marys-peak-true-value/
-shop: Eisenwaren
+shop: hardware
 ---

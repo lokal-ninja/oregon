@@ -1,5 +1,5 @@
 ---
 title: "Shoe Mill"
 url: /tigard/shoe-mill/
-shop: Schuhe
+shop: shoes
 ---

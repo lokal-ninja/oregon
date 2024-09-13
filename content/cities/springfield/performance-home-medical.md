@@ -1,5 +1,5 @@
 ---
 title: "Performance Home Medical"
 url: /springfield/performance-home-medical/
-shop: Sanitätshaus
+shop: medical supply
 ---

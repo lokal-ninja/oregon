@@ -1,5 +1,5 @@
 ---
 title: "Carr Used Cars"
 url: /beaverton/carr-used-cars/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pepperberries"
 url: /eugene/pepperberries/
-shop: Haushaltsartikel
+shop: houseware
 ---

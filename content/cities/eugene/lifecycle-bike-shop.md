@@ -1,5 +1,5 @@
 ---
 title: "LifeCycle Bike Shop"
 url: /eugene/lifecycle-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

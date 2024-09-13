@@ -1,5 +1,5 @@
 ---
 title: "Porter's"
 url: /newberg/porters/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Big White Goose"
 url: /canby/big-white-goose/
-shop: Basteln
+shop: craft
 ---

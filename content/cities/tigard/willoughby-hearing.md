@@ -1,5 +1,5 @@
 ---
 title: "Willoughby Hearing"
 url: /tigard/willoughby-hearing/
-shop: Hörgeräte
+shop: hearing aids
 ---

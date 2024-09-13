@@ -1,5 +1,5 @@
 ---
 title: "Outback Automotive"
 url: /springfield/outback-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

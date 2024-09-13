@@ -1,5 +1,5 @@
 ---
 title: "Ron's Front End"
 url: /portland/rons-front-end/
-shop: Autowerkstatt
+shop: car repair
 ---

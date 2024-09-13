@@ -1,5 +1,5 @@
 ---
 title: "Ecru"
 url: /portland/ecru-southwest-yamhill-street/
-shop: Schreibwaren
+shop: office supplies
 ---

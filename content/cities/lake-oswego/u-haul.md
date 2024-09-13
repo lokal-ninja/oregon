@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /lake-oswego/u-haul/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hertz"
 url: /bend/hertz/
-shop: Autowerkstatt
+shop: car repair
 ---

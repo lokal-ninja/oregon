@@ -1,5 +1,5 @@
 ---
 title: "Pony"
 url: /portland/pony/
-shop: Friseur
+shop: hairdresser
 ---

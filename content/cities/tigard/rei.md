@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /tigard/rei/
-shop: Outdoor
+shop: outdoor
 ---

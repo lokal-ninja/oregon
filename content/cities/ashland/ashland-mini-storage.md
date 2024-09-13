@@ -1,5 +1,5 @@
 ---
 title: "Ashland Mini Storage"
 url: /ashland/ashland-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

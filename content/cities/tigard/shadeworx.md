@@ -1,5 +1,5 @@
 ---
 title: "ShadeWorx"
 url: /tigard/shadeworx/
-shop: Gardinen
+shop: curtain
 ---

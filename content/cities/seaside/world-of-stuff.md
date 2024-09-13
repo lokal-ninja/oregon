@@ -1,5 +1,5 @@
 ---
 title: "World of Stuff"
 url: /seaside/world-of-stuff/
-shop: Gebrauchtwaren
+shop: charity
 ---

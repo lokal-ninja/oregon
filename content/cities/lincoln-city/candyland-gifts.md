@@ -1,5 +1,5 @@
 ---
 title: "Candyland Gifts"
 url: /lincoln-city/candyland-gifts/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Haleyraecreations"
 url: /eugene/haleyraecreations/
-shop: Friseur
+shop: hairdresser
 ---

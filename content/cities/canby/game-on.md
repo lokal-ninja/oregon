@@ -1,5 +1,5 @@
 ---
 title: "Game On"
 url: /canby/game-on/
-shop: Spiele
+shop: games
 ---

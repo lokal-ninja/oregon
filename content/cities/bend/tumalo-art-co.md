@@ -1,5 +1,5 @@
 ---
 title: "Tumalo Art Co."
 url: /bend/tumalo-art-co/
-shop: Kunst
+shop: art
 ---

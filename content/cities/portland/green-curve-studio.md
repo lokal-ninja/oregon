@@ -1,5 +1,5 @@
 ---
 title: "Green Curve Studio"
 url: /portland/green-curve-studio/
-shop: Raumausstattung
+shop: interior decoration
 ---

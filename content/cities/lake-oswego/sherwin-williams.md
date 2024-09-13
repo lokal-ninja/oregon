@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /lake-oswego/sherwin-williams/
-shop: Farben
+shop: paint
 ---

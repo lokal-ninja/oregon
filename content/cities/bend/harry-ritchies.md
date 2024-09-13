@@ -1,5 +1,5 @@
 ---
 title: "Harry Ritchie's"
 url: /bend/harry-ritchies/
-shop: Schmuck
+shop: jewelry
 ---

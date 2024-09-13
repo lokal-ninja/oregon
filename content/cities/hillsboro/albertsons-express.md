@@ -1,5 +1,5 @@
 ---
 title: "Albertsons Express"
 url: /hillsboro/albertsons-express/
-shop: Lebensmittel
+shop: convenience
 ---

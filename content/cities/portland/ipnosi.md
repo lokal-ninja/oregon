@@ -1,5 +1,5 @@
 ---
 title: "Ipnosi"
 url: /portland/ipnosi/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /hillsboro/public-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Psychic Reader"
 url: /tigard/psychic-reader/
-shop: Allgemein
+shop: shop
 ---

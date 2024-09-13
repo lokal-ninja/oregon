@@ -1,5 +1,5 @@
 ---
 title: "Nectar"
 url: /aloha/nectar/
-shop: Hanf
+shop: cannabis
 ---

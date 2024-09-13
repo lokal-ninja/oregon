@@ -1,5 +1,5 @@
 ---
 title: "The Fix Hut"
 url: /portland/the-fix-hut/
-shop: Elektronik
+shop: electronics
 ---

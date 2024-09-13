@@ -1,5 +1,5 @@
 ---
 title: "New Seasons Market"
 url: /portland/new-seasons-market-northwest-raleigh-street/
-shop: Supermarkt
+shop: supermarket
 ---

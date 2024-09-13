@@ -1,5 +1,5 @@
 ---
 title: "Veneta Liquor Store"
 url: /veneta/veneta-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

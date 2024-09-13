@@ -1,5 +1,5 @@
 ---
 title: "Mother Earth’s Nail Bar"
 url: /portland/mother-earths-nail-bar/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /portland/walgreens-north-lombard-street/
-shop: Drogerie
+shop: chemist
 ---

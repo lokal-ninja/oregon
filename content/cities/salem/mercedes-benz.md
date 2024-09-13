@@ -1,5 +1,5 @@
 ---
 title: "Mercedes-Benz"
 url: /salem/mercedes-benz/
-shop: Autohaus
+shop: car
 ---

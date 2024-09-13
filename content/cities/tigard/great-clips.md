@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /tigard/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

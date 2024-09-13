@@ -1,5 +1,5 @@
 ---
 title: "Coffee Or Die"
 url: /portland/coffee-or-die/
-shop: Kaffee
+shop: coffee
 ---

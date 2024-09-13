@@ -1,5 +1,5 @@
 ---
 title: "Top Solar Nails"
 url: /tualatin/top-solar-nails-southwest-nyberg-street/
-shop: Kosmetik
+shop: beauty
 ---

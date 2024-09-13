@@ -1,5 +1,5 @@
 ---
 title: "Zama"
 url: /portland/zama/
-shop: Massage
+shop: massage
 ---

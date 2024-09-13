@@ -1,5 +1,5 @@
 ---
 title: "Ginger Roots"
 url: /lincoln-city/ginger-roots/
-shop: Andenken
+shop: gift
 ---

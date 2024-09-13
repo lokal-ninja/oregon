@@ -1,5 +1,5 @@
 ---
 title: "Matrix Integrated European Service"
 url: /bend/matrix-integrated-european-service/
-shop: Autowerkstatt
+shop: car repair
 ---

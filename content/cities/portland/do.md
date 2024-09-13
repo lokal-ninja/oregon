@@ -1,5 +1,5 @@
 ---
 title: "Do!"
 url: /portland/do/
-shop: Friseur
+shop: hairdresser
 ---

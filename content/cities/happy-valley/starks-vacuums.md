@@ -1,5 +1,5 @@
 ---
 title: "Stark's Vacuums"
 url: /happy-valley/starks-vacuums/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

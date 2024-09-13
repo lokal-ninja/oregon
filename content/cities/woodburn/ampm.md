@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /woodburn/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

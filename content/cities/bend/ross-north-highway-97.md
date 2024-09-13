@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /bend/ross-north-highway-97/
-shop: Warenhaus
+shop: department store
 ---

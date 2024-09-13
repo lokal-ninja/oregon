@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /reedsport/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

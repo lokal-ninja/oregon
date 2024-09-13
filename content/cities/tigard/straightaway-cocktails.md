@@ -1,5 +1,5 @@
 ---
 title: "Straightaway Cocktails"
 url: /tigard/straightaway-cocktails/
-shop: Spirituosen
+shop: alcohol
 ---

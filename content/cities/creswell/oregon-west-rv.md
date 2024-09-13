@@ -1,5 +1,5 @@
 ---
 title: "Oregon West RV"
 url: /creswell/oregon-west-rv/
-shop: Wohnwagen
+shop: caravan
 ---

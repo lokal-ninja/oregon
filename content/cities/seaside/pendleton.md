@@ -1,5 +1,5 @@
 ---
 title: "Pendleton"
 url: /seaside/pendleton/
-shop: Kleidung
+shop: clothes
 ---

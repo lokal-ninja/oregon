@@ -1,5 +1,5 @@
 ---
 title: "FastBreak"
 url: /bly/fastbreak/
-shop: Lebensmittel
+shop: convenience
 ---

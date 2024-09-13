@@ -1,5 +1,5 @@
 ---
 title: "Top Market"
 url: /portland/top-market/
-shop: Lebensmittel
+shop: convenience
 ---

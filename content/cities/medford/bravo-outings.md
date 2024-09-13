@@ -1,5 +1,5 @@
 ---
 title: "Bravo Outings"
 url: /medford/bravo-outings/
-shop: Reisebüro
+shop: travel agency
 ---

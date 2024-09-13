@@ -1,5 +1,5 @@
 ---
 title: "Greyhound"
 url: /portland/greyhound/
-shop: Tickets
+shop: ticket
 ---

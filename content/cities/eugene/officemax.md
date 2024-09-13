@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /eugene/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

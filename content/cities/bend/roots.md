@@ -1,5 +1,5 @@
 ---
 title: "Roots"
 url: /bend/roots/
-shop: Friseur
+shop: hairdresser
 ---

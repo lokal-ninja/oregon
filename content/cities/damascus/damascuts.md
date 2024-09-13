@@ -1,5 +1,5 @@
 ---
 title: "DamasCuts"
 url: /damascus/damascuts/
-shop: Friseur
+shop: hairdresser
 ---

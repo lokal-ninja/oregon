@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /springfield/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

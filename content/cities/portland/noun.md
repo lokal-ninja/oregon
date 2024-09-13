@@ -1,5 +1,5 @@
 ---
 title: "Noun"
 url: /portland/noun/
-shop: Andenken
+shop: gift
 ---

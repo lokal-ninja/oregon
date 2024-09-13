@@ -1,5 +1,5 @@
 ---
 title: "Zupan's"
 url: /lake-oswego/zupans/
-shop: Blumen
+shop: florist
 ---

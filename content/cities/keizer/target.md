@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /keizer/target/
-shop: Warenhaus
+shop: department store
 ---

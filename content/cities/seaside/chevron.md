@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /seaside/chevron/
-shop: Allgemein
+shop: shop
 ---

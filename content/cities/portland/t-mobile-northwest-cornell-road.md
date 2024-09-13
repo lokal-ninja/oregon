@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /portland/t-mobile-northwest-cornell-road/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baxter"
 url: /bend/baxter/
-shop: Autoteile
+shop: car parts
 ---

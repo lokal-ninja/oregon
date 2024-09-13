@@ -1,5 +1,5 @@
 ---
 title: "Macleay Village Store"
 url: /salem/macleay-village-store/
-shop: Dorfladen
+shop: general
 ---

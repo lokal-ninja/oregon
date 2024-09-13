@@ -1,5 +1,5 @@
 ---
 title: "Bellini's"
 url: /portland/bellinis/
-shop: Kosmetik
+shop: beauty
 ---

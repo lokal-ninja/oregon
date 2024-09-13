@@ -1,5 +1,5 @@
 ---
 title: "The Wrench"
 url: /hillsboro/the-wrench/
-shop: Autowerkstatt
+shop: car repair
 ---

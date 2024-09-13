@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /bend/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

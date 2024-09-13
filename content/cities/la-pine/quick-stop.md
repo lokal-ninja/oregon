@@ -1,5 +1,5 @@
 ---
 title: "Quick Stop"
 url: /la-pine/quick-stop/
-shop: Supermarkt
+shop: supermarket
 ---

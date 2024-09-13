@@ -1,5 +1,5 @@
 ---
 title: "Shepherd's Dream"
 url: /ashland/shepherds-dream/
-shop: Betten
+shop: bed
 ---

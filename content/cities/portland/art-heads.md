@@ -1,5 +1,5 @@
 ---
 title: "Art Heads"
 url: /portland/art-heads/
-shop: Rahmen
+shop: frame
 ---

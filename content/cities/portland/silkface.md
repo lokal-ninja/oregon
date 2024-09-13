@@ -1,5 +1,5 @@
 ---
 title: "Silkface"
 url: /portland/silkface/
-shop: Kosmetik
+shop: beauty
 ---

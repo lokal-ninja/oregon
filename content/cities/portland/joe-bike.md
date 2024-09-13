@@ -1,5 +1,5 @@
 ---
 title: "Joe Bike"
 url: /portland/joe-bike/
-shop: Fahrrad
+shop: bicycle
 ---

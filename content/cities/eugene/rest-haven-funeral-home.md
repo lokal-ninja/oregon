@@ -1,5 +1,5 @@
 ---
 title: "Rest-Haven Funeral Home"
 url: /eugene/rest-haven-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

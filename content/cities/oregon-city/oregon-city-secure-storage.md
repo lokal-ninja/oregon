@@ -1,5 +1,5 @@
 ---
 title: "Oregon City Secure Storage"
 url: /oregon-city/oregon-city-secure-storage/
-shop: Mieten
+shop: storage rental
 ---

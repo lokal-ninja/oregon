@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /medford/albertsons-north-phoenix-road/
-shop: Supermarkt
+shop: supermarket
 ---

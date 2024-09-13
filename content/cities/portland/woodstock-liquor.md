@@ -1,5 +1,5 @@
 ---
 title: "Woodstock Liquor"
 url: /portland/woodstock-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

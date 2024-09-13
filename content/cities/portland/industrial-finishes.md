@@ -1,5 +1,5 @@
 ---
 title: "Industrial Finishes"
 url: /portland/industrial-finishes/
-shop: Autowerkstatt
+shop: car repair
 ---

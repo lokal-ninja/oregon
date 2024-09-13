@@ -1,5 +1,5 @@
 ---
 title: "Maripoll"
 url: /portland/maripoll/
-shop: Kleidung
+shop: clothes
 ---

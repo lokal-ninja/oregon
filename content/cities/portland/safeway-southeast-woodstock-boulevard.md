@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /portland/safeway-southeast-woodstock-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

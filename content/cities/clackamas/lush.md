@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /clackamas/lush/
-shop: Kosmetik
+shop: beauty
 ---

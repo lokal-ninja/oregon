@@ -1,5 +1,5 @@
 ---
 title: "Cascade of Gifts"
 url: /sisters/cascade-of-gifts/
-shop: Andenken
+shop: gift
 ---

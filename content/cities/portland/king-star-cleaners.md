@@ -1,5 +1,5 @@
 ---
 title: "King Star Cleaners"
 url: /portland/king-star-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

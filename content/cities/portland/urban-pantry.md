@@ -1,5 +1,5 @@
 ---
 title: "Urban Pantry"
 url: /portland/urban-pantry/
-shop: Lebensmittel
+shop: convenience
 ---

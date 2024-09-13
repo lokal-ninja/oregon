@@ -1,5 +1,5 @@
 ---
 title: "Randalls Automotive"
 url: /eugene/randalls-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

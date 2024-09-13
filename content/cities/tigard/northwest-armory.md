@@ -1,5 +1,5 @@
 ---
 title: "Northwest Armory"
 url: /tigard/northwest-armory/
-shop: Waffen
+shop: weapons
 ---

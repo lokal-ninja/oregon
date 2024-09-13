@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /canby/autozone/
-shop: Autoteile
+shop: car parts
 ---

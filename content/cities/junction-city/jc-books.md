@@ -1,5 +1,5 @@
 ---
 title: "JC Books"
 url: /junction-city/jc-books/
-shop: Bücher
+shop: books
 ---

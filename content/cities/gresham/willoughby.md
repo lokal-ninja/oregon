@@ -1,5 +1,5 @@
 ---
 title: "Willoughby"
 url: /gresham/willoughby/
-shop: Hörgeräte
+shop: hearing aids
 ---

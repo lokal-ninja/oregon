@@ -1,5 +1,5 @@
 ---
 title: "Clemens Marina"
 url: /eugene/clemens-marina/
-shop: Boot
+shop: boat
 ---

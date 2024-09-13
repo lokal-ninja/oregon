@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /beaverton/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

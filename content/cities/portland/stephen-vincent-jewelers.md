@@ -1,5 +1,5 @@
 ---
 title: "Stephen Vincent Jewelers"
 url: /portland/stephen-vincent-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

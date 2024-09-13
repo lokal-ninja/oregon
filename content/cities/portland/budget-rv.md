@@ -1,5 +1,5 @@
 ---
 title: "Budget Rv"
 url: /portland/budget-rv/
-shop: Wohnwagen
+shop: caravan
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cascade Home Center"
 url: /cottage-grove/cascade-home-center/
-shop: Eisenwaren
+shop: hardware
 ---

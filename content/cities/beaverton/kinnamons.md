@@ -1,5 +1,5 @@
 ---
 title: "Kinnamons"
 url: /beaverton/kinnamons/
-shop: Konditorei
+shop: pastry
 ---

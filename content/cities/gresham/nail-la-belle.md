@@ -1,5 +1,5 @@
 ---
 title: "Nail La Belle"
 url: /gresham/nail-la-belle/
-shop: Kosmetik
+shop: beauty
 ---

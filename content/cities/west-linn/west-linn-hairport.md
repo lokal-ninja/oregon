@@ -1,5 +1,5 @@
 ---
 title: "West Linn Hairport"
 url: /west-linn/west-linn-hairport/
-shop: Friseur
+shop: hairdresser
 ---

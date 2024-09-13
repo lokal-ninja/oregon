@@ -1,5 +1,5 @@
 ---
 title: "Lee's Market"
 url: /eugene/lees-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rustic Resale"
 url: /christmas-valley/rustic-resale/
-shop: Antiquitäten
+shop: antiques
 ---

@@ -1,5 +1,5 @@
 ---
 title: "REI Bike Shop"
 url: /tigard/rei-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

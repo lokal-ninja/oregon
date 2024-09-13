@@ -1,5 +1,5 @@
 ---
 title: "Cabinet Source"
 url: /beaverton/cabinet-source/
-shop: Küchen
+shop: kitchen
 ---

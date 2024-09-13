@@ -1,5 +1,5 @@
 ---
 title: "Run Wild Engraving"
 url: /creswell/run-wild-engraving/
-shop: Pokal
+shop: trophy
 ---

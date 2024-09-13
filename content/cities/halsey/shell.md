@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /halsey/shell/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sellwood Grooming"
 url: /portland/sellwood-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

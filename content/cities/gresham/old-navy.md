@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /gresham/old-navy/
-shop: Kleidung
+shop: clothes
 ---

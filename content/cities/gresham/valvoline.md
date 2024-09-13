@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /gresham/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

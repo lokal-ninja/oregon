@@ -1,5 +1,5 @@
 ---
 title: "Willoughby Hearing"
 url: /portland/willoughby-hearing/
-shop: Hörgeräte
+shop: hearing aids
 ---

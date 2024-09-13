@@ -1,5 +1,5 @@
 ---
 title: "Superior Interiors Inc."
 url: /portland/superior-interiors-inc/
-shop: Jalousien
+shop: window blind
 ---

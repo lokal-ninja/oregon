@@ -1,5 +1,5 @@
 ---
 title: "J. Scott Cellars"
 url: /eugene/j-scott-cellars/
-shop: Wein
+shop: wine
 ---

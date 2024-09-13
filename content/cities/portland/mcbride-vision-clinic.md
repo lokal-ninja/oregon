@@ -1,5 +1,5 @@
 ---
 title: "McBride Vision Clinic"
 url: /portland/mcbride-vision-clinic/
-shop: Optiker
+shop: optician
 ---

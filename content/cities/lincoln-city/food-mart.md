@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /lincoln-city/food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

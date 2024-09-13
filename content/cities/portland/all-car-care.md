@@ -1,5 +1,5 @@
 ---
 title: "All Car Care"
 url: /portland/all-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

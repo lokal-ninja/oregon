@@ -1,5 +1,5 @@
 ---
 title: "Billies"
 url: /gladstone/billies/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eugene Gear Traders"
 url: /eugene/eugene-gear-traders/
-shop: Sport
+shop: sports
 ---

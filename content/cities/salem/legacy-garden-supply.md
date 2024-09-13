@@ -1,5 +1,5 @@
 ---
 title: "Legacy Garden Supply"
 url: /salem/legacy-garden-supply/
-shop: Garten-Center
+shop: garden centre
 ---

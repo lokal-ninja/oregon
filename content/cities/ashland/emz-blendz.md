@@ -1,5 +1,5 @@
 ---
 title: "Em'z Blendz"
 url: /ashland/emz-blendz/
-shop: Kosmetik
+shop: beauty
 ---

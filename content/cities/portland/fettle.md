@@ -1,5 +1,5 @@
 ---
 title: "Fettle"
 url: /portland/fettle/
-shop: Kräuter
+shop: herbalist
 ---

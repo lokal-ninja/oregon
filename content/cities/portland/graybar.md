@@ -1,5 +1,5 @@
 ---
 title: "Graybar"
 url: /portland/graybar/
-shop: Baustoffe
+shop: trade
 ---

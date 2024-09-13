@@ -1,5 +1,5 @@
 ---
 title: "Hot Topic"
 url: /tigard/hot-topic/
-shop: Kleidung
+shop: clothes
 ---

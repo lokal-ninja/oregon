@@ -1,5 +1,5 @@
 ---
 title: "Poler"
 url: /portland/poler/
-shop: Outdoor
+shop: outdoor
 ---

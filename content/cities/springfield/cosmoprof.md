@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /springfield/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

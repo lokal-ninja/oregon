@@ -1,5 +1,5 @@
 ---
 title: "Hair M"
 url: /portland/hair-m/
-shop: Friseur
+shop: hairdresser
 ---

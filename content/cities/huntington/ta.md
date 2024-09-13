@@ -1,5 +1,5 @@
 ---
 title: "TA"
 url: /huntington/ta/
-shop: Lebensmittel
+shop: convenience
 ---

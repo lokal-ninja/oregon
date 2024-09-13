@@ -1,5 +1,5 @@
 ---
 title: "Dulce's Place"
 url: /portland/dulces-place/
-shop: Kleidung
+shop: clothes
 ---

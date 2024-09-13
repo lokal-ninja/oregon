@@ -1,5 +1,5 @@
 ---
 title: "Beau Monde"
 url: /portland/beau-monde/
-shop: Friseur
+shop: hairdresser
 ---

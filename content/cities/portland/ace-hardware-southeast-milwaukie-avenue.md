@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /portland/ace-hardware-southeast-milwaukie-avenue/
-shop: Baumarkt
+shop: doityourself
 ---

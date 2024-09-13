@@ -1,5 +1,5 @@
 ---
 title: "Torrid"
 url: /clackamas/torrid/
-shop: Kleidung
+shop: clothes
 ---

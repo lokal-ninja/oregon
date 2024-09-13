@@ -1,5 +1,5 @@
 ---
 title: "Autohaus"
 url: /eugene/autohaus/
-shop: Autowerkstatt
+shop: car repair
 ---

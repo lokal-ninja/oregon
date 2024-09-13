@@ -1,5 +1,5 @@
 ---
 title: "Lulay's Car Connection"
 url: /salem/lulays-car-connection/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marco Pharma International, LLC"
 url: /eugene/marco-pharma-international-llc/
-shop: Sanitätshaus
+shop: medical supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cannon Beach Books"
 url: /cannon-beach/cannon-beach-books/
-shop: Bücher
+shop: books
 ---

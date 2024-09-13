@@ -1,5 +1,5 @@
 ---
 title: "Five Star Cleaners"
 url: /portland/five-star-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

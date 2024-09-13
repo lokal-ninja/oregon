@@ -1,5 +1,5 @@
 ---
 title: "Shoe Mill"
 url: /clackamas/shoe-mill/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alessio"
 url: /portland/alessio/
-shop: Bäckerei
+shop: bakery
 ---

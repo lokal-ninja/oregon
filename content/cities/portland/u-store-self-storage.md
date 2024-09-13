@@ -1,5 +1,5 @@
 ---
 title: "U-Store Self Storage"
 url: /portland/u-store-self-storage/
-shop: Mieten
+shop: storage rental
 ---

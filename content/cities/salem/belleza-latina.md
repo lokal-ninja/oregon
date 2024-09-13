@@ -1,5 +1,5 @@
 ---
 title: "Belleza Latina"
 url: /salem/belleza-latina/
-shop: Friseur
+shop: hairdresser
 ---

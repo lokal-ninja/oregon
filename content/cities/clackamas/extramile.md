@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /clackamas/extramile/
-shop: Lebensmittel
+shop: convenience
 ---

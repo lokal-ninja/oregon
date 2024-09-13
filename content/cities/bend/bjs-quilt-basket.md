@@ -1,5 +1,5 @@
 ---
 title: "BJ's Quilt Basket"
 url: /bend/bjs-quilt-basket/
-shop: Textil
+shop: fabric
 ---

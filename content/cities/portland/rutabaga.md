@@ -1,5 +1,5 @@
 ---
 title: "Rutabaga"
 url: /portland/rutabaga/
-shop: Möbel
+shop: furniture
 ---

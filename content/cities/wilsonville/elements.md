@@ -1,5 +1,5 @@
 ---
 title: "Elements"
 url: /wilsonville/elements/
-shop: Massage
+shop: massage
 ---

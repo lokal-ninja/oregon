@@ -1,5 +1,5 @@
 ---
 title: "Salon de Belleza Hispano"
 url: /beaverton/salon-de-belleza-hispano/
-shop: Friseur
+shop: hairdresser
 ---

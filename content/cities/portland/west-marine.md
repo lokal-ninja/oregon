@@ -1,5 +1,5 @@
 ---
 title: "West Marine"
 url: /portland/west-marine/
-shop: Boot
+shop: boat
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Portland Music Company"
 url: /portland/portland-music-company/
-shop: Musik
+shop: music
 ---

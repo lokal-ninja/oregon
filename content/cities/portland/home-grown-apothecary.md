@@ -1,5 +1,5 @@
 ---
 title: "Home Grown Apothecary"
 url: /portland/home-grown-apothecary/
-shop: Hanf
+shop: cannabis
 ---

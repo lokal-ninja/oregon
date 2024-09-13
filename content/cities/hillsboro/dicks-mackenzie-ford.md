@@ -1,5 +1,5 @@
 ---
 title: "Dick's MacKenzie Ford"
 url: /hillsboro/dicks-mackenzie-ford/
-shop: Autohaus
+shop: car
 ---

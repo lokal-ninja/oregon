@@ -1,5 +1,5 @@
 ---
 title: "Fleur De Lis"
 url: /portland/fleur-de-lis/
-shop: Bäckerei
+shop: bakery
 ---

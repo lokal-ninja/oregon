@@ -1,5 +1,5 @@
 ---
 title: "Green Knottz"
 url: /la-pine/green-knottz/
-shop: Hanf
+shop: cannabis
 ---

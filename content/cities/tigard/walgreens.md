@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /tigard/walgreens/
-shop: Drogerie
+shop: chemist
 ---

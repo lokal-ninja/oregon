@@ -1,5 +1,5 @@
 ---
 title: "LL Flooring"
 url: /tigard/ll-flooring/
-shop: Baustoffe
+shop: trade
 ---

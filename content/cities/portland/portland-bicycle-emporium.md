@@ -1,5 +1,5 @@
 ---
 title: "Portland Bicycle Emporium"
 url: /portland/portland-bicycle-emporium/
-shop: Fahrrad
+shop: bicycle
 ---

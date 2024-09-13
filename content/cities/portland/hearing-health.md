@@ -1,5 +1,5 @@
 ---
 title: "Hearing Health"
 url: /portland/hearing-health/
-shop: Hörgeräte
+shop: hearing aids
 ---

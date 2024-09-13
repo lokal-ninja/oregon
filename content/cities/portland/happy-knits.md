@@ -1,5 +1,5 @@
 ---
 title: "Happy Knits"
 url: /portland/happy-knits/
-shop: Allgemein
+shop: shop
 ---

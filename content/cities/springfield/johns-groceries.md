@@ -1,5 +1,5 @@
 ---
 title: "John's Groceries"
 url: /springfield/johns-groceries/
-shop: Lebensmittel
+shop: convenience
 ---

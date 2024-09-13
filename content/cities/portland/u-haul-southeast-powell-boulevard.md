@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /portland/u-haul-southeast-powell-boulevard/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Donuts Plus"
 url: /portland/donuts-plus/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fogg Motorsports"
 url: /lake-oswego/fogg-motorsports/
-shop: Autowerkstatt
+shop: car repair
 ---

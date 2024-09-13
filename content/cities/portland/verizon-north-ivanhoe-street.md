@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /portland/verizon-north-ivanhoe-street/
-shop: Handy
+shop: mobile phone
 ---

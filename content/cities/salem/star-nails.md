@@ -1,5 +1,5 @@
 ---
 title: "Star Nails"
 url: /salem/star-nails/
-shop: Kosmetik
+shop: beauty
 ---

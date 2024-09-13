@@ -1,5 +1,5 @@
 ---
 title: "Avi Auto Repair LLC"
 url: /portland/avi-auto-repair-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

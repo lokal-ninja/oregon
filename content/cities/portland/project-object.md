@@ -1,5 +1,5 @@
 ---
 title: "Project Object"
 url: /portland/project-object/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /bend/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

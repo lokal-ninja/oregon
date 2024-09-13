@@ -1,5 +1,5 @@
 ---
 title: "Beaverton Honda Service"
 url: /beaverton/beaverton-honda-service/
-shop: Autowerkstatt
+shop: car repair
 ---

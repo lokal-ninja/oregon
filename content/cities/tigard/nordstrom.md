@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom"
 url: /tigard/nordstrom/
-shop: Warenhaus
+shop: department store
 ---

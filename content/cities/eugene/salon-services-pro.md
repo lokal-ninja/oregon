@@ -1,5 +1,5 @@
 ---
 title: "Salon Services Pro"
 url: /eugene/salon-services-pro/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

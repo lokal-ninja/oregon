@@ -1,5 +1,5 @@
 ---
 title: "McCartney Automotive"
 url: /milwaukie/mccartney-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

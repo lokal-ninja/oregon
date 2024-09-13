@@ -1,5 +1,5 @@
 ---
 title: "Homestead Furniture"
 url: /cottage-grove/homestead-furniture/
-shop: Möbel
+shop: furniture
 ---

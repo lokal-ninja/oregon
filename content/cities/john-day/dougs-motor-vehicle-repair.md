@@ -1,5 +1,5 @@
 ---
 title: "Doug's Motor Vehicle Repair"
 url: /john-day/dougs-motor-vehicle-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

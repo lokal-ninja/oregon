@@ -1,5 +1,5 @@
 ---
 title: "T. Scandia Motors"
 url: /tigard/t-scandia-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

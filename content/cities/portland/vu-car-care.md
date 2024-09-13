@@ -1,5 +1,5 @@
 ---
 title: "Vu Car Care"
 url: /portland/vu-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

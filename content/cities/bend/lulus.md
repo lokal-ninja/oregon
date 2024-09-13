@@ -1,5 +1,5 @@
 ---
 title: "Lulu's"
 url: /bend/lulus/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /springfield/albertsons-main-street/
-shop: Supermarkt
+shop: supermarket
 ---

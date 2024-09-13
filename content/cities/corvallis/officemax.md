@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /corvallis/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

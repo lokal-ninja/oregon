@@ -1,5 +1,5 @@
 ---
 title: "Nature's Bling"
 url: /bend/natures-bling/
-shop: Sammler
+shop: collector
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carniceria Julissas"
 url: /hermiston/carniceria-julissas/
-shop: Supermarkt
+shop: supermarket
 ---

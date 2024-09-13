@@ -1,5 +1,5 @@
 ---
 title: "Franz"
 url: /portland/franz/
-shop: Bäckerei
+shop: bakery
 ---

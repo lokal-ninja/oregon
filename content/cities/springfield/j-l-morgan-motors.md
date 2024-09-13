@@ -1,5 +1,5 @@
 ---
 title: "J.L. Morgan Motors"
 url: /springfield/j-l-morgan-motors/
-shop: Autohaus
+shop: car
 ---

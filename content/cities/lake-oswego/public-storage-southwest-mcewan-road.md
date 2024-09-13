@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /lake-oswego/public-storage-southwest-mcewan-road/
-shop: Mieten
+shop: storage rental
 ---

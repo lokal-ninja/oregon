@@ -1,5 +1,5 @@
 ---
 title: "Paxton Gate"
 url: /portland/paxton-gate/
-shop: Andenken
+shop: gift
 ---

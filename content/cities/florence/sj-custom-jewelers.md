@@ -1,5 +1,5 @@
 ---
 title: "SJ Custom Jewelers"
 url: /florence/sj-custom-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

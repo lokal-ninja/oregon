@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /tigard/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

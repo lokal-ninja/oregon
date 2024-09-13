@@ -1,5 +1,5 @@
 ---
 title: "Rent-A-Center"
 url: /roseburg/rent-a-center/
-shop: Möbel
+shop: furniture
 ---

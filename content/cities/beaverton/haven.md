@@ -1,5 +1,5 @@
 ---
 title: "Haven"
 url: /beaverton/haven/
-shop: Pool
+shop: swimming pool
 ---

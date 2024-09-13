@@ -1,5 +1,5 @@
 ---
 title: "Oregon Ebikes"
 url: /hood-river/oregon-ebikes/
-shop: Fahrrad
+shop: bicycle
 ---

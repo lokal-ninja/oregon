@@ -1,5 +1,5 @@
 ---
 title: "Hometown Hardware"
 url: /myrtle-point/hometown-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Piccolina"
 url: /portland/piccolina/
-shop: Babysachen
+shop: baby goods
 ---

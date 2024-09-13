@@ -1,5 +1,5 @@
 ---
 title: "Lane Bryant"
 url: /clackamas/lane-bryant/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Run Hub"
 url: /eugene/run-hub/
-shop: Kleidung
+shop: clothes
 ---

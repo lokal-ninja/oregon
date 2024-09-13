@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /portland/jacksons-north-interstate-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

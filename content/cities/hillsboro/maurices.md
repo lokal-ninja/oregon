@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /hillsboro/maurices/
-shop: Kleidung
+shop: clothes
 ---

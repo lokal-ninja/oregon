@@ -1,5 +1,5 @@
 ---
 title: "Autoland"
 url: /portland/autoland/
-shop: Autowerkstatt
+shop: car repair
 ---

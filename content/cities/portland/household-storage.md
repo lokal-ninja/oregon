@@ -1,5 +1,5 @@
 ---
 title: "Household Storage"
 url: /portland/household-storage/
-shop: Mieten
+shop: storage rental
 ---

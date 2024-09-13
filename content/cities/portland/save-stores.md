@@ -1,5 +1,5 @@
 ---
 title: "Save Stores"
 url: /portland/save-stores/
-shop: Nähzubehör
+shop: sewing
 ---

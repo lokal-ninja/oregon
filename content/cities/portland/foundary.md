@@ -1,5 +1,5 @@
 ---
 title: "Foundary"
 url: /portland/foundary/
-shop: Möbel
+shop: furniture
 ---

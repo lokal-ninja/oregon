@@ -1,5 +1,5 @@
 ---
 title: "Apex"
 url: /beaverton/apex/
-shop: Autowerkstatt
+shop: car repair
 ---

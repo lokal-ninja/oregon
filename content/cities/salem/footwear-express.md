@@ -1,5 +1,5 @@
 ---
 title: "Footwear Express"
 url: /salem/footwear-express/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "City Home"
 url: /bend/city-home/
-shop: Raumausstattung
+shop: interior decoration
 ---

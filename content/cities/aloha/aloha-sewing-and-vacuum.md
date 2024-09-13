@@ -1,5 +1,5 @@
 ---
 title: "Aloha Sewing and Vacuum"
 url: /aloha/aloha-sewing-and-vacuum/
-shop: Nähzubehör
+shop: sewing
 ---

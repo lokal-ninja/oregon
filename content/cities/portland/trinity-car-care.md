@@ -1,5 +1,5 @@
 ---
 title: "Trinity Car Care"
 url: /portland/trinity-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

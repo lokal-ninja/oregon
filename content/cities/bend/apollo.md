@@ -1,5 +1,5 @@
 ---
 title: "Apollo"
 url: /bend/apollo/
-shop: Friseur
+shop: hairdresser
 ---

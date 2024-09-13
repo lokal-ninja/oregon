@@ -1,5 +1,5 @@
 ---
 title: "Mini Pet Mart"
 url: /eugene/mini-pet-mart-willamette-street/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Redwood Nursery"
 url: /grants-pass/redwood-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

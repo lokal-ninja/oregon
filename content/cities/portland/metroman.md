@@ -1,5 +1,5 @@
 ---
 title: "Metroman"
 url: /portland/metroman/
-shop: Friseur
+shop: hairdresser
 ---

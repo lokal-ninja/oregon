@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /tigard/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /tigard/t-mobile-southwest-pacific-highway/
-shop: Handy
+shop: mobile phone
 ---

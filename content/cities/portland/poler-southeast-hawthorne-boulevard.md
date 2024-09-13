@@ -1,5 +1,5 @@
 ---
 title: "Poler"
 url: /portland/poler-southeast-hawthorne-boulevard/
-shop: Outdoor
+shop: outdoor
 ---

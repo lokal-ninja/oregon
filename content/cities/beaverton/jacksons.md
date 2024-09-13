@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /beaverton/jacksons/
-shop: Lebensmittel
+shop: convenience
 ---

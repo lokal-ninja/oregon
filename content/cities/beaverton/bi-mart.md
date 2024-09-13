@@ -1,5 +1,5 @@
 ---
 title: "Bi-Mart"
 url: /beaverton/bi-mart/
-shop: Warenhaus
+shop: department store
 ---

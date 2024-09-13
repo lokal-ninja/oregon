@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /medford/office-depot/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /gresham/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

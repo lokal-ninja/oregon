@@ -1,5 +1,5 @@
 ---
 title: "Duck Store"
 url: /eugene/duck-store/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Artemisia"
 url: /portland/artemisia/
-shop: Garten-Center
+shop: garden centre
 ---

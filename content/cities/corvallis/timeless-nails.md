@@ -1,5 +1,5 @@
 ---
 title: "Timeless Nails"
 url: /corvallis/timeless-nails/
-shop: Kosmetik
+shop: beauty
 ---

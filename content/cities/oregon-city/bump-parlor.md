@@ -1,5 +1,5 @@
 ---
 title: "Bump Parlor"
 url: /oregon-city/bump-parlor/
-shop: Autowerkstatt
+shop: car repair
 ---

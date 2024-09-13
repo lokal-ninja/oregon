@@ -1,5 +1,5 @@
 ---
 title: "Buckle"
 url: /clackamas/buckle/
-shop: Kleidung
+shop: clothes
 ---

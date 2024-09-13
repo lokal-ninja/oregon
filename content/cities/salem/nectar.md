@@ -1,5 +1,5 @@
 ---
 title: "Nectar"
 url: /salem/nectar/
-shop: Hanf
+shop: cannabis
 ---

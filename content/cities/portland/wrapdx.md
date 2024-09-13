@@ -1,5 +1,5 @@
 ---
 title: "WRAPDX"
 url: /portland/wrapdx/
-shop: Autoteile
+shop: car parts
 ---

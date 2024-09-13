@@ -1,5 +1,5 @@
 ---
 title: "German Autowerks"
 url: /hillsboro/german-autowerks/
-shop: Autowerkstatt
+shop: car repair
 ---

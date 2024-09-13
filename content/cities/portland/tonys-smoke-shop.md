@@ -1,5 +1,5 @@
 ---
 title: "Tony's Smoke Shop"
 url: /portland/tonys-smoke-shop/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

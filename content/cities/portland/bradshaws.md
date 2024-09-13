@@ -1,5 +1,5 @@
 ---
 title: "Bradshaw's"
 url: /portland/bradshaws/
-shop: Autowerkstatt
+shop: car repair
 ---

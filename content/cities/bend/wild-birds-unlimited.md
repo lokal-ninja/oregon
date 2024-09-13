@@ -1,5 +1,5 @@
 ---
 title: "Wild Birds Unlimited"
 url: /bend/wild-birds-unlimited/
-shop: Tiere
+shop: pet
 ---

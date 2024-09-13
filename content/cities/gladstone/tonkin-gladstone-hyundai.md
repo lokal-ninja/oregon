@@ -1,5 +1,5 @@
 ---
 title: "Tonkin Gladstone Hyundai"
 url: /gladstone/tonkin-gladstone-hyundai/
-shop: Autohaus
+shop: car
 ---

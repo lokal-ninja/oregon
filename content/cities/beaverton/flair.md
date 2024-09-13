@@ -1,5 +1,5 @@
 ---
 title: "Flair"
 url: /beaverton/flair/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /lake-oswego/trek/
-shop: Fahrrad
+shop: bicycle
 ---

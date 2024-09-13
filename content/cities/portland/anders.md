@@ -1,5 +1,5 @@
 ---
 title: "Anders"
 url: /portland/anders/
-shop: Schreibwaren
+shop: office supplies
 ---

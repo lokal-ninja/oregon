@@ -1,5 +1,5 @@
 ---
 title: "BedMart"
 url: /portland/bedmart/
-shop: Betten
+shop: bed
 ---

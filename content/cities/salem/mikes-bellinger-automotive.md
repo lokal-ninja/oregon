@@ -1,5 +1,5 @@
 ---
 title: "Mike's Bellinger Automotive"
 url: /salem/mikes-bellinger-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

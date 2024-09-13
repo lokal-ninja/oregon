@@ -1,5 +1,5 @@
 ---
 title: "Rexius"
 url: /eugene/rexius/
-shop: Garten-Center
+shop: garden centre
 ---

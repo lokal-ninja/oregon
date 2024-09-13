@@ -1,5 +1,5 @@
 ---
 title: "The Farmacy"
 url: /astoria/the-farmacy/
-shop: Hanf
+shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Catrick Cleaners"
 url: /portland/catrick-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

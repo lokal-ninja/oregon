@@ -1,5 +1,5 @@
 ---
 title: "Pacific Metal"
 url: /eugene/pacific-metal/
-shop: Baustoffe
+shop: trade
 ---

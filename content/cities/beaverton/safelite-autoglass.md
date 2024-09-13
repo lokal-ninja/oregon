@@ -1,5 +1,5 @@
 ---
 title: "Safelite AutoGlass"
 url: /beaverton/safelite-autoglass/
-shop: Autowerkstatt
+shop: car repair
 ---

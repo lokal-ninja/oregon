@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /clackamas/claires/
-shop: Modehaus
+shop: boutique
 ---

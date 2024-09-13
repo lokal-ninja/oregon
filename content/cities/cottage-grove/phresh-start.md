@@ -1,5 +1,5 @@
 ---
 title: "Phresh Start"
 url: /cottage-grove/phresh-start/
-shop: Hanf
+shop: cannabis
 ---

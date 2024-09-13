@@ -1,5 +1,5 @@
 ---
 title: "Lilo Salon"
 url: /portland/lilo-salon/
-shop: Friseur
+shop: hairdresser
 ---

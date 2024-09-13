@@ -1,5 +1,5 @@
 ---
 title: "Crafty Wonderland"
 url: /portland/crafty-wonderland/
-shop: Andenken
+shop: gift
 ---

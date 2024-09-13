@@ -1,5 +1,5 @@
 ---
 title: "Retail Sales Daily"
 url: /lincoln-city/retail-sales-daily/
-shop: Auktionshaus
+shop: auction house
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TrailersPlus"
 url: /eugene/trailersplus/
-shop: Autoteile
+shop: car parts
 ---

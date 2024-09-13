@@ -1,5 +1,5 @@
 ---
 title: "Goody's"
 url: /sunriver/goodys/
-shop: Schokolade
+shop: chocolate
 ---

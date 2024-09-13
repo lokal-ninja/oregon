@@ -1,5 +1,5 @@
 ---
 title: "Sportsman's Warehouse"
 url: /albany/sportsmans-warehouse/
-shop: Outdoor
+shop: outdoor
 ---

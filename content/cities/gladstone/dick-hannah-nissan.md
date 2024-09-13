@@ -1,5 +1,5 @@
 ---
 title: "Dick Hannah Nissan"
 url: /gladstone/dick-hannah-nissan/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grand Rental Station"
 url: /cornelius/grand-rental-station/
-shop: Mieten
+shop: storage rental
 ---

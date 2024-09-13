@@ -1,5 +1,5 @@
 ---
 title: "Red Carpet Nails"
 url: /beaverton/red-carpet-nails/
-shop: Kosmetik
+shop: beauty
 ---

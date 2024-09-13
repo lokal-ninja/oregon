@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /tigard/tesla/
-shop: Autowerkstatt
+shop: car repair
 ---

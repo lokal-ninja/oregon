@@ -1,5 +1,5 @@
 ---
 title: "Double Tap Firearms"
 url: /bend/double-tap-firearms/
-shop: Waffen
+shop: weapons
 ---

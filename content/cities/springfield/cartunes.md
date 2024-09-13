@@ -1,5 +1,5 @@
 ---
 title: "CarTunes"
 url: /springfield/cartunes/
-shop: Autoteile
+shop: car parts
 ---

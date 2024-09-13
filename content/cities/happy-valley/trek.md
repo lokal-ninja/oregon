@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /happy-valley/trek/
-shop: Fahrrad
+shop: bicycle
 ---

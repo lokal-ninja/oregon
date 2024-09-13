@@ -1,5 +1,5 @@
 ---
 title: "Pioneer Storage"
 url: /springfield/pioneer-storage/
-shop: Mieten
+shop: storage rental
 ---

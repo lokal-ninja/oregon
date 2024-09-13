@@ -1,5 +1,5 @@
 ---
 title: "Tillys"
 url: /clackamas/tillys/
-shop: Kleidung
+shop: clothes
 ---

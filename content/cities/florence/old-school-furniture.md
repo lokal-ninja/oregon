@@ -1,5 +1,5 @@
 ---
 title: "Old School Furniture"
 url: /florence/old-school-furniture/
-shop: Möbel
+shop: furniture
 ---

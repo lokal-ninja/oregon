@@ -1,5 +1,5 @@
 ---
 title: "Casmur Grocery"
 url: /portland/casmur-grocery/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centaur Guitar"
 url: /portland/centaur-guitar/
-shop: Instrumente
+shop: musical instrument
 ---

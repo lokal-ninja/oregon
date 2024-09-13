@@ -1,5 +1,5 @@
 ---
 title: "Dick's Logging Supply, Inc."
 url: /estacada/dicks-logging-supply-inc/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

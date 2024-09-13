@@ -1,5 +1,5 @@
 ---
 title: "Miller Paint"
 url: /salem/miller-paint/
-shop: Farben
+shop: paint
 ---

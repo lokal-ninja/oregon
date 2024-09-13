@@ -1,5 +1,5 @@
 ---
 title: "Thea's Vintage Living"
 url: /portland/theas-vintage-living/
-shop: Antiquitäten
+shop: antiques
 ---

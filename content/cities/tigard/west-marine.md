@@ -1,5 +1,5 @@
 ---
 title: "West Marine"
 url: /tigard/west-marine/
-shop: Boot
+shop: boat
 ---

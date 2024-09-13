@@ -1,5 +1,5 @@
 ---
 title: "UBAD"
 url: /beaverton/ubad/
-shop: Autowerkstatt
+shop: car repair
 ---

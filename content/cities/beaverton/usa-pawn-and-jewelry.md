@@ -1,5 +1,5 @@
 ---
 title: "USA Pawn and Jewelry"
 url: /beaverton/usa-pawn-and-jewelry/
-shop: Leiher
+shop: pawnbroker
 ---

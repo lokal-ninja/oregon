@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /mcminnville/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

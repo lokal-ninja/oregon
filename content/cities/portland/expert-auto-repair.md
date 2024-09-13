@@ -1,5 +1,5 @@
 ---
 title: "Expert Auto Repair"
 url: /portland/expert-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

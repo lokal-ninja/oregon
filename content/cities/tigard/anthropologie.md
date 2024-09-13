@@ -1,5 +1,5 @@
 ---
 title: "Anthropologie"
 url: /tigard/anthropologie/
-shop: Kleidung
+shop: clothes
 ---

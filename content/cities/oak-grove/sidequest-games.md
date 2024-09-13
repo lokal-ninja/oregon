@@ -1,5 +1,5 @@
 ---
 title: "SideQuest Games"
 url: /oak-grove/sidequest-games/
-shop: Spiele
+shop: games
 ---

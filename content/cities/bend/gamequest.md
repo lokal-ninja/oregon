@@ -1,5 +1,5 @@
 ---
 title: "GameQuest"
 url: /bend/gamequest/
-shop: Videospiele
+shop: video games
 ---

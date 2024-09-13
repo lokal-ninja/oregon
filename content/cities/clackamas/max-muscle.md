@@ -1,5 +1,5 @@
 ---
 title: "Max Muscle"
 url: /clackamas/max-muscle/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

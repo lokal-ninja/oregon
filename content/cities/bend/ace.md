@@ -1,5 +1,5 @@
 ---
 title: "Ace"
 url: /bend/ace/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /beaverton/great-clips-southwest-teal-boulevard/
-shop: Friseur
+shop: hairdresser
 ---

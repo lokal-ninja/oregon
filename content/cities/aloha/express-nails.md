@@ -1,5 +1,5 @@
 ---
 title: "Express Nails"
 url: /aloha/express-nails/
-shop: Kosmetik
+shop: beauty
 ---

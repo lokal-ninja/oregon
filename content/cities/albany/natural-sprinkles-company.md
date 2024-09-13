@@ -1,5 +1,5 @@
 ---
 title: "Natural Sprinkles Company"
 url: /albany/natural-sprinkles-company/
-shop: Süßwaren
+shop: confectionery
 ---

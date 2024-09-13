@@ -1,5 +1,5 @@
 ---
 title: "Goodies Cell Phone Shop"
 url: /aloha/goodies-cell-phone-shop/
-shop: Handy
+shop: mobile phone
 ---

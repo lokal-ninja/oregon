@@ -1,5 +1,5 @@
 ---
 title: "Mona Lisa"
 url: /beaverton/mona-lisa/
-shop: Friseur
+shop: hairdresser
 ---

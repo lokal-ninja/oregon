@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /milwaukie/office-depot/
-shop: Schreibwaren
+shop: office supplies
 ---

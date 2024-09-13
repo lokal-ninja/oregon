@@ -1,5 +1,5 @@
 ---
 title: "Brave Collective"
 url: /bend/brave-collective/
-shop: Modehaus
+shop: boutique
 ---

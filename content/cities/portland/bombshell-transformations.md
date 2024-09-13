@@ -1,5 +1,5 @@
 ---
 title: "Bombshell Transformations"
 url: /portland/bombshell-transformations/
-shop: Friseur
+shop: hairdresser
 ---

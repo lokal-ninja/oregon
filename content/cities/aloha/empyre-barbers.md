@@ -1,5 +1,5 @@
 ---
 title: "Empyre Barbers"
 url: /aloha/empyre-barbers/
-shop: Friseur
+shop: hairdresser
 ---

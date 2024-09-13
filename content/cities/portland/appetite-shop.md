@@ -1,5 +1,5 @@
 ---
 title: "Appetite Shop"
 url: /portland/appetite-shop/
-shop: Garten-Center
+shop: garden centre
 ---

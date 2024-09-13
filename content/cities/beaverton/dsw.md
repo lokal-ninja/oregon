@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /beaverton/dsw/
-shop: Leerstehend
+shop: vacant
 ---

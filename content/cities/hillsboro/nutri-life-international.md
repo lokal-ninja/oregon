@@ -1,5 +1,5 @@
 ---
 title: "Nutri Life International"
 url: /hillsboro/nutri-life-international/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

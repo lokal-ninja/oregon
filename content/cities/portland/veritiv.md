@@ -1,5 +1,5 @@
 ---
 title: "Veritiv"
 url: /portland/veritiv/
-shop: Schreibwaren
+shop: office supplies
 ---

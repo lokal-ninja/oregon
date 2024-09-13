@@ -1,5 +1,5 @@
 ---
 title: "Eddy's Pit Stop"
 url: /tigard/eddys-pit-stop/
-shop: Autowerkstatt
+shop: car repair
 ---

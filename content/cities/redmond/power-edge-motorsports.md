@@ -1,5 +1,5 @@
 ---
 title: "Power Edge Motorsports"
 url: /redmond/power-edge-motorsports/
-shop: Motorrad
+shop: motorcycle
 ---

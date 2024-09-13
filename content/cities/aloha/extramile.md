@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /aloha/extramile/
-shop: Lebensmittel
+shop: convenience
 ---

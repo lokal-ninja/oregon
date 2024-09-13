@@ -1,5 +1,5 @@
 ---
 title: "Alsco Uniforms"
 url: /eugene/alsco-uniforms/
-shop: Schneiderei
+shop: tailor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "John's Marketplace"
 url: /beaverton/johns-marketplace/
-shop: Spirituosen
+shop: alcohol
 ---

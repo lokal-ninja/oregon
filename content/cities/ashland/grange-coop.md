@@ -1,5 +1,5 @@
 ---
 title: "Grange Coop"
 url: /ashland/grange-coop/
-shop: Garten-Center
+shop: garden centre
 ---

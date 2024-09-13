@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /happy-valley/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

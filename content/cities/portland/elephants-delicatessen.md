@@ -1,5 +1,5 @@
 ---
 title: "Elephants Delicatessen"
 url: /portland/elephants-delicatessen/
-shop: Feinkost
+shop: deli
 ---

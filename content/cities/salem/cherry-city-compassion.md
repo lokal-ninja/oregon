@@ -1,5 +1,5 @@
 ---
 title: "Cherry City Compassion"
 url: /salem/cherry-city-compassion/
-shop: Hanf
+shop: cannabis
 ---

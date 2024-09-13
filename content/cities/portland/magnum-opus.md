@@ -1,5 +1,5 @@
 ---
 title: "Magnum Opus"
 url: /portland/magnum-opus/
-shop: Friseur
+shop: hairdresser
 ---

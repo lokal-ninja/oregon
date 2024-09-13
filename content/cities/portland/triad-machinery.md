@@ -1,5 +1,5 @@
 ---
 title: "Triad Machinery"
 url: /portland/triad-machinery/
-shop: Mieten
+shop: storage rental
 ---

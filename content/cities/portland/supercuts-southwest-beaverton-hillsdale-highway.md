@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /portland/supercuts-southwest-beaverton-hillsdale-highway/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Don's Bike Center"
 url: /grants-pass/dons-bike-center/
-shop: Fahrrad
+shop: bicycle
 ---

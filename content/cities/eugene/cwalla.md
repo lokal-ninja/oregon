@@ -1,5 +1,5 @@
 ---
 title: "CWallA"
 url: /eugene/cwalla/
-shop: Allgemein
+shop: shop
 ---

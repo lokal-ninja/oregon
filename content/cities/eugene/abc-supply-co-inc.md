@@ -1,5 +1,5 @@
 ---
 title: "ABC Supply Co. Inc."
 url: /eugene/abc-supply-co-inc/
-shop: Baustoffe
+shop: trade
 ---

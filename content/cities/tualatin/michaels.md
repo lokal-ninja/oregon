@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /tualatin/michaels/
-shop: Basteln
+shop: craft
 ---

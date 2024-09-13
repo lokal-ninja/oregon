@@ -1,5 +1,5 @@
 ---
 title: "White Buffalo Creations"
 url: /la-pine/white-buffalo-creations/
-shop: Leder
+shop: leather
 ---

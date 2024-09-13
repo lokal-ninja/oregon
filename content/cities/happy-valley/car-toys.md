@@ -1,5 +1,5 @@
 ---
 title: "Car Toys"
 url: /happy-valley/car-toys/
-shop: Autoteile
+shop: car parts
 ---

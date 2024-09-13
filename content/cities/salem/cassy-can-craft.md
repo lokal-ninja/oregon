@@ -1,5 +1,5 @@
 ---
 title: "Cassy can Craft"
 url: /salem/cassy-can-craft/
-shop: Andenken
+shop: gift
 ---

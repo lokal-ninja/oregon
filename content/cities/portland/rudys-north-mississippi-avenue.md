@@ -1,5 +1,5 @@
 ---
 title: "Rudy's"
 url: /portland/rudys-north-mississippi-avenue/
-shop: Friseur
+shop: hairdresser
 ---

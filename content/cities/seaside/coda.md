@@ -1,5 +1,5 @@
 ---
 title: "Coda"
 url: /seaside/coda/
-shop: Allgemein
+shop: shop
 ---

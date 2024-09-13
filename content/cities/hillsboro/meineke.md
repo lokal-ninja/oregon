@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /hillsboro/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

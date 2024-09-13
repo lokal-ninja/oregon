@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /eugene/edible-arrangements/
-shop: Andenken
+shop: gift
 ---

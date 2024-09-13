@@ -1,5 +1,5 @@
 ---
 title: "Dosha"
 url: /beaverton/dosha/
-shop: Friseur
+shop: hairdresser
 ---

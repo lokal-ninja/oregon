@@ -1,5 +1,5 @@
 ---
 title: "Zales"
 url: /troutdale/zales/
-shop: Schmuck
+shop: jewelry
 ---

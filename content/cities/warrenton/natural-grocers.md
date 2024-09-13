@@ -1,5 +1,5 @@
 ---
 title: "Natural Grocers"
 url: /warrenton/natural-grocers/
-shop: Supermarkt
+shop: supermarket
 ---

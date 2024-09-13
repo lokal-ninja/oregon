@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /clackamas/kohls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eoff"
 url: /bend/eoff/
-shop: Elektrisch
+shop: electrical
 ---

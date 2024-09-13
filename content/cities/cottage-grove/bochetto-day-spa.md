@@ -1,5 +1,5 @@
 ---
 title: "Bochetto Day Spa"
 url: /cottage-grove/bochetto-day-spa/
-shop: Kosmetik
+shop: beauty
 ---

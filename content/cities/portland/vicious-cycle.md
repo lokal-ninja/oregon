@@ -1,5 +1,5 @@
 ---
 title: "Vicious Cycle"
 url: /portland/vicious-cycle/
-shop: Motorrad
+shop: motorcycle
 ---

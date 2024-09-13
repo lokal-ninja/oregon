@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /eugene/u-haul-franklin-boulevard/
-shop: Mieten
+shop: storage rental
 ---

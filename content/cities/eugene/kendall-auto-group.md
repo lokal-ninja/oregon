@@ -1,5 +1,5 @@
 ---
 title: "Kendall Auto Group"
 url: /eugene/kendall-auto-group/
-shop: Autohaus
+shop: car
 ---

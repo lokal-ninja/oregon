@@ -1,5 +1,5 @@
 ---
 title: "Murphy-Musgrove Funeral Home"
 url: /junction-city/murphy-musgrove-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

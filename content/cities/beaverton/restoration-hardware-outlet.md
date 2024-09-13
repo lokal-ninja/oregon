@@ -1,5 +1,5 @@
 ---
 title: "Restoration Hardware Outlet"
 url: /beaverton/restoration-hardware-outlet/
-shop: Möbel
+shop: furniture
 ---

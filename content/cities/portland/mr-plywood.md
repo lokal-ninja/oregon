@@ -1,5 +1,5 @@
 ---
 title: "Mr. Plywood"
 url: /portland/mr-plywood/
-shop: Eisenwaren
+shop: hardware
 ---

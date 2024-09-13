@@ -1,5 +1,5 @@
 ---
 title: "Carver Store"
 url: /damascus/carver-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "A-1 Auto Glass"
 url: /eugene/a-1-auto-glass/
-shop: Autowerkstatt
+shop: car repair
 ---

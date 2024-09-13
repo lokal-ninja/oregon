@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /clackamas/sephora/
-shop: Kosmetik
+shop: beauty
 ---

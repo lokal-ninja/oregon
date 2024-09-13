@@ -1,5 +1,5 @@
 ---
 title: "Auto Appearance"
 url: /aloha/auto-appearance/
-shop: Autowerkstatt
+shop: car repair
 ---

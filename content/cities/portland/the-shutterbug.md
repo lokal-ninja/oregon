@@ -1,5 +1,5 @@
 ---
 title: "The Shutterbug"
 url: /portland/the-shutterbug/
-shop: Foto
+shop: photo
 ---

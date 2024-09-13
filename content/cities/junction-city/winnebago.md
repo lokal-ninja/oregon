@@ -1,5 +1,5 @@
 ---
 title: "Winnebago"
 url: /junction-city/winnebago/
-shop: Wohnwagen
+shop: caravan
 ---

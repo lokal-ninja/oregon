@@ -1,5 +1,5 @@
 ---
 title: "Anthropologie"
 url: /bend/anthropologie/
-shop: Kleidung
+shop: clothes
 ---

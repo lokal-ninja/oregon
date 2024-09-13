@@ -1,5 +1,5 @@
 ---
 title: "Daisy Nail Supply"
 url: /portland/daisy-nail-supply/
-shop: Allgemein
+shop: shop
 ---

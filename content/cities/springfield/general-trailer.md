@@ -1,5 +1,5 @@
 ---
 title: "General Trailer"
 url: /springfield/general-trailer/
-shop: Autoteile
+shop: car parts
 ---

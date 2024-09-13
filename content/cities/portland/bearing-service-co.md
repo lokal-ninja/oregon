@@ -1,5 +1,5 @@
 ---
 title: "Bearing Service Co."
 url: /portland/bearing-service-co/
-shop: Autowerkstatt
+shop: car repair
 ---

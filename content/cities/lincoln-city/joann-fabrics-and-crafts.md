@@ -1,5 +1,5 @@
 ---
 title: "JOANN Fabrics and Crafts"
 url: /lincoln-city/joann-fabrics-and-crafts/
-shop: Basteln
+shop: craft
 ---

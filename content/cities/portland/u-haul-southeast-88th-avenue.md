@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /portland/u-haul-southeast-88th-avenue/
-shop: Mieten
+shop: storage rental
 ---

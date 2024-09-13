@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /hillsboro/great-clips-southeast-tualatin-valley-highway-2/
-shop: Friseur
+shop: hairdresser
 ---

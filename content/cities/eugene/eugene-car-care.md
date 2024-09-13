@@ -1,5 +1,5 @@
 ---
 title: "Eugene Car Care"
 url: /eugene/eugene-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

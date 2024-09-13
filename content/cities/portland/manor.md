@@ -1,5 +1,5 @@
 ---
 title: "Manor"
 url: /portland/manor/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GenX"
 url: /salem/genx/
-shop: Kleidung
+shop: clothes
 ---

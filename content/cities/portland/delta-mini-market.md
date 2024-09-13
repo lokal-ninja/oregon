@@ -1,5 +1,5 @@
 ---
 title: "Delta Mini Market"
 url: /portland/delta-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

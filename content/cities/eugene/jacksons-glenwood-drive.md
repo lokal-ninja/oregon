@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /eugene/jacksons-glenwood-drive/
-shop: Lebensmittel
+shop: convenience
 ---

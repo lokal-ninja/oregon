@@ -1,5 +1,5 @@
 ---
 title: "Park Avenue Market"
 url: /portland/park-avenue-market/
-shop: Lebensmittel
+shop: convenience
 ---

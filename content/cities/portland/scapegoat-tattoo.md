@@ -1,5 +1,5 @@
 ---
 title: "Scapegoat Tattoo"
 url: /portland/scapegoat-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

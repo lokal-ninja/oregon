@@ -1,5 +1,5 @@
 ---
 title: "McKay's Market"
 url: /reedsport/mckays-market/
-shop: Supermarkt
+shop: supermarket
 ---

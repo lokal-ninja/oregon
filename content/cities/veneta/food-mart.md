@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /veneta/food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

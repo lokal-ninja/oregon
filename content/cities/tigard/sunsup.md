@@ -1,5 +1,5 @@
 ---
 title: "SunsUp"
 url: /tigard/sunsup/
-shop: Kosmetik
+shop: beauty
 ---

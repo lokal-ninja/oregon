@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /milwaukie/carmax/
-shop: Autohaus
+shop: car
 ---

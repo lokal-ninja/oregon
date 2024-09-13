@@ -1,5 +1,5 @@
 ---
 title: "Market"
 url: /portland/market/
-shop: Lebensmittel
+shop: convenience
 ---

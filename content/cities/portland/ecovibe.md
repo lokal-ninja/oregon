@@ -1,5 +1,5 @@
 ---
 title: "Ecovibe"
 url: /portland/ecovibe/
-shop: Raumausstattung
+shop: interior decoration
 ---

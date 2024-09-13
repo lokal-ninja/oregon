@@ -1,5 +1,5 @@
 ---
 title: "Cabinets Unlimited"
 url: /tigard/cabinets-unlimited/
-shop: Raumausstattung
+shop: interior decoration
 ---

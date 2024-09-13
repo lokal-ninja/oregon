@@ -1,5 +1,5 @@
 ---
 title: "Nap's Thriftway"
 url: /newberg/naps-thriftway/
-shop: Supermarkt
+shop: supermarket
 ---

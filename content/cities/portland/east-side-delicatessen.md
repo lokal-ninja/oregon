@@ -1,5 +1,5 @@
 ---
 title: "East Side Delicatessen"
 url: /portland/east-side-delicatessen/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Volvo"
 url: /corvallis/volvo/
-shop: Autohaus
+shop: car
 ---

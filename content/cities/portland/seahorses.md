@@ -1,5 +1,5 @@
 ---
 title: "Seahorses"
 url: /portland/seahorses/
-shop: Babysachen
+shop: baby goods
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ozone Records Annex"
 url: /portland/ozone-records-annex/
-shop: Musik
+shop: music
 ---

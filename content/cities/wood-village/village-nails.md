@@ -1,5 +1,5 @@
 ---
 title: "Village Nails"
 url: /wood-village/village-nails/
-shop: Kosmetik
+shop: beauty
 ---

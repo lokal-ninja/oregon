@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /clackamas/hobby-lobby/
-shop: Basteln
+shop: craft
 ---

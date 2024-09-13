@@ -1,5 +1,5 @@
 ---
 title: "Evolution Gaming"
 url: /eugene/evolution-gaming/
-shop: Spielzeug
+shop: toys
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sidekicks"
 url: /portland/sidekicks/
-shop: Lebensmittel
+shop: convenience
 ---

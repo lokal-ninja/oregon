@@ -1,5 +1,5 @@
 ---
 title: "Interior Corner"
 url: /seaside/interior-corner/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Susan Defebaugh Design"
 url: /portland/susan-defebaugh-design/
-shop: Gardinen
+shop: curtain
 ---

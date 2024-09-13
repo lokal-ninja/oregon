@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /lake-oswego/safeway-a-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

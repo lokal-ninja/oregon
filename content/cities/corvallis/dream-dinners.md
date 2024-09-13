@@ -1,5 +1,5 @@
 ---
 title: "Dream Dinners"
 url: /corvallis/dream-dinners/
-shop: Tiefkühl
+shop: frozen food
 ---

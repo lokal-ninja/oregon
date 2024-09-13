@@ -1,5 +1,5 @@
 ---
 title: "Sid's Home Furnishings"
 url: /salem/sids-home-furnishings/
-shop: Möbel
+shop: furniture
 ---

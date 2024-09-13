@@ -1,5 +1,5 @@
 ---
 title: "Bright Oaks Meats"
 url: /springfield/bright-oaks-meats/
-shop: Metzgerei
+shop: butcher
 ---

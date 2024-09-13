@@ -1,5 +1,5 @@
 ---
 title: "Market of Choice"
 url: /bend/market-of-choice/
-shop: Supermarkt
+shop: supermarket
 ---

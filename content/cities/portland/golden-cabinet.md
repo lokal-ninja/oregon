@@ -1,5 +1,5 @@
 ---
 title: "Golden Cabinet"
 url: /portland/golden-cabinet/
-shop: Kräuter
+shop: herbalist
 ---

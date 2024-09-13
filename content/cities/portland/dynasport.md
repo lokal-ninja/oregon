@@ -1,5 +1,5 @@
 ---
 title: "Dynasport"
 url: /portland/dynasport/
-shop: Autowerkstatt
+shop: car repair
 ---

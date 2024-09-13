@@ -1,5 +1,5 @@
 ---
 title: "myGoods"
 url: /springfield/mygoods/
-shop: Lebensmittel
+shop: convenience
 ---

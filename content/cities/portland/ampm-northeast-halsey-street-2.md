@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /portland/ampm-northeast-halsey-street-2/
-shop: Lebensmittel
+shop: convenience
 ---

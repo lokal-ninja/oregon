@@ -1,5 +1,5 @@
 ---
 title: "Eagle Bargain Outlet"
 url: /tigard/eagle-bargain-outlet/
-shop: Kramladen
+shop: variety store
 ---

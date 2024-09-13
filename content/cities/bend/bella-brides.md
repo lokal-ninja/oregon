@@ -1,5 +1,5 @@
 ---
 title: "Bella Brides"
 url: /bend/bella-brides/
-shop: Kleidung
+shop: clothes
 ---

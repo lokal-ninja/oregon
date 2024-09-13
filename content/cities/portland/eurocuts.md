@@ -1,5 +1,5 @@
 ---
 title: "Eurocuts"
 url: /portland/eurocuts/
-shop: Friseur
+shop: hairdresser
 ---

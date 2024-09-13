@@ -1,5 +1,5 @@
 ---
 title: "Perl Funeral Home"
 url: /medford/perl-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

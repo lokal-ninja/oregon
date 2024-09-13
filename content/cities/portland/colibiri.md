@@ -1,5 +1,5 @@
 ---
 title: "Colibiri"
 url: /portland/colibiri/
-shop: Blumen
+shop: florist
 ---

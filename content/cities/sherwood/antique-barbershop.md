@@ -1,5 +1,5 @@
 ---
 title: "Antique Barbershop"
 url: /sherwood/antique-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

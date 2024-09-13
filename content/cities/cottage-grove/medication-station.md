@@ -1,5 +1,5 @@
 ---
 title: "Medication Station"
 url: /cottage-grove/medication-station/
-shop: Hanf
+shop: cannabis
 ---

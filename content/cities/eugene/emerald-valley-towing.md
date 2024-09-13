@@ -1,5 +1,5 @@
 ---
 title: "Emerald Valley Towing"
 url: /eugene/emerald-valley-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

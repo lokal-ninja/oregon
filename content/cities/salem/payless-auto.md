@@ -1,5 +1,5 @@
 ---
 title: "Payless Auto"
 url: /salem/payless-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Morrow's Sewing and Vacuum Center"
 url: /bend/morrows-sewing-and-vacuum-center/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

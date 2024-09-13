@@ -1,5 +1,5 @@
 ---
 title: "Farmington Denture Center"
 url: /beaverton/farmington-denture-center/
-shop: Allgemein
+shop: shop
 ---

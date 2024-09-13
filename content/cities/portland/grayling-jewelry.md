@@ -1,5 +1,5 @@
 ---
 title: "Grayling Jewelry"
 url: /portland/grayling-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

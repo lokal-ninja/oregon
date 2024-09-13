@@ -1,5 +1,5 @@
 ---
 title: "Somewhere that's Green"
 url: /bend/somewhere-thats-green/
-shop: Garten-Center
+shop: garden centre
 ---

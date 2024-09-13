@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /portland/public-storage-north-lombard-street/
-shop: Mieten
+shop: storage rental
 ---

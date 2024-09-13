@@ -1,5 +1,5 @@
 ---
 title: "Health Haven Vitamins"
 url: /newport/health-haven-vitamins/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

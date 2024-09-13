@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /bend/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Sportsman"
 url: /florence/the-sportsman/
-shop: Sport
+shop: sports
 ---

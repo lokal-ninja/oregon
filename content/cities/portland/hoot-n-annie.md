@@ -1,5 +1,5 @@
 ---
-title: "Hoot -N- Annie"
+title: "Hoot-N-Annie"
 url: /portland/hoot-n-annie/
-shop: Kleidung
+shop: furniture
 ---

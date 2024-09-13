@@ -1,5 +1,5 @@
 ---
 title: "Builders FirstSource"
 url: /lincoln-city/builders-firstsource/
-shop: Baustoffe
+shop: trade
 ---

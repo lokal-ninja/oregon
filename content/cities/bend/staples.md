@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /bend/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

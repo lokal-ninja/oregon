@@ -1,5 +1,5 @@
 ---
 title: "Warrenton Mini Mart"
 url: /warrenton/warrenton-mini-mart/
-shop: Lebensmittel
+shop: convenience
 ---

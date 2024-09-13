@@ -1,5 +1,5 @@
 ---
 title: "Pacific Motorsports"
 url: /portland/pacific-motorsports/
-shop: Autowerkstatt
+shop: car repair
 ---

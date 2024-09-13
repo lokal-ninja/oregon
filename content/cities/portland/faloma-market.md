@@ -1,5 +1,5 @@
 ---
 title: "Faloma Market"
 url: /portland/faloma-market/
-shop: Lebensmittel
+shop: convenience
 ---

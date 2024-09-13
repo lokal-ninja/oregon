@@ -1,5 +1,5 @@
 ---
 title: "Pet Loft"
 url: /portland/pet-loft/
-shop: Tiere
+shop: pet
 ---

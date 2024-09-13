@@ -1,5 +1,5 @@
 ---
 title: "David Kerr"
 url: /portland/david-kerr/
-shop: Instrumente
+shop: musical instrument
 ---

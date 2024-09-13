@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /eugene/7-eleven-east-broadway/
-shop: Lebensmittel
+shop: convenience
 ---

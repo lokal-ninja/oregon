@@ -1,5 +1,5 @@
 ---
 title: "Able Hearing"
 url: /beaverton/able-hearing/
-shop: Hörgeräte
+shop: hearing aids
 ---

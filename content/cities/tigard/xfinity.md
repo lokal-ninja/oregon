@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /tigard/xfinity/
-shop: Handy
+shop: mobile phone
 ---

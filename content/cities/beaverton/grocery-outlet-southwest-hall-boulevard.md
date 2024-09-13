@@ -1,5 +1,5 @@
 ---
 title: "Grocery Outlet"
 url: /beaverton/grocery-outlet-southwest-hall-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

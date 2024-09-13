@@ -1,5 +1,5 @@
 ---
 title: "Penske Truck Rental"
 url: /portland/penske-truck-rental/
-shop: Mieten
+shop: storage rental
 ---

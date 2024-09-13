@@ -1,5 +1,5 @@
 ---
 title: "Shazaam Hair Studio"
 url: /portland/shazaam-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

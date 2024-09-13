@@ -1,5 +1,5 @@
 ---
 title: "Urbaca"
 url: /portland/urbaca/
-shop: Friseur
+shop: hairdresser
 ---

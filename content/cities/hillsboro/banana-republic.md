@@ -1,5 +1,5 @@
 ---
 title: "Banana Republic"
 url: /hillsboro/banana-republic/
-shop: Kleidung
+shop: clothes
 ---

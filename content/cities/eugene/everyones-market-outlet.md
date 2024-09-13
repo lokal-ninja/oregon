@@ -1,5 +1,5 @@
 ---
 title: "Everyone's Market Outlet"
 url: /eugene/everyones-market-outlet/
-shop: Lebensmittel
+shop: convenience
 ---

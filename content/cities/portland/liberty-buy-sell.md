@@ -1,5 +1,5 @@
 ---
 title: "Liberty Buy-Sell"
 url: /portland/liberty-buy-sell/
-shop: Leiher
+shop: pawnbroker
 ---

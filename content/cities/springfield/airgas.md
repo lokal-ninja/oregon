@@ -1,5 +1,5 @@
 ---
 title: "Airgas"
 url: /springfield/airgas/
-shop: Gasflaschen
+shop: gas
 ---

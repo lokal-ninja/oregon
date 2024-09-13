@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /keizer/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

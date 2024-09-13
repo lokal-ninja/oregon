@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /bend/walgreens/
-shop: Drogerie
+shop: chemist
 ---

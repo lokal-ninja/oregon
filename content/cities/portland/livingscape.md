@@ -1,5 +1,5 @@
 ---
 title: "Livingscape"
 url: /portland/livingscape/
-shop: Garten-Center
+shop: garden centre
 ---

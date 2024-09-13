@@ -1,5 +1,5 @@
 ---
 title: "Marathon Coach"
 url: /coburg/marathon-coach/
-shop: Wohnwagen
+shop: caravan
 ---

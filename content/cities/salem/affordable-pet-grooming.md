@@ -1,5 +1,5 @@
 ---
 title: "Affordable Pet Grooming"
 url: /salem/affordable-pet-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

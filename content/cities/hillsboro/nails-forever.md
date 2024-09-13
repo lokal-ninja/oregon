@@ -1,5 +1,5 @@
 ---
 title: "Nails Forever"
 url: /hillsboro/nails-forever/
-shop: Kosmetik
+shop: beauty
 ---

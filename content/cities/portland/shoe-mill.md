@@ -1,5 +1,5 @@
 ---
 title: "Shoe Mill"
 url: /portland/shoe-mill/
-shop: Schuhe
+shop: shoes
 ---

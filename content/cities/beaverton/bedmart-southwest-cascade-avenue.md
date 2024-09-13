@@ -1,5 +1,5 @@
 ---
 title: "BedMart"
 url: /beaverton/bedmart-southwest-cascade-avenue/
-shop: Betten
+shop: bed
 ---

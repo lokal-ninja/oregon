@@ -1,5 +1,5 @@
 ---
 title: "Bill's Automotive"
 url: /cottage-grove/bills-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

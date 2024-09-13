@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /central-point/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

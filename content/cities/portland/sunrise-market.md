@@ -1,5 +1,5 @@
 ---
 title: "Sunrise Market"
 url: /portland/sunrise-market/
-shop: Lebensmittel
+shop: convenience
 ---

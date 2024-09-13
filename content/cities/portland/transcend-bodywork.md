@@ -1,5 +1,5 @@
 ---
 title: "Transcend Bodywork"
 url: /portland/transcend-bodywork/
-shop: Massage
+shop: massage
 ---

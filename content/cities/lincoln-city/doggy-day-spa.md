@@ -1,5 +1,5 @@
 ---
 title: "Doggy Day Spa"
 url: /lincoln-city/doggy-day-spa/
-shop: Tiersalon
+shop: pet grooming
 ---

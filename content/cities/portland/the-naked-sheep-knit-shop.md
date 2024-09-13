@@ -1,5 +1,5 @@
 ---
 title: "The Naked Sheep Knit Shop"
 url: /portland/the-naked-sheep-knit-shop/
-shop: Allgemein
+shop: shop
 ---

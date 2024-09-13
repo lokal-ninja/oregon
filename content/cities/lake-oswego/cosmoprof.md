@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /lake-oswego/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

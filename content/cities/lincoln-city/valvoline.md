@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /lincoln-city/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

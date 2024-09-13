@@ -1,5 +1,5 @@
 ---
 title: "Himalayan Gifts"
 url: /portland/himalayan-gifts/
-shop: Andenken
+shop: gift
 ---

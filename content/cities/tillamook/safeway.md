@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /tillamook/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Darrel's Mufflers"
 url: /portland/darrels-mufflers/
-shop: Autowerkstatt
+shop: car repair
 ---

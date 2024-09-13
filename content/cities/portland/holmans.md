@@ -1,5 +1,5 @@
 ---
 title: "Holman's"
 url: /portland/holmans/
-shop: Bestattungen
+shop: funeral directors
 ---

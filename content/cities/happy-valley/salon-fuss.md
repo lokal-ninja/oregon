@@ -1,5 +1,5 @@
 ---
 title: "Salon Fuss"
 url: /happy-valley/salon-fuss/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Luminous Wellbeing"
 url: /ashland/luminous-wellbeing/
-shop: Kosmetik
+shop: beauty
 ---

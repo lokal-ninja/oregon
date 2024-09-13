@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /portland/walgreens-southeast-cesar-e-chavez-boulevard/
-shop: Drogerie
+shop: chemist
 ---

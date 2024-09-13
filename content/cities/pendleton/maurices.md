@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /pendleton/maurices/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vanity Junkie"
 url: /beaverton/vanity-junkie/
-shop: Friseur
+shop: hairdresser
 ---

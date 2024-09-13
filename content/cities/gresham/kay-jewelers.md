@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /gresham/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

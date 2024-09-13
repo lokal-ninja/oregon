@@ -1,5 +1,5 @@
 ---
 title: "Papé Material Handling"
 url: /eugene/pape-material-handling/
-shop: Werkzeuge
+shop: tools
 ---

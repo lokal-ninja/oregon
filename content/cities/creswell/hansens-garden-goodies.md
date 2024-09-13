@@ -1,5 +1,5 @@
 ---
 title: "Hansen's Garden Goodies"
 url: /creswell/hansens-garden-goodies/
-shop: Hofladen
+shop: farm
 ---

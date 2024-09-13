@@ -1,5 +1,5 @@
 ---
 title: "Ace Discount Motorsports"
 url: /redmond/ace-discount-motorsports/
-shop: Autoteile
+shop: car parts
 ---

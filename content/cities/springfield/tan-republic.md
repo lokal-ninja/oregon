@@ -1,5 +1,5 @@
 ---
 title: "Tan Republic"
 url: /springfield/tan-republic/
-shop: Kosmetik
+shop: beauty
 ---

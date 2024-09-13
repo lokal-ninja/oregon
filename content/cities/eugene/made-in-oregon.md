@@ -1,5 +1,5 @@
 ---
 title: "Made in Oregon"
 url: /eugene/made-in-oregon/
-shop: Andenken
+shop: gift
 ---

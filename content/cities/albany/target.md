@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /albany/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /troutdale/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

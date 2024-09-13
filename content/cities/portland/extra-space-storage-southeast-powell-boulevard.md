@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
 url: /portland/extra-space-storage-southeast-powell-boulevard/
-shop: Mieten
+shop: storage rental
 ---

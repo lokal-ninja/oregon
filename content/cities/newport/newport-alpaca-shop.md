@@ -1,5 +1,5 @@
 ---
 title: "Newport Alpaca Shop"
 url: /newport/newport-alpaca-shop/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Haven"
 url: /ashland/the-haven/
-shop: Raumausstattung
+shop: interior decoration
 ---

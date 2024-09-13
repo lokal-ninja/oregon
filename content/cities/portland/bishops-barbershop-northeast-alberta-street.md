@@ -1,5 +1,5 @@
 ---
 title: "Bishops Barbershop"
 url: /portland/bishops-barbershop-northeast-alberta-street/
-shop: Friseur
+shop: hairdresser
 ---

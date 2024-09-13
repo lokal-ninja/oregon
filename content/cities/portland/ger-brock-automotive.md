@@ -1,5 +1,5 @@
 ---
 title: "Ger-Brock Automotive"
 url: /portland/ger-brock-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

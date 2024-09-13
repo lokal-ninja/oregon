@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /lake-oswego/shell/
-shop: Lebensmittel
+shop: convenience
 ---

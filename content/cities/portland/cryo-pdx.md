@@ -1,5 +1,5 @@
 ---
 title: "Cryo PDX"
 url: /portland/cryo-pdx/
-shop: Kosmetik
+shop: beauty
 ---

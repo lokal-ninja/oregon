@@ -1,5 +1,5 @@
 ---
 title: "Wilco"
 url: /redmond/wilco/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

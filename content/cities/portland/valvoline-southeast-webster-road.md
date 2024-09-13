@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /portland/valvoline-southeast-webster-road/
-shop: Autowerkstatt
+shop: car repair
 ---

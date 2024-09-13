@@ -1,5 +1,5 @@
 ---
 title: "Postal Connections"
 url: /bend/postal-connections/
-shop: Schreibwaren
+shop: office supplies
 ---

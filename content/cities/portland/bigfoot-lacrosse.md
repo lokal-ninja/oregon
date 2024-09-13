@@ -1,5 +1,5 @@
 ---
 title: "Bigfoot Lacrosse"
 url: /portland/bigfoot-lacrosse/
-shop: Sport
+shop: sports
 ---

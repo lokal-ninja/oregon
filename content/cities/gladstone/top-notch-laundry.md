@@ -1,5 +1,5 @@
 ---
 title: "Top Notch Laundry"
 url: /gladstone/top-notch-laundry/
-shop: Wäscherei
+shop: laundry
 ---

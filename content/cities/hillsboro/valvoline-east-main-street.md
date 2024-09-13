@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /hillsboro/valvoline-east-main-street/
-shop: Autowerkstatt
+shop: car repair
 ---

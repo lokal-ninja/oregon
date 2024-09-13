@@ -1,5 +1,5 @@
 ---
 title: "Olson's Premium Houseplants"
 url: /salem/olsons-premium-houseplants/
-shop: Garten-Center
+shop: garden centre
 ---

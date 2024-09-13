@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
 url: /lakeview/napa-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

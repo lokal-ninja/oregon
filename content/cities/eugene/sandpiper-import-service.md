@@ -1,5 +1,5 @@
 ---
 title: "Sandpiper Import Service"
 url: /eugene/sandpiper-import-service/
-shop: Autowerkstatt
+shop: car repair
 ---

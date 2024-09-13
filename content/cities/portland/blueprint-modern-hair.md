@@ -1,5 +1,5 @@
 ---
 title: "Blueprint Modern Hair"
 url: /portland/blueprint-modern-hair/
-shop: Friseur
+shop: hairdresser
 ---

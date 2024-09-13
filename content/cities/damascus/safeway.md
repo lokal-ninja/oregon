@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /damascus/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hair Centric"
 url: /portland/hair-centric/
-shop: Friseur
+shop: hairdresser
 ---

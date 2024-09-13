@@ -1,5 +1,5 @@
 ---
 title: "Zen Space"
 url: /portland/zen-space/
-shop: Massage
+shop: massage
 ---

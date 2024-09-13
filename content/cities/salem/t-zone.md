@@ -1,5 +1,5 @@
 ---
 title: "T-ZONE"
 url: /salem/t-zone/
-shop: Tabak
+shop: tobacco
 ---

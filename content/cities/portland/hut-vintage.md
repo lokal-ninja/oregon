@@ -1,5 +1,5 @@
 ---
 title: "Hut Vintage"
 url: /portland/hut-vintage/
-shop: Allgemein
+shop: shop
 ---

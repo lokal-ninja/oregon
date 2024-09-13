@@ -1,5 +1,5 @@
 ---
 title: "Petsense"
 url: /ontario/petsense/
-shop: Tiere
+shop: pet
 ---

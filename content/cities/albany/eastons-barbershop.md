@@ -1,5 +1,5 @@
 ---
 title: "Easton's Barbershop"
 url: /albany/eastons-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

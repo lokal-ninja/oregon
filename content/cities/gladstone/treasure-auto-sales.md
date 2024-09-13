@@ -1,5 +1,5 @@
 ---
 title: "Treasure Auto Sales"
 url: /gladstone/treasure-auto-sales/
-shop: Autohaus
+shop: car
 ---

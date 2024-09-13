@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /hillsboro/valvoline-southeast-tualatin-valley-highway/
-shop: Autowerkstatt
+shop: car repair
 ---

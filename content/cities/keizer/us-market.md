@@ -1,5 +1,5 @@
 ---
 title: "US Market"
 url: /keizer/us-market/
-shop: Lebensmittel
+shop: convenience
 ---

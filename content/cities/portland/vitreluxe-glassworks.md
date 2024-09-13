@@ -1,5 +1,5 @@
 ---
 title: "Vitreluxe Glassworks"
 url: /portland/vitreluxe-glassworks/
-shop: Raumausstattung
+shop: interior decoration
 ---

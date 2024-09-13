@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /newberg/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

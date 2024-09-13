@@ -1,5 +1,5 @@
 ---
 title: "Azurá"
 url: /bend/azura/
-shop: Friseur
+shop: hairdresser
 ---

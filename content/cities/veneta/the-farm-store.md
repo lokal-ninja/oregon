@@ -1,5 +1,5 @@
 ---
 title: "The Farm Store"
 url: /veneta/the-farm-store/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

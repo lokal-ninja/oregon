@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /troutdale/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

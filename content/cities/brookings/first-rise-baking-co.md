@@ -1,5 +1,5 @@
 ---
 title: "First Rise Baking Co."
 url: /brookings/first-rise-baking-co/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Next Adventure"
 url: /sandy/next-adventure/
-shop: Outdoor
+shop: outdoor
 ---

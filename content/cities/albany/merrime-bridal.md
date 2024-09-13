@@ -1,5 +1,5 @@
 ---
 title: "Merrime Bridal"
 url: /albany/merrime-bridal/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tactics"
 url: /portland/tactics/
-shop: Sport
+shop: sports
 ---

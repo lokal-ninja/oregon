@@ -1,5 +1,5 @@
 ---
 title: "Budget Blinds"
 url: /portland/budget-blinds/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dyke Vandenburgh"
 url: /lake-oswego/dyke-vandenburgh/
-shop: Schmuck
+shop: jewelry
 ---

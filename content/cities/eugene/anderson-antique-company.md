@@ -1,5 +1,5 @@
 ---
 title: "Anderson Antique Company"
 url: /eugene/anderson-antique-company/
-shop: Antiquitäten
+shop: antiques
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eyebrow Plus"
 url: /clackamas/eyebrow-plus/
-shop: Kosmetik
+shop: beauty
 ---

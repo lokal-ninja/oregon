@@ -1,5 +1,5 @@
 ---
 title: "Kinokuniya"
 url: /portland/kinokuniya/
-shop: Bücher
+shop: books
 ---

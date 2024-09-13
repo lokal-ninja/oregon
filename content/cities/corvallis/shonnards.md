@@ -1,5 +1,5 @@
 ---
 title: "Shonnard's"
 url: /corvallis/shonnards/
-shop: Garten-Center
+shop: garden centre
 ---

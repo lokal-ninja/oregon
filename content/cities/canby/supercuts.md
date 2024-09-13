@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /canby/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

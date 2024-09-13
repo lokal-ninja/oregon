@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /fairview/target/
-shop: Warenhaus
+shop: department store
 ---

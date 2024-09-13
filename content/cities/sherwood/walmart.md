@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /sherwood/walmart/
-shop: Foto
+shop: photo
 ---

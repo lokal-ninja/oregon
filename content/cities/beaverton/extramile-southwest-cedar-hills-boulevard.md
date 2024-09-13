@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /beaverton/extramile-southwest-cedar-hills-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

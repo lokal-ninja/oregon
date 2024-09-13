@@ -1,5 +1,5 @@
 ---
 title: "Little Antique Mall"
 url: /lincoln-city/little-antique-mall/
-shop: Antiquitäten
+shop: antiques
 ---

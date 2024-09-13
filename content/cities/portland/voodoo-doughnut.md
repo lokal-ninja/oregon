@@ -1,5 +1,5 @@
 ---
 title: "Voodoo Doughnut"
 url: /portland/voodoo-doughnut/
-shop: Konditorei
+shop: pastry
 ---

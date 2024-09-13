@@ -1,5 +1,5 @@
 ---
 title: "Cielo Home"
 url: /portland/cielo-home/
-shop: Raumausstattung
+shop: interior decoration
 ---

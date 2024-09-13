@@ -1,5 +1,5 @@
 ---
 title: "Center Street Ridez"
 url: /eugene/center-street-ridez/
-shop: Wohnwagen
+shop: caravan
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bloom Hair Studio"
 url: /eugene/bloom-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /clackamas/maurices/
-shop: Kleidung
+shop: clothes
 ---

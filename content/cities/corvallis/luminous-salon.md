@@ -1,5 +1,5 @@
 ---
 title: "Luminous Salon"
 url: /corvallis/luminous-salon/
-shop: Kosmetik
+shop: beauty
 ---

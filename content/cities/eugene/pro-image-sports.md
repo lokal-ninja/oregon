@@ -1,5 +1,5 @@
 ---
 title: "Pro Image Sports"
 url: /eugene/pro-image-sports/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Olivia Hunter"
 url: /bend/olivia-hunter/
-shop: Kleidung
+shop: clothes
 ---

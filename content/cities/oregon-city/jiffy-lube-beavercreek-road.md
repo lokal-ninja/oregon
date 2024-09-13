@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /oregon-city/jiffy-lube-beavercreek-road/
-shop: Autowerkstatt
+shop: car repair
 ---

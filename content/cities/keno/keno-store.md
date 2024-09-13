@@ -1,5 +1,5 @@
 ---
 title: "Keno Store"
 url: /keno/keno-store/
-shop: Lebensmittel
+shop: convenience
 ---

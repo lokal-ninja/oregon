@@ -1,5 +1,5 @@
 ---
 title: "Emerald Valley Armory"
 url: /creswell/emerald-valley-armory/
-shop: Waffen
+shop: weapons
 ---

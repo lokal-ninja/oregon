@@ -1,5 +1,5 @@
 ---
 title: "Elite Gamespot"
 url: /creswell/elite-gamespot/
-shop: Videospiele
+shop: video games
 ---

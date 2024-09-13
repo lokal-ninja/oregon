@@ -1,5 +1,5 @@
 ---
 title: "Cali Saigon Mall"
 url: /portland/cali-saigon-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

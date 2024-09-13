@@ -1,5 +1,5 @@
 ---
 title: "DCI"
 url: /newberg/dci/
-shop: Sanitätshaus
+shop: medical supply
 ---

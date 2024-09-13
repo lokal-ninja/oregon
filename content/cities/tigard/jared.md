@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /tigard/jared/
-shop: Schmuck
+shop: jewelry
 ---

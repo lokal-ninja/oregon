@@ -1,5 +1,5 @@
 ---
 title: "Red Carpet Deli"
 url: /bend/red-carpet-deli/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /clackamas/verizon-southeast-sunnyside-road/
-shop: Handy
+shop: mobile phone
 ---

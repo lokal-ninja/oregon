@@ -1,5 +1,5 @@
 ---
 title: "Embarkadero Compassionate Grooming"
 url: /pleasant-hill/embarkadero-compassionate-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

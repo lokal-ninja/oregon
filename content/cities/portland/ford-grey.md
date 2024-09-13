@@ -1,5 +1,5 @@
 ---
 title: "Ford Grey"
 url: /portland/ford-grey/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kirby"
 url: /portland/kirby/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

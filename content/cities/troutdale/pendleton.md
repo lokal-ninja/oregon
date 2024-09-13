@@ -1,5 +1,5 @@
 ---
 title: "Pendleton"
 url: /troutdale/pendleton/
-shop: Kleidung
+shop: clothes
 ---

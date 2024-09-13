@@ -1,5 +1,5 @@
 ---
 title: "Holy Grail Pharms"
 url: /eugene/holy-grail-pharms/
-shop: Hanf
+shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /grants-pass/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

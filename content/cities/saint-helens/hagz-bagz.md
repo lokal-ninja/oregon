@@ -1,5 +1,5 @@
 ---
 title: "Hagz Bagz"
 url: /saint-helens/hagz-bagz/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mox Valley Games"
 url: /springfield/mox-valley-games/
-shop: Spielzeug
+shop: toys
 ---

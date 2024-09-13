@@ -1,5 +1,5 @@
 ---
 title: "Puerto Barrios"
 url: /beaverton/puerto-barrios/
-shop: Konditorei
+shop: pastry
 ---

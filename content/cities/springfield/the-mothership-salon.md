@@ -1,5 +1,5 @@
 ---
 title: "The Mothership Salon"
 url: /springfield/the-mothership-salon/
-shop: Friseur
+shop: hairdresser
 ---

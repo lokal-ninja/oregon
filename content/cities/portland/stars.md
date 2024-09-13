@@ -1,5 +1,5 @@
 ---
 title: "Stars"
 url: /portland/stars/
-shop: Antiquitäten
+shop: antiques
 ---

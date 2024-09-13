@@ -1,5 +1,5 @@
 ---
 title: "John's Automotive Repair"
 url: /corvallis/johns-automotive-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "UpWest"
 url: /tigard/upwest/
-shop: Kleidung
+shop: clothes
 ---

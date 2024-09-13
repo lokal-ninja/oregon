@@ -1,5 +1,5 @@
 ---
 title: "Clackacraft Drift Boats"
 url: /clackamas/clackacraft-drift-boats/
-shop: Boot
+shop: boat
 ---

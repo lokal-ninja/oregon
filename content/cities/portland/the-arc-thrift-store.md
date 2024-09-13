@@ -1,5 +1,5 @@
 ---
 title: "The Arc Thrift Store"
 url: /portland/the-arc-thrift-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

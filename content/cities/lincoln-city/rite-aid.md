@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /lincoln-city/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

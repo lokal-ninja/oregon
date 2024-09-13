@@ -1,5 +1,5 @@
 ---
 title: "Broadway Cannabis Market"
 url: /portland/broadway-cannabis-market/
-shop: Hanf
+shop: cannabis
 ---

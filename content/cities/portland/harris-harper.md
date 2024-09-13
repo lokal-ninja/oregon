@@ -1,5 +1,5 @@
 ---
 title: "Harris/Harper"
 url: /portland/harris-harper/
-shop: Friseur
+shop: hairdresser
 ---

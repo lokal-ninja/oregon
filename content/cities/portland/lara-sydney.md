@@ -1,5 +1,5 @@
 ---
 title: "Lara Sydney"
 url: /portland/lara-sydney/
-shop: Rahmen
+shop: frame
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Portland Eco Laundry"
 url: /portland/portland-eco-laundry/
-shop: Wäscherei
+shop: laundry
 ---

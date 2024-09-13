@@ -1,5 +1,5 @@
 ---
 title: "Tigard Premier Auto Care"
 url: /tigard/tigard-premier-auto-care/
-shop: Autoteile
+shop: car parts
 ---

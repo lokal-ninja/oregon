@@ -1,5 +1,5 @@
 ---
 title: "Eugene Eyewear"
 url: /eugene/eugene-eyewear/
-shop: Optiker
+shop: optician
 ---

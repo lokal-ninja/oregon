@@ -1,5 +1,5 @@
 ---
 title: "Community Store"
 url: /eugene/community-store/
-shop: Lebensmittel
+shop: convenience
 ---

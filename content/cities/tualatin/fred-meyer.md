@@ -1,5 +1,5 @@
 ---
 title: "Fred Meyer"
 url: /tualatin/fred-meyer/
-shop: Supermarkt
+shop: supermarket
 ---

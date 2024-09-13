@@ -1,5 +1,5 @@
 ---
 title: "JG Barbers"
 url: /portland/jg-barbers/
-shop: Friseur
+shop: hairdresser
 ---

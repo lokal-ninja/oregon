@@ -1,5 +1,5 @@
 ---
 title: "Prize"
 url: /ashland/prize/
-shop: Raumausstattung
+shop: interior decoration
 ---

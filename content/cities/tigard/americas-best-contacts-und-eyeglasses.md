@@ -1,5 +1,0 @@
----
-title: "America's Best Contacts & Eyeglasses"
-url: /tigard/americas-best-contacts-und-eyeglasses/
-shop: Optiker
----

@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /bend/carters/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rose City Wellness"
 url: /portland/rose-city-wellness/
-shop: Hanf
+shop: cannabis
 ---

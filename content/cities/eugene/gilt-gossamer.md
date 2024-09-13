@@ -1,5 +1,5 @@
 ---
 title: "Gilt + Gossamer"
 url: /eugene/gilt-gossamer/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Perfumania"
 url: /lincoln-city/perfumania/
-shop: Parfümerie
+shop: perfumery
 ---

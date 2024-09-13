@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /portland/t-mobile-northeast-broadway/
-shop: Handy
+shop: mobile phone
 ---

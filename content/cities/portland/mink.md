@@ -1,5 +1,5 @@
 ---
 title: "Mink"
 url: /portland/mink/
-shop: Kleidung
+shop: clothes
 ---

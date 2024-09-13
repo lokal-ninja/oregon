@@ -1,5 +1,5 @@
 ---
 title: "Prehistoric Fossils"
 url: /lincoln-city/prehistoric-fossils/
-shop: Andenken
+shop: gift
 ---

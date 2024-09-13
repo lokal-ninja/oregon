@@ -1,5 +1,5 @@
 ---
 title: "Wilsonville Vision Center"
 url: /wilsonville/wilsonville-vision-center/
-shop: Optiker
+shop: optician
 ---

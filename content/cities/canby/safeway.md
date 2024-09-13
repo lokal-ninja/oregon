@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /canby/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

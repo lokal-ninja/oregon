@@ -1,5 +1,5 @@
 ---
 title: "Furnish"
 url: /bend/furnish/
-shop: Möbel
+shop: furniture
 ---

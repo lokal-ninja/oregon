@@ -1,5 +1,5 @@
 ---
 title: "Wilson Motors"
 url: /corvallis/wilson-motors/
-shop: Autohaus
+shop: car
 ---

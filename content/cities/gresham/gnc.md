@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /gresham/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

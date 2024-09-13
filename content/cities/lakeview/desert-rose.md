@@ -1,5 +1,5 @@
 ---
 title: "Desert rose"
 url: /lakeview/desert-rose/
-shop: Bestattungen
+shop: funeral directors
 ---

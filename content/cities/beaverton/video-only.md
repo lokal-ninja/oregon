@@ -1,5 +1,5 @@
 ---
 title: "Video Only"
 url: /beaverton/video-only/
-shop: Elektronik
+shop: electronics
 ---

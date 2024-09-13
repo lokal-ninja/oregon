@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /salem/safeway-commercial-street-southeast/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bi-Mart"
 url: /sandy/bi-mart/
-shop: Warenhaus
+shop: department store
 ---

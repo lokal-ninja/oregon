@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /mcminnville/petco/
-shop: Tiere
+shop: pet
 ---

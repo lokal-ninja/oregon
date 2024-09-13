@@ -1,5 +1,5 @@
 ---
 title: "Quality Printing Service"
 url: /lincoln-city/quality-printing-service/
-shop: Kopieren
+shop: copyshop
 ---

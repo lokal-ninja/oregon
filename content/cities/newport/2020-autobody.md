@@ -1,5 +1,5 @@
 ---
 title: "2020 Autobody"
 url: /newport/2020-autobody/
-shop: Autowerkstatt
+shop: car repair
 ---

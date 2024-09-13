@@ -1,5 +1,5 @@
 ---
 title: "FleetPride"
 url: /portland/fleetpride/
-shop: Autoteile
+shop: car parts
 ---

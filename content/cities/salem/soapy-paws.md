@@ -1,5 +1,5 @@
 ---
 title: "Soapy Paws"
 url: /salem/soapy-paws/
-shop: Tiersalon
+shop: pet grooming
 ---

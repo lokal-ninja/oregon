@@ -1,5 +1,5 @@
 ---
 title: "The Barbers"
 url: /beaverton/the-barbers-southwest-barrows-road/
-shop: Friseur
+shop: hairdresser
 ---

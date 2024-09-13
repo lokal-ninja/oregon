@@ -1,5 +1,5 @@
 ---
 title: "Oblivion Art Tattoo"
 url: /eagle-point/oblivion-art-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

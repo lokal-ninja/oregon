@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /eugene/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

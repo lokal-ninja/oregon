@@ -1,5 +1,5 @@
 ---
 title: "Loen Nursery, Wholesale Growing Facility"
 url: /woodburn/loen-nursery-wholesale-growing-facility/
-shop: Garten-Center
+shop: garden centre
 ---

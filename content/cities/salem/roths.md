@@ -1,5 +1,5 @@
 ---
 title: "Roth's"
 url: /salem/roths/
-shop: Supermarkt
+shop: supermarket
 ---

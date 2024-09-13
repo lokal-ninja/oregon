@@ -1,5 +1,5 @@
 ---
 title: "The Wine Cellar"
 url: /portland/the-wine-cellar/
-shop: Wein
+shop: wine
 ---

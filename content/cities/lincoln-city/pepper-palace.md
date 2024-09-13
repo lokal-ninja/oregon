@@ -1,5 +1,5 @@
 ---
 title: "Pepper Palace"
 url: /lincoln-city/pepper-palace/
-shop: Andenken
+shop: gift
 ---

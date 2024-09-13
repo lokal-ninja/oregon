@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /tigard/lenscrafters/
-shop: Optiker
+shop: optician
 ---

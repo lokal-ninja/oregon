@@ -1,5 +1,5 @@
 ---
 title: "Heritage Looms"
 url: /portland/heritage-looms/
-shop: Teppiche
+shop: carpet
 ---

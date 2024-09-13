@@ -1,5 +1,5 @@
 ---
 title: "Toledo Hardware"
 url: /toledo/toledo-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

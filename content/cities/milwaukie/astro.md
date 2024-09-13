@@ -1,5 +1,5 @@
 ---
 title: "Astro"
 url: /milwaukie/astro/
-shop: Tabak
+shop: tobacco
 ---

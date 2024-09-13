@@ -1,5 +1,5 @@
 ---
 title: "Shango"
 url: /portland/shango/
-shop: Hanf
+shop: cannabis
 ---

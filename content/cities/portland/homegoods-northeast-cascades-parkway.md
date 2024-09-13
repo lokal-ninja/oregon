@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /portland/homegoods-northeast-cascades-parkway/
-shop: Haushaltsartikel
+shop: houseware
 ---

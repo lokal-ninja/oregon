@@ -1,5 +1,5 @@
 ---
 title: "CarTunes"
 url: /eugene/cartunes/
-shop: Autoteile
+shop: car parts
 ---

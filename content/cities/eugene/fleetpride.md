@@ -1,5 +1,5 @@
 ---
 title: "FleetPride"
 url: /eugene/fleetpride/
-shop: Autoteile
+shop: car parts
 ---

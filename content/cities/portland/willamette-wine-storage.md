@@ -1,5 +1,5 @@
 ---
 title: "Willamette Wine Storage"
 url: /portland/willamette-wine-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "IV Reclaimed"
 url: /cave-junction/iv-reclaimed/
-shop: Gebrauchtwaren
+shop: charity
 ---

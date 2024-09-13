@@ -1,5 +1,5 @@
 ---
 title: "McCoy Millwork"
 url: /portland/mccoy-millwork/
-shop: Baustoffe
+shop: trade
 ---

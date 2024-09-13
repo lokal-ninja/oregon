@@ -1,5 +1,5 @@
 ---
 title: "Vanilla"
 url: /bend/vanilla/
-shop: Kleidung
+shop: clothes
 ---

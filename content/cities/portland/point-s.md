@@ -1,5 +1,5 @@
 ---
 title: "Point S"
 url: /portland/point-s/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spoiled On 7th"
 url: /klamath-falls/spoiled-on-7th/
-shop: Kosmetik
+shop: beauty
 ---

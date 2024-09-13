@@ -1,5 +1,5 @@
 ---
 title: "Vans"
 url: /troutdale/vans/
-shop: Schuhe
+shop: shoes
 ---

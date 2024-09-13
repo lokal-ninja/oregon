@@ -1,5 +1,5 @@
 ---
 title: "Soleil"
 url: /portland/soleil/
-shop: Kosmetik
+shop: beauty
 ---

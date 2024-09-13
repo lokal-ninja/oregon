@@ -1,5 +1,5 @@
 ---
 title: "SCS"
 url: /portland/scs/
-shop: Baustoffe
+shop: trade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /keizer/rei/
-shop: Outdoor
+shop: outdoor
 ---

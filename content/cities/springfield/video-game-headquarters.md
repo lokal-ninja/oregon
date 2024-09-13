@@ -1,5 +1,5 @@
 ---
 title: "Video Game Headquarters"
 url: /springfield/video-game-headquarters/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /mcminnville/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---
