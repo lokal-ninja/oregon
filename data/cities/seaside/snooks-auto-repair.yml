@@ -1,11 +1,11 @@
 id: 423055484
-type: way
+type: node
 latitude: 45.9791
 longitude: -123.92653
 postcode: ""
 city: Seaside
-street: "South Roosevelt Drive"
-housenumber: 2305
+street: South Roosevelt Drive
+housenumber: "2305"
 phone: ""
 opening_hours: ""
 website: ""

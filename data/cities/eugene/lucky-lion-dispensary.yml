@@ -1,11 +1,11 @@
 id: 1082594462
-type: way
+type: node
 latitude: 44.05215
 longitude: -123.12632
 postcode: "97402"
 city: Eugene
-street: "West 7th Avenue"
-housenumber: 2164
-phone: "+1 541 357 4472"
+street: West 7th Avenue
+housenumber: "2164"
+phone: +1 541 357 4472
 opening_hours: ""
-website: "https://luckylionpdx.com/"
+website: https://luckylionpdx.com/

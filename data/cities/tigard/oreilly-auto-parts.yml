@@ -1,11 +1,11 @@
 id: 354101271
-type: way
+type: node
 latitude: 45.42494
 longitude: -122.78177
 postcode: "97223"
 city: Tigard
-street: "Southwest Pacific Highway"
-housenumber: 13145
+street: Southwest Pacific Highway
+housenumber: "13145"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/or/tigard/autoparts-2528.html"
+website: https://locations.oreillyauto.com/or/tigard/autoparts-2528.html

@@ -1,11 +1,11 @@
 id: 1042025634
-type: way
+type: node
 latitude: 44.2812
 longitude: -121.17369
 postcode: "97756"
 city: Redmond
-street: "Northwest Fir Avenue"
-housenumber: 513
-phone: "+1 541 548 8788"
-opening_hours: "Mo-Fr 09:30-17:30"
+street: Northwest Fir Avenue
+housenumber: "513"
+phone: +1 541 548 8788
+opening_hours: Mo-Fr 09:30-17:30
 website: ""

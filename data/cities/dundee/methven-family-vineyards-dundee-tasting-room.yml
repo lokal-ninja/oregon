@@ -1,11 +1,11 @@
 id: 964161414
-type: way
+type: node
 latitude: 45.27913
 longitude: -123.01107
 postcode: "97115"
 city: Dundee
-street: "Southwest 7th Street"
-housenumber: 130
+street: Southwest 7th Street
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

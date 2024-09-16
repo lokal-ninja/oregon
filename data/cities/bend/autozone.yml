@@ -1,11 +1,11 @@
 id: 506760006
-type: way
+type: node
 latitude: 44.03527
 longitude: -121.30663
 postcode: "97702"
 city: Bend
-street: "Southeast 3rd Street"
-housenumber: 1325
-phone: "+1-541-330-0969"
-opening_hours: "Mo-Th 07:30-21:00; Fr,Sa 07:30-22:00; Su 08:00-20:00"
-website: "https://www.autozone.com/locations/or/bend/1325-s-hwy-97.html"
+street: Southeast 3rd Street
+housenumber: "1325"
+phone: +1-541-330-0969
+opening_hours: Mo-Th 07:30-21:00; Fr,Sa 07:30-22:00; Su 08:00-20:00
+website: https://www.autozone.com/locations/or/bend/1325-s-hwy-97.html

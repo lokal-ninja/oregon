@@ -1,11 +1,11 @@
 id: 368981428
-type: way
+type: node
 latitude: 45.51817
 longitude: -122.57952
 postcode: "97216"
 city: Portland
-street: "Southeast 82nd Avenue"
-housenumber: 605
+street: Southeast 82nd Avenue
+housenumber: "605"
 phone: ""
 opening_hours: ""
-website: "https://www.atlasmotors.com/"
+website: https://www.atlasmotors.com/

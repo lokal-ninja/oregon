@@ -1,11 +1,11 @@
 id: 1040441931
-type: way
+type: node
 latitude: 43.79762
 longitude: -123.0412
 postcode: "97424"
 city: Cottage Grove
-street: "East Whiteaker Avenue"
-housenumber: 2500
+street: East Whiteaker Avenue
+housenumber: "2500"
 phone: ""
 opening_hours: ""
 website: ""

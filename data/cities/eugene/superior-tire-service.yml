@@ -1,11 +1,11 @@
 id: 413462172
-type: way
+type: node
 latitude: 43.99677
 longitude: -123.01118
 postcode: "97405"
 city: Eugene
-street: "Old Willamette Highway"
-housenumber: 33960
+street: Old Willamette Highway
+housenumber: "33960"
 phone: ""
 opening_hours: ""
 website: ""

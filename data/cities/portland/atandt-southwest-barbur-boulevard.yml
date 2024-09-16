@@ -1,11 +1,11 @@
 id: 491828810
-type: way
+type: node
 latitude: 45.4585
 longitude: -122.70912
 postcode: "97219"
 city: Portland
-street: "Southwest Barbur Boulevard"
-housenumber: 9220
-phone: "+1-503-688-1820"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.att.com/"
+street: Southwest Barbur Boulevard
+housenumber: "9220"
+phone: +1-503-688-1820
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.att.com/

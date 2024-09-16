@@ -1,11 +1,11 @@
 id: 474553210
-type: way
+type: node
 latitude: 45.50264
 longitude: -122.43338
 postcode: "97030"
 city: Gresham
-street: "Northwest Eastman Parkway"
-housenumber: 700
-phone: "+1 503-667-1950"
-opening_hours: "Mo-Sa 09:00-21:30; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/or/gresham/677/"
+street: Northwest Eastman Parkway
+housenumber: "700"
+phone: +1 503-667-1950
+opening_hours: Mo-Sa 09:00-21:30; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/or/gresham/677/

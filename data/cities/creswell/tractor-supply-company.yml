@@ -1,11 +1,11 @@
 id: 199263108
-type: way
+type: node
 latitude: 43.91849
 longitude: -123.00636
 postcode: "97426"
 city: Creswell
-street: "Emerald Parkway"
-housenumber: 190
-phone: "+1 541 895 2545"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_Creswell-OR-97426_2277"
+street: Emerald Parkway
+housenumber: "190"
+phone: +1 541 895 2545
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_Creswell-OR-97426_2277

@@ -1,11 +1,11 @@
 id: 503309628
-type: way
+type: node
 latitude: 44.06345
 longitude: -121.30439
 postcode: "97701"
 city: Bend
-street: "Northeast 2nd Street"
-housenumber: 1289
-phone: "+1-541-322-0156"
-opening_hours: "Mo,Tu 09:00-18:00; Th,Fr 09:15-18:00"
-website: "http://creativexperiencesalon.com/"
+street: Northeast 2nd Street
+housenumber: "1289"
+phone: +1-541-322-0156
+opening_hours: Mo,Tu 09:00-18:00; Th,Fr 09:15-18:00
+website: http://creativexperiencesalon.com/

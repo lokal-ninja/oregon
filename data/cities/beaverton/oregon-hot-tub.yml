@@ -1,11 +1,11 @@
 id: 317994976
-type: way
+type: node
 latitude: 45.49284
 longitude: -122.78333
 postcode: "97005"
 city: Beaverton
-street: "Southwest Canyon Road"
-housenumber: 10367
+street: Southwest Canyon Road
+housenumber: "10367"
 phone: ""
 opening_hours: ""
-website: "https://www.oregonhottub.com/"
+website: https://www.oregonhottub.com/

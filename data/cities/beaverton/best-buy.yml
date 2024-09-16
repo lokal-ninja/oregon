@@ -1,11 +1,11 @@
 id: 32943205
-type: way
+type: node
 latitude: 45.49733
 longitude: -122.81091
 postcode: "97005"
 city: Beaverton
-street: "Southwest Cedar Hills Boulevard"
-housenumber: 3055
-phone: "+1-503-350-0559"
-opening_hours: "Mo-Fr 10:00-21:00; Sa-Su 10:00-20:00"
-website: "https://stores.bestbuy.com/or/beaverton/3055-sw-cedar-hills-blvd-451.html"
+street: Southwest Cedar Hills Boulevard
+housenumber: "3055"
+phone: +1-503-350-0559
+opening_hours: Mo-Fr 10:00-21:00; Sa-Su 10:00-20:00
+website: https://stores.bestbuy.com/or/beaverton/3055-sw-cedar-hills-blvd-451.html

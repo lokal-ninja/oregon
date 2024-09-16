@@ -1,11 +1,11 @@
 id: 511180811
-type: way
+type: node
 latitude: 44.05822
 longitude: -121.31446
 postcode: "97703"
 city: Bend
-street: "Northwest Wall Street"
-housenumber: 822
-phone: "+1-541-382-4756"
-opening_hours: "Tu-Fr 09:00-17:30; Sa 10:00-16:00"
-website: "http://eyesonwallstbend.com/"
+street: Northwest Wall Street
+housenumber: "822"
+phone: +1-541-382-4756
+opening_hours: Tu-Fr 09:00-17:30; Sa 10:00-16:00
+website: http://eyesonwallstbend.com/

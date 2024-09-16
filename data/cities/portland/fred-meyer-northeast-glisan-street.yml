@@ -1,11 +1,11 @@
 id: 138284850
-type: way
+type: node
 latitude: 45.52715
 longitude: -122.59511
 postcode: "97213"
 city: Portland
-street: "Northeast Glisan Street"
-housenumber: 6615
-phone: "+1 503-797-6973"
-opening_hours: "Mo-Su,PH 07:00-23:00"
-website: "https://www.fredmeyer.com/stores/grocery/or/portland/glisan/701/00125"
+street: Northeast Glisan Street
+housenumber: "6615"
+phone: +1 503-797-6973
+opening_hours: Mo-Su,PH 07:00-23:00
+website: https://www.fredmeyer.com/stores/grocery/or/portland/glisan/701/00125

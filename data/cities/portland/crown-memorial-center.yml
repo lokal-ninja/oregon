@@ -1,11 +1,11 @@
 id: 381867069
-type: way
+type: node
 latitude: 45.5349
 longitude: -122.65693
 postcode: "97232"
 city: Portland
-street: "Northeast Broadway"
-housenumber: 832
+street: Northeast Broadway
+housenumber: "832"
 phone: ""
 opening_hours: ""
-website: "https://anewtradition.com/"
+website: https://anewtradition.com/

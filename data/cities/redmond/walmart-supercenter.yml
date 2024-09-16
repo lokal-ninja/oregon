@@ -1,11 +1,11 @@
 id: 202620844
-type: way
+type: node
 latitude: 44.29157
 longitude: -121.17179
 postcode: "97756"
 city: Redmond
-street: "Northwest Oak Tree Lane"
-housenumber: 300
-phone: "+1 541-923-5972"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2243/redmond-or/whats-new"
+street: Northwest Oak Tree Lane
+housenumber: "300"
+phone: +1 541-923-5972
+opening_hours: 24/7
+website: https://www.walmart.com/store/2243/redmond-or/whats-new

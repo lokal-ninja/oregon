@@ -1,11 +1,11 @@
 id: 1155346487
-type: way
+type: node
 latitude: 44.97421
 longitude: -124.01431
 postcode: "97367"
 city: Lincoln City
-street: "Northwest 12th Street"
-housenumber: 1303
-phone: "+1 541 994 4727;+1 888 854 2287"
-opening_hours: "Mo-Th 07:00-16:00; Fr 08:00-15:00"
+street: Northwest 12th Street
+housenumber: "1303"
+phone: +1 541 994 4727;+1 888 854 2287
+opening_hours: Mo-Th 07:00-16:00; Fr 08:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1049803963
-type: way
+type: node
 latitude: 45.61131
 longitude: -123.94353
 postcode: "97136"
 city: Rockaway Beach
-street: "South Anchor Street"
-housenumber: 208
+street: South Anchor Street
+housenumber: "208"
 phone: ""
 opening_hours: ""
 website: ""

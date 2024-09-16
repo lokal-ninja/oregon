@@ -1,11 +1,11 @@
 id: 915407341
-type: way
+type: node
 latitude: 45.49838
 longitude: -122.76616
 postcode: "97225"
 city: Portland
-street: "Southwest Canyon Road"
-housenumber: 8615
+street: Southwest Canyon Road
+housenumber: "8615"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

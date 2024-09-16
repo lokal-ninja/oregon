@@ -4,8 +4,8 @@ latitude: 43.23499
 longitude: -123.37341
 postcode: "97471"
 city: Roseburg
-street: "Northwest Stewart Parkway"
-housenumber: 2100
-phone: "+1 541-236-9557"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/roseburg-or-1509"
+street: Northwest Stewart Parkway
+housenumber: "2100"
+phone: +1 541-236-9557
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/roseburg-or-1509

@@ -1,11 +1,11 @@
 id: 314821804
-type: way
+type: node
 latitude: 45.39246
 longitude: -122.61445
 postcode: "97267"
 city: Milwaukie
-street: "Southeast McLoughlin Boulevard"
-housenumber: 18101
-phone: "+1-503-305-8186"
+street: Southeast McLoughlin Boulevard
+housenumber: "18101"
+phone: +1-503-305-8186
 opening_hours: ""
-website: "http://www.lot99llc.com/"
+website: http://www.lot99llc.com/

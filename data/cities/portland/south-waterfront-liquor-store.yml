@@ -1,11 +1,11 @@
 id: 332810250
-type: way
+type: node
 latitude: 45.49756
 longitude: -122.66938
 postcode: "97239"
 city: Portland
-street: "South River Parkway"
-housenumber: 3540
+street: South River Parkway
+housenumber: "3540"
 phone: ""
-opening_hours: "Mo-Su 11:00-19:00"
-website: "https://www.beecleaners.com/"
+opening_hours: Mo-Su 11:00-19:00
+website: https://www.beecleaners.com/

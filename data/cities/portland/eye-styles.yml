@@ -4,8 +4,8 @@ latitude: 45.51656
 longitude: -122.63013
 postcode: "97214"
 city: Portland
-street: "Southeast Belmont Street"
-housenumber: 3333
-phone: "+1-503-719-4792"
-opening_hours: "by appointment"
-website: "https://www.eyestylesllc.com/belmont/"
+street: Southeast Belmont Street
+housenumber: "3333"
+phone: +1-503-719-4792
+opening_hours: '"by appointment"'
+website: https://www.eyestylesllc.com/belmont/

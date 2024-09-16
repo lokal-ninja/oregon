@@ -1,11 +1,11 @@
 id: 490598465
-type: way
+type: node
 latitude: 45.47485
 longitude: -122.82429
 postcode: "97005"
 city: Beaverton
-street: "Southwest Allen Boulevard"
-housenumber: 14346
+street: Southwest Allen Boulevard
+housenumber: "14346"
 phone: ""
 opening_hours: ""
-website: "http://www.hylandecolaundry.com/"
+website: http://www.hylandecolaundry.com/

@@ -4,8 +4,8 @@ latitude: 44.56305
 longitude: -123.26074
 postcode: "97333"
 city: Corvallis
-street: "Southwest Madison Avenue"
-housenumber: 204
+street: Southwest Madison Avenue
+housenumber: "204"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 9:30-17:30; Su 11:00-17:00"
-website: "https://www.clothes-tree.com/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 9:30-17:30; Su 11:00-17:00
+website: https://www.clothes-tree.com/

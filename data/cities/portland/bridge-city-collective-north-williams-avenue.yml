@@ -1,11 +1,11 @@
 id: 343834472
-type: way
+type: node
 latitude: 45.55503
 longitude: -122.66664
 postcode: "97217"
 city: Portland
-street: "North Williams Avenue"
-housenumber: 4312
-phone: "+1-503-384-2995"
-opening_hours: "10:00-22:00"
-website: "https://bridgecitycollective.com/"
+street: North Williams Avenue
+housenumber: "4312"
+phone: +1-503-384-2995
+opening_hours: 10:00-22:00
+website: https://bridgecitycollective.com/

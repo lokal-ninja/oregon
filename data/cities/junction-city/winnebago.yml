@@ -1,11 +1,11 @@
 id: 679517092
-type: way
+type: node
 latitude: 44.21615
 longitude: -123.20071
 postcode: "97448"
 city: Junction City
-street: "East 1st Avenue"
-housenumber: 130
+street: East 1st Avenue
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

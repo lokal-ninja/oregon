@@ -1,11 +1,11 @@
 id: 367901519
-type: way
+type: node
 latitude: 45.53713
 longitude: -122.69919
 postcode: "97210"
 city: Portland
-street: "Northwest Vaughn Street"
-housenumber: 2315
+street: Northwest Vaughn Street
+housenumber: "2315"
 phone: ""
 opening_hours: ""
 website: ""

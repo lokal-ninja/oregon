@@ -1,11 +1,11 @@
 id: 551518206
-type: way
+type: node
 latitude: 45.8721
 longitude: -123.9597
 postcode: "97110"
 city: Cannon Beach
-street: "South Hemlock Street"
-housenumber: 3401
+street: South Hemlock Street
+housenumber: "3401"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 502563891
-type: way
+type: node
 latitude: 44.05332
 longitude: -121.30201
 postcode: "97701"
 city: Bend
-street: "Northeast 3rd Street"
-housenumber: 304
-phone: "+1-541-382-3882"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-16:30"
-website: "http://www.morrowsewingandvacuum.com/"
+street: Northeast 3rd Street
+housenumber: "304"
+phone: +1-541-382-3882
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-16:30
+website: http://www.morrowsewingandvacuum.com/

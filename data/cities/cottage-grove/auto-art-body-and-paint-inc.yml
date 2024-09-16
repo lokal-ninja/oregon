@@ -1,11 +1,11 @@
 id: 1102737351
-type: way
+type: node
 latitude: 43.79902
 longitude: -123.03519
 postcode: "97424"
 city: Cottage Grove
-street: "East Davidson Avenue"
-housenumber: 225
-phone: "+1 541 942 8522"
-opening_hours: "Mo-Fr 07:30-17:00"
+street: East Davidson Avenue
+housenumber: "225"
+phone: +1 541 942 8522
+opening_hours: Mo-Fr 07:30-17:00
 website: ""

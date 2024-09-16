@@ -1,11 +1,11 @@
 id: 507432314
-type: way
+type: node
 latitude: 44.05462
 longitude: -121.27254
 postcode: "97701"
 city: Bend
-street: "Northeast Highway 20"
-housenumber: 2095
-phone: "+1-541-977-0202"
-opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-17:30"
-website: "http://www.bendguns.com/"
+street: Northeast Highway 20
+housenumber: "2095"
+phone: +1-541-977-0202
+opening_hours: Tu-Fr 11:00-18:00; Sa 11:00-17:30
+website: http://www.bendguns.com/

@@ -1,11 +1,11 @@
 id: 1018266201
-type: way
+type: node
 latitude: 44.95833
 longitude: -124.01052
 postcode: "97367"
 city: Lincoln City
-street: "Southeast East Devils Lake Road"
-housenumber: 1500
-phone: "+1 541 994 4650"
+street: Southeast East Devils Lake Road
+housenumber: "1500"
+phone: +1 541 994 4650
 opening_hours: ""
-website: "https://store-locations.underarmour.com/or/lincoln-city/56"
+website: https://store-locations.underarmour.com/or/lincoln-city/56

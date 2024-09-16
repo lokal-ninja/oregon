@@ -1,11 +1,11 @@
 id: 1196318440
-type: way
+type: node
 latitude: 45.45474
 longitude: -122.7754
 postcode: "97223"
 city: Tigard
-street: "Southwest Hall Boulevard"
-housenumber: 9180
+street: Southwest Hall Boulevard
+housenumber: "9180"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.hobbylobby.com/stores/search/1002"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.hobbylobby.com/stores/search/1002

@@ -1,11 +1,11 @@
 id: 522003972
-type: way
+type: node
 latitude: 45.52335
 longitude: -122.6592
 postcode: "97232"
 city: Portland
-street: "Northeast 7th Avenue"
-housenumber: 21
-phone: "+1-503-231-4877"
+street: Northeast 7th Avenue
+housenumber: "21"
+phone: +1-503-231-4877
 opening_hours: ""
-website: "https://www.oregonlimb.com/"
+website: https://www.oregonlimb.com/

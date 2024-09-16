@@ -1,11 +1,11 @@
 id: 172325887
-type: way
+type: node
 latitude: 45.36816
 longitude: -122.84303
 postcode: "97140"
 city: Sherwood
-street: "Southwest Tualatin Sherwood Road"
-housenumber: 16030
-phone: "+1-503-625-1192"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.hobbylobby.com/"
+street: Southwest Tualatin Sherwood Road
+housenumber: "16030"
+phone: +1-503-625-1192
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.hobbylobby.com/

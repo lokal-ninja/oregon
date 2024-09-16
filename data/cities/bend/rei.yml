@@ -1,11 +1,11 @@
 id: 438346292
-type: way
+type: node
 latitude: 44.04614
 longitude: -121.31516
 postcode: "97702"
 city: Bend
-street: "Southwest Powerhouse Drive"
-housenumber: 380
-phone: "+1-541-385-0594"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-19:00"
-website: "https://www.rei.com/stores/bend"
+street: Southwest Powerhouse Drive
+housenumber: "380"
+phone: +1-541-385-0594
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-19:00
+website: https://www.rei.com/stores/bend

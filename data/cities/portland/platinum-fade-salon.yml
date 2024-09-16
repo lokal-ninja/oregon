@@ -1,11 +1,11 @@
 id: 409713266
-type: way
+type: node
 latitude: 45.55927
 longitude: -122.6564
 postcode: "97211"
 city: Portland
-street: "Northeast 9th Avenue"
-housenumber: 5010
+street: Northeast 9th Avenue
+housenumber: "5010"
 phone: ""
 opening_hours: ""
 website: ""

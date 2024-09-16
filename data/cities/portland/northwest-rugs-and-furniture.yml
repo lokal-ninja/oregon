@@ -1,11 +1,11 @@
 id: 1157118378
-type: way
+type: node
 latitude: 45.6148
 longitude: -122.6896
 postcode: "97217"
 city: Portland
-street: "North Hayden Island Drive"
-housenumber: 2100
+street: North Hayden Island Drive
+housenumber: "2100"
 phone: ""
 opening_hours: ""
 website: ""

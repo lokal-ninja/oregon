@@ -1,11 +1,11 @@
 id: 315000508
-type: way
+type: node
 latitude: 45.38963
 longitude: -122.61064
 postcode: "97267"
 city: Milwaukie
-street: "Southeast McLoughlin Boulevard"
-housenumber: 18422
+street: Southeast McLoughlin Boulevard
+housenumber: "18422"
 phone: ""
 opening_hours: ""
 website: ""

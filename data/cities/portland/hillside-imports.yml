@@ -1,11 +1,11 @@
 id: 295935905
-type: way
+type: node
 latitude: 45.48509
 longitude: -122.72216
 postcode: "97221"
 city: Portland
-street: "Southwest Beaverton Hillsdale Highway"
-housenumber: 4402
-phone: "+1-503-293-0146"
+street: Southwest Beaverton Hillsdale Highway
+housenumber: "4402"
+phone: +1-503-293-0146
 opening_hours: ""
-website: "https://www.hillsideimports.com/"
+website: https://www.hillsideimports.com/

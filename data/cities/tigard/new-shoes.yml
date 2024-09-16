@@ -1,11 +1,11 @@
 id: 336054418
-type: way
+type: node
 latitude: 45.43158
 longitude: -122.77028
 postcode: "97223"
 city: Tigard
-street: "Southwest Main Street"
-housenumber: 12255
-phone: "+1-503-684-2497"
-opening_hours: "Tu-Fr 10:00-17:30; Sa 10:00-14:00"
-website: "https://newshoes.com/"
+street: Southwest Main Street
+housenumber: "12255"
+phone: +1-503-684-2497
+opening_hours: Tu-Fr 10:00-17:30; Sa 10:00-14:00
+website: https://newshoes.com/

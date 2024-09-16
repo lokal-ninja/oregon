@@ -4,8 +4,8 @@ latitude: 45.41917
 longitude: -122.66391
 postcode: "97034"
 city: Lake Oswego
-street: "1st Street"
-housenumber: 385
-phone: "+1-503-636-1013"
-opening_hours: "Mo-Sa 10:00-19:00; Su 10:00-17:00"
-website: "https://www.francescas.com/"
+street: 1st Street
+housenumber: "385"
+phone: +1-503-636-1013
+opening_hours: Mo-Sa 10:00-19:00; Su 10:00-17:00
+website: https://www.francescas.com/

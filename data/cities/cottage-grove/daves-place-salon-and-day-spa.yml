@@ -1,11 +1,11 @@
 id: 1000673744
-type: way
+type: node
 latitude: 43.79809
 longitude: -123.06066
 postcode: "97424"
 city: Cottage Grove
-street: "East Whiteaker Avenue"
-housenumber: 704
-phone: "+1 541 942 4353"
-opening_hours: "Mo 09:00-20:00; Tu-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://davesplacesalon.com"
+street: East Whiteaker Avenue
+housenumber: "704"
+phone: +1 541 942 4353
+opening_hours: Mo 09:00-20:00; Tu-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://davesplacesalon.com

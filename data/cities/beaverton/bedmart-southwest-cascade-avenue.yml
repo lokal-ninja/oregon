@@ -1,11 +1,11 @@
 id: 352717806
-type: way
+type: node
 latitude: 45.44998
 longitude: -122.78667
 postcode: "97008"
 city: Beaverton
-street: "Southwest Cascade Avenue"
-housenumber: 9685
+street: Southwest Cascade Avenue
+housenumber: "9685"
 phone: ""
 opening_hours: ""
 website: ""

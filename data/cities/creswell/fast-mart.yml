@@ -1,11 +1,11 @@
 id: 839257279
-type: way
+type: node
 latitude: 43.91761
 longitude: -123.01934
 postcode: "97426"
 city: Creswell
-street: "South Front Street"
-housenumber: 5
+street: South Front Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

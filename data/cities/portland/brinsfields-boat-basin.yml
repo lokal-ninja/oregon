@@ -1,11 +1,11 @@
 id: 486301347
-type: way
+type: node
 latitude: 45.46454
 longitude: -122.66075
 postcode: "97202"
 city: Portland
-street: "Southeast Tacoma Street"
-housenumber: 525
-phone: "+1-503-239-5499"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://www.brinsfield.com/"
+street: Southeast Tacoma Street
+housenumber: "525"
+phone: +1-503-239-5499
+opening_hours: Mo-Sa 09:00-17:00
+website: https://www.brinsfield.com/

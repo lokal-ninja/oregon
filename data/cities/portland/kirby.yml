@@ -1,11 +1,11 @@
 id: 498995287
-type: way
+type: node
 latitude: 45.54904
 longitude: -122.58741
 postcode: "97213"
 city: Portland
-street: "Northeast Sandy Boulevard"
-housenumber: 7331
-phone: "+1-503-288-5121"
+street: Northeast Sandy Boulevard
+housenumber: "7331"
+phone: +1-503-288-5121
 opening_hours: ""
-website: "https://www.kirby.com/"
+website: https://www.kirby.com/

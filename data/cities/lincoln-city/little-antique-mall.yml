@@ -1,11 +1,11 @@
 id: 389100461
-type: way
+type: node
 latitude: 44.98797
 longitude: -124.00474
 postcode: "97367"
 city: Lincoln City
-street: "Northeast Highway 101"
-housenumber: 3128
-phone: "+1 541 994 8572"
-opening_hours: "11:00-17:00"
-website: "https://www.facebook.com/redduckmall"
+street: Northeast Highway 101
+housenumber: "3128"
+phone: +1 541 994 8572
+opening_hours: 11:00-17:00
+website: https://www.facebook.com/redduckmall

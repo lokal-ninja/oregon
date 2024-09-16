@@ -1,11 +1,11 @@
 id: 151678666
-type: way
+type: node
 latitude: 45.53569
 longitude: -122.90158
 postcode: "97124"
 city: Hillsboro
-street: "Northeast Butler Street"
-housenumber: 7360
-phone: "+1-503-640-5083"
-opening_hours: "Mo,Su 09:00-21:00; Tu-Th 09:00-22:00; Fr 09:00-23:00; Sa 08:00-23:00"
-website: "https://www.kohls.com/stores/or/hillsboro-1004.shtml"
+street: Northeast Butler Street
+housenumber: "7360"
+phone: +1-503-640-5083
+opening_hours: Mo,Su 09:00-21:00; Tu-Th 09:00-22:00; Fr 09:00-23:00; Sa 08:00-23:00
+website: https://www.kohls.com/stores/or/hillsboro-1004.shtml

@@ -1,11 +1,11 @@
 id: 303416912
-type: way
+type: node
 latitude: 44.04633
 longitude: -121.33054
 postcode: "97702"
 city: Bend
-street: "Southwest Century Drive"
-housenumber: 320
-phone: "+1-541-797-7750"
-opening_hours: "10:00-17:30"
+street: Southwest Century Drive
+housenumber: "320"
+phone: +1-541-797-7750
+opening_hours: 10:00-17:30
 website: ""

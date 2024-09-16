@@ -1,11 +1,11 @@
 id: 743460020
-type: way
+type: node
 latitude: 44.91346
 longitude: -122.97626
 postcode: "97317"
 city: Salem
-street: "Lancaster Drive Southeast"
-housenumber: 1240
+street: Lancaster Drive Southeast
+housenumber: "1240"
 phone: ""
 opening_hours: ""
 website: ""

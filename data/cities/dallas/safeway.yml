@@ -1,11 +1,11 @@
 id: 153235654
-type: way
+type: node
 latitude: 44.931
 longitude: -123.31312
 postcode: "97338"
 city: Dallas
-street: "West Ellendale Avenue"
-housenumber: 138
-phone: "+1 503-831-6000"
+street: West Ellendale Avenue
+housenumber: "138"
+phone: +1 503-831-6000
 opening_hours: ""
-website: "https://local.safeway.com/safeway/or/dallas/138-w-ellendale-ave.html"
+website: https://local.safeway.com/safeway/or/dallas/138-w-ellendale-ave.html

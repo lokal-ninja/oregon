@@ -1,11 +1,11 @@
 id: 331408364
-type: way
+type: node
 latitude: 45.49699
 longitude: -122.7663
 postcode: "97225"
 city: Portland
-street: "Southwest 87th Avenue"
-housenumber: 3230
+street: Southwest 87th Avenue
+housenumber: "3230"
 phone: ""
 opening_hours: ""
 website: ""

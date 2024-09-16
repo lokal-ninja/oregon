@@ -1,11 +1,11 @@
 id: 503900179
-type: way
+type: node
 latitude: 44.10132
 longitude: -121.30186
 postcode: "97703"
 city: Bend
-street: "North Highway 97"
-housenumber: 63455
-phone: "+1-541-749-4281"
+street: North Highway 97
+housenumber: "63455"
+phone: +1-541-749-4281
 opening_hours: ""
-website: "https://proimagesports.com/"
+website: https://proimagesports.com/

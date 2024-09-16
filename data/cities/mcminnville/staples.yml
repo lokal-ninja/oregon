@@ -4,8 +4,8 @@ latitude: 45.22507
 longitude: -123.18655
 postcode: "97128"
 city: McMinnville
-street: "Northeast Highway 99W"
-housenumber: 1150
-phone: "+1 503-474-0403"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 10:00-18:00"
-website: "https://stores.staples.com/or/mcminnville/1150-ne-highway-99-west"
+street: Northeast Highway 99W
+housenumber: "1150"
+phone: +1 503-474-0403
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 10:00-18:00
+website: https://stores.staples.com/or/mcminnville/1150-ne-highway-99-west

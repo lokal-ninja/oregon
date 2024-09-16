@@ -1,11 +1,11 @@
 id: 562048032
-type: way
+type: node
 latitude: 45.53534
 longitude: -122.87912
 postcode: "97124"
 city: Hillsboro
-street: "Northeast Emma Way"
-housenumber: 10024
-phone: "+1-503-533-1808"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.gap.com/"
+street: Northeast Emma Way
+housenumber: "10024"
+phone: +1-503-533-1808
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.gap.com/

@@ -1,11 +1,11 @@
 id: 588259667
-type: way
+type: node
 latitude: 45.00937
 longitude: -122.78715
 postcode: "97381"
 city: Silverton
-street: "North Water Street"
-housenumber: 601
+street: North Water Street
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

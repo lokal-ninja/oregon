@@ -1,11 +1,11 @@
 id: 405751921
-type: way
+type: node
 latitude: 45.53103
 longitude: -122.8303
 postcode: "97229"
 city: Portland
-street: "Northwest Cornell Road"
-housenumber: 14740
+street: Northwest Cornell Road
+housenumber: "14740"
 phone: ""
 opening_hours: ""
-website: "https://willowcreekeyecare.com/"
+website: https://willowcreekeyecare.com/

@@ -4,8 +4,8 @@ latitude: 44.05381
 longitude: -123.0894
 postcode: "97401"
 city: Eugene
-street: "East 5th Avenue"
-housenumber: 248
-phone: "+1 541 334 6533"
-opening_hours: "Mo-Sa 08:00-20:30"
+street: East 5th Avenue
+housenumber: "248"
+phone: +1 541 334 6533
+opening_hours: Mo-Sa 08:00-20:30
 website: ""

@@ -2,10 +2,10 @@ id: 7493002670
 type: node
 latitude: 42.31595
 longitude: -122.96533
-postcode: "97530-9875"
+postcode: 97530-9875
 city: Jacksonville
-street: "North 5th Street"
-housenumber: 401
-phone: "+1 541-899-1262"
-opening_hours: "07:00-19:00"
-website: "https://acehardware.com/"
+street: North 5th Street
+housenumber: "401"
+phone: +1 541-899-1262
+opening_hours: 07:00-19:00
+website: https://acehardware.com/

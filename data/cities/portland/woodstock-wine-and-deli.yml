@@ -1,11 +1,11 @@
 id: 367893759
-type: way
+type: node
 latitude: 45.47909
 longitude: -122.62095
 postcode: "97202"
 city: Portland
-street: "Southeast Woodstock Boulevard"
-housenumber: 4030
-phone: "+1-503-777-2208"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://woodstockwineanddeli.weebly.com/"
+street: Southeast Woodstock Boulevard
+housenumber: "4030"
+phone: +1-503-777-2208
+opening_hours: Mo-Sa 10:00-19:00
+website: https://woodstockwineanddeli.weebly.com/

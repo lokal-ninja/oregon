@@ -2,10 +2,10 @@ id: 3165811684
 type: node
 latitude: 44.07622
 longitude: -123.11942
-postcode: "97404-3244"
+postcode: 97404-3244
 city: Eugene
-street: "River Road"
-housenumber: 895
-phone: "+1 541-688-4650"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/or/eugene/895-river-rd-19589"
+street: River Road
+housenumber: "895"
+phone: +1 541-688-4650
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/or/eugene/895-river-rd-19589

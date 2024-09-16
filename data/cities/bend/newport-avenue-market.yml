@@ -1,11 +1,11 @@
 id: 281965089
-type: way
+type: node
 latitude: 44.06195
 longitude: -121.32867
 postcode: "97703"
 city: Bend
-street: "Northwest Newport Avenue"
-housenumber: 1121
-phone: "+1-541-382-3940"
-opening_hours: "07:00-22:00"
-website: "https://newportavemarket.com/"
+street: Northwest Newport Avenue
+housenumber: "1121"
+phone: +1-541-382-3940
+opening_hours: 07:00-22:00
+website: https://newportavemarket.com/

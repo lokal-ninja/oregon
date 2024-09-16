@@ -1,11 +1,11 @@
 id: 503697924
-type: way
+type: node
 latitude: 44.08195
 longitude: -121.30366
 postcode: "97703"
 city: Bend
-street: "North Highway 97"
-housenumber: 3188
-phone: "+1-541-303-3000"
-opening_hours: "11:00-19:00"
+street: North Highway 97
+housenumber: "3188"
+phone: +1-541-303-3000
+opening_hours: 11:00-19:00
 website: ""

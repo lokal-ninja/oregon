@@ -1,11 +1,11 @@
 id: 504958554
-type: way
+type: node
 latitude: 44.06014
 longitude: -121.30862
 postcode: "97703"
 city: Bend
-street: "Northwest Greenwood Avenue"
-housenumber: 42
-phone: "+1-541-312-8368"
-opening_hours: "09:00-17:00"
-website: "https://cascadiatents.com/"
+street: Northwest Greenwood Avenue
+housenumber: "42"
+phone: +1-541-312-8368
+opening_hours: 09:00-17:00
+website: https://cascadiatents.com/

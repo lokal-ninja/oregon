@@ -1,11 +1,11 @@
 id: 325611398
-type: way
+type: node
 latitude: 45.51493
 longitude: -122.79121
 postcode: "97225"
 city: Portland
-street: "Southwest Barnes Road"
-housenumber: 11130
+street: Southwest Barnes Road
+housenumber: "11130"
 phone: ""
 opening_hours: ""
 website: ""

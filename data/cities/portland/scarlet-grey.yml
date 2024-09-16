@@ -1,11 +1,11 @@
 id: 328431258
-type: way
+type: node
 latitude: 45.49325
 longitude: -122.67236
 postcode: "97239"
 city: Portland
-street: "South Macadam Avenue"
-housenumber: 4118
+street: South Macadam Avenue
+housenumber: "4118"
 phone: ""
 opening_hours: ""
 website: ""

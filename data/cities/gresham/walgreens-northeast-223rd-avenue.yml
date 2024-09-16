@@ -1,11 +1,11 @@
 id: 368845948
-type: way
+type: node
 latitude: 45.52723
 longitude: -122.43424
 postcode: "97030"
 city: Gresham
-street: "Northeast 223rd Avenue"
-housenumber: 439
-phone: "+1-503-667-0394"
-opening_hours: "08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-439+ne+223rd+ave-gresham-or-97030/id=11398"
+street: Northeast 223rd Avenue
+housenumber: "439"
+phone: +1-503-667-0394
+opening_hours: 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-439+ne+223rd+ave-gresham-or-97030/id=11398

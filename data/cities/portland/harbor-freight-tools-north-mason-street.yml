@@ -1,11 +1,11 @@
 id: 265437357
-type: way
+type: node
 latitude: 45.55363
 longitude: -122.68079
 postcode: "97217"
 city: Portland
-street: "North Mason Street"
-housenumber: 1335
-phone: "+1 503-493-2863"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/1335-n-mason-st-portland-97217?number=46"
+street: North Mason Street
+housenumber: "1335"
+phone: +1 503-493-2863
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/1335-n-mason-st-portland-97217?number=46

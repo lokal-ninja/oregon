@@ -4,8 +4,8 @@ latitude: 44.0546
 longitude: -123.09992
 postcode: "97401"
 city: Eugene
-street: "Washington Street"
-housenumber: 463
-phone: "+1 541 500 7651"
-opening_hours: "Mo-Fr 09:00-17:00 by appointment"
+street: Washington Street
+housenumber: "463"
+phone: +1 541 500 7651
+opening_hours: Mo-Fr 09:00-17:00 "by appointment"
 website: ""

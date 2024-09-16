@@ -1,11 +1,11 @@
 id: 207232889
-type: way
+type: node
 latitude: 45.52322
 longitude: -122.68062
 postcode: "97209"
 city: Portland
-street: "Northwest 10th Avenue"
-housenumber: 2
+street: Northwest 10th Avenue
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

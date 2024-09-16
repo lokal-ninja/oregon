@@ -1,11 +1,11 @@
 id: 113559406
-type: way
+type: node
 latitude: 45.41473
 longitude: -122.74562
 postcode: "97224"
 city: Tigard
-street: "Southwest Bonita Road"
-housenumber: 6750
-phone: "+1-503-639-8642"
-opening_hours: "Mo-Fr 09:30-17:30; Sa 10:00-17:00; Su 12:00-17:00"
-website: "https://atiyehbros.com/"
+street: Southwest Bonita Road
+housenumber: "6750"
+phone: +1-503-639-8642
+opening_hours: Mo-Fr 09:30-17:30; Sa 10:00-17:00; Su 12:00-17:00
+website: https://atiyehbros.com/

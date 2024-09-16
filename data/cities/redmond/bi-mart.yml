@@ -1,11 +1,11 @@
 id: 648845933
-type: way
+type: node
 latitude: 44.25309
 longitude: -121.18747
 postcode: "97756"
 city: Redmond
-street: "Southwest Odem Medo Way"
-housenumber: 1727
-phone: "+1 541 923 7220"
-opening_hours: "Mo-Fr 09:00-20:00; Sa-Su 09:00-18:00"
+street: Southwest Odem Medo Way
+housenumber: "1727"
+phone: +1 541 923 7220
+opening_hours: Mo-Fr 09:00-20:00; Sa-Su 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 330473990
-type: way
+type: node
 latitude: 45.53734
 longitude: -122.86973
 postcode: "97124"
 city: Hillsboro
-street: "Northwest 185th Avenue"
-housenumber: 2373
-phone: "+1-503-690-0234"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://locations.theupsstore.com/or/hillsboro/2373-nw-185th-ave"
+street: Northwest 185th Avenue
+housenumber: "2373"
+phone: +1-503-690-0234
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://locations.theupsstore.com/or/hillsboro/2373-nw-185th-ave

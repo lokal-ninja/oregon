@@ -1,11 +1,11 @@
 id: 550744533
-type: way
+type: node
 latitude: 45.51479
 longitude: -122.75511
 postcode: "97225"
 city: Portland
-street: "Southwest Barnes Road"
-housenumber: 7545
-phone: "+1-503-296-9905"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-17:00"
-website: "https://www.gnc.com/"
+street: Southwest Barnes Road
+housenumber: "7545"
+phone: +1-503-296-9905
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-17:00
+website: https://www.gnc.com/

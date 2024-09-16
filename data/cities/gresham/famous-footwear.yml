@@ -1,11 +1,11 @@
 id: 474964600
-type: way
+type: node
 latitude: 45.50602
 longitude: -122.44063
 postcode: "97030"
 city: Gresham
-street: "Northwest 12th Street"
-housenumber: 753
+street: Northwest 12th Street
+housenumber: "753"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
 website: ""

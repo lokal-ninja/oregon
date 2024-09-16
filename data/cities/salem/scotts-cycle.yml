@@ -1,11 +1,11 @@
 id: 201318654
-type: way
+type: node
 latitude: 44.94021
 longitude: -123.04146
 postcode: ""
 city: Salem
 street: ""
-housenumber: 
-phone: "+1 503-363-4516"
-opening_hours: "Mo-Fr 9:00-18:00; Sa 9:00-17:30"
-website: "https://www.scottscycle.com/"
+housenumber: ""
+phone: +1 503-363-4516
+opening_hours: Mo-Fr 9:00-18:00; Sa 9:00-17:30
+website: https://www.scottscycle.com/

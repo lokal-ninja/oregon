@@ -4,8 +4,8 @@ latitude: 45.53379
 longitude: -122.54777
 postcode: "97220"
 city: Portland
-street: "Northeast Halsey Street"
-housenumber: 11155
+street: Northeast Halsey Street
+housenumber: "11155"
 phone: "+15038890685"
-opening_hours: "Mo-Su 11:00-20:00; Tu 11:00-16:00"
-website: "https://foodfightgrocery.com/aboutffg"
+opening_hours: Mo-Su 11:00-20:00; Tu 11:00-16:00
+website: https://foodfightgrocery.com/aboutffg

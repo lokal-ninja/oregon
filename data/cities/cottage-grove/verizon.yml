@@ -1,11 +1,11 @@
 id: 1010789438
-type: way
+type: node
 latitude: 43.79754
 longitude: -123.05297
 postcode: "97424"
 city: Cottage Grove
-street: "East Main Street"
-housenumber: 1424
-phone: "+1 541 942 1400"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-17:00"
-website: "https://locations.tccrocks.com/or/cottage-grove/1424-e-main-st.html"
+street: East Main Street
+housenumber: "1424"
+phone: +1 541 942 1400
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-17:00
+website: https://locations.tccrocks.com/or/cottage-grove/1424-e-main-st.html

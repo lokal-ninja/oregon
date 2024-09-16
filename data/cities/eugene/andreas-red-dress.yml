@@ -1,11 +1,11 @@
 id: 412513560
-type: way
+type: node
 latitude: 44.05341
 longitude: -123.08952
 postcode: "97401"
 city: Eugene
-street: "Pearl Street"
-housenumber: 591
-phone: "+1 541 681 9549"
-opening_hours: "Mo-Sa 11:00-18:00"
-website: "https://andreasreddress.com"
+street: Pearl Street
+housenumber: "591"
+phone: +1 541 681 9549
+opening_hours: Mo-Sa 11:00-18:00
+website: https://andreasreddress.com

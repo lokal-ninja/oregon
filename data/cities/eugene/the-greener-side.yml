@@ -4,8 +4,8 @@ latitude: 44.04261
 longitude: -123.09102
 postcode: ""
 city: Eugene
-street: "Oak Street"
-housenumber: 1553
-phone: "(541) 345-8904"
-opening_hours: "Mo-Sa 09:00-22:00; Su 11:00-20:00"
-website: "https://www.keepeugenegreen.org/"
+street: Oak Street
+housenumber: "1553"
+phone: (541) 345-8904
+opening_hours: Mo-Sa 09:00-22:00; Su 11:00-20:00
+website: https://www.keepeugenegreen.org/

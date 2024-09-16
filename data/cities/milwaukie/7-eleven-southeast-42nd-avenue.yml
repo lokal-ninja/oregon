@@ -1,11 +1,11 @@
 id: 370661682
-type: way
+type: node
 latitude: 45.4476
 longitude: -122.61988
 postcode: "97222"
 city: Milwaukie
-street: "Southeast 42nd Avenue"
-housenumber: 10435
-phone: "+1 503-654-5247"
+street: Southeast 42nd Avenue
+housenumber: "10435"
+phone: +1 503-654-5247
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/or/milwaukie/10435-se-42nd-ave.-14508"
+website: https://www.7-eleven.com/locations/or/milwaukie/10435-se-42nd-ave.-14508

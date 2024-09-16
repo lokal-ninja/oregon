@@ -1,11 +1,11 @@
 id: 655503735
-type: way
+type: node
 latitude: 45.42354
 longitude: -122.63429
 postcode: "97222"
 city: Oak Grove
-street: "Southeast McLoughlin Boulevard"
-housenumber: 13775
-phone: "+1-503-894-9068"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 11:00-18:00"
-website: "https://www.evergreenappliance.net/"
+street: Southeast McLoughlin Boulevard
+housenumber: "13775"
+phone: +1-503-894-9068
+opening_hours: Mo-Fr 10:00-19:00; Sa 11:00-18:00
+website: https://www.evergreenappliance.net/

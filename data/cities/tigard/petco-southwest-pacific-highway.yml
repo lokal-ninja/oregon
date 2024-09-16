@@ -1,11 +1,11 @@
 id: 372432535
-type: way
+type: node
 latitude: 45.43703
 longitude: -122.75855
 postcode: "97223"
 city: Tigard
-street: "Southwest Pacific Highway"
-housenumber: 11705
-phone: "+1 503-684-0648"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petco.com/"
+street: Southwest Pacific Highway
+housenumber: "11705"
+phone: +1 503-684-0648
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petco.com/

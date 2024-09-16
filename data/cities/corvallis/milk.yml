@@ -4,8 +4,8 @@ latitude: 44.56313
 longitude: -123.2611
 postcode: "97333"
 city: Corvallis
-street: "Southwest Madison Avenue"
-housenumber: 252
+street: Southwest Madison Avenue
+housenumber: "252"
 phone: ""
-opening_hours: "13:00-17:00"
-website: "https://milkskateboardstore.com/"
+opening_hours: 13:00-17:00
+website: https://milkskateboardstore.com/

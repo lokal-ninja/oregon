@@ -1,11 +1,11 @@
 id: 626538770
-type: way
+type: node
 latitude: 44.04623
 longitude: -122.97716
 postcode: "97478"
 city: Springfield
-street: "Main Street"
-housenumber: 3444
+street: Main Street
+housenumber: "3444"
 phone: ""
 opening_hours: ""
 website: ""

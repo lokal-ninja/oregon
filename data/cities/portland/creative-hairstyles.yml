@@ -1,11 +1,11 @@
 id: 440529583
-type: way
+type: node
 latitude: 45.4859
 longitude: -122.76052
 postcode: "97225"
 city: Portland
-street: "Southwest Beaverton Hillsdale Highway"
-housenumber: 8148
-phone: "+1-503-292-9156"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-16:00"
-website: "https://www.creativehairstyles.net/"
+street: Southwest Beaverton Hillsdale Highway
+housenumber: "8148"
+phone: +1-503-292-9156
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-16:00
+website: https://www.creativehairstyles.net/

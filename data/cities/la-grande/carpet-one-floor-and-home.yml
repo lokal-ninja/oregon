@@ -1,11 +1,11 @@
 id: 363506977
-type: way
+type: node
 latitude: 45.32774
 longitude: -118.07911
 postcode: "97850"
 city: La Grande
-street: "North Portland Street"
-housenumber: 1606
-phone: "+1 541-963-6033"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-14:00"
-website: "https://flooring.carpetone.com/oregon/la-grande/1606-portland-street/"
+street: North Portland Street
+housenumber: "1606"
+phone: +1 541-963-6033
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-14:00
+website: https://flooring.carpetone.com/oregon/la-grande/1606-portland-street/

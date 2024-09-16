@@ -1,11 +1,11 @@
 id: 440241978
-type: way
+type: node
 latitude: 45.5504
 longitude: -122.67544
 postcode: "97227"
 city: Portland
-street: "North Mississippi Avenue"
-housenumber: 3824
+street: North Mississippi Avenue
+housenumber: "3824"
 phone: ""
-opening_hours: "Mo-Fr 10:30-19:30; Sa 10:00-20:00; Su 11:00-18:00"
+opening_hours: Mo-Fr 10:30-19:30; Sa 10:00-20:00; Su 11:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 397340741
-type: way
+type: node
 latitude: 43.79663
 longitude: -123.05925
 postcode: "97424"
 city: Cottage Grove
-street: "Highway 99"
-housenumber: 48
-phone: "+1 541 942 4839"
+street: Highway 99
+housenumber: "48"
+phone: +1 541 942 4839
 opening_hours: ""
-website: "https://cottagegroveautorepair.com"
+website: https://cottagegroveautorepair.com

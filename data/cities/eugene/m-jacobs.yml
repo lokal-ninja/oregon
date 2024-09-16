@@ -1,11 +1,11 @@
 id: 281908118
-type: way
+type: node
 latitude: 44.05161
 longitude: -123.09382
 postcode: "97401"
 city: Eugene
-street: "Olive Street"
-housenumber: 725
+street: Olive Street
+housenumber: "725"
 phone: ""
 opening_hours: ""
 website: ""

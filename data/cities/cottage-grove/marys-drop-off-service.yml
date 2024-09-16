@@ -1,11 +1,11 @@
 id: 1009194534
-type: way
+type: node
 latitude: 43.7976
 longitude: -123.04748
 postcode: "97424"
 city: Cottage Grove
-street: "North Gateway Boulevard"
-housenumber: 40
+street: North Gateway Boulevard
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

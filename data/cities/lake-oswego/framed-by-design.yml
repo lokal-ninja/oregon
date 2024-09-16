@@ -1,11 +1,11 @@
 id: 493389498
-type: way
+type: node
 latitude: 45.41346
 longitude: -122.66361
 postcode: "97034"
 city: Lake Oswego
-street: "South State Street"
-housenumber: 333
-phone: "+1-503-699-9247"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "http://www.framedbydesign.us/"
+street: South State Street
+housenumber: "333"
+phone: +1-503-699-9247
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: http://www.framedbydesign.us/

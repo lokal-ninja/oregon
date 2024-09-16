@@ -1,11 +1,11 @@
 id: 840018067
-type: way
+type: node
 latitude: 44.09165
 longitude: -123.13971
 postcode: "97404"
 city: Eugene
-street: "Linwood Street"
-housenumber: 1752
+street: Linwood Street
+housenumber: "1752"
 phone: ""
 opening_hours: ""
 website: ""

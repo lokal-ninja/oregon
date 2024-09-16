@@ -1,11 +1,11 @@
 id: 421930135
-type: way
+type: node
 latitude: 45.52399
 longitude: -122.69446
 postcode: "97209"
 city: Portland
-street: "Northwest 21st Avenue"
-housenumber: 111
+street: Northwest 21st Avenue
+housenumber: "111"
 phone: ""
 opening_hours: ""
-website: "https://naturespetmarket.com/"
+website: https://naturespetmarket.com/

@@ -1,11 +1,11 @@
 id: 294115215
-type: way
+type: node
 latitude: 45.43176
 longitude: -122.70286
 postcode: "97035"
 city: Lake Oswego
-street: "Monroe Parkway"
-housenumber: 2
+street: Monroe Parkway
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

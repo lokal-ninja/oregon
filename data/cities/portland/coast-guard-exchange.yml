@@ -1,11 +1,11 @@
 id: 367482852
-type: way
+type: node
 latitude: 45.57241
 longitude: -122.72025
 postcode: "97217"
 city: Portland
-street: "North Basin Avenue"
-housenumber: 6767
+street: North Basin Avenue
+housenumber: "6767"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:00, Sa 09:00-16:00"
-website: "https://shopcgx.com/store-locations.html"
+opening_hours: Mo-Fr 08:00-16:00, Sa 09:00-16:00
+website: https://shopcgx.com/store-locations.html

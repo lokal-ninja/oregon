@@ -1,11 +1,11 @@
 id: 353068100
-type: way
+type: node
 latitude: 45.50278
 longitude: -122.9406
 postcode: "97123"
 city: Hillsboro
-street: "Southeast Tualatin Valley Highway"
-housenumber: 4151
+street: Southeast Tualatin Valley Highway
+housenumber: "4151"
 phone: ""
 opening_hours: ""
-website: "https://www.mackenziemotors.com/"
+website: https://www.mackenziemotors.com/

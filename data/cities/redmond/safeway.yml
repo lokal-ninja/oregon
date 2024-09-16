@@ -1,11 +1,11 @@
 id: 438488303
-type: way
+type: node
 latitude: 44.26091
 longitude: -121.18013
 postcode: "97756"
 city: Redmond
-street: "The Dalles-California Highway"
-housenumber: 1705
-phone: "+1 541-504-4160"
-opening_hours: "Mo-Su 06:00-00:00"
-website: "https://local.safeway.com/safeway/or/redmond/1705-s-hwy-97.html"
+street: The Dalles-California Highway
+housenumber: "1705"
+phone: +1 541-504-4160
+opening_hours: Mo-Su 06:00-00:00
+website: https://local.safeway.com/safeway/or/redmond/1705-s-hwy-97.html

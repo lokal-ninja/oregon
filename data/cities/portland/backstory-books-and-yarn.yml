@@ -1,11 +1,11 @@
 id: 368235265
-type: way
+type: node
 latitude: 45.51234
 longitude: -122.63307
 postcode: "97214"
 city: Portland
-street: "Southeast Hawthorne Boulevard"
-housenumber: 3129
-phone: "971-282-3332"
-opening_hours: "Mo,We,Th,Fr,Sa,Su 12:00-18:00"
-website: "https://backstorybooksandyarn.com"
+street: Southeast Hawthorne Boulevard
+housenumber: "3129"
+phone: 971-282-3332
+opening_hours: Mo,We,Th,Fr,Sa,Su 12:00-18:00
+website: https://backstorybooksandyarn.com

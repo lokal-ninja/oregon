@@ -1,11 +1,11 @@
 id: 1112587386
-type: way
+type: node
 latitude: 44.57517
 longitude: -123.26042
 postcode: "97330"
 city: Corvallis
-street: "Northwest Buchanan Avenue"
-housenumber: 705
+street: Northwest Buchanan Avenue
+housenumber: "705"
 phone: ""
 opening_hours: ""
 website: ""

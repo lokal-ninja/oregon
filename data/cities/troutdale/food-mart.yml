@@ -1,11 +1,11 @@
 id: 496246950
-type: way
+type: node
 latitude: 45.51926
 longitude: -122.40096
 postcode: "97060"
 city: Troutdale
-street: "Southeast Stark Street"
-housenumber: 25675
-phone: "+1-503-665-7241"
-opening_hours: "24/7"
-website: "https://www.exxon.com/"
+street: Southeast Stark Street
+housenumber: "25675"
+phone: +1-503-665-7241
+opening_hours: 24/7
+website: https://www.exxon.com/

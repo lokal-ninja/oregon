@@ -1,11 +1,11 @@
 id: 507091539
-type: way
+type: node
 latitude: 44.0534
 longitude: -121.26242
 postcode: "97701"
 city: Bend
-street: "Northeast Highway 20"
-housenumber: 2717
-phone: "+1-541-388-7439"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.farmstore.com/"
+street: Northeast Highway 20
+housenumber: "2717"
+phone: +1-541-388-7439
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.farmstore.com/

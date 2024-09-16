@@ -1,11 +1,11 @@
 id: 369938107
-type: way
+type: node
 latitude: 45.46307
 longitude: -122.63913
 postcode: "97202"
 city: Portland
-street: "Southeast McLoughlin Boulevard"
-housenumber: 8265
-phone: "+1-971-254-9516"
-opening_hours: "10:00-21:00"
-website: "http://rko420.com/"
+street: Southeast McLoughlin Boulevard
+housenumber: "8265"
+phone: +1-971-254-9516
+opening_hours: 10:00-21:00
+website: http://rko420.com/

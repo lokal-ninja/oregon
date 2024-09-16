@@ -1,11 +1,11 @@
 id: 289212692
-type: way
+type: node
 latitude: 45.41971
 longitude: -122.66393
 postcode: "97034"
 city: Lake Oswego
-street: "1st Street"
-housenumber: 417
-phone: "+1-971-206-8910"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 11:00-17:00"
-website: "https://www.mytiffanynailsandspa.com/"
+street: 1st Street
+housenumber: "417"
+phone: +1-971-206-8910
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 11:00-17:00
+website: https://www.mytiffanynailsandspa.com/

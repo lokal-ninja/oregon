@@ -1,11 +1,11 @@
 id: 368834197
-type: way
+type: node
 latitude: 45.51951
 longitude: -122.48484
 postcode: "97233"
 city: Portland
-street: "Southeast Stark Street"
-housenumber: 17311
+street: Southeast Stark Street
+housenumber: "17311"
 phone: ""
 opening_hours: ""
-website: "http://allisoncareygunworks.com/"
+website: http://allisoncareygunworks.com/

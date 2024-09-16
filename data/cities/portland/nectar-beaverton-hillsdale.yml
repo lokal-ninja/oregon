@@ -1,11 +1,11 @@
 id: 295935922
-type: way
+type: node
 latitude: 45.48609
 longitude: -122.72507
 postcode: "97221"
 city: Portland
-street: "Southwest Beaverton Hillsdale Highway"
-housenumber: 4709
+street: Southwest Beaverton Hillsdale Highway
+housenumber: "4709"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://nectar.store/hillsdale"
+opening_hours: Mo-Su 07:00-22:00
+website: https://nectar.store/hillsdale

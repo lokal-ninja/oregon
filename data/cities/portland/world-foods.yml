@@ -1,11 +1,11 @@
 id: 207228955
-type: way
+type: node
 latitude: 45.52478
 longitude: -122.68004
 postcode: "97209"
 city: Portland
-street: "Northwest Everett Street"
-housenumber: 830
-phone: "+1-503-802-0755"
-opening_hours: "08:00-21:00"
-website: "https://www.worldfoodsportland.com/"
+street: Northwest Everett Street
+housenumber: "830"
+phone: +1-503-802-0755
+opening_hours: 08:00-21:00
+website: https://www.worldfoodsportland.com/

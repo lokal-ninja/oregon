@@ -1,11 +1,11 @@
 id: 458421078
-type: way
+type: node
 latitude: 45.47308
 longitude: -122.64856
 postcode: "97202"
 city: Portland
-street: "Southeast Milwaukie Avenue"
-housenumber: 7042
-phone: "+1-503-236-4286"
-opening_hours: "Tu-Sa 11:00-18:00"
-website: "https://bythebunchpdx.com/"
+street: Southeast Milwaukie Avenue
+housenumber: "7042"
+phone: +1-503-236-4286
+opening_hours: Tu-Sa 11:00-18:00
+website: https://bythebunchpdx.com/

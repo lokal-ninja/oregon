@@ -1,11 +1,11 @@
 id: 319662068
-type: way
+type: node
 latitude: 45.54771
 longitude: -122.67457
 postcode: "97227"
 city: Portland
-street: "North Fremont Street"
-housenumber: 750
-phone: "+1-503-477-5382"
-opening_hours: "Mo-Su 08:00-24:00"
-website: "http://www.spinlaundrylounge.com/"
+street: North Fremont Street
+housenumber: "750"
+phone: +1-503-477-5382
+opening_hours: Mo-Su 08:00-24:00
+website: http://www.spinlaundrylounge.com/

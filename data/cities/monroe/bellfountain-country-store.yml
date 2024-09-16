@@ -1,11 +1,11 @@
 id: 1047375499
-type: way
+type: node
 latitude: 44.36351
 longitude: -123.35599
 postcode: "97456"
 city: Monroe
-street: "Bellfountain Road"
-housenumber: 26720
-phone: "+1 541 600 6534"
-opening_hours: "Mo-Fr 06:00-18:00; Sa-Su 10:00-16:00"
+street: Bellfountain Road
+housenumber: "26720"
+phone: +1 541 600 6534
+opening_hours: Mo-Fr 06:00-18:00; Sa-Su 10:00-16:00
 website: ""

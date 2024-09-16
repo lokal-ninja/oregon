@@ -4,8 +4,8 @@ latitude: 44.63711
 longitude: -123.10631
 postcode: "97321"
 city: Albany
-street: "1st Avenue West"
-housenumber: 202
-phone: "+1 541 926 1907"
-opening_hours: "Mo off; Tu-Th 09:30-17:30; Fr 09:30-17:00; Sa 09:30-15:00; Su off"
-website: "https://www.jordanjewelers.com/"
+street: 1st Avenue West
+housenumber: "202"
+phone: +1 541 926 1907
+opening_hours: Mo off; Tu-Th 09:30-17:30; Fr 09:30-17:00; Sa 09:30-15:00; Su off
+website: https://www.jordanjewelers.com/

@@ -1,11 +1,11 @@
 id: 355874717
-type: way
+type: node
 latitude: 45.4064
 longitude: -122.79755
 postcode: "97224"
 city: King City
-street: "Southwest 116th Avenue"
-housenumber: 15705
-phone: "+1-503-968-8991"
-opening_hours: "08:00-22:00"
-website: "https://groceryoutlet.com/"
+street: Southwest 116th Avenue
+housenumber: "15705"
+phone: +1-503-968-8991
+opening_hours: 08:00-22:00
+website: https://groceryoutlet.com/

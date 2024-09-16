@@ -1,11 +1,11 @@
 id: 174986498
-type: way
+type: node
 latitude: 45.452
 longitude: -122.57859
 postcode: "97086"
 city: Happy Valley
-street: "Southeast 82nd Avenue"
-housenumber: 9770
+street: Southeast 82nd Avenue
+housenumber: "9770"
 phone: ""
 opening_hours: ""
-website: "http://www.ilikestuff.com/"
+website: http://www.ilikestuff.com/

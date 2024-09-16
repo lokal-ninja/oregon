@@ -1,11 +1,11 @@
 id: 39379009
-type: way
+type: node
 latitude: 45.53688
 longitude: -122.61943
 postcode: "97213"
 city: Portland
-street: "Northeast 42nd Avenue"
-housenumber: 1928
-phone: "+1-503-828-2270"
-opening_hours: "09:00-24:00"
-website: "http://flydragonspa.com/"
+street: Northeast 42nd Avenue
+housenumber: "1928"
+phone: +1-503-828-2270
+opening_hours: 09:00-24:00
+website: http://flydragonspa.com/

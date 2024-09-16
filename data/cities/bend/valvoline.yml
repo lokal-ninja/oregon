@@ -1,11 +1,11 @@
 id: 506162383
-type: way
+type: node
 latitude: 44.02026
 longitude: -121.31616
 postcode: "97702"
 city: Bend
-street: "South Highway 97"
-housenumber: 61160
-phone: "+1-541-617-1616"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-17:00"
-website: "https://store.vioc.com/or/bend/oil-change-090017.html"
+street: South Highway 97
+housenumber: "61160"
+phone: +1-541-617-1616
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-17:00
+website: https://store.vioc.com/or/bend/oil-change-090017.html

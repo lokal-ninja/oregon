@@ -1,11 +1,11 @@
 id: 383507377
-type: way
+type: node
 latitude: 45.41718
 longitude: -122.74207
 postcode: "97035"
 city: Lake Oswego
-street: "Bangy Road"
-housenumber: 15010
+street: Bangy Road
+housenumber: "15010"
 phone: ""
 opening_hours: ""
-website: "https://deseretbook.com/"
+website: https://deseretbook.com/

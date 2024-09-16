@@ -1,11 +1,11 @@
 id: 507372527
-type: way
+type: node
 latitude: 44.04431
 longitude: -121.31393
 postcode: "97702"
 city: Bend
-street: "Southwest Powerhouse Drive"
-housenumber: 680
-phone: "+1-541-306-4311"
+street: Southwest Powerhouse Drive
+housenumber: "680"
+phone: +1-541-306-4311
 opening_hours: ""
-website: "https://flipflopshops.com/"
+website: https://flipflopshops.com/

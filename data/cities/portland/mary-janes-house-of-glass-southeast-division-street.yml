@@ -1,11 +1,11 @@
 id: 426968592
-type: way
+type: node
 latitude: 45.50494
 longitude: -122.626
 postcode: "97202"
 city: Portland
-street: "Southeast Division Street"
-housenumber: 3619
+street: Southeast Division Street
+housenumber: "3619"
 phone: ""
 opening_hours: ""
-website: "http://www.maryjaneshouseofglass.net/"
+website: http://www.maryjaneshouseofglass.net/

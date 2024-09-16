@@ -1,11 +1,11 @@
 id: 485234645
-type: way
+type: node
 latitude: 45.30398
 longitude: -122.76243
 postcode: "97070"
 city: Wilsonville
-street: "Southwest Wilsonville Road"
-housenumber: 8255
-phone: "+1-503-404-2819"
-opening_hours: "06:00-23:00"
-website: "https://local.safeway.com/safeway/or/wilsonville/8255-sw-wilsonville-rd.html"
+street: Southwest Wilsonville Road
+housenumber: "8255"
+phone: +1-503-404-2819
+opening_hours: 06:00-23:00
+website: https://local.safeway.com/safeway/or/wilsonville/8255-sw-wilsonville-rd.html

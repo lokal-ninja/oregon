@@ -1,11 +1,11 @@
 id: 368063295
-type: way
+type: node
 latitude: 45.5093
 longitude: -122.65991
 postcode: "97214"
 city: Portland
-street: "Southeast 6th Avenue"
-housenumber: 1943
+street: Southeast 6th Avenue
+housenumber: "1943"
 phone: ""
-opening_hours: "10:00-19:00"
-website: "https://meetgoodwill.org/"
+opening_hours: 10:00-19:00
+website: https://meetgoodwill.org/

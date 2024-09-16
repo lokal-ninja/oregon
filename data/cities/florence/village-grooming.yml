@@ -1,11 +1,11 @@
 id: 1204203799
-type: way
+type: node
 latitude: 43.97113
 longitude: -124.10639
 postcode: "97439"
 city: Florence
-street: "Rhododendron Drive"
-housenumber: 1379
-phone: "+1 541 305 5411"
+street: Rhododendron Drive
+housenumber: "1379"
+phone: +1 541 305 5411
 opening_hours: ""
 website: ""

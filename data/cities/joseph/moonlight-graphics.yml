@@ -1,11 +1,11 @@
 id: 626966168
-type: way
+type: node
 latitude: 45.35288
 longitude: -117.2297
 postcode: "97846"
 city: Joseph
-street: "North Main Street"
-housenumber: 102
+street: North Main Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 408004910
-type: way
+type: node
 latitude: 45.51472
 longitude: -122.65641
 postcode: "97214"
 city: Portland
-street: "Southeast Salmon Street"
-housenumber: 909
+street: Southeast Salmon Street
+housenumber: "909"
 phone: ""
 opening_hours: ""
 website: ""

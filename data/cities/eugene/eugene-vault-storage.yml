@@ -1,11 +1,11 @@
 id: 826285850
-type: way
+type: node
 latitude: 44.08892
 longitude: -123.10409
 postcode: "97401"
 city: Eugene
-street: "Goodpasture Loop"
-housenumber: 4450
+street: Goodpasture Loop
+housenumber: "4450"
 phone: ""
 opening_hours: ""
 website: ""

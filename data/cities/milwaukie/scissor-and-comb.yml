@@ -1,11 +1,11 @@
 id: 687707072
-type: way
+type: node
 latitude: 45.44295
 longitude: -122.64128
 postcode: "97222"
 city: Milwaukie
-street: "Southeast Main Street"
-housenumber: 11011
-phone: "+1-503-776-0505"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "http://www.scissorandcombpdx.com/"
+street: Southeast Main Street
+housenumber: "11011"
+phone: +1-503-776-0505
+opening_hours: Mo-Sa 09:00-19:00
+website: http://www.scissorandcombpdx.com/

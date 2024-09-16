@@ -1,11 +1,11 @@
 id: 347352357
-type: way
+type: node
 latitude: 45.48533
 longitude: -122.75712
 postcode: "97225"
 city: Portland
-street: "Southwest 77th Avenue"
-housenumber: 4825
+street: Southwest 77th Avenue
+housenumber: "4825"
 phone: ""
 opening_hours: ""
-website: "https://moorescleaners.com/"
+website: https://moorescleaners.com/

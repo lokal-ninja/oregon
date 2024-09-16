@@ -1,11 +1,11 @@
 id: 354101215
-type: way
+type: node
 latitude: 45.43451
 longitude: -122.76481
 postcode: "97223"
 city: Tigard
-street: "Southwest Pacific Highway"
-housenumber: 11875
-phone: "+1-503-281-5555"
+street: Southwest Pacific Highway
+housenumber: "11875"
+phone: +1-503-281-5555
 opening_hours: ""
-website: "https://broadwayfurniture.net/"
+website: https://broadwayfurniture.net/

@@ -4,8 +4,8 @@ latitude: 42.22605
 longitude: -121.7814
 postcode: ""
 city: Klamath Falls
-street: "Main Street"
-housenumber: 733
-phone: "+1 541-884-1600"
-opening_hours: "Mo-Th 12:00-18:00; Fr 12:00-21:00; Sa 12:00-18:00"
-website: "https://www.facebook.com/pages/Oregon-Wine-Cellar/225804247518228"
+street: Main Street
+housenumber: "733"
+phone: +1 541-884-1600
+opening_hours: Mo-Th 12:00-18:00; Fr 12:00-21:00; Sa 12:00-18:00
+website: https://www.facebook.com/pages/Oregon-Wine-Cellar/225804247518228

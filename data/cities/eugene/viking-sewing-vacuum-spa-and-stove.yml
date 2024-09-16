@@ -1,11 +1,11 @@
 id: 587044395
-type: way
+type: node
 latitude: 44.05314
 longitude: -123.1048
 postcode: "97402"
 city: Eugene
-street: "West 6th Avenue"
-housenumber: 788
-phone: "+1-541-484-6006"
-opening_hours: "Mo-Fr 10:00-16:30; Sa 10:00-14:00"
-website: "https://www.vikingsewingeugene.com/"
+street: West 6th Avenue
+housenumber: "788"
+phone: +1-541-484-6006
+opening_hours: Mo-Fr 10:00-16:30; Sa 10:00-14:00
+website: https://www.vikingsewingeugene.com/

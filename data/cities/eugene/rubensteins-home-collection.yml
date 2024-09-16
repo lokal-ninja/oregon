@@ -1,11 +1,11 @@
 id: 1120586983
-type: way
+type: node
 latitude: 44.05399
 longitude: -123.08799
 postcode: "97401"
 city: Eugene
-street: "High Street"
-housenumber: 505
+street: High Street
+housenumber: "505"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-15:00"
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-15:00
 website: ""

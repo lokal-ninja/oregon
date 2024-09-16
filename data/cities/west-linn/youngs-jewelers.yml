@@ -1,11 +1,11 @@
 id: 491711487
-type: way
+type: node
 latitude: 45.36411
 longitude: -122.64686
 postcode: "97068"
 city: West Linn
-street: "Salamo Road"
-housenumber: 21140
-phone: "+1-503-305-8609"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-17:00"
-website: "https://www.youngs-jewelers.com/"
+street: Salamo Road
+housenumber: "21140"
+phone: +1-503-305-8609
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-17:00
+website: https://www.youngs-jewelers.com/

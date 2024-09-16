@@ -1,11 +1,11 @@
 id: 459314988
-type: way
+type: node
 latitude: 45.47888
 longitude: -122.61726
 postcode: "97206"
 city: Portland
-street: "Southeast Woodstock Boulevard"
-housenumber: 4404
-phone: "+1-503-477-6988"
-opening_hours: "10:00-19:00"
-website: "https://portlandfishmarket.com/"
+street: Southeast Woodstock Boulevard
+housenumber: "4404"
+phone: +1-503-477-6988
+opening_hours: 10:00-19:00
+website: https://portlandfishmarket.com/

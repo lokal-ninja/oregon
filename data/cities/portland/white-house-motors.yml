@@ -1,11 +1,11 @@
 id: 299377739
-type: way
+type: node
 latitude: 45.46537
 longitude: -122.69707
 postcode: "97219"
 city: Portland
-street: "Southwest 19th Avenue"
-housenumber: 8200
-phone: "+1-503-381-8135"
+street: Southwest 19th Avenue
+housenumber: "8200"
+phone: +1-503-381-8135
 opening_hours: ""
-website: "https://www.whmotors.net/"
+website: https://www.whmotors.net/

@@ -1,11 +1,11 @@
 id: 291272853
-type: way
+type: node
 latitude: 45.46897
 longitude: -122.70868
 postcode: "97219"
 city: Portland
-street: "Southwest Capitol Highway"
-housenumber: 7642
-phone: "+1-503-348-0411"
-opening_hours: "Fr,Sa 11:30-17:30; Su 11:30-17:00"
-website: "https://www.antoinettejewelry.com/"
+street: Southwest Capitol Highway
+housenumber: "7642"
+phone: +1-503-348-0411
+opening_hours: Fr,Sa 11:30-17:30; Su 11:30-17:00
+website: https://www.antoinettejewelry.com/

@@ -1,11 +1,11 @@
 id: 1009394807
-type: way
+type: node
 latitude: 43.79762
 longitude: -123.05965
 postcode: "97424"
 city: Cottage Grove
-street: "East Main Street"
-housenumber: 820
-phone: "+1 541 649 1625;+1 541 514 0022"
-opening_hours: "Tu-Sa 11:00-18:00"
+street: East Main Street
+housenumber: "820"
+phone: +1 541 649 1625;+1 541 514 0022
+opening_hours: Tu-Sa 11:00-18:00
 website: ""

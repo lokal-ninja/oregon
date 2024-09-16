@@ -1,11 +1,11 @@
 id: 482975852
-type: way
+type: node
 latitude: 45.50711
 longitude: -122.95616
 postcode: "97123"
 city: Hillsboro
-street: "Southeast Tualatin Valley Highway"
-housenumber: 2305
-phone: "+1-503-640-0129"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.famousfootwear.com/"
+street: Southeast Tualatin Valley Highway
+housenumber: "2305"
+phone: +1-503-640-0129
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.famousfootwear.com/

@@ -1,11 +1,11 @@
 id: 507134036
-type: way
+type: node
 latitude: 44.05515
 longitude: -121.26335
 postcode: "97701"
 city: Bend
-street: "Northeast Bellevue Drive"
-housenumber: 547
-phone: "+1-541-749-1000"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 11:00-17:00"
-website: "https://www.maxmuscle.com/"
+street: Northeast Bellevue Drive
+housenumber: "547"
+phone: +1-541-749-1000
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 11:00-17:00
+website: https://www.maxmuscle.com/

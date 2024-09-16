@@ -1,11 +1,11 @@
 id: 410102929
-type: way
+type: node
 latitude: 45.56041
 longitude: -122.66132
 postcode: "97211"
 city: Portland
-street: "Northeast Martin Luther King Junior Boulevard"
-housenumber: 5150
-phone: "+1 503-284-6130"
+street: Northeast Martin Luther King Junior Boulevard
+housenumber: "5150"
+phone: +1 503-284-6130
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/or/portland/5150-ne-mlk-jr-blvd-35861"
+website: https://www.7-eleven.com/locations/or/portland/5150-ne-mlk-jr-blvd-35861

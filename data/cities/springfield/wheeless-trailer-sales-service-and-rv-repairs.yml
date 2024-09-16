@@ -1,11 +1,11 @@
 id: 1098730387
-type: way
+type: node
 latitude: 44.04602
 longitude: -122.97544
 postcode: "97478"
 city: Springfield
-street: "Main Street"
-housenumber: 3560
-phone: "+1 541 744 8814"
+street: Main Street
+housenumber: "3560"
+phone: +1 541 744 8814
 opening_hours: ""
 website: ""

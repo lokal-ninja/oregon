@@ -1,11 +1,11 @@
 id: 337137196
-type: way
+type: node
 latitude: 45.45933
 longitude: -122.7098
 postcode: "97219"
 city: Portland
-street: "Southwest Barbur Boulevard"
-housenumber: 9125
+street: Southwest Barbur Boulevard
+housenumber: "9125"
 phone: ""
 opening_hours: ""
 website: ""

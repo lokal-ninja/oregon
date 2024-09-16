@@ -1,11 +1,11 @@
 id: 520065500
-type: way
+type: node
 latitude: 45.51971
 longitude: -122.65687
 postcode: "97214"
 city: Portland
-street: "Southeast Sandy Boulevard"
-housenumber: 834
-phone: "+1-503-234-9797"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://www.lineupshop.com/"
+street: Southeast Sandy Boulevard
+housenumber: "834"
+phone: +1-503-234-9797
+opening_hours: Mo-Fr 08:00-17:00
+website: http://www.lineupshop.com/

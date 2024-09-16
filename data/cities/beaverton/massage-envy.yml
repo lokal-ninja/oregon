@@ -1,11 +1,11 @@
 id: 363266025
-type: way
+type: node
 latitude: 45.50028
 longitude: -122.80516
 postcode: "97005"
 city: Beaverton
-street: "Southwest Cedar Hills Boulevard"
-housenumber: 2680
-phone: "+1-503-726-3689"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-18:00; Su 10:00-18:00"
-website: "https://www.massageenvy.com/"
+street: Southwest Cedar Hills Boulevard
+housenumber: "2680"
+phone: +1-503-726-3689
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-18:00; Su 10:00-18:00
+website: https://www.massageenvy.com/

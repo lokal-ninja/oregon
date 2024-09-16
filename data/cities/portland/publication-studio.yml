@@ -4,8 +4,8 @@ latitude: 45.5227
 longitude: -122.67824
 postcode: "97205"
 city: Portland
-street: "Southwest Ankeny Street"
-housenumber: 717
+street: Southwest Ankeny Street
+housenumber: "717"
 phone: ""
-opening_hours: "11:00-17:00"
-website: "https://www.publicationstudio.biz/"
+opening_hours: 11:00-17:00
+website: https://www.publicationstudio.biz/

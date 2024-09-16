@@ -1,11 +1,11 @@
 id: 401149175
-type: way
+type: node
 latitude: 45.50106
 longitude: -122.65544
 postcode: "97202"
 city: Portland
-street: "Southeast 10th Avenue"
-housenumber: 3030
+street: Southeast 10th Avenue
+housenumber: "3030"
 phone: ""
 opening_hours: ""
-website: "https://portland.classicpianos.net/"
+website: https://portland.classicpianos.net/

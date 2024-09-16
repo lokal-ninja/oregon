@@ -1,11 +1,11 @@
 id: 480865638
-type: way
+type: node
 latitude: 44.05967
 longitude: -121.29365
 postcode: "97701"
 city: Bend
-street: "Northeast Greenwood Avenue"
-housenumber: 815
-phone: "+1-541-389-1043"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
-website: "https://topshelfmedicine.com/"
+street: Northeast Greenwood Avenue
+housenumber: "815"
+phone: +1-541-389-1043
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
+website: https://topshelfmedicine.com/

@@ -1,11 +1,11 @@
 id: 1116369448
-type: way
+type: node
 latitude: 43.98085
 longitude: -124.10214
 postcode: "97439"
 city: Florence
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/or/florence/1665-us-101.html"
+website: https://www.autozone.com/locations/or/florence/1665-us-101.html

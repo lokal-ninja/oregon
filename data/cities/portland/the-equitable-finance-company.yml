@@ -1,11 +1,11 @@
 id: 350910165
-type: way
+type: node
 latitude: 45.40189
 longitude: -122.62191
 postcode: "97267"
 city: Portland
-street: "Southeast McLoughlin Boulevard"
-housenumber: 16703
+street: Southeast McLoughlin Boulevard
+housenumber: "16703"
 phone: ""
 opening_hours: ""
-website: "https://www.equitablefinco.com/"
+website: https://www.equitablefinco.com/

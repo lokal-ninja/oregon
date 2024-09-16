@@ -1,11 +1,11 @@
 id: 573738934
-type: way
+type: node
 latitude: 45.70921
 longitude: -121.51566
 postcode: "97031"
 city: Hood River
-street: "Oak Street"
-housenumber: 504
-phone: "+1 541-386-5050"
+street: Oak Street
+housenumber: "504"
+phone: +1 541-386-5050
 opening_hours: ""
-website: "https://ruddyduckstore.com/"
+website: https://ruddyduckstore.com/

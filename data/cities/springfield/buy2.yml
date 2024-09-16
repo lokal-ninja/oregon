@@ -1,11 +1,11 @@
 id: 1104545237
-type: way
+type: node
 latitude: 44.0553
 longitude: -123.00235
 postcode: "97477"
 city: Springfield
-street: "Mohawk Boulevard"
-housenumber: 1111
+street: Mohawk Boulevard
+housenumber: "1111"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 503284847
-type: way
+type: node
 latitude: 44.06018
-longitude: -121.30346
+longitude: -121.30328
 postcode: "97701"
 city: Bend
-street: "Northeast Greenwood Avenue"
-housenumber: 228
-phone: "+1-541-617-9271"
-opening_hours: "Mo-Sa 10:00-17:00"
+street: Northeast Greenwood Avenue
+housenumber: "228"
+phone: +1-541-617-9271
+opening_hours: Mo-Sa 10:00-17:00
 website: ""

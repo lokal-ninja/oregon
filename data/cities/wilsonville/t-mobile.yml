@@ -1,11 +1,11 @@
 id: 389322960
-type: way
+type: node
 latitude: 45.33434
 longitude: -122.76592
 postcode: "97070"
 city: Wilsonville
-street: "Southwest Jack Burns Boulevard"
-housenumber: 8695
+street: Southwest Jack Burns Boulevard
+housenumber: "8695"
 phone: ""
 opening_hours: ""
 website: ""

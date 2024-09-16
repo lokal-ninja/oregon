@@ -1,11 +1,11 @@
 id: 138284851
-type: way
+type: node
 latitude: 45.52157
 longitude: -122.57978
 postcode: "97213"
 city: Portland
-street: "Southeast 82nd Avenue"
-housenumber: 101
-phone: "+1-503-253-4411"
-opening_hours: "09:00-20:00"
-website: "https://www.hongphatmarket.com/"
+street: Southeast 82nd Avenue
+housenumber: "101"
+phone: +1-503-253-4411
+opening_hours: 09:00-20:00
+website: https://www.hongphatmarket.com/

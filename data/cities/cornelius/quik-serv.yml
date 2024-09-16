@@ -1,11 +1,11 @@
 id: 322624524
-type: way
+type: node
 latitude: 45.5207
 longitude: -123.03622
 postcode: "97113"
 city: Cornelius
-street: "Baseline Street"
-housenumber: 2888
+street: Baseline Street
+housenumber: "2888"
 phone: ""
 opening_hours: ""
 website: ""

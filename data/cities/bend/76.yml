@@ -1,11 +1,11 @@
 id: 507134033
-type: way
+type: node
 latitude: 44.05602
 longitude: -121.26282
 postcode: "97701"
 city: Bend
-street: "Northeast Bellevue Drive"
-housenumber: 575
+street: Northeast Bellevue Drive
+housenumber: "575"
 phone: ""
-opening_hours: "Mo-Su,PH 07:00-22:00"
+opening_hours: Mo-Su,PH 07:00-22:00
 website: ""

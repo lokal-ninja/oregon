@@ -1,11 +1,11 @@
 id: 353015703
-type: way
+type: node
 latitude: 45.38242
 longitude: -122.75014
 postcode: "97062"
 city: Tualatin
-street: "Southwest Nyberg Street"
-housenumber: 7090
-phone: "+1-503-692-8123"
+street: Southwest Nyberg Street
+housenumber: "7090"
+phone: +1-503-692-8123
 opening_hours: ""
-website: "https://www.jacksons.com/"
+website: https://www.jacksons.com/

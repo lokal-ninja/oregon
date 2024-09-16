@@ -1,11 +1,11 @@
 id: 962753446
-type: way
+type: node
 latitude: 45.45088
 longitude: -122.77945
 postcode: "97223"
 city: Tigard
-street: "Southwest Washington Square Road"
-housenumber: 9489
-phone: "+1-503-968-1780"
+street: Southwest Washington Square Road
+housenumber: "9489"
+phone: +1-503-968-1780
 opening_hours: ""
-website: "https://www.zumiez.com/storelocator/store/index/id/031/us/or/tigard/washington-square/"
+website: https://www.zumiez.com/storelocator/store/index/id/031/us/or/tigard/washington-square/

@@ -1,11 +1,11 @@
 id: 408745388
-type: way
+type: node
 latitude: 46.18792
 longitude: -123.85165
 postcode: "97103"
 city: Astoria
-street: "West Marine Drive"
-housenumber: 327
-phone: "+1 503 3250720"
+street: West Marine Drive
+housenumber: "327"
+phone: +1 503 3250720
 opening_hours: ""
 website: ""

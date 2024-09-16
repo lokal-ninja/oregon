@@ -4,8 +4,8 @@ latitude: 45.51711
 longitude: -122.67643
 postcode: "97204"
 city: Portland
-street: "Southwest Taylor Street"
-housenumber: 333
-phone: "+1-503-525-1243"
+street: Southwest Taylor Street
+housenumber: "333"
+phone: +1-503-525-1243
 opening_hours: ""
-website: "https://www.foottraffic.us/"
+website: https://www.foottraffic.us/

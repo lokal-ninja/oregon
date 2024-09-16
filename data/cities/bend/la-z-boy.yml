@@ -1,11 +1,11 @@
 id: 507676653
-type: way
+type: node
 latitude: 44.05441
 longitude: -121.26787
 postcode: "97701"
 city: Bend
-street: "Northeast Windy Knolls Drive"
-housenumber: 455
-phone: "+1-541-617-1717"
-opening_hours: "Mo-Sa 09:30-18:00; Su 11:00-17:00"
-website: "https://www.la-z-boy.com/"
+street: Northeast Windy Knolls Drive
+housenumber: "455"
+phone: +1-541-617-1717
+opening_hours: Mo-Sa 09:30-18:00; Su 11:00-17:00
+website: https://www.la-z-boy.com/

@@ -1,11 +1,11 @@
 id: 673132358
-type: way
+type: node
 latitude: 44.05412
 longitude: -122.84126
 postcode: "97478"
 city: Springfield
-street: "McKenzie Highway"
-housenumber: 38498
+street: McKenzie Highway
+housenumber: "38498"
 phone: ""
 opening_hours: ""
 website: ""

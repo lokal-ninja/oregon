@@ -1,11 +1,11 @@
 id: 1071736023
-type: way
+type: node
 latitude: 43.11569
 longitude: -124.41516
 postcode: "97411"
 city: Bandon
-street: "Oregon Avenue Southeast"
-housenumber: 840
-phone: "+1 541-347-2506"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-18:00"
+street: Oregon Avenue Southeast
+housenumber: "840"
+phone: +1 541-347-2506
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-18:00
 website: ""

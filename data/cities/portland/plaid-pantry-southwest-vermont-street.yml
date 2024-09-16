@@ -1,11 +1,11 @@
 id: 289415591
-type: way
+type: node
 latitude: 45.47588
 longitude: -122.7234
 postcode: "97219"
 city: Portland
-street: "Southwest Vermont Street"
-housenumber: 4516
+street: Southwest Vermont Street
+housenumber: "4516"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.plaidpantry.com/"
+opening_hours: 24/7
+website: https://www.plaidpantry.com/

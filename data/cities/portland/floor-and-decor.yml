@@ -1,11 +1,11 @@
 id: 1123832044
-type: way
+type: node
 latitude: 45.60963
 longitude: -122.6785
 postcode: "97217"
 city: Portland
-street: "North Jantzen Drive"
-housenumber: 11941
+street: North Jantzen Drive
+housenumber: "11941"
 phone: ""
 opening_hours: ""
 website: ""

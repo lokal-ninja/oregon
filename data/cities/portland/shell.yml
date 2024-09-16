@@ -1,11 +1,11 @@
 id: 147098626
-type: way
+type: node
 latitude: 45.50198
 longitude: -122.7131
 postcode: "97221"
 city: Portland
-street: "Southwest Patton Road"
-housenumber: 3520
+street: Southwest Patton Road
+housenumber: "3520"
 phone: ""
 opening_hours: ""
 website: ""

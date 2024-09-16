@@ -1,11 +1,11 @@
 id: 260720421
-type: way
+type: node
 latitude: 45.51902
 longitude: -122.66266
 postcode: "97214"
 city: Portland
-street: "Southeast Stark Street"
-housenumber: 312
+street: Southeast Stark Street
+housenumber: "312"
 phone: ""
 opening_hours: ""
-website: "http://meshersupply.com/"
+website: http://meshersupply.com/

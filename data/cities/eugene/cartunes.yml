@@ -1,11 +1,11 @@
 id: 676148900
-type: way
+type: node
 latitude: 44.05248
 longitude: -123.1068
 postcode: "97402"
 city: Eugene
-street: "West 7th Avenue"
-housenumber: 929
+street: West 7th Avenue
+housenumber: "929"
 phone: ""
 opening_hours: ""
 website: ""

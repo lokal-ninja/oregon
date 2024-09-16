@@ -1,11 +1,11 @@
 id: 346444594
-type: way
+type: node
 latitude: 44.56752
 longitude: -123.25961
 postcode: "97330"
 city: Corvallis
-street: "Northwest Harrison Boulevard"
-housenumber: 303
+street: Northwest Harrison Boulevard
+housenumber: "303"
 phone: ""
 opening_hours: ""
-website: "https://locations.tccrocks.com/or/corvallis/303-nw-harrison-blvd.html"
+website: https://locations.tccrocks.com/or/corvallis/303-nw-harrison-blvd.html

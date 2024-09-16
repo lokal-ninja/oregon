@@ -1,11 +1,11 @@
 id: 440692789
-type: way
+type: node
 latitude: 45.54075
 longitude: -122.66759
 postcode: "97227"
 city: Portland
-street: "North Vancouver Avenue"
-housenumber: 2520
-phone: "+1-503-282-6240"
+street: North Vancouver Avenue
+housenumber: "2520"
+phone: +1-503-282-6240
 opening_hours: ""
 website: ""

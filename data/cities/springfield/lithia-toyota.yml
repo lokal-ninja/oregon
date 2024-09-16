@@ -1,11 +1,11 @@
 id: 200655149
-type: way
+type: node
 latitude: 44.04603
 longitude: -123.01501
 postcode: "97477"
 city: Springfield
-street: "Main Street"
-housenumber: 863
+street: Main Street
+housenumber: "863"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00
 website: ""

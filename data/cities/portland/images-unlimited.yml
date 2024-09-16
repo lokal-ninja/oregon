@@ -1,11 +1,11 @@
 id: 289415588
-type: way
+type: node
 latitude: 45.47594
 longitude: -122.72458
 postcode: "97219"
 city: Portland
-street: "Southwest Vermont Street"
-housenumber: 4610
+street: Southwest Vermont Street
+housenumber: "4610"
 phone: ""
 opening_hours: ""
 website: ""

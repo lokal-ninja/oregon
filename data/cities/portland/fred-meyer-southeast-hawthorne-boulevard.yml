@@ -1,11 +1,11 @@
 id: 39403095
-type: way
+type: node
 latitude: 45.51275
 longitude: -122.62431
 postcode: "97214"
 city: Portland
-street: "Southeast Hawthorne Boulevard"
-housenumber: 3805
-phone: "+1 503-872-3333"
-opening_hours: "07:00-22:00"
-website: "https://www.fredmeyer.com/stores/grocery/or/portland/hawthorne/701/00135"
+street: Southeast Hawthorne Boulevard
+housenumber: "3805"
+phone: +1 503-872-3333
+opening_hours: 07:00-22:00
+website: https://www.fredmeyer.com/stores/grocery/or/portland/hawthorne/701/00135

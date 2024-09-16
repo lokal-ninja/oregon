@@ -1,11 +1,11 @@
 id: 398582199
-type: way
+type: node
 latitude: 45.30586
 longitude: -122.94512
 postcode: "97132"
 city: Newberg
-street: "Portland Road"
-housenumber: 3300
-phone: "+1 503-537-1350"
-opening_hours: "07:00-23:00"
-website: "https://www.fredmeyer.com/stores/details/701/00220"
+street: Portland Road
+housenumber: "3300"
+phone: +1 503-537-1350
+opening_hours: 07:00-23:00
+website: https://www.fredmeyer.com/stores/details/701/00220

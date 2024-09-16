@@ -1,11 +1,11 @@
 id: 311486525
-type: way
+type: node
 latitude: 41.99743
 longitude: -117.71834
 postcode: "89421"
 city: McDermitt
-street: "US-95"
-housenumber: 195
+street: US-95
+housenumber: "195"
 phone: ""
 opening_hours: ""
 website: ""

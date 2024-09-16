@@ -1,11 +1,11 @@
 id: 174981829
-type: way
+type: node
 latitude: 45.51835
 longitude: -122.66105
 postcode: "97214"
 city: Portland
-street: "Southeast Grand Avenue"
-housenumber: 621
+street: Southeast Grand Avenue
+housenumber: "621"
 phone: ""
 opening_hours: ""
-website: "https://www.jacksons.com/"
+website: https://www.jacksons.com/

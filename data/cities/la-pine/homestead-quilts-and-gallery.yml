@@ -1,11 +1,11 @@
 id: 1153578477
-type: way
+type: node
 latitude: 43.66845
 longitude: -121.50586
 postcode: "97739"
 city: La Pine
-street: "Highway 97"
-housenumber: 51425
+street: Highway 97
+housenumber: "51425"
 phone: ""
 opening_hours: ""
 website: ""

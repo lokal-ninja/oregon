@@ -1,11 +1,11 @@
 id: 734691904
-type: way
+type: node
 latitude: 46.18982
 longitude: -123.81137
 postcode: "97103"
 city: Astoria
-street: "Marine Drive"
-housenumber: 
+street: Marine Drive
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 421229145
-type: way
+type: node
 latitude: 45.5046
 longitude: -122.64236
 postcode: "97202"
 city: Portland
-street: "Southeast Division Street"
-housenumber: 2308
+street: Southeast Division Street
+housenumber: "2308"
 phone: ""
 opening_hours: ""
-website: "https://www.oakbarbershop.com/"
+website: https://www.oakbarbershop.com/

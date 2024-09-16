@@ -1,11 +1,11 @@
 id: 482785522
-type: way
+type: node
 latitude: 45.50376
 longitude: -122.63924
 postcode: "97202"
 city: Portland
-street: "Southeast Clinton Street"
-housenumber: 2627
+street: Southeast Clinton Street
+housenumber: "2627"
 phone: ""
-opening_hours: "Th,Fr 11:00-17:00; Sa,Su 10:00-18:00"
+opening_hours: Th,Fr 11:00-17:00; Sa,Su 10:00-18:00
 website: ""

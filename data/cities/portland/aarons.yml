@@ -1,11 +1,11 @@
-id: 369212306
-type: way
-latitude: 45.50423
-longitude: -122.49683
-postcode: "97236"
+id: 369761800
+type: node
+latitude: 45.48901
+longitude: -122.57836
+postcode: "97266"
 city: Portland
-street: "Southeast Division Street"
-housenumber: 16140
-phone: "+1-503-760-1111"
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-17:00"
+street: Southeast 82nd Avenue
+housenumber: "4616"
+phone: ""
+opening_hours: ""
 website: ""

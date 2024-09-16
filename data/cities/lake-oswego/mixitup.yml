@@ -1,11 +1,11 @@
 id: 496756058
-type: way
+type: node
 latitude: 45.40666
 longitude: -122.67651
 postcode: "97034"
 city: Lake Oswego
-street: "McVey Avenue"
-housenumber: 1179
-phone: "+1-503-744-0359"
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-16:00"
-website: "https://www.mixituphome.com/"
+street: McVey Avenue
+housenumber: "1179"
+phone: +1-503-744-0359
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-16:00
+website: https://www.mixituphome.com/

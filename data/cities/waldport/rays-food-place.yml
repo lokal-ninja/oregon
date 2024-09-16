@@ -1,11 +1,11 @@
 id: 955555859
-type: way
+type: node
 latitude: 44.42928
 longitude: -124.06055
 postcode: "97394"
 city: Waldport
-street: "Northeast Broadway Street"
-housenumber: 580
+street: Northeast Broadway Street
+housenumber: "580"
 phone: ""
 opening_hours: ""
-website: "https://www.gorays.com/"
+website: https://www.gorays.com/

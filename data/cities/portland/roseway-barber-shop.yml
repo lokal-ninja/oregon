@@ -1,11 +1,11 @@
 id: 499400606
-type: way
+type: node
 latitude: 45.54843
 longitude: -122.58835
 postcode: "97213"
 city: Portland
-street: "Northeast Sandy Boulevard"
-housenumber: 7220
-phone: "+1-503-282-9894"
-opening_hours: "Tu-Fr 08:30-17:30; Sa 08:00-16:00"
+street: Northeast Sandy Boulevard
+housenumber: "7220"
+phone: +1-503-282-9894
+opening_hours: Tu-Fr 08:30-17:30; Sa 08:00-16:00
 website: ""

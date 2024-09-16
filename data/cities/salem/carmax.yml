@@ -1,11 +1,11 @@
 id: 1225833439
-type: way
+type: node
 latitude: 44.92396
 longitude: -122.98894
 postcode: "97317"
 city: Salem
-street: "Lancaster Drive Southeast"
-housenumber: 395
+street: Lancaster Drive Southeast
+housenumber: "395"
 phone: ""
 opening_hours: ""
-website: "https://www.carmax.com/stores/6005"
+website: https://www.carmax.com/stores/6005

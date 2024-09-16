@@ -1,11 +1,11 @@
 id: 1136796741
-type: way
+type: node
 latitude: 42.19275
 longitude: -120.3457
-postcode: "97630-1412"
+postcode: 97630-1412
 city: Lakeview
-street: "North F Street"
-housenumber: 318
-phone: "+1 541-947-2210"
-opening_hours: "Mo-Sa 07:30-18:00; Su 09:00-16:00"
-website: "https://www.acehardware.com/store-details/16846"
+street: North F Street
+housenumber: "318"
+phone: +1 541-947-2210
+opening_hours: Mo-Sa 07:30-18:00; Su 09:00-16:00
+website: https://www.acehardware.com/store-details/16846

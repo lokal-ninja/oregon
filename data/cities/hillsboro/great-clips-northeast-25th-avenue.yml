@@ -1,11 +1,11 @@
 id: 424584071
-type: way
+type: node
 latitude: 45.52963
 longitude: -122.95515
 postcode: "97124"
 city: Hillsboro
-street: "Northeast 25th Avenue"
-housenumber: 880
-phone: "+1-503-640-6554"
-opening_hours: "Mo-Fr 09:00-21:00, Sa 09:00-18:00, Su 08:00-17:00"
-website: "https://www.greatclips.com/"
+street: Northeast 25th Avenue
+housenumber: "880"
+phone: +1-503-640-6554
+opening_hours: Mo-Fr 09:00-21:00, Sa 09:00-18:00, Su 08:00-17:00
+website: https://www.greatclips.com/

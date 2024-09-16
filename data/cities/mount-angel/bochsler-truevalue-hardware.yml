@@ -2,10 +2,10 @@ id: 10761535697
 type: node
 latitude: 45.06808
 longitude: -122.79932
-postcode: "97362-9633"
+postcode: 97362-9633
 city: Mount Angel
-street: "East Charles Street"
-housenumber: 115
-phone: "+1 503-845-2425"
+street: East Charles Street
+housenumber: "115"
+phone: +1 503-845-2425
 opening_hours: ""
-website: "https://www.truevalue.com/bochslertruevalue"
+website: https://www.truevalue.com/bochslertruevalue

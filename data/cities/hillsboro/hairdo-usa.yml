@@ -1,11 +1,11 @@
 id: 544922850
-type: way
+type: node
 latitude: 45.51521
 longitude: -122.86868
 postcode: "97003"
 city: Hillsboro
-street: "Southwest 185th Avenue"
-housenumber: 725
-phone: "+1-503-649-0481"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-17:00"
-website: "http://www.hairdousa.com/"
+street: Southwest 185th Avenue
+housenumber: "725"
+phone: +1-503-649-0481
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-17:00
+website: http://www.hairdousa.com/

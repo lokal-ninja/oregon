@@ -1,11 +1,11 @@
 id: 71712799
-type: way
+type: node
 latitude: 45.49512
 longitude: -122.82779
 postcode: "97003"
 city: Beaverton
-street: "Southwest Millikan Way"
-housenumber: 14641
-phone: "+1 503-643-2748"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/or/beaverton/14641-sw-millikan-way-34135"
+street: Southwest Millikan Way
+housenumber: "14641"
+phone: +1 503-643-2748
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/or/beaverton/14641-sw-millikan-way-34135

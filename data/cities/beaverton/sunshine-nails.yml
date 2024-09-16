@@ -1,11 +1,11 @@
 id: 490598467
-type: way
+type: node
 latitude: 45.47503
 longitude: -122.82372
 postcode: "97005"
 city: Beaverton
-street: "Southwest Allen Boulevard"
-housenumber: 14324
+street: Southwest Allen Boulevard
+housenumber: "14324"
 phone: ""
 opening_hours: ""
 website: ""

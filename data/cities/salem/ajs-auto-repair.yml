@@ -4,8 +4,8 @@ latitude: 44.91957
 longitude: -123.02893
 postcode: "97302"
 city: Salem
-street: "13th Street Southeast"
-housenumber: 1858
-phone: "+1-503-581-7737"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://www.ajsautorepair.com/"
+street: 13th Street Southeast
+housenumber: "1858"
+phone: +1-503-581-7737
+opening_hours: Mo-Fr 07:30-17:30
+website: https://www.ajsautorepair.com/

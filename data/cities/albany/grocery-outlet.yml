@@ -1,11 +1,11 @@
 id: 361107925
-type: way
+type: node
 latitude: 44.62699
 longitude: -123.0805
 postcode: "97322"
 city: Albany
-street: "14th Avenue Southeast"
-housenumber: 1950
+street: 14th Avenue Southeast
+housenumber: "1950"
 phone: ""
 opening_hours: ""
-website: "https://groceryoutlet.com/"
+website: https://groceryoutlet.com/

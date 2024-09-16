@@ -1,11 +1,11 @@
 id: 509125372
-type: way
+type: node
 latitude: 44.04695
 longitude: -121.31544
 postcode: "97702"
 city: Bend
-street: "Southwest Powerhouse Drive"
-housenumber: 375
-phone: "+1-541-306-6855"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.savoryspiceshop.com/"
+street: Southwest Powerhouse Drive
+housenumber: "375"
+phone: +1-541-306-6855
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.savoryspiceshop.com/

@@ -1,11 +1,11 @@
 id: 368337941
-type: way
+type: node
 latitude: 45.33431
 longitude: -122.58
 postcode: "97045"
 city: Oregon City
-street: "Beavercreek Road"
-housenumber: 2309
+street: Beavercreek Road
+housenumber: "2309"
 phone: ""
 opening_hours: ""
 website: ""

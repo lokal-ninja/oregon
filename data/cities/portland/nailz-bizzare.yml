@@ -1,11 +1,11 @@
 id: 405801287
-type: way
+type: node
 latitude: 45.55446
 longitude: -122.83505
 postcode: "97229"
 city: Portland
-street: "Northwest Central Drive"
-housenumber: 15320
-phone: "+1-503-533-2154"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+street: Northwest Central Drive
+housenumber: "15320"
+phone: +1-503-533-2154
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

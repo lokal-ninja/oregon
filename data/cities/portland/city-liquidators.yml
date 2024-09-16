@@ -1,11 +1,11 @@
 id: 107541382
-type: way
+type: node
 latitude: 45.51715
 longitude: -122.66311
 postcode: "97214"
 city: Portland
-street: "Southeast 3rd Avenue"
-housenumber: 823
-phone: "+1-503-238-4477"
-opening_hours: "09:00-18:00"
-website: "https://www.cityliquidators.com/"
+street: Southeast 3rd Avenue
+housenumber: "823"
+phone: +1-503-238-4477
+opening_hours: 09:00-18:00
+website: https://www.cityliquidators.com/

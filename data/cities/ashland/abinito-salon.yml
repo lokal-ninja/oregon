@@ -1,11 +1,11 @@
 id: 956221140
-type: way
+type: node
 latitude: 42.19514
 longitude: -122.70955
 postcode: ""
 city: Ashland
-street: "North 3rd Street"
-housenumber: 50
+street: North 3rd Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 411574160
-type: way
+type: node
 latitude: 45.55912
 longitude: -122.63522
 postcode: "97211"
 city: Portland
-street: "Northeast Alberta Street"
-housenumber: 2927
+street: Northeast Alberta Street
+housenumber: "2927"
 phone: ""
 opening_hours: ""
 website: ""

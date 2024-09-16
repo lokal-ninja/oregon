@@ -1,11 +1,11 @@
 id: 336054419
-type: way
+type: node
 latitude: 45.43124
 longitude: -122.76665
 postcode: "97223"
 city: Tigard
-street: "Southwest Main Street"
-housenumber: 12080
-phone: "+1-503-620-9322"
-opening_hours: "08:00-20:00"
-website: "https://www.riteaid.com/locations/or/tigard/12080-sw-main-street.html"
+street: Southwest Main Street
+housenumber: "12080"
+phone: +1-503-620-9322
+opening_hours: 08:00-20:00
+website: https://www.riteaid.com/locations/or/tigard/12080-sw-main-street.html

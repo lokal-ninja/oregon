@@ -1,11 +1,11 @@
 id: 683806146
-type: way
+type: node
 latitude: 43.35625
 longitude: -124.2059
 postcode: "97420"
 city: Coos Bay
-street: "Highway 101"
-housenumber: 63033
-phone: "+1 541-269-0884"
+street: Highway 101
+housenumber: "63033"
+phone: +1 541-269-0884
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/or/coos-bay/63033-hwy.-101-18257"
+website: https://www.7-eleven.com/locations/or/coos-bay/63033-hwy.-101-18257

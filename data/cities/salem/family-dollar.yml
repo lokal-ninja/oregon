@@ -4,8 +4,8 @@ latitude: 44.9444
 longitude: -123.03739
 postcode: "97301"
 city: Salem
-street: "Commercial Street Northeast"
-housenumber: 450
+street: Commercial Street Northeast
+housenumber: "450"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.familydollar.com/locations/or/salem/33724/"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.familydollar.com/locations/or/salem/33724/

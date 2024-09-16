@@ -1,11 +1,11 @@
 id: 607605313
-type: way
+type: node
 latitude: 45.42975
 longitude: -122.53929
 postcode: "97015"
 city: Clackamas
-street: "Southeast Sunnyside Road"
-housenumber: 11995
-phone: "+1-503-653-1526"
-opening_hours: "08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-11995+se+sunnyside+rd-happy+valley-or-97015/id=15927"
+street: Southeast Sunnyside Road
+housenumber: "11995"
+phone: +1-503-653-1526
+opening_hours: 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-11995+se+sunnyside+rd-happy+valley-or-97015/id=15927

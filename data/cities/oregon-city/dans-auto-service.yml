@@ -1,11 +1,11 @@
 id: 368337736
-type: way
+type: node
 latitude: 45.32974
 longitude: -122.58445
 postcode: "97045"
 city: Oregon City
-street: "Molalla Avenue"
-housenumber: 19138
+street: Molalla Avenue
+housenumber: "19138"
 phone: ""
 opening_hours: ""
 website: ""

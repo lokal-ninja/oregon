@@ -1,11 +1,11 @@
 id: 500820396
-type: way
+type: node
 latitude: 45.33456
 longitude: -122.59059
 postcode: "97045"
 city: Oregon City
-street: "Molalla Avenue"
-housenumber: 1416
-phone: "+1-503-342-6630"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00"
-website: "https://thebarbersonline.com/"
+street: Molalla Avenue
+housenumber: "1416"
+phone: +1-503-342-6630
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00
+website: https://thebarbersonline.com/

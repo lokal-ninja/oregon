@@ -1,11 +1,11 @@
 id: 1238433549
-type: way
+type: node
 latitude: 43.85535
 longitude: -123.04117
 postcode: "97426"
 city: Creswell
-street: "Lynx Hollow Road"
-housenumber: 33003
-phone: "+1 541 942 2832"
+street: Lynx Hollow Road
+housenumber: "33003"
+phone: +1 541 942 2832
 opening_hours: ""
 website: ""

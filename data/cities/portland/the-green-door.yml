@@ -1,11 +1,11 @@
 id: 223595588
-type: way
+type: node
 latitude: 45.51571
 longitude: -122.65721
 postcode: "97214"
 city: Portland
-street: "Southeast 9th Avenue"
-housenumber: 1001
+street: Southeast 9th Avenue
+housenumber: "1001"
 phone: ""
-opening_hours: "11:00-19:00"
+opening_hours: 11:00-19:00
 website: ""

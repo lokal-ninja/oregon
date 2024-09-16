@@ -1,11 +1,11 @@
 id: 43925565
-type: way
+type: node
 latitude: 45.54142
 longitude: -122.41956
 postcode: "97060"
 city: Wood Village
-street: "Northeast Sandy Boulevard"
-housenumber: 23500
+street: Northeast Sandy Boulevard
+housenumber: "23500"
 phone: ""
 opening_hours: ""
-website: "https://www.walmart.com/store/2927-wood-village-or"
+website: https://www.walmart.com/store/2927-wood-village-or

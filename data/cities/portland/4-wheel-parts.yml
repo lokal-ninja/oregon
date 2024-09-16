@@ -1,11 +1,11 @@
 id: 369156207
-type: way
+type: node
 latitude: 45.50303
 longitude: -122.57807
 postcode: "97266"
 city: Portland
-street: "Southeast 82nd Avenue"
-housenumber: 2700
+street: Southeast 82nd Avenue
+housenumber: "2700"
 phone: ""
 opening_hours: ""
-website: "https://www.4wheelparts.com/"
+website: https://www.4wheelparts.com/

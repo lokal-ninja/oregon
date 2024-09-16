@@ -1,11 +1,11 @@
 id: 112549554
-type: way
+type: node
 latitude: 45.42909
 longitude: -122.76115
 postcode: "97223"
 city: Tigard
-street: "Southwest Hunziker Street"
-housenumber: 8185
-phone: "+1-503-620-6142"
-opening_hours: "Mo-Fr 06:00-17:00"
-website: "https://www.knezinc.com/"
+street: Southwest Hunziker Street
+housenumber: "8185"
+phone: +1-503-620-6142
+opening_hours: Mo-Fr 06:00-17:00
+website: https://www.knezinc.com/

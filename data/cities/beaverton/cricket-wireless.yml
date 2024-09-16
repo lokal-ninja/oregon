@@ -1,11 +1,11 @@
 id: 412602788
-type: way
+type: node
 latitude: 45.45807
 longitude: -122.78229
 postcode: "97008"
 city: Beaverton
-street: "Southwest Hall Boulevard"
-housenumber: 8622
+street: Southwest Hall Boulevard
+housenumber: "8622"
 phone: ""
 opening_hours: ""
-website: "https://www.cricketwireless.com/"
+website: https://www.cricketwireless.com/

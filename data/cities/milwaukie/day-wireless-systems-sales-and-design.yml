@@ -1,11 +1,11 @@
 id: 351228334
-type: way
+type: node
 latitude: 45.43503
 longitude: -122.61575
 postcode: "97222"
 city: Milwaukie
-street: "Southeast International Way"
-housenumber: 4620
+street: Southeast International Way
+housenumber: "4620"
 phone: ""
 opening_hours: ""
-website: "http://www.daywireless.com/"
+website: http://www.daywireless.com/

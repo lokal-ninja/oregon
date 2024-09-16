@@ -1,11 +1,11 @@
 id: 317022810
-type: way
+type: node
 latitude: 45.47661
 longitude: -122.67222
 postcode: "97239"
 city: Portland
-street: "South Macadam Avenue"
-housenumber: 6565
+street: South Macadam Avenue
+housenumber: "6565"
 phone: ""
 opening_hours: ""
-website: "https://www.sainthonorebakery.com/"
+website: https://www.sainthonorebakery.com/

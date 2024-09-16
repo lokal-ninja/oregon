@@ -1,11 +1,11 @@
 id: 504105461
-type: way
+type: node
 latitude: 44.04799
 longitude: -121.33033
 postcode: "97702"
 city: Bend
-street: "Southwest Simpson Avenue"
-housenumber: 1288
-phone: "+1-541-382-0559"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-18:00"
+street: Southwest Simpson Avenue
+housenumber: "1288"
+phone: +1-541-382-0559
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-18:00
 website: ""

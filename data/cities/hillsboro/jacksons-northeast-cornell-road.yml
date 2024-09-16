@@ -1,11 +1,11 @@
 id: 328702587
-type: way
+type: node
 latitude: 45.53473
 longitude: -122.9083
 postcode: "97124"
 city: Hillsboro
-street: "Northeast Cornell Road"
-housenumber: 6950
-phone: "+1-503-693-7567"
+street: Northeast Cornell Road
+housenumber: "6950"
+phone: +1-503-693-7567
 opening_hours: ""
-website: "https://www.jacksons.com/"
+website: https://www.jacksons.com/

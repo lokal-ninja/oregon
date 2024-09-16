@@ -1,11 +1,11 @@
 id: 321711818
-type: way
+type: node
 latitude: 45.52125
 longitude: -122.99791
 postcode: "97123"
 city: Hillsboro
-street: "Southwest Baseline Street"
-housenumber: 767
+street: Southwest Baseline Street
+housenumber: "767"
 phone: ""
 opening_hours: ""
 website: ""

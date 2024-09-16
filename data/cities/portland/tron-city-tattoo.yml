@@ -1,11 +1,11 @@
 id: 915407343
-type: way
+type: node
 latitude: 45.49843
 longitude: -122.7665
 postcode: "97225"
 city: Portland
-street: "Southwest Canyon Road"
-housenumber: 8665
-phone: "+1-503-292-4500"
-opening_hours: "Tu-Sa 12:00-20:00"
-website: "https://troncitytattoo.com"
+street: Southwest Canyon Road
+housenumber: "8665"
+phone: +1-503-292-4500
+opening_hours: Tu-Sa 12:00-20:00
+website: https://troncitytattoo.com

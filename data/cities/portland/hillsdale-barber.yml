@@ -1,11 +1,11 @@
 id: 289684235
-type: way
+type: node
 latitude: 45.47895
 longitude: -122.69454
 postcode: "97239"
 city: Portland
-street: "Southwest Capitol Highway"
-housenumber: 6323
-phone: "+1-503-245-6011"
-opening_hours: "Mo,Tu 11:00-19:00; We-Fr 10:00-18:00"
+street: Southwest Capitol Highway
+housenumber: "6323"
+phone: +1-503-245-6011
+opening_hours: Mo,Tu 11:00-19:00; We-Fr 10:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.41505
 longitude: -122.66332
 postcode: "97034"
 city: Lake Oswego
-street: "South State Street"
-housenumber: 101
-phone: "+1-503-635-0029"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00"
-website: "https://www.greatclips.com/"
+street: South State Street
+housenumber: "101"
+phone: +1-503-635-0029
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00
+website: https://www.greatclips.com/

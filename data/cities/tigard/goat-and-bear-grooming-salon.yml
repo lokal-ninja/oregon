@@ -1,11 +1,11 @@
 id: 501218525
-type: way
+type: node
 latitude: 45.44638
 longitude: -122.78994
 postcode: "97223"
 city: Tigard
-street: "Southwest Nimbus Avenue"
-housenumber: 10115
+street: Southwest Nimbus Avenue
+housenumber: "10115"
 phone: ""
 opening_hours: ""
 website: ""

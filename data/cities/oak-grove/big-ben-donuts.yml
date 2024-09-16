@@ -1,11 +1,11 @@
 id: 655503736
-type: way
+type: node
 latitude: 45.42367
 longitude: -122.63431
 postcode: "97222"
 city: Oak Grove
-street: "Southeast McLoughlin Boulevard"
-housenumber: 13755
-phone: "+1-503-344-6627"
+street: Southeast McLoughlin Boulevard
+housenumber: "13755"
+phone: +1-503-344-6627
 opening_hours: ""
 website: ""

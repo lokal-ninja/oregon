@@ -1,11 +1,11 @@
 id: 255497737
-type: way
+type: node
 latitude: 45.53546
 longitude: -122.63008
 postcode: "97232"
 city: Portland
-street: "Northeast Broadway"
-housenumber: 3327
+street: Northeast Broadway
+housenumber: "3327"
 phone: ""
 opening_hours: ""
 website: ""

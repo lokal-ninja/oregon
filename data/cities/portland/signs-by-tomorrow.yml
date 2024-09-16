@@ -1,11 +1,11 @@
 id: 337246737
-type: way
+type: node
 latitude: 45.45885
 longitude: -122.70849
 postcode: "97219"
 city: Portland
-street: "Southwest Barbur Boulevard"
-housenumber: 9220
-phone: "+1-503-244-0980"
-opening_hours: "Mo-Fr 07:30-16:00"
-website: "https://www.signsbytomorrow.com/"
+street: Southwest Barbur Boulevard
+housenumber: "9220"
+phone: +1-503-244-0980
+opening_hours: Mo-Fr 07:30-16:00
+website: https://www.signsbytomorrow.com/

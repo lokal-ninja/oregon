@@ -4,8 +4,8 @@ latitude: 45.52396
 longitude: -122.67321
 postcode: "97209"
 city: Portland
-street: "Northwest 3rd Avenue"
-housenumber: 100
+street: Northwest 3rd Avenue
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
 website: ""

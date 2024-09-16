@@ -1,11 +1,11 @@
 id: 481252387
-type: way
+type: node
 latitude: 45.40186
 longitude: -122.79649
 postcode: "97224"
 city: Tigard
-street: "Southwest Pacific Highway"
-housenumber: 16200
-phone: "+1-503-620-7230"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
-website: "http://www.marshallsonline.com/"
+street: Southwest Pacific Highway
+housenumber: "16200"
+phone: +1-503-620-7230
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
+website: http://www.marshallsonline.com/

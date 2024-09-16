@@ -1,11 +1,11 @@
 id: 369031434
-type: way
+type: node
 latitude: 45.43915
 longitude: -122.75506
 postcode: "97223"
 city: Tigard
-street: "Southwest Pacific Highway"
-housenumber: 11655
-phone: "+1-503-352-5531"
-opening_hours: "Mo-Tu 08:00-20:00, We 08:00-21:00, Th-Sa 08:00-20:00"
-website: "https://www.hongphatmarket.com/"
+street: Southwest Pacific Highway
+housenumber: "11655"
+phone: +1-503-352-5531
+opening_hours: Mo-Tu 08:00-20:00, We 08:00-21:00, Th-Sa 08:00-20:00
+website: https://www.hongphatmarket.com/

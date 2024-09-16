@@ -1,11 +1,11 @@
 id: 298830730
-type: way
+type: node
 latitude: 45.46239
 longitude: -122.70378
 postcode: "97219"
 city: Portland
-street: "Southwest Barbur Boulevard"
-housenumber: 8655
-phone: "+1-503-245-6763"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su 09:00-18:00"
-website: "http://www.portlandjiffylube.com/"
+street: Southwest Barbur Boulevard
+housenumber: "8655"
+phone: +1-503-245-6763
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su 09:00-18:00
+website: http://www.portlandjiffylube.com/

@@ -1,11 +1,11 @@
 id: 368219038
-type: way
+type: node
 latitude: 45.56251
 longitude: -122.58557
 postcode: "97218"
 city: Portland
-street: "Northeast Lombard Street"
-housenumber: 7450
+street: Northeast Lombard Street
+housenumber: "7450"
 phone: ""
 opening_hours: ""
-website: "https://gartnersmeats.com/"
+website: https://gartnersmeats.com/

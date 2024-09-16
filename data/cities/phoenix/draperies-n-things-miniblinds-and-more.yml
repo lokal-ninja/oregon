@@ -4,8 +4,8 @@ latitude: 42.28199
 longitude: -122.81712
 postcode: "97535"
 city: Phoenix
-street: "North Phoenix Road"
-housenumber: 205
-phone: "+1-541-535-2790"
-opening_hours: "Mo-Fr 09:30-17:00"
-website: "https://www.draperiesnthings.net/"
+street: North Phoenix Road
+housenumber: "205"
+phone: +1-541-535-2790
+opening_hours: Mo-Fr 09:30-17:00
+website: https://www.draperiesnthings.net/

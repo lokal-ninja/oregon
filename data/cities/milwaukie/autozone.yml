@@ -1,11 +1,11 @@
 id: 314997757
-type: way
+type: node
 latitude: 45.39631
 longitude: -122.61648
 postcode: "97267"
 city: Milwaukie
-street: "Southeast McLoughlin Boulevard"
-housenumber: 17480
+street: Southeast McLoughlin Boulevard
+housenumber: "17480"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/or/oak-grove/17480-se-mcloughlin.html"
+website: https://www.autozone.com/locations/or/oak-grove/17480-se-mcloughlin.html

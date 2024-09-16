@@ -1,11 +1,11 @@
 id: 506113675
-type: way
+type: node
 latitude: 44.0278
 longitude: -121.31241
 postcode: "97702"
 city: Bend
-street: "South Highway 97"
-housenumber: 61334
-phone: "+1-541-382-7364"
-opening_hours: "Mo-Sa 09:30-20:00; Su 11:00-18:00"
-website: "https://www.christopherandbanks.com/"
+street: South Highway 97
+housenumber: "61334"
+phone: +1-541-382-7364
+opening_hours: Mo-Sa 09:30-20:00; Su 11:00-18:00
+website: https://www.christopherandbanks.com/

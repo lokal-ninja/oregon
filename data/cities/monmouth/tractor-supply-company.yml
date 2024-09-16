@@ -1,11 +1,11 @@
 id: 1016687373
-type: way
+type: node
 latitude: 44.8501
 longitude: -123.21702
 postcode: "97361"
 city: Monmouth
-street: "Monmouth Independence Highway"
-housenumber: 1553
-phone: "+1 503-751-1740"
-opening_hours: "Mo-Sa 08:00-20:00, Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_Monmouth-OR-97361_2478"
+street: Monmouth Independence Highway
+housenumber: "1553"
+phone: +1 503-751-1740
+opening_hours: Mo-Sa 08:00-20:00, Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_Monmouth-OR-97361_2478

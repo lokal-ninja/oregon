@@ -1,11 +1,11 @@
 id: 792357356
-type: way
+type: node
 latitude: 44.07117
 longitude: -123.03256
 postcode: "97477"
 city: Springfield
-street: "Harlow Road"
-housenumber: 468
+street: Harlow Road
+housenumber: "468"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/or/springfield/oil-change-090039.html"
+website: https://store.vioc.com/or/springfield/oil-change-090039.html

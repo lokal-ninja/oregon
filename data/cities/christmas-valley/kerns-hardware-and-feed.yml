@@ -1,11 +1,11 @@
 id: 1193466615
-type: way
+type: node
 latitude: 43.23738
 longitude: -120.68399
 postcode: "97641"
 city: Christmas Valley
-street: "Christmas Valley Highway"
-housenumber: 87226
-phone: "+1 541 576 2814"
+street: Christmas Valley Highway
+housenumber: "87226"
+phone: +1 541 576 2814
 opening_hours: ""
-website: "https://www.jwkernsinc.com/"
+website: https://www.jwkernsinc.com/

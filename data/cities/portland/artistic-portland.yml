@@ -1,11 +1,11 @@
 id: 351551947
-type: way
+type: node
 latitude: 45.51681
 longitude: -122.67671
 postcode: "97204"
 city: Portland
-street: "Southwest Taylor Street"
-housenumber: 318
-phone: "+1-503-206-4631"
+street: Southwest Taylor Street
+housenumber: "318"
+phone: +1-503-206-4631
 opening_hours: ""
-website: "http://www.artisticportland.com/"
+website: http://www.artisticportland.com/

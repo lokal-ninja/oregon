@@ -4,8 +4,8 @@ latitude: 44.63723
 longitude: -123.10812
 postcode: "97321"
 city: Albany
-street: "1st Avenue West"
-housenumber: 317
-phone: "+1 541 971 8039"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su off"
-website: "https://onyxpnw.com/"
+street: 1st Avenue West
+housenumber: "317"
+phone: +1 541 971 8039
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su off
+website: https://onyxpnw.com/

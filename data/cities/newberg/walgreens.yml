@@ -1,11 +1,11 @@
 id: 448900738
-type: way
+type: node
 latitude: 45.30115
 longitude: -122.96166
 postcode: "97132"
 city: Newberg
-street: "Portland Road"
-housenumber: 1850
-phone: "+1-503-538-9360"
-opening_hours: "08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-1840+PORTLAND+RD-Newberg-OR-97132/id=6664"
+street: Portland Road
+housenumber: "1850"
+phone: +1-503-538-9360
+opening_hours: 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-1840+PORTLAND+RD-Newberg-OR-97132/id=6664

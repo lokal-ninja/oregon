@@ -1,11 +1,11 @@
 id: 1167288907
-type: way
+type: node
 latitude: 43.23747
 longitude: -120.68417
 postcode: "97641"
 city: Christmas Valley
-street: "Christmas Valley Highway"
-housenumber: 87210
-phone: "+1 541 576 3094;+1 541 576 2601"
+street: Christmas Valley Highway
+housenumber: "87210"
+phone: +1 541 576 3094;+1 541 576 2601
 opening_hours: ""
-website: "https://www.helenaagri.com/locations/?zip=97641"
+website: https://www.helenaagri.com/locations/?zip=97641

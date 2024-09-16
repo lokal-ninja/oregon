@@ -1,11 +1,11 @@
 id: 839433825
-type: way
+type: node
 latitude: 45.49421
 longitude: -122.87492
 postcode: "97007"
 city: Aloha
-street: "Southwest Shaw Street"
-housenumber: 19350
+street: Southwest Shaw Street
+housenumber: "19350"
 phone: ""
 opening_hours: ""
 website: ""

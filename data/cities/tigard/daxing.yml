@@ -1,11 +1,11 @@
 id: 354101224
-type: way
+type: node
 latitude: 45.43531
 longitude: -122.76611
 postcode: "97223"
 city: Tigard
-street: "Southwest Pacific Highway"
-housenumber: 11945
-phone: "+1-503-968-6727"
+street: Southwest Pacific Highway
+housenumber: "11945"
+phone: +1-503-968-6727
 opening_hours: ""
-website: "http://www.daxingseafood.com/"
+website: http://www.daxingseafood.com/

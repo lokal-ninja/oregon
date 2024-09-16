@@ -4,8 +4,8 @@ latitude: 42.19608
 longitude: -122.71306
 postcode: "97520"
 city: Ashland
-street: "East Main Street"
-housenumber: 176
-phone: "541-482-2802"
+street: East Main Street
+housenumber: "176"
+phone: 541-482-2802
 opening_hours: ""
-website: "https://christianscienceashland.org/reading-room/"
+website: https://christianscienceashland.org/reading-room/

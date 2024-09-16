@@ -1,11 +1,11 @@
 id: 410672768
-type: way
+type: node
 latitude: 45.55902
 longitude: -122.64896
 postcode: "97211"
 city: Portland
-street: "Northeast Alberta Street"
-housenumber: 1534
-phone: "+1-503-477-9991"
+street: Northeast Alberta Street
+housenumber: "1534"
+phone: +1-503-477-9991
 opening_hours: ""
-website: "https://thewaxskinspa.com/"
+website: https://thewaxskinspa.com/

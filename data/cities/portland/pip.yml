@@ -1,11 +1,11 @@
 id: 333919889
-type: way
+type: node
 latitude: 45.51174
 longitude: -122.65926
 postcode: "97214"
 city: Portland
-street: "Southeast Clay Street"
-housenumber: 633
+street: Southeast Clay Street
+housenumber: "633"
 phone: ""
 opening_hours: ""
-website: "https://www.pippdx.com/"
+website: https://www.pippdx.com/

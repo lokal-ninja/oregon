@@ -1,11 +1,11 @@
 id: 49475255
-type: way
+type: node
 latitude: 45.50481
 longitude: -122.43905
 postcode: "97030"
 city: Gresham
-street: "Northwest Division Street"
-housenumber: 697
-phone: "+1-503-618-1224"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-17:00"
+street: Northwest Division Street
+housenumber: "697"
+phone: +1-503-618-1224
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-17:00
 website: ""

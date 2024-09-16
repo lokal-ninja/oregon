@@ -1,11 +1,11 @@
 id: 504341018
-type: way
+type: node
 latitude: 45.45694
 longitude: -122.7836
 postcode: "97008"
 city: Beaverton
-street: "Southwest Hall Boulevard"
-housenumber: 8705
+street: Southwest Hall Boulevard
+housenumber: "8705"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://nectar.store/sw-hall-blvd"
+opening_hours: Mo-Su 07:00-22:00
+website: https://nectar.store/sw-hall-blvd

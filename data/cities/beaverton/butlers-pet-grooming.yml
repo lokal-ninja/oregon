@@ -1,11 +1,11 @@
 id: 490783982
-type: way
+type: node
 latitude: 45.47513
 longitude: -122.82723
 postcode: "97008"
 city: Beaverton
-street: "Southwest Murray Boulevard"
-housenumber: 6143
-phone: "+1-503-641-4924"
+street: Southwest Murray Boulevard
+housenumber: "6143"
+phone: +1-503-641-4924
 opening_hours: ""
-website: "http://www.butlerspetgrooming.com/"
+website: http://www.butlerspetgrooming.com/

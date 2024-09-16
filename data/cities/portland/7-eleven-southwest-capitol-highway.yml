@@ -1,11 +1,11 @@
 id: 262584186
-type: way
+type: node
 latitude: 45.44507
 longitude: -122.72753
 postcode: "97219"
 city: Portland
-street: "Southwest Capitol Highway"
-housenumber: 11111
-phone: "+1 503-245-2593"
+street: Southwest Capitol Highway
+housenumber: "11111"
+phone: +1 503-245-2593
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/or/portland/11111-sw-capitol-hwy-24242"
+website: https://www.7-eleven.com/locations/or/portland/11111-sw-capitol-hwy-24242

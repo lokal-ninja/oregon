@@ -1,11 +1,11 @@
 id: 330473976
-type: way
+type: node
 latitude: 45.53539
 longitude: -122.8703
 postcode: "97124"
 city: Hillsboro
-street: "Northwest 185th Avenue"
-housenumber: 2105
+street: Northwest 185th Avenue
+housenumber: "2105"
 phone: ""
 opening_hours: ""
-website: "http://hillsboro.greatharvestbread.com/"
+website: http://hillsboro.greatharvestbread.com/

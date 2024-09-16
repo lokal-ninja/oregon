@@ -1,11 +1,11 @@
 id: 178251765
-type: way
+type: node
 latitude: 45.491
 longitude: -122.79493
 postcode: "97005"
 city: Beaverton
-street: "Southwest 114th Avenue"
-housenumber: 3975
+street: Southwest 114th Avenue
+housenumber: "3975"
 phone: ""
 opening_hours: ""
 website: ""

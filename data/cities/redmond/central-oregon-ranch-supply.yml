@@ -1,11 +1,11 @@
 id: 648838598
-type: way
+type: node
 latitude: 44.25974
 longitude: -121.17849
 postcode: "97756"
 city: Redmond
-street: "The Dalles-California Highway"
-housenumber: 1726
-phone: "+1 541 548 5195;+1 800 235 1623"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-17:00"
+street: The Dalles-California Highway
+housenumber: "1726"
+phone: +1 541 548 5195;+1 800 235 1623
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-17:00
 website: ""

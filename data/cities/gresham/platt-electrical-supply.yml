@@ -1,11 +1,11 @@
 id: 40614647
-type: way
+type: node
 latitude: 45.50407
 longitude: -122.4011
 postcode: "97030"
 city: Gresham
-street: "Northeast Kane Drive"
-housenumber: 909
+street: Northeast Kane Drive
+housenumber: "909"
 phone: ""
 opening_hours: ""
 website: ""

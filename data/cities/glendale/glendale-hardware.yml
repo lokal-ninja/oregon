@@ -1,11 +1,11 @@
 id: 922409161
-type: way
+type: node
 latitude: 42.73747
 longitude: -123.42788
 postcode: "97442"
 city: Glendale
-street: "Pacific Avenue"
-housenumber: 432
+street: Pacific Avenue
+housenumber: "432"
 phone: ""
 opening_hours: ""
 website: ""

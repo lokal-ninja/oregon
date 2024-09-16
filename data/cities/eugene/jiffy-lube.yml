@@ -1,11 +1,11 @@
 id: 363851097
-type: way
+type: node
 latitude: 44.06652
 longitude: -123.07381
 postcode: "97401"
 city: Eugene
-street: "Coburg Road"
-housenumber: 340
+street: Coburg Road
+housenumber: "340"
 phone: ""
 opening_hours: ""
 website: ""

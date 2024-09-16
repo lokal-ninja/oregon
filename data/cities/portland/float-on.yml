@@ -1,11 +1,11 @@
 id: 244906172
-type: way
+type: node
 latitude: 45.51194
 longitude: -122.61552
 postcode: "97215"
 city: Portland
-street: "Southeast Hawthorne Boulevard"
-housenumber: 4530
-phone: "+1-503-384-2620"
-opening_hours: "Mo 07:00-15:00; Tu-Su 00:00-24:00"
-website: "https://floathq.com/"
+street: Southeast Hawthorne Boulevard
+housenumber: "4530"
+phone: +1-503-384-2620
+opening_hours: Mo 07:00-15:00; Tu-Su 00:00-24:00
+website: https://floathq.com/

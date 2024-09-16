@@ -1,11 +1,11 @@
 id: 407847948
-type: way
+type: node
 latitude: 45.512
 longitude: -122.65644
 postcode: "97214"
 city: Portland
-street: "Southeast Hawthorne Boulevard"
-housenumber: 900
-phone: "+1-503-334-1560"
-opening_hours: "Mo-Fr 11:00-18:00, Sa-Su 11:00-17:00"
-website: "https://clevercycles.com/"
+street: Southeast Hawthorne Boulevard
+housenumber: "900"
+phone: +1-503-334-1560
+opening_hours: Mo-Fr 11:00-18:00, Sa-Su 11:00-17:00
+website: https://clevercycles.com/

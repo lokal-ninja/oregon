@@ -1,11 +1,11 @@
 id: 910330358
-type: way
+type: node
 latitude: 44.028
 longitude: -123.10603
 postcode: "97405"
 city: Eugene
-street: "West 28th Avenue"
-housenumber: 835
-phone: "+1 541 344 1123"
+street: West 28th Avenue
+housenumber: "835"
+phone: +1 541 344 1123
 opening_hours: ""
 website: ""

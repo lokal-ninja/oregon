@@ -1,11 +1,11 @@
 id: 540846328
-type: way
+type: node
 latitude: 45.50332
 longitude: -122.64513
 postcode: "97202"
 city: Portland
-street: "Southeast Clinton Street"
-housenumber: 2024
-phone: "+1-503-238-6262"
-opening_hours: "Mo-Fr 09:00-19:00; Sa,Su 09:00-18:00"
-website: "https://zenana-spa.com/"
+street: Southeast Clinton Street
+housenumber: "2024"
+phone: +1-503-238-6262
+opening_hours: Mo-Fr 09:00-19:00; Sa,Su 09:00-18:00
+website: https://zenana-spa.com/

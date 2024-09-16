@@ -1,11 +1,11 @@
 id: 1166288050
-type: way
+type: node
 latitude: 44.2732
 longitude: -121.17418
 postcode: "97756"
 city: Redmond
-street: "Southwest 6th Street"
-housenumber: 
+street: Southwest 6th Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:00"
+opening_hours: Mo-Sa 09:30-18:00
 website: ""

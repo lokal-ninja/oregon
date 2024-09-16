@@ -1,11 +1,11 @@
 id: 474553212
-type: way
+type: node
 latitude: 45.50005
 longitude: -122.43402
 postcode: "97030"
 city: Gresham
-street: "Northwest Eastman Parkway"
-housenumber: 364
-phone: "+1-503-907-3008"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-18:00"
-website: "http://www.nwcreationsandcollectibles.com/"
+street: Northwest Eastman Parkway
+housenumber: "364"
+phone: +1-503-907-3008
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-18:00
+website: http://www.nwcreationsandcollectibles.com/

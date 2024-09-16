@@ -1,11 +1,11 @@
 id: 405801293
-type: way
+type: node
 latitude: 45.55427
 longitude: -122.83534
 postcode: "97229"
 city: Portland
-street: "Northwest Bethany Boulevard"
-housenumber: 4768
+street: Northwest Bethany Boulevard
+housenumber: "4768"
 phone: ""
 opening_hours: ""
-website: "https://www.weitzelinteriors.com/"
+website: https://www.weitzelinteriors.com/

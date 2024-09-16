@@ -1,11 +1,11 @@
 id: 515094741
-type: way
+type: node
 latitude: 44.05165
 longitude: -121.33235
 postcode: "97703"
 city: Bend
-street: "Northwest Albany Avenue"
-housenumber: 1400
-phone: "+1-541-312-3810"
-opening_hours: "Su 07:00-21:00; Mo-Sa 06:00-22:00"
+street: Northwest Albany Avenue
+housenumber: "1400"
+phone: +1-541-312-3810
+opening_hours: Su 07:00-21:00; Mo-Sa 06:00-22:00
 website: ""

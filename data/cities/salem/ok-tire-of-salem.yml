@@ -4,8 +4,8 @@ latitude: 44.91971
 longitude: -123.03031
 postcode: "97302"
 city: Salem
-street: "12th Street Southeast"
-housenumber: 1820
-phone: "+1-503-581-2203"
-opening_hours: "Mo-Sa 08:00-17:30"
-website: "https://oktiresalem.com/"
+street: 12th Street Southeast
+housenumber: "1820"
+phone: +1-503-581-2203
+opening_hours: Mo-Sa 08:00-17:30
+website: https://oktiresalem.com/

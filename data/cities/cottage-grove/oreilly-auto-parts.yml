@@ -1,11 +1,11 @@
 id: 678277798
-type: way
+type: node
 latitude: 43.79766
 longitude: -123.04855
 postcode: "97424"
 city: Cottage Grove
-street: "North Gateway Boulevard"
-housenumber: 1800
-phone: "+1 541 623 0200"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/or/cottagegrove/autoparts-4800.html"
+street: North Gateway Boulevard
+housenumber: "1800"
+phone: +1 541 623 0200
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://locations.oreillyauto.com/or/cottagegrove/autoparts-4800.html

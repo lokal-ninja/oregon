@@ -1,11 +1,11 @@
 id: 474553202
-type: way
+type: node
 latitude: 45.50112
 longitude: -122.43396
 postcode: "97030"
 city: Gresham
-street: "Northwest Eastman Parkway"
-housenumber: 510
+street: Northwest Eastman Parkway
+housenumber: "510"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00
 website: ""

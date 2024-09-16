@@ -1,11 +1,11 @@
 id: 350944256
-type: way
+type: node
 latitude: 45.3694
 longitude: -122.59917
 postcode: "97045"
 city: Oregon City
-street: "McLoughlin Boulevard"
-housenumber: 1900
-phone: "+1-503-657-5780"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-18:00"
-website: "https://www.coastalfarm.com/"
+street: McLoughlin Boulevard
+housenumber: "1900"
+phone: +1-503-657-5780
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-18:00
+website: https://www.coastalfarm.com/

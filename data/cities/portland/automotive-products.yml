@@ -1,11 +1,11 @@
 id: 355389223
-type: way
+type: node
 latitude: 45.51071
 longitude: -122.66064
 postcode: "97214"
 city: Portland
-street: "Southeast Grand Avenue"
-housenumber: 1700
+street: Southeast Grand Avenue
+housenumber: "1700"
 phone: ""
 opening_hours: ""
-website: "http://www.automotiveproductsinc.com/"
+website: http://www.automotiveproductsinc.com/

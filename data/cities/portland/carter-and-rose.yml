@@ -1,11 +1,11 @@
 id: 426968513
-type: way
+type: node
 latitude: 45.50494
 longitude: -122.62637
 postcode: "97202"
 city: Portland
-street: "Southeast Division Street"
-housenumber: 3601
+street: Southeast Division Street
+housenumber: "3601"
 phone: ""
 opening_hours: ""
-website: "https://carterandrose.com/"
+website: https://carterandrose.com/

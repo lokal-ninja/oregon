@@ -1,11 +1,11 @@
 id: 457223557
-type: way
+type: node
 latitude: 42.192
 longitude: -120.34547
 postcode: "97630"
 city: Lakeview
-street: "North F Street"
-housenumber: 244
-phone: "+1 541-947-2324"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/or/lakeview/244-n-f-st.html"
+street: North F Street
+housenumber: "244"
+phone: +1 541-947-2324
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.safeway.com/safeway/or/lakeview/244-n-f-st.html

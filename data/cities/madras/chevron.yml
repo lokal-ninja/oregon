@@ -1,11 +1,11 @@
 id: 438300804
-type: way
+type: node
 latitude: 44.61905
 longitude: -121.13371
 postcode: "97741"
 city: Madras
-street: "Southwest Highway 97"
-housenumber: 1210
+street: Southwest Highway 97
+housenumber: "1210"
 phone: ""
 opening_hours: ""
 website: ""

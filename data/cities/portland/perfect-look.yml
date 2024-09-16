@@ -1,11 +1,11 @@
 id: 325611437
-type: way
+type: node
 latitude: 45.51499
 longitude: -122.79163
 postcode: "97225"
 city: Portland
-street: "Southwest Barnes Road"
-housenumber: 11150
+street: Southwest Barnes Road
+housenumber: "11150"
 phone: ""
 opening_hours: ""
-website: "http://www.perfectlooksalons.com/"
+website: http://www.perfectlooksalons.com/

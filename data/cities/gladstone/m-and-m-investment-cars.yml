@@ -1,11 +1,11 @@
 id: 315017966
-type: way
+type: node
 latitude: 45.38201
 longitude: -122.60554
 postcode: "97027"
 city: Gladstone
-street: "McLoughlin Boulevard"
-housenumber: 19360
+street: McLoughlin Boulevard
+housenumber: "19360"
 phone: ""
 opening_hours: ""
-website: "https://www.portlandairstream.com/"
+website: https://www.portlandairstream.com/

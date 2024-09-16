@@ -2,10 +2,10 @@ id: 2123311267
 type: node
 latitude: 42.60629
 longitude: -122.81634
-postcode: "97539-9715"
+postcode: 97539-9715
 city: Shady Cove
-street: "Highway 62"
-housenumber: 21103
-phone: "+1 541-878-4960"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-17:00; Su 09:00-16:00"
+street: Highway 62
+housenumber: "21103"
+phone: +1 541-878-4960
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-17:00; Su 09:00-16:00
 website: ""

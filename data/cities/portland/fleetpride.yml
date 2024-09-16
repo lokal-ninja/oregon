@@ -1,11 +1,11 @@
 id: 1236220731
-type: way
+type: node
 latitude: 45.58328
 longitude: -122.6689
 postcode: "97217"
 city: Portland
-street: "North Columbia Boulevard"
-housenumber: 201
+street: North Columbia Boulevard
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

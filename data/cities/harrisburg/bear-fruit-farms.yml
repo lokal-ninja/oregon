@@ -1,11 +1,11 @@
 id: 1124309838
-type: way
+type: node
 latitude: 44.20717
 longitude: -123.15095
 postcode: "97446"
 city: Harrisburg
-street: "Wyatt Drive"
-housenumber: 30595
+street: Wyatt Drive
+housenumber: "30595"
 phone: ""
 opening_hours: ""
-website: "https://bearfruitberries.com/"
+website: https://bearfruitberries.com/

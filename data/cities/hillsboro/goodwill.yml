@@ -1,11 +1,11 @@
 id: 74819474
-type: way
+type: node
 latitude: 45.51394
 longitude: -122.86818
 postcode: "97003"
 city: Hillsboro
-street: "Southwest 185th Avenue"
-housenumber: 775
-phone: "+1-503-906-7350"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://meetgoodwill.org/"
+street: Southwest 185th Avenue
+housenumber: "775"
+phone: +1-503-906-7350
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://meetgoodwill.org/

@@ -1,11 +1,11 @@
 id: 223595597
-type: way
+type: node
 latitude: 45.51117
 longitude: -122.6617
 postcode: "97214"
 city: Portland
-street: "Southeast Grand Avenue"
-housenumber: 1635
+street: Southeast Grand Avenue
+housenumber: "1635"
 phone: ""
 opening_hours: ""
 website: ""

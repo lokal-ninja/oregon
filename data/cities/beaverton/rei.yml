@@ -1,11 +1,11 @@
 id: 363266017
-type: way
+type: node
 latitude: 45.49962
 longitude: -122.8051
 postcode: "97005"
 city: Beaverton
-street: "Southwest Cedar Hills Boulevard"
-housenumber: 2780
+street: Southwest Cedar Hills Boulevard
+housenumber: "2780"
 phone: ""
 opening_hours: ""
-website: "https://www.rei.com/stores/beaverton"
+website: https://www.rei.com/stores/beaverton

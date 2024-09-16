@@ -4,8 +4,8 @@ latitude: 44.04721
 longitude: -123.12505
 postcode: "97402"
 city: Eugene
-street: "Arthur Street"
-housenumber: 1120
-phone: "+1 541 342 1664"
+street: Arthur Street
+housenumber: "1120"
+phone: +1 541 342 1664
 opening_hours: ""
-website: "https://thecardoctoreugene.com/"
+website: https://thecardoctoreugene.com/

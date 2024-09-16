@@ -1,11 +1,11 @@
 id: 1155609243
-type: way
+type: node
 latitude: 44.02108
 longitude: -123.02786
 postcode: "97405"
 city: Eugene
-street: "Timber Lane"
-housenumber: 33551
-phone: "+1 541 719 8584"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://alphaturfnw.com/"
+street: Timber Lane
+housenumber: "33551"
+phone: +1 541 719 8584
+opening_hours: Mo-Fr 09:00-16:00
+website: https://alphaturfnw.com/

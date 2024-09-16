@@ -4,8 +4,8 @@ latitude: 44.63043
 longitude: -123.07826
 postcode: "97322"
 city: Albany
-street: "14th Avenue Southeast"
-housenumber: 2255
-phone: "+1 541-926-5727"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.target.com/sl/albany/609"
+street: 14th Avenue Southeast
+housenumber: "2255"
+phone: +1 541-926-5727
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.target.com/sl/albany/609

@@ -1,11 +1,11 @@
 id: 503309634
-type: way
+type: node
 latitude: 44.06237
 longitude: -121.30408
 postcode: "97701"
 city: Bend
-street: "Northeast 2nd Street"
-housenumber: 1235
-phone: "+1-541-312-6970"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 10:00-14:00"
-website: "http://www.cathys-cleaners.com/"
+street: Northeast 2nd Street
+housenumber: "1235"
+phone: +1-541-312-6970
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 10:00-14:00
+website: http://www.cathys-cleaners.com/

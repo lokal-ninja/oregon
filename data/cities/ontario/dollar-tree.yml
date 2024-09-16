@@ -1,11 +1,11 @@
 id: 511889369
-type: way
+type: node
 latitude: 44.02291
 longitude: -116.94021
 postcode: "97914"
 city: Ontario
-street: "East Lane"
-housenumber: 184
+street: East Lane
+housenumber: "184"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/or/ontario/3727/"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/or/ontario/3727/

@@ -4,8 +4,8 @@ latitude: 44.1005
 longitude: -123.1284
 postcode: "97404"
 city: Eugene
-street: "Division Avenue"
-housenumber: 55
-phone: "+1 541-689-3960"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://local.albertsons.com/or/eugene/55-division-ave.html"
+street: Division Avenue
+housenumber: "55"
+phone: +1 541-689-3960
+opening_hours: Mo-Su 07:00-23:00
+website: https://local.albertsons.com/or/eugene/55-division-ave.html

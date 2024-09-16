@@ -1,11 +1,11 @@
 id: 107527178
-type: way
+type: node
 latitude: 45.52417
 longitude: -122.65919
 postcode: "97232"
 city: Portland
-street: "Northeast 7th Avenue"
-housenumber: 123
-phone: "+1-503-233-5341"
-opening_hours: "Mo-Fr 07:30-16:30"
-website: "https://www.ursele.com/"
+street: Northeast 7th Avenue
+housenumber: "123"
+phone: +1-503-233-5341
+opening_hours: Mo-Fr 07:30-16:30
+website: https://www.ursele.com/

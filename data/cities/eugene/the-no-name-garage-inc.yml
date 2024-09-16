@@ -1,11 +1,11 @@
 id: 1119178660
-type: way
+type: node
 latitude: 44.05153
 longitude: -123.16327
 postcode: "97402"
 city: Eugene
-street: "West 7th Avenue"
-housenumber: 4210
-phone: "+1 541 344 2251"
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-17:00"
-website: "https://thenonamegarage.com/"
+street: West 7th Avenue
+housenumber: "4210"
+phone: +1 541 344 2251
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-17:00
+website: https://thenonamegarage.com/

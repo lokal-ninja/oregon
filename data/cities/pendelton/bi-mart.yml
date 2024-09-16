@@ -1,11 +1,11 @@
 id: 492624286
-type: way
+type: node
 latitude: 45.66843
 longitude: -118.79576
 postcode: "97801"
 city: Pendelton
-street: "Southwest Emigrant Avenue"
-housenumber: 901
+street: Southwest Emigrant Avenue
+housenumber: "901"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-18:00"
-website: "https://www.bimart.com/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-18:00
+website: https://www.bimart.com/

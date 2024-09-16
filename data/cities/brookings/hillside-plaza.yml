@@ -1,11 +1,11 @@
 id: 974798480
-type: way
+type: node
 latitude: 42.05768
 longitude: -124.297
 postcode: "97415"
 city: Brookings
-street: "Chetco Avenue"
-housenumber: 1240
+street: Chetco Avenue
+housenumber: "1240"
 phone: ""
 opening_hours: ""
 website: ""

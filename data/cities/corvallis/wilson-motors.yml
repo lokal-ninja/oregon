@@ -1,11 +1,11 @@
 id: 1149004855
-type: way
+type: node
 latitude: 44.57541
 longitude: -123.25751
 postcode: "97330"
 city: Corvallis
-street: "Northwest 5th Street"
-housenumber: 1105
+street: Northwest 5th Street
+housenumber: "1105"
 phone: ""
 opening_hours: ""
 website: ""

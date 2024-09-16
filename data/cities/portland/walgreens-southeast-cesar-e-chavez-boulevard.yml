@@ -1,11 +1,11 @@
 id: 39414121
-type: way
+type: node
 latitude: 45.51646
 longitude: -122.62184
 postcode: "97214"
 city: Portland
-street: "Southeast César E. Chávez Boulevard"
-housenumber: 940
-phone: "+1 503 238 6053"
+street: Southeast César E. Chávez Boulevard
+housenumber: "940"
+phone: +1 503 238 6053
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-940+se+cesar+e+chavez+blvd-portland-or-97214/id=3890"
+website: https://www.walgreens.com/locator/walgreens-940+se+cesar+e+chavez+blvd-portland-or-97214/id=3890

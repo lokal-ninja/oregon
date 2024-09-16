@@ -1,11 +1,11 @@
 id: 544922848
-type: way
+type: node
 latitude: 45.51502
 longitude: -122.86879
 postcode: "97003"
 city: Hillsboro
-street: "Southwest 185th Avenue"
-housenumber: 729
+street: Southwest 185th Avenue
+housenumber: "729"
 phone: ""
 opening_hours: ""
 website: ""

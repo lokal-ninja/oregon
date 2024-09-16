@@ -1,11 +1,11 @@
 id: 291779827
-type: way
+type: node
 latitude: 45.45535
 longitude: -122.82919
 postcode: "97008"
 city: Beaverton
-street: "Southwest Murray Boulevard"
-housenumber: 9055
-phone: "+1 503-207-9915"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://www.walmart.com/store/3050-beaverton-or"
+street: Southwest Murray Boulevard
+housenumber: "9055"
+phone: +1 503-207-9915
+opening_hours: Mo-Su 05:00-24:00
+website: https://www.walmart.com/store/3050-beaverton-or

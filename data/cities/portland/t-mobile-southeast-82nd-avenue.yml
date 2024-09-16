@@ -1,11 +1,11 @@
 id: 475237121
-type: way
+type: node
 latitude: 45.49082
 longitude: -122.5786
 postcode: "97266"
 city: Portland
-street: "Southeast 82nd Avenue"
-housenumber: 4328
-phone: "+1-971-302-6995"
+street: Southeast 82nd Avenue
+housenumber: "4328"
+phone: +1-971-302-6995
 opening_hours: ""
-website: "https://www.t-mobile.com/stores/bd/t-mobile-portland-or-97266-997c"
+website: https://www.t-mobile.com/stores/bd/t-mobile-portland-or-97266-997c

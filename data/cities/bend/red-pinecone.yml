@@ -1,11 +1,11 @@
 id: 511854652
-type: way
+type: node
 latitude: 44.05861
 longitude: -121.31331
 postcode: "97703"
 city: Bend
-street: "Northwest Minnesota Avenue"
-housenumber: 114
-phone: "+1-541-678-5995"
-opening_hours: "Tu-Sa 11:00-17:00"
-website: "http://www.redpinecone.com/"
+street: Northwest Minnesota Avenue
+housenumber: "114"
+phone: +1-541-678-5995
+opening_hours: Tu-Sa 11:00-17:00
+website: http://www.redpinecone.com/

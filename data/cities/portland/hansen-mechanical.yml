@@ -1,11 +1,11 @@
 id: 367515683
-type: way
+type: node
 latitude: 45.56255
 longitude: -122.64906
 postcode: "97211"
 city: Portland
-street: "Northeast Killingsworth Street"
-housenumber: 1540
+street: Northeast Killingsworth Street
+housenumber: "1540"
 phone: ""
 opening_hours: ""
-website: "https://hmpdx.com/"
+website: https://hmpdx.com/

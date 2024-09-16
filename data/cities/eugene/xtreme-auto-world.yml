@@ -1,11 +1,11 @@
 id: 1098734835
-type: way
+type: node
 latitude: 44.04405
 longitude: -123.0343
 postcode: "97403"
 city: Eugene
-street: "Mississippi Avenue"
-housenumber: 1415
-phone: "+1 541 992 5813"
+street: Mississippi Avenue
+housenumber: "1415"
+phone: +1 541 992 5813
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 44.05407
 longitude: -123.08882
 postcode: "97401"
 city: Eugene
-street: "East 5th Avenue"
-housenumber: 296
-phone: "+1 541 342 8686"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.newtwist.com/"
+street: East 5th Avenue
+housenumber: "296"
+phone: +1 541 342 8686
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.newtwist.com/

@@ -1,11 +1,11 @@
 id: 1085520109
-type: way
+type: node
 latitude: 43.79718
 longitude: -123.05995
-postcode: "97424-2019"
+postcode: 97424-2019
 city: Cottage Grove
-street: "East Main Street"
-housenumber: 811
-phone: "+1 541-649-1066"
-opening_hours: "Mo-Sa 11:00-18:00"
-website: "https://www.dietzdeli.net/"
+street: East Main Street
+housenumber: "811"
+phone: +1 541-649-1066
+opening_hours: Mo-Sa 11:00-18:00
+website: https://www.dietzdeli.net/

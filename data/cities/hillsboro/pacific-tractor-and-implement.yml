@@ -1,11 +1,11 @@
 id: 368857566
-type: way
+type: node
 latitude: 45.52052
 longitude: -123.00288
 postcode: "97123"
 city: Hillsboro
-street: "Southwest Baseline Street"
-housenumber: 1221
+street: Southwest Baseline Street
+housenumber: "1221"
 phone: ""
 opening_hours: ""
-website: "https://www.pactractor.com"
+website: https://www.pactractor.com

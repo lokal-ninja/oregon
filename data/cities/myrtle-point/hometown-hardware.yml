@@ -1,11 +1,11 @@
 id: 574818799
-type: way
+type: node
 latitude: 43.06554
 longitude: -124.14339
-postcode: "97458-1061"
+postcode: 97458-1061
 city: Myrtle Point
-street: "Spruce Street"
-housenumber: 427
-phone: "+1 541-572-2525"
-opening_hours: "08:00-19:00"
+street: Spruce Street
+housenumber: "427"
+phone: +1 541-572-2525
+opening_hours: 08:00-19:00
 website: ""

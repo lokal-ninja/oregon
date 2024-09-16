@@ -1,11 +1,11 @@
 id: 300170683
-type: way
+type: node
 latitude: 45.46914
 longitude: -122.70801
 postcode: "97219"
 city: Portland
-street: "Southwest Canby Street"
-housenumber: 3011
-phone: "+1-503-293-0101"
+street: Southwest Canby Street
+housenumber: "3011"
+phone: +1-503-293-0101
 opening_hours: ""
-website: "http://svsrepair.com/"
+website: http://svsrepair.com/

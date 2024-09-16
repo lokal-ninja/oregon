@@ -1,11 +1,12 @@
 id: 962749447
-type: way
+type: node
 latitude: 45.44974
 longitude: -122.78166
 postcode: "97223"
 city: Tigard
-street: "Southwest Washington Square Road"
-housenumber: 9396
-phone: "+1-971-322-4336"
-opening_hours: "Mo 10:00-05:00; Tu 12:00-06:00; We 11:00-06:00; Th 12:00-07:00; Fr-Sa 10:00-08:00; Su 11:00-07:00"
-website: "https://consign-couture.com/"
+street: Southwest Washington Square Road
+housenumber: "9396"
+phone: +1-971-322-4336
+opening_hours: Mo 10:00-05:00; Tu 12:00-06:00; We 11:00-06:00; Th 12:00-07:00; Fr-Sa
+    10:00-08:00; Su 11:00-07:00
+website: https://consign-couture.com/

@@ -1,11 +1,11 @@
 id: 250886669
-type: way
+type: node
 latitude: 46.19195
 longitude: -123.80788
 postcode: "97103"
 city: Astoria
-street: "Leif Erickson Drive"
-housenumber: 3250
-phone: "+1 503-338-2960"
-opening_hours: "06:00-23:00"
-website: "https://local.safeway.com/safeway/or/astoria/3250-leif-erickson-dr.html"
+street: Leif Erickson Drive
+housenumber: "3250"
+phone: +1 503-338-2960
+opening_hours: 06:00-23:00
+website: https://local.safeway.com/safeway/or/astoria/3250-leif-erickson-dr.html

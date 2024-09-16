@@ -1,11 +1,11 @@
 id: 113700399
-type: way
+type: node
 latitude: 45.43675
 longitude: -122.75715
 postcode: "97223"
 city: Tigard
-street: "Southwest Pacific Highway"
-housenumber: 11710
+street: Southwest Pacific Highway
+housenumber: "11710"
 phone: ""
 opening_hours: ""
-website: "https://www.cartoys.com/"
+website: https://www.cartoys.com/

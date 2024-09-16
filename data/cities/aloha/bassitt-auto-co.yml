@@ -1,11 +1,11 @@
 id: 327017463
-type: way
+type: node
 latitude: 45.51446
 longitude: -122.86261
 postcode: "97006"
 city: Aloha
-street: "West Baseline Road"
-housenumber: 18115
+street: West Baseline Road
+housenumber: "18115"
 phone: ""
 opening_hours: ""
-website: "https://www.bassitt.com/"
+website: https://www.bassitt.com/

@@ -1,11 +1,11 @@
 id: 1063418635
-type: way
+type: node
 latitude: 44.29335
 longitude: -117.22458
 postcode: "97907"
 city: Huntington
-street: "Huntington Highway"
-housenumber: 5945
+street: Huntington Highway
+housenumber: "5945"
 phone: ""
 opening_hours: ""
 website: ""

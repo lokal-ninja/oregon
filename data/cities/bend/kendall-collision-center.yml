@@ -1,11 +1,11 @@
 id: 503122559
-type: way
+type: node
 latitude: 44.07711
 longitude: -121.30194
 postcode: "97701"
 city: Bend
-street: "Northeast 2nd Street"
-housenumber: 2770
-phone: "+1-541-318-5493"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "http://www.robbersoncollisioncenter.com/"
+street: Northeast 2nd Street
+housenumber: "2770"
+phone: +1-541-318-5493
+opening_hours: Mo-Fr 07:30-17:30
+website: http://www.robbersoncollisioncenter.com/

@@ -1,11 +1,11 @@
 id: 90963059
-type: way
+type: node
 latitude: 45.3965
 longitude: -122.75054
 postcode: "97224"
 city: Tigard
-street: "Southwest Bridgeport Road"
-housenumber: 7267
+street: Southwest Bridgeport Road
+housenumber: "7267"
 phone: ""
 opening_hours: ""
-website: "https://www.crateandbarrel.com/"
+website: https://www.crateandbarrel.com/

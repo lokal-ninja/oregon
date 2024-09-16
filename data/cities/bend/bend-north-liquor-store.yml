@@ -1,11 +1,11 @@
 id: 502967602
-type: way
+type: node
 latitude: 44.07004
 longitude: -121.30118
 postcode: "97701"
 city: Bend
-street: "Northeast 3rd Street"
-housenumber: 2000
-phone: "+1-541-382-7050"
-opening_hours: "Mo-Th 09:00-21:00; Fr,Sa 09:00-22:00; Su 10:00-19:00"
+street: Northeast 3rd Street
+housenumber: "2000"
+phone: +1-541-382-7050
+opening_hours: Mo-Th 09:00-21:00; Fr,Sa 09:00-22:00; Su 10:00-19:00
 website: ""

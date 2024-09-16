@@ -1,11 +1,11 @@
 id: 503900178
-type: way
+type: node
 latitude: 44.10136
 longitude: -121.30146
 postcode: "97703"
 city: Bend
-street: "North Highway 97"
-housenumber: 63455
-phone: "+1-541-317-5100"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.sprint.com/"
+street: North Highway 97
+housenumber: "63455"
+phone: +1-541-317-5100
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.sprint.com/

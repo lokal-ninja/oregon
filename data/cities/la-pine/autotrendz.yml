@@ -1,11 +1,11 @@
 id: 1165999339
-type: way
+type: node
 latitude: 43.67057
 longitude: -121.50177
 postcode: "97739"
 city: La Pine
-street: "William Foss Road"
-housenumber: 16480
-phone: "+1 541 241 8147"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://lapineautotrendz.com/"
+street: William Foss Road
+housenumber: "16480"
+phone: +1 541 241 8147
+opening_hours: Mo-Fr 09:00-17:00
+website: https://lapineautotrendz.com/

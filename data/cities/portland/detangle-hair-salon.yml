@@ -1,11 +1,11 @@
 id: 368535895
-type: way
+type: node
 latitude: 45.52676
 longitude: -122.59316
 postcode: "97213"
 city: Portland
-street: "Northeast Glisan Street"
-housenumber: 6805
+street: Northeast Glisan Street
+housenumber: "6805"
 phone: ""
 opening_hours: ""
 website: ""

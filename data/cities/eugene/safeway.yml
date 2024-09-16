@@ -4,8 +4,8 @@ latitude: 44.04073
 longitude: -123.09063
 postcode: "97401"
 city: Eugene
-street: "East 18th Avenue"
-housenumber: 145
-phone: "+1 541-485-5051"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://local.safeway.com/safeway/or/eugene/145-e-18th-ave.html"
+street: East 18th Avenue
+housenumber: "145"
+phone: +1 541-485-5051
+opening_hours: Mo-Su 06:00-24:00
+website: https://local.safeway.com/safeway/or/eugene/145-e-18th-ave.html

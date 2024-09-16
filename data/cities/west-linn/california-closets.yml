@@ -1,11 +1,11 @@
 id: 199658030
-type: way
+type: node
 latitude: 45.36623
 longitude: -122.61236
 postcode: "97068"
 city: West Linn
-street: "Willamette Drive"
-housenumber: 22000
+street: Willamette Drive
+housenumber: "22000"
 phone: ""
 opening_hours: ""
 website: ""

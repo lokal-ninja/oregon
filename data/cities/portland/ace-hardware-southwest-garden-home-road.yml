@@ -2,10 +2,10 @@ id: 9528868807
 type: node
 latitude: 45.46638
 longitude: -122.75104
-postcode: "97223-9521"
+postcode: 97223-9521
 city: Portland
-street: "Southwest Garden Home Road"
-housenumber: 7225
-phone: "+1 503-477-7777"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-18:00"
+street: Southwest Garden Home Road
+housenumber: "7225"
+phone: +1 503-477-7777
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-18:00
 website: ""

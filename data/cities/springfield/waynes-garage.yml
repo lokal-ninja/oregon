@@ -1,11 +1,11 @@
 id: 528902410
-type: way
+type: node
 latitude: 44.06177
 longitude: -123.0209
 postcode: "97477"
 city: Springfield
-street: "Q Street"
-housenumber: 333
-phone: "+1 541 746 7142"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://www.waynesgarage.com/"
+street: Q Street
+housenumber: "333"
+phone: +1 541 746 7142
+opening_hours: Mo-Fr 07:30-17:30
+website: https://www.waynesgarage.com/

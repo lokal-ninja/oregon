@@ -1,11 +1,11 @@
 id: 310789696
-type: way
+type: node
 latitude: 45.47789
 longitude: -122.67249
 postcode: "97239"
 city: Portland
-street: "South Macadam Avenue"
-housenumber: 6401
-phone: "+1-503-452-3907"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://www.camerasolutionsinc.com/"
+street: South Macadam Avenue
+housenumber: "6401"
+phone: +1-503-452-3907
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://www.camerasolutionsinc.com/

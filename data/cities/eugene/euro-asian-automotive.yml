@@ -1,11 +1,11 @@
 id: 539953420
-type: way
+type: node
 latitude: 44.04587
 longitude: -123.06403
 postcode: "97403"
 city: Eugene
-street: "Franklin Boulevard"
-housenumber: 1917
-phone: "+1 541 225 5841"
-opening_hours: "Mo-Fr 07:45-17:30, Sa-Su off"
-website: "https://www.euro-asian.com/"
+street: Franklin Boulevard
+housenumber: "1917"
+phone: +1 541 225 5841
+opening_hours: Mo-Fr 07:45-17:30, Sa-Su off
+website: https://www.euro-asian.com/

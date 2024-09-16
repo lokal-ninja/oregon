@@ -1,11 +1,11 @@
 id: 1040403388
-type: way
+type: node
 latitude: 44.2708
 longitude: -121.17296
 postcode: "97756"
 city: Redmond
-street: "Southwest 5th Street"
-housenumber: 652
-phone: "+1 541 699 4388"
+street: Southwest 5th Street
+housenumber: "652"
+phone: +1 541 699 4388
 opening_hours: ""
-website: "https://www.oregonfloortrends.com/"
+website: https://www.oregonfloortrends.com/

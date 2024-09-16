@@ -1,11 +1,11 @@
 id: 254456023
-type: way
+type: node
 latitude: 45.55153
 longitude: -122.66684
 postcode: "97227"
 city: Portland
-street: "North Williams Avenue"
-housenumber: 3949
-phone: "+1-503-265-8146"
+street: North Williams Avenue
+housenumber: "3949"
+phone: +1-503-265-8146
 opening_hours: ""
-website: "https://www.grizzlytattoo.com/"
+website: https://www.grizzlytattoo.com/

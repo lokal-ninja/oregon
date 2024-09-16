@@ -1,11 +1,11 @@
 id: 114736731
-type: way
+type: node
 latitude: 45.48568
 longitude: -122.75711
 postcode: "97225"
 city: Portland
-street: "Southwest 77th Avenue"
-housenumber: 4765
+street: Southwest 77th Avenue
+housenumber: "4765"
 phone: ""
 opening_hours: ""
-website: "http://swedesbarbershop.com/"
+website: http://swedesbarbershop.com/

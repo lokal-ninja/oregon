@@ -1,11 +1,11 @@
 id: 355240500
-type: way
+type: node
 latitude: 45.3965
 longitude: -122.75142
 postcode: "97224"
 city: Tigard
-street: "Southwest Bridgeport Road"
-housenumber: 7279
-phone: "+1-971-264-0707"
-opening_hours: "Mo-Sa 10:00-20:00, Su 11:00-18:00"
-website: "https://www.misshannahspopcorn.com/"
+street: Southwest Bridgeport Road
+housenumber: "7279"
+phone: +1-971-264-0707
+opening_hours: Mo-Sa 10:00-20:00, Su 11:00-18:00
+website: https://www.misshannahspopcorn.com/

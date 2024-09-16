@@ -1,11 +1,11 @@
 id: 331571434
-type: way
+type: node
 latitude: 44.57516
 longitude: -123.2758
 postcode: "97330"
 city: Corvallis
-street: "Northwest Kings Boulevard"
-housenumber: 746
-phone: "+1 541-757-9512"
+street: Northwest Kings Boulevard
+housenumber: "746"
+phone: +1 541-757-9512
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/or/corvallis/746-nw-kings-bvd-14520"
+website: https://www.7-eleven.com/locations/or/corvallis/746-nw-kings-bvd-14520

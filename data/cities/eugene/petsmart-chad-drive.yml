@@ -1,11 +1,11 @@
 id: 346127916
-type: way
+type: node
 latitude: 44.09197
 longitude: -123.06492
 postcode: "97408"
 city: Eugene
-street: "Chad Drive"
-housenumber: 2847
-phone: "+1 541-683-3353"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/or/eugene-store0390.html"
+street: Chad Drive
+housenumber: "2847"
+phone: +1 541-683-3353
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/or/eugene-store0390.html

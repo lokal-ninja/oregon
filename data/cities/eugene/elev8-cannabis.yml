@@ -4,8 +4,8 @@ latitude: 44.04424
 longitude: -123.09094
 postcode: "97401"
 city: Eugene
-street: "Oak Street"
-housenumber: 1409
+street: Oak Street
+housenumber: "1409"
 phone: "+14582102810"
-opening_hours: "Mo-Sa 09:00-22:00, Su 10:00-22:00"
-website: "https://elev8cannabis.com/"
+opening_hours: Mo-Sa 09:00-22:00, Su 10:00-22:00
+website: https://elev8cannabis.com/

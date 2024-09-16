@@ -1,11 +1,11 @@
 id: 369163963
-type: way
+type: node
 latitude: 45.50401
 longitude: -122.55247
 postcode: "97266"
 city: Portland
-street: "Southeast Division Street"
-housenumber: 10740
+street: Southeast Division Street
+housenumber: "10740"
 phone: ""
 opening_hours: ""
-website: "https://www.phantommotorsllc.com"
+website: https://www.phantommotorsllc.com

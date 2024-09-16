@@ -1,11 +1,11 @@
 id: 124477057
-type: way
+type: node
 latitude: 45.52826
 longitude: -122.68525
 postcode: "97209"
 city: Portland
-street: "Northwest Johnson Street"
-housenumber: 1304
+street: Northwest Johnson Street
+housenumber: "1304"
 phone: ""
 opening_hours: ""
 website: ""

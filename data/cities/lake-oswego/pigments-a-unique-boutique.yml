@@ -1,11 +1,11 @@
 id: 493389503
-type: way
+type: node
 latitude: 45.41409
 longitude: -122.66293
 postcode: "97034"
 city: Lake Oswego
-street: "South State Street"
-housenumber: 333
+street: South State Street
+housenumber: "333"
 phone: ""
 opening_hours: ""
-website: "https://www.pigmentsboutique.com/"
+website: https://www.pigmentsboutique.com/

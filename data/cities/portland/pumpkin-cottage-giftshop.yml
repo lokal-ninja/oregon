@@ -1,11 +1,11 @@
 id: 288398229
-type: way
+type: node
 latitude: 45.64204
 longitude: -122.79009
 postcode: "97231"
 city: Portland
-street: "Northwest Gillihan Road"
-housenumber: 16511
-phone: "+1 503 6213874"
-opening_hours: "Jun-Sep Fr-Sa 09:00-18:00,Jun-Sep Su-Th 09:00-17:00,Oct 09:00-18:00"
+street: Northwest Gillihan Road
+housenumber: "16511"
+phone: +1 503 6213874
+opening_hours: Jun-Sep Fr-Sa 09:00-18:00,Jun-Sep Su-Th 09:00-17:00,Oct 09:00-18:00
 website: ""

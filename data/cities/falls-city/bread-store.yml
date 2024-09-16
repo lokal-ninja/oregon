@@ -1,11 +1,11 @@
 id: 991301609
-type: way
+type: node
 latitude: 44.86624
 longitude: -123.4345
 postcode: "97344"
 city: Falls City
-street: "Main Street North"
-housenumber: 
+street: Main Street North
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

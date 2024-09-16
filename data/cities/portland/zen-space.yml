@@ -1,11 +1,11 @@
 id: 411478153
-type: way
+type: node
 latitude: 45.55872
 longitude: -122.63496
 postcode: "97211"
 city: Portland
-street: "Northeast 30th Avenue"
-housenumber: 4927
-phone: "+1-503-281-0681"
+street: Northeast 30th Avenue
+housenumber: "4927"
+phone: +1-503-281-0681
 opening_hours: ""
-website: "https://zenspace.info/"
+website: https://zenspace.info/

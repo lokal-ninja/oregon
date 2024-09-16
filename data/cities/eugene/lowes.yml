@@ -1,11 +1,11 @@
 id: 123493964
-type: way
+type: node
 latitude: 44.04965
 longitude: -123.14742
 postcode: "97402"
 city: Eugene
-street: "West 11th Avenue"
-housenumber: 3595
-phone: "+1 541-685-7240"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://www.lowes.com/store/or-eugene/2940"
+street: West 11th Avenue
+housenumber: "3595"
+phone: +1 541-685-7240
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
+website: https://www.lowes.com/store/or-eugene/2940

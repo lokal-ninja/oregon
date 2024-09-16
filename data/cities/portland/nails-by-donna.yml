@@ -1,11 +1,11 @@
 id: 475430422
-type: way
+type: node
 latitude: 45.50279
 longitude: -122.53812
 postcode: "97236"
 city: Portland
-street: "Southeast 122nd Avenue"
-housenumber: 2603
+street: Southeast 122nd Avenue
+housenumber: "2603"
 phone: "+15037608502"
 opening_hours: ""
-website: "http://nails-by-donna.poi.place/"
+website: http://nails-by-donna.poi.place/

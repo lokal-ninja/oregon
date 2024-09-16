@@ -1,11 +1,11 @@
 id: 490783988
-type: way
+type: node
 latitude: 45.47561
 longitude: -122.82726
 postcode: "97008"
 city: Beaverton
-street: "Southwest Murray Boulevard"
-housenumber: 6103
+street: Southwest Murray Boulevard
+housenumber: "6103"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 165943617
-type: way
+type: node
 latitude: 44.58286
 longitude: -123.25975
 postcode: "97330"
 city: Corvallis
-street: "Northwest 9th Street"
-housenumber: 1550
-phone: "+1 541-758-2004"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/corvallis-or-791"
+street: Northwest 9th Street
+housenumber: "1550"
+phone: +1 541-758-2004
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/corvallis-or-791

@@ -1,11 +1,11 @@
 id: 199658012
-type: way
+type: node
 latitude: 45.36613
 longitude: -122.61263
 postcode: "97068"
 city: West Linn
-street: "Willamette Drive"
-housenumber: 22000
+street: Willamette Drive
+housenumber: "22000"
 phone: ""
 opening_hours: ""
-website: "http://diamond-wireless.com/"
+website: http://diamond-wireless.com/

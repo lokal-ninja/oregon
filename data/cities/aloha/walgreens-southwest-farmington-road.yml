@@ -1,11 +1,11 @@
 id: 343272643
-type: way
+type: node
 latitude: 45.47516
 longitude: -122.86699
 postcode: "97007"
 city: Aloha
-street: "Southwest Farmington Road"
-housenumber: 18470
+street: Southwest Farmington Road
+housenumber: "18470"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-18470+sw+farmington+rd-beaverton-or-97007/id=15403"
+website: https://www.walgreens.com/locator/walgreens-18470+sw+farmington+rd-beaverton-or-97007/id=15403

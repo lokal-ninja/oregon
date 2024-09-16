@@ -1,11 +1,11 @@
 id: 255973264
-type: way
+type: node
 latitude: 45.50505
 longitude: -122.6398
 postcode: "97214"
 city: Portland
-street: "Southeast 26th Avenue"
-housenumber: 2429
+street: Southeast 26th Avenue
+housenumber: "2429"
 phone: ""
 opening_hours: ""
 website: ""

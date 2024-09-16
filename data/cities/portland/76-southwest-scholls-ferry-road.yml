@@ -1,11 +1,11 @@
 id: 331233496
-type: way
+type: node
 latitude: 45.4834
 longitude: -122.75561
 postcode: "97225"
 city: Portland
-street: "Southwest Scholls Ferry Road"
-housenumber: 5065
+street: Southwest Scholls Ferry Road
+housenumber: "5065"
 phone: ""
 opening_hours: ""
-website: "https://www.76.com/"
+website: https://www.76.com/

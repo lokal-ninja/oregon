@@ -1,11 +1,11 @@
 id: 759282741
-type: way
+type: node
 latitude: 44.29087
 longitude: -121.55431
 postcode: "97759"
 city: Sisters
-street: "West Cascade Avenue"
-housenumber: 411
+street: West Cascade Avenue
+housenumber: "411"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 506162411
-type: way
+type: node
 latitude: 44.02056
 longitude: -121.31847
 postcode: "97702"
 city: Bend
-street: "South Highway 97"
-housenumber: 61153
-phone: "+1-541-388-0692"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-19:00"
+street: South Highway 97
+housenumber: "61153"
+phone: +1-541-388-0692
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-19:00
 website: ""

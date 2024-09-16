@@ -1,11 +1,11 @@
 id: 500320902
-type: way
+type: node
 latitude: 45.5246
 longitude: -122.53919
 postcode: "97220"
 city: Portland
-street: "Northeast Glisan Street"
-housenumber: 11958
+street: Northeast Glisan Street
+housenumber: "11958"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.greatclips.com/"
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.greatclips.com/

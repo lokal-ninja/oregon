@@ -1,11 +1,11 @@
 id: 485234643
-type: way
+type: node
 latitude: 45.30392
 longitude: -122.76205
 postcode: "97070"
 city: Wilsonville
-street: "Southwest Wilsonville Road"
-housenumber: 8249
+street: Southwest Wilsonville Road
+housenumber: "8249"
 phone: ""
 opening_hours: ""
 website: ""

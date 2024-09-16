@@ -1,11 +1,11 @@
 id: 506162423
-type: way
+type: node
 latitude: 44.01815
 longitude: -121.31656
 postcode: "97702"
 city: Bend
-street: "South Highway 97"
-housenumber: 61076
+street: South Highway 97
+housenumber: "61076"
 phone: ""
 opening_hours: ""
-website: "https://subaguru.com/"
+website: https://subaguru.com/

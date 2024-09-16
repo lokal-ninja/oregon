@@ -1,11 +1,11 @@
 id: 1012479105
-type: way
+type: node
 latitude: 44.0535
 longitude: -123.09023
 postcode: "97401"
 city: Eugene
-street: "Pearl Street"
-housenumber: 590
-phone: "+1 458 209 9756"
+street: Pearl Street
+housenumber: "590"
+phone: +1 458 209 9756
 opening_hours: ""
 website: ""

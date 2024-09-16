@@ -1,11 +1,11 @@
 id: 679532045
-type: way
+type: node
 latitude: 44.22417
 longitude: -123.20276
 postcode: "97448"
 city: Junction City
-street: "West 12th Avenue"
-housenumber: 291
+street: West 12th Avenue
+housenumber: "291"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 283704548
-type: way
+type: node
 latitude: 45.57421
 longitude: -122.55822
 postcode: "97220"
 city: Portland
-street: "Northeast Cascades Parkway"
-housenumber: 10041
-phone: "+1 503-249-4187"
-opening_hours: "Mo-Su 09:00-23:30; Fr,Sa 08:30-23:30"
-website: "https://www.rossstores.com/"
+street: Northeast Cascades Parkway
+housenumber: "10041"
+phone: +1 503-249-4187
+opening_hours: Mo-Su 09:00-23:30; Fr,Sa 08:30-23:30
+website: https://www.rossstores.com/

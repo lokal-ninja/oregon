@@ -1,11 +1,11 @@
 id: 107488952
-type: way
+type: node
 latitude: 45.52608
 longitude: -122.64218
 postcode: "97232"
 city: Portland
-street: "Northeast Flanders Street"
-housenumber: 2307
+street: Northeast Flanders Street
+housenumber: "2307"
 phone: ""
 opening_hours: ""
 website: ""

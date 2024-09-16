@@ -1,11 +1,11 @@
 id: 559568301
-type: way
+type: node
 latitude: 45.43275
 longitude: -122.57199
 postcode: "97015"
 city: Clackamas
-street: "Southeast Sunnyside Road"
-housenumber: 8860
-phone: "+1-503-303-7583"
-opening_hours: "Tu-Fr 10:00-20:00; Sa 11:00-20:00; Su 11:00-17:00"
-website: "https://www.browbeautyandbeyond.com/"
+street: Southeast Sunnyside Road
+housenumber: "8860"
+phone: +1-503-303-7583
+opening_hours: Tu-Fr 10:00-20:00; Sa 11:00-20:00; Su 11:00-17:00
+website: https://www.browbeautyandbeyond.com/

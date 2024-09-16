@@ -1,11 +1,11 @@
 id: 201707836
-type: way
+type: node
 latitude: 45.386
 longitude: -122.64148
 postcode: "97068"
 city: West Linn
-street: "Willamette Drive"
-housenumber: 19149
+street: Willamette Drive
+housenumber: "19149"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 44.90357
 longitude: -123.04005
 postcode: "97302"
 city: Salem
-street: "Commercial Street Southeast"
-housenumber: 3540
-phone: "+1-503-316-0022"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
+street: Commercial Street Southeast
+housenumber: "3540"
+phone: +1-503-316-0022
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
 website: ""

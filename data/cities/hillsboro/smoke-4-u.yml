@@ -1,11 +1,11 @@
 id: 545126066
-type: way
+type: node
 latitude: 45.51535
 longitude: -122.90409
 postcode: "97123"
 city: Hillsboro
-street: "East Main Street"
-housenumber: 7432
-phone: "+1-503-649-2289"
+street: East Main Street
+housenumber: "7432"
+phone: +1-503-649-2289
 opening_hours: ""
 website: ""

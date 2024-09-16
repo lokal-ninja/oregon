@@ -1,11 +1,11 @@
 id: 225047098
-type: way
+type: node
 latitude: 44.04487
 longitude: -116.97669
 postcode: "97914"
 city: Ontario
-street: "Northwest Washington Avenue"
-housenumber: 1041
+street: Northwest Washington Avenue
+housenumber: "1041"
 phone: ""
 opening_hours: ""
 website: ""

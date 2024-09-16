@@ -1,11 +1,11 @@
 id: 409203778
-type: way
+type: node
 latitude: 45.54851
 longitude: -122.66645
 postcode: "97227"
 city: Portland
-street: "North Williams Avenue"
-housenumber: 3508
+street: North Williams Avenue
+housenumber: "3508"
 phone: ""
 opening_hours: ""
 website: ""

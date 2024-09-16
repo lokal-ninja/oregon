@@ -1,11 +1,11 @@
 id: 1239276003
-type: way
+type: node
 latitude: 44.02839
 longitude: -123.10498
 postcode: "97405"
 city: Eugene
-street: "Friendly Street"
-housenumber: 2751
-phone: "+1 541 636 3724"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://mosscrossing.com"
+street: Friendly Street
+housenumber: "2751"
+phone: +1 541 636 3724
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://mosscrossing.com

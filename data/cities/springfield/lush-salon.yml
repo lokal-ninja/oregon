@@ -4,8 +4,8 @@ latitude: 44.0575
 longitude: -122.99894
 postcode: "97477"
 city: Springfield
-street: "North 18th Street"
-housenumber: 1484
+street: North 18th Street
+housenumber: "1484"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

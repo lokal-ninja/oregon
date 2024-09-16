@@ -1,11 +1,11 @@
 id: 351734621
-type: way
+type: node
 latitude: 45.46324
 longitude: -122.65337
 postcode: "97202"
 city: Portland
-street: "Southeast 13th Avenue"
-housenumber: 8235
+street: Southeast 13th Avenue
+housenumber: "8235"
 phone: ""
 opening_hours: ""
-website: "http://www.12x16gallery.com/"
+website: http://www.12x16gallery.com/

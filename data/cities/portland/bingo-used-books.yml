@@ -1,11 +1,11 @@
 id: 421511785
-type: way
+type: node
 latitude: 45.49666
 longitude: -122.63004
 postcode: "97202"
 city: Portland
-street: "Southeast Powell Boulevard"
-housenumber: 3366
+street: Southeast Powell Boulevard
+housenumber: "3366"
 phone: ""
 opening_hours: ""
-website: "http://www.bingousedbooks.com/"
+website: http://www.bingousedbooks.com/

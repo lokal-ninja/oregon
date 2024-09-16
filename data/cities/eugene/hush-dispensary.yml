@@ -4,8 +4,8 @@ latitude: 44.04601
 longitude: -123.08796
 postcode: ""
 city: Eugene
-street: "High Street"
-housenumber: 1257
-phone: "+1 541-505-9005"
-opening_hours: "Mo-Su 10:00-22:00"
-website: "http://hushdispensary.com"
+street: High Street
+housenumber: "1257"
+phone: +1 541-505-9005
+opening_hours: Mo-Su 10:00-22:00
+website: http://hushdispensary.com

@@ -1,11 +1,11 @@
 id: 113970047
-type: way
+type: node
 latitude: 45.45636
 longitude: -122.78682
 postcode: "97008"
 city: Beaverton
-street: "Southwest Cascade Avenue"
-housenumber: 8815
-phone: "+1 503-641-2185"
-opening_hours: "Mo-Th 09:00-23:30; Fr,Sa 08:30-23:30; Su 08:30-22:30"
-website: "https://www.rossstores.com/"
+street: Southwest Cascade Avenue
+housenumber: "8815"
+phone: +1 503-641-2185
+opening_hours: Mo-Th 09:00-23:30; Fr,Sa 08:30-23:30; Su 08:30-22:30
+website: https://www.rossstores.com/

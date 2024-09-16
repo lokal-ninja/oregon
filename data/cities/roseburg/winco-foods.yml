@@ -1,11 +1,11 @@
 id: 279425438
-type: way
+type: node
 latitude: 43.23875
 longitude: -123.36503
 postcode: "97471"
 city: Roseburg
-street: "Northwest Stewart Parkway"
-housenumber: 2757
+street: Northwest Stewart Parkway
+housenumber: "2757"
 phone: ""
 opening_hours: ""
 website: ""

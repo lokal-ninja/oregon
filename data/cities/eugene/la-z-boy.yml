@@ -1,11 +1,11 @@
 id: 213726223
-type: way
+type: node
 latitude: 44.09447
 longitude: -123.09447
 postcode: "97408"
 city: Eugene
-street: "Green Acres Road"
-housenumber: 1039
+street: Green Acres Road
+housenumber: "1039"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-18:00"
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-18:00
 website: ""

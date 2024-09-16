@@ -1,11 +1,11 @@
 id: 111476978
-type: way
+type: node
 latitude: 45.5055
 longitude: -122.66247
 postcode: "97214"
 city: Portland
-street: "Southeast 4th Avenue"
-housenumber: 2443
+street: Southeast 4th Avenue
+housenumber: "2443"
 phone: ""
 opening_hours: ""
-website: "https://www.oregonwood.net/"
+website: https://www.oregonwood.net/

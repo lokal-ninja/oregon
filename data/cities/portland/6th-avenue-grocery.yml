@@ -1,11 +1,11 @@
 id: 371551625
-type: way
+type: node
 latitude: 45.51746
 longitude: -122.65994
 postcode: "97214"
 city: Portland
-street: "Southeast Morrison Street"
-housenumber: 535
+street: Southeast Morrison Street
+housenumber: "535"
 phone: ""
 opening_hours: ""
 website: ""

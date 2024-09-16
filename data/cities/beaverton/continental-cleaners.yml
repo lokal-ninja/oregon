@@ -1,11 +1,11 @@
 id: 317891774
-type: way
+type: node
 latitude: 45.49202
 longitude: -122.791
 postcode: "97005"
 city: Beaverton
-street: "Southwest Canyon Road"
-housenumber: 11135
+street: Southwest Canyon Road
+housenumber: "11135"
 phone: ""
 opening_hours: ""
-website: "http://www.cdryclean.com/"
+website: http://www.cdryclean.com/

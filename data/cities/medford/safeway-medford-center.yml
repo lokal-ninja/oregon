@@ -1,11 +1,11 @@
 id: 953906675
-type: way
+type: node
 latitude: 42.33366
 longitude: -122.8642
 postcode: "97504"
 city: Medford
-street: "Medford Center"
-housenumber: 1003
-phone: "+1 541-608-3680"
-opening_hours: "06:00-01:00"
-website: "https://local.safeway.com/safeway/or/medford/1003-medford-ctr.html"
+street: Medford Center
+housenumber: "1003"
+phone: +1 541-608-3680
+opening_hours: 06:00-01:00
+website: https://local.safeway.com/safeway/or/medford/1003-medford-ctr.html

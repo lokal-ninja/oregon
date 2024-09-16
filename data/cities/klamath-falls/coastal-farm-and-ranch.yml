@@ -1,11 +1,11 @@
 id: 194684501
-type: way
+type: node
 latitude: 42.21335
 longitude: -121.75511
 postcode: "97603"
 city: Klamath Falls
-street: "Avalon Street"
-housenumber: 1776
+street: Avalon Street
+housenumber: "1776"
 phone: ""
 opening_hours: ""
 website: ""

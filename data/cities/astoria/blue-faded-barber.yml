@@ -4,8 +4,8 @@ latitude: 46.18854
 longitude: -123.83214
 postcode: "97103"
 city: Astoria
-street: "11th Street"
-housenumber: 385
-phone: "+1 414 840-2631"
+street: 11th Street
+housenumber: "385"
+phone: +1 414 840-2631
 opening_hours: ""
-website: "https://www.vagaro.com/bluefadedbarber/book-now"
+website: https://www.vagaro.com/bluefadedbarber/book-now

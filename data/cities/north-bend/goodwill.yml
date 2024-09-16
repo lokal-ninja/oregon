@@ -1,11 +1,11 @@
 id: 669003465
-type: way
+type: node
 latitude: 43.3879
 longitude: -124.23976
 postcode: "97459"
 city: North Bend
-street: "Broadway Avenue"
-housenumber: 3698
+street: Broadway Avenue
+housenumber: "3698"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 367187947
-type: way
+type: node
 latitude: 45.57746
 longitude: -122.68645
 postcode: "97217"
 city: Portland
-street: "North Lombard Street"
-housenumber: 1931
-phone: "+1 503-289-6382"
+street: North Lombard Street
+housenumber: "1931"
+phone: +1 503-289-6382
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/or/portland/1931-n-lombard-19909"
+website: https://www.7-eleven.com/locations/or/portland/1931-n-lombard-19909

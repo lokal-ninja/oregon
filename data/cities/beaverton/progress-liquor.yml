@@ -1,11 +1,11 @@
 id: 412602804
-type: way
+type: node
 latitude: 45.45807
 longitude: -122.78335
 postcode: "97008"
 city: Beaverton
-street: "Southwest Hall Boulevard"
-housenumber: 8616
+street: Southwest Hall Boulevard
+housenumber: "8616"
 phone: ""
 opening_hours: ""
-website: "http://www.progressliquor.com/"
+website: http://www.progressliquor.com/

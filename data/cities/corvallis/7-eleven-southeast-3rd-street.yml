@@ -1,11 +1,11 @@
 id: 296351966
-type: way
+type: node
 latitude: 44.54206
 longitude: -123.26563
 postcode: "97333"
 city: Corvallis
-street: "Southeast 3rd Street"
-housenumber: 2405
-phone: "+1 541-758-5300"
+street: Southeast 3rd Street
+housenumber: "2405"
+phone: +1 541-758-5300
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/or/corvallis/2405-se-3rd-st-22935"
+website: https://www.7-eleven.com/locations/or/corvallis/2405-se-3rd-st-22935

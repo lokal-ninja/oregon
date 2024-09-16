@@ -1,11 +1,11 @@
 id: 336054353
-type: way
+type: node
 latitude: 45.43133
 longitude: -122.76942
 postcode: "97223"
 city: Tigard
-street: "Southwest Main Street"
-housenumber: 12230
-phone: "+1-503-777-2266"
-opening_hours: "Mo-Fr 08:30-17:00; Sa 10:00-15:00"
-website: "https://www.paddlepalace.com/"
+street: Southwest Main Street
+housenumber: "12230"
+phone: +1-503-777-2266
+opening_hours: Mo-Fr 08:30-17:00; Sa 10:00-15:00
+website: https://www.paddlepalace.com/

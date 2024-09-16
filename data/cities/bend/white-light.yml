@@ -1,11 +1,11 @@
 id: 504958464
-type: way
+type: node
 latitude: 44.06029
 longitude: -121.31011
 postcode: "97703"
 city: Bend
-street: "Northwest Greenwood Avenue"
-housenumber: 164
-phone: "+1-541-639-8443"
-opening_hours: "Tu-Sa 11:00-18:00"
-website: "https://www.whitelighttattoo.com/"
+street: Northwest Greenwood Avenue
+housenumber: "164"
+phone: +1-541-639-8443
+opening_hours: Tu-Sa 11:00-18:00
+website: https://www.whitelighttattoo.com/

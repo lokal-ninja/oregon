@@ -1,11 +1,11 @@
 id: 216999600
-type: way
+type: node
 latitude: 44.09807
 longitude: -123.12724
 postcode: "97404"
 city: Eugene
-street: "Division Avenue"
-housenumber: 60
-phone: "+1 541-461-1438"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.fredmeyer.com/stores/grocery/or/eugene/santa-clara/701/00325"
+street: Division Avenue
+housenumber: "60"
+phone: +1 541-461-1438
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.fredmeyer.com/stores/grocery/or/eugene/santa-clara/701/00325

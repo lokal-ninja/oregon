@@ -1,11 +1,11 @@
 id: 97898726
-type: way
+type: node
 latitude: 45.48785
 longitude: -122.8015
 postcode: "97005"
 city: Beaverton
-street: "Southwest Broadway Street"
-housenumber: 12100
-phone: "+1-503-646-8133"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-17:00"
-website: "https://www.sunautoservice.com/about-us/shop-talk/locations/beaverton-or/"
+street: Southwest Broadway Street
+housenumber: "12100"
+phone: +1-503-646-8133
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-17:00
+website: https://www.sunautoservice.com/about-us/shop-talk/locations/beaverton-or/

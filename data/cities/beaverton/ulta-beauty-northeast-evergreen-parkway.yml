@@ -1,11 +1,11 @@
 id: 436494960
-type: way
+type: node
 latitude: 45.53595
 longitude: -122.86575
 postcode: "97006"
 city: Beaverton
-street: "Northeast Evergreen Parkway"
-housenumber: 11040
-phone: "+1 503-466-0206"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/beaverton-or-493"
+street: Northeast Evergreen Parkway
+housenumber: "11040"
+phone: +1 503-466-0206
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/beaverton-or-493

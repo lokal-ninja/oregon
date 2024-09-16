@@ -1,11 +1,11 @@
 id: 1009194542
-type: way
+type: node
 latitude: 43.79879
 longitude: -123.04778
 postcode: "97424"
 city: Cottage Grove
-street: "North Gateway Boulevard"
-housenumber: 160
-phone: "+1 541 942 9634"
-opening_hours: "by appointment"
+street: North Gateway Boulevard
+housenumber: "160"
+phone: +1 541 942 9634
+opening_hours: '"by appointment"'
 website: ""

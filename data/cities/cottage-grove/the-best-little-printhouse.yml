@@ -1,11 +1,11 @@
 id: 1107892873
-type: way
+type: node
 latitude: 43.79986
 longitude: -123.05563
 postcode: "97424"
 city: Cottage Grove
-street: "Vincent Place"
-housenumber: 1210
-phone: "+1 541 942 7700"
-opening_hours: "Mo-Fr 10:00-16:00"
+street: Vincent Place
+housenumber: "1210"
+phone: +1 541 942 7700
+opening_hours: Mo-Fr 10:00-16:00
 website: ""

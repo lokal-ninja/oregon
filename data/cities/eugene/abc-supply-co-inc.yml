@@ -1,11 +1,11 @@
 id: 1119326637
-type: way
+type: node
 latitude: 44.05315
 longitude: -123.16563
 postcode: "97402"
 city: Eugene
-street: "West 6th Avenue"
-housenumber: 4227
+street: West 6th Avenue
+housenumber: "4227"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:00"
+opening_hours: Mo-Fr 07:00-16:00
 website: ""

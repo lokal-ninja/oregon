@@ -1,11 +1,11 @@
 id: 419793157
-type: way
+type: node
 latitude: 44.88801
 longitude: -123.03307
 postcode: "97302"
 city: Salem
-street: "Commercial Street Southeast"
-housenumber: 4596
-phone: "+1 503-362-3729"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00"
-website: "https://www.sherwin-williams.com/store-locator/paint-store/salem/or/8018/"
+street: Commercial Street Southeast
+housenumber: "4596"
+phone: +1 503-362-3729
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00
+website: https://www.sherwin-williams.com/store-locator/paint-store/salem/or/8018/

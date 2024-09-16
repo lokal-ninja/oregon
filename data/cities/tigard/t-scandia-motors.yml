@@ -1,11 +1,11 @@
 id: 336054422
-type: way
+type: node
 latitude: 45.42913
 longitude: -122.76803
 postcode: "97223"
 city: Tigard
-street: "Southwest Commercial Street"
-housenumber: 8848
+street: Southwest Commercial Street
+housenumber: "8848"
 phone: ""
 opening_hours: ""
 website: ""

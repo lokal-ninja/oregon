@@ -4,8 +4,8 @@ latitude: 44.05382
 longitude: -123.08847
 postcode: "97401"
 city: Eugene
-street: "East 5th Avenue"
-housenumber: 296
-phone: "+1 541 485 4659"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-19:00; Su 11:00-17:00"
-website: "https://eugenesfavoriteflorist.com"
+street: East 5th Avenue
+housenumber: "296"
+phone: +1 541 485 4659
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-19:00; Su 11:00-17:00
+website: https://eugenesfavoriteflorist.com

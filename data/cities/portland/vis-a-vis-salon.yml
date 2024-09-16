@@ -1,11 +1,11 @@
 id: 289802880
-type: way
+type: node
 latitude: 45.47759
 longitude: -122.69893
 postcode: "97239"
 city: Portland
-street: "Southwest Capitol Highway"
-housenumber: 6444
-phone: "+1-503-245-8366"
-opening_hours: "by appointment"
-website: "http://www.visavispdx.com/"
+street: Southwest Capitol Highway
+housenumber: "6444"
+phone: +1-503-245-8366
+opening_hours: '"by appointment"'
+website: http://www.visavispdx.com/

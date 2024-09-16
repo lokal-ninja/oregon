@@ -4,8 +4,8 @@ latitude: 46.18922
 longitude: -123.83142
 postcode: "97103"
 city: Astoria
-street: "Commercial Street"
-housenumber: 1116
-phone: "+1 503-325-5720"
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "https://finnware.com/"
+street: Commercial Street
+housenumber: "1116"
+phone: +1 503-325-5720
+opening_hours: Mo-Sa 10:00-17:00
+website: https://finnware.com/

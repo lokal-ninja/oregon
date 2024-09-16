@@ -4,8 +4,8 @@ latitude: 44.95129
 longitude: -123.03108
 postcode: "97301"
 city: salem
-street: "Broadway Street Northeast"
-housenumber: 1230
+street: Broadway Street Northeast
+housenumber: "1230"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00, Sa 10:00-17:00"
-website: "https://www.thenorthwesthub.org/"
+opening_hours: Tu-Fr 10:00-18:00, Sa 10:00-17:00
+website: https://www.thenorthwesthub.org/

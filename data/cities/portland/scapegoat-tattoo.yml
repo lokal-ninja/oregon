@@ -1,11 +1,11 @@
 id: 520427340
-type: way
+type: node
 latitude: 45.51942
 longitude: -122.65286
 postcode: "97214"
 city: Portland
-street: "Southeast Stark Street"
-housenumber: 1233
-phone: "+1 503 2324628"
+street: Southeast Stark Street
+housenumber: "1233"
+phone: +1 503 2324628
 opening_hours: ""
-website: "https://www.scapegoattattoo.com/"
+website: https://www.scapegoattattoo.com/

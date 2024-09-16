@@ -1,11 +1,11 @@
 id: 112283618
-type: way
+type: node
 latitude: 45.53222
 longitude: -122.56091
 postcode: "97220"
 city: Portland
-street: "Northeast Halsey Street"
-housenumber: 10010
-phone: "+1 503-408-4034"
-opening_hours: "Mo-Th 09:00-22:00; Fr 09:00-23:00; Sa 08:00-23:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/or/portland-1134.shtml"
+street: Northeast Halsey Street
+housenumber: "10010"
+phone: +1 503-408-4034
+opening_hours: Mo-Th 09:00-22:00; Fr 09:00-23:00; Sa 08:00-23:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/or/portland-1134.shtml

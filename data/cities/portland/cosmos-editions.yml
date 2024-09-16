@@ -1,11 +1,11 @@
 id: 349442336
-type: way
+type: node
 latitude: 45.46777
 longitude: -122.72407
 postcode: "97219"
 city: Portland
-street: "Southwest Maplewood Road"
-housenumber: 4504
+street: Southwest Maplewood Road
+housenumber: "4504"
 phone: ""
 opening_hours: ""
-website: "http://www.cosmoseditions.com/"
+website: http://www.cosmoseditions.com/

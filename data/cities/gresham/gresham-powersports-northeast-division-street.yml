@@ -1,11 +1,11 @@
 id: 40614648
-type: way
+type: node
 latitude: 45.5046
 longitude: -122.4006
 postcode: "97030"
 city: Gresham
-street: "Northeast Division Street"
-housenumber: 3150
-phone: "+1-503-912-0493"
+street: Northeast Division Street
+housenumber: "3150"
+phone: +1-503-912-0493
 opening_hours: ""
-website: "https://greshampowersports.com/+15039120493"
+website: https://greshampowersports.com/+15039120493

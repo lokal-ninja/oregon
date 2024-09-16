@@ -1,11 +1,11 @@
 id: 632734820
-type: way
+type: node
 latitude: 44.89922
 longitude: -123.03834
 postcode: "97302"
 city: Salem
-street: "Commercial Street Southeast"
-housenumber: 3932
-phone: "+1-503-364-8044"
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-17:00, Su 11:00-16:00"
-website: "https://www.theshutterbug.com/"
+street: Commercial Street Southeast
+housenumber: "3932"
+phone: +1-503-364-8044
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:00-17:00, Su 11:00-16:00
+website: https://www.theshutterbug.com/

@@ -1,11 +1,11 @@
 id: 176562439
-type: way
+type: node
 latitude: 44.02663
 longitude: -116.94032
 postcode: "97914"
 city: Ontario
-street: "East Idaho Avenue"
-housenumber: 1775
-phone: "+1 541-889-7400"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://www.walmart.com/store/1951/ontario-or/whats-new"
+street: East Idaho Avenue
+housenumber: "1775"
+phone: +1 541-889-7400
+opening_hours: Mo-Su 05:00-24:00
+website: https://www.walmart.com/store/1951/ontario-or/whats-new

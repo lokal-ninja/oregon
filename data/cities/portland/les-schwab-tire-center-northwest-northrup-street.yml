@@ -1,11 +1,11 @@
 id: 367748931
-type: way
+type: node
 latitude: 45.5309
 longitude: -122.68964
 postcode: "97209"
 city: Portland
-street: "Northwest Northrup Street"
-housenumber: 1804
+street: Northwest Northrup Street
+housenumber: "1804"
 phone: ""
 opening_hours: ""
 website: ""

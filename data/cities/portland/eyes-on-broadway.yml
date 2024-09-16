@@ -4,8 +4,8 @@ latitude: 45.53486
 longitude: -122.64209
 postcode: "97232"
 city: Portland
-street: "Northeast Broadway"
-housenumber: 2300
-phone: "+1-503-284-2300"
-opening_hours: "Mo-Fr 09:00-18:00; Tu 07:00-19:00; Sa 09:00-17:00"
-website: "https://www.eyesonbroadway.com/"
+street: Northeast Broadway
+housenumber: "2300"
+phone: +1-503-284-2300
+opening_hours: Mo-Fr 09:00-18:00; Tu 07:00-19:00; Sa 09:00-17:00
+website: https://www.eyesonbroadway.com/

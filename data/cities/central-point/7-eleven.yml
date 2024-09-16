@@ -1,11 +1,11 @@
 id: 962696553
-type: way
+type: node
 latitude: 42.37109
 longitude: -122.91493
-postcode: "97502-2245"
+postcode: 97502-2245
 city: Central Point
-street: "South Front Street"
-housenumber: 345
-phone: "+1 541-664-2211"
+street: South Front Street
+housenumber: "345"
+phone: +1 541-664-2211
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/or/central-point/345-s-front-st-18155"
+website: https://www.7-eleven.com/locations/or/central-point/345-s-front-st-18155

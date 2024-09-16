@@ -1,11 +1,11 @@
 id: 389078996
-type: way
+type: node
 latitude: 44.95634
 longitude: -124.01427
 postcode: "97367"
 city: Lincoln City
-street: "Southwest Highway 101"
-housenumber: 1605
+street: Southwest Highway 101
+housenumber: "1605"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 435572381
-type: way
+type: node
 latitude: 44.02751
 longitude: -121.3118
 postcode: "97702"
 city: Bend
-street: "South Highway 97"
-housenumber: 61334
-phone: "+1-541-383-7142"
+street: South Highway 97
+housenumber: "61334"
+phone: +1-541-383-7142
 opening_hours: ""
-website: "https://www.pendleton-usa.com/"
+website: https://www.pendleton-usa.com/

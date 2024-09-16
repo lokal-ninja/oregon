@@ -1,11 +1,11 @@
 id: 166803705
-type: way
+type: node
 latitude: 45.53524
 longitude: -122.68596
 postcode: "97209"
 city: Portland
-street: "Northwest Savier Street"
-housenumber: 1415
+street: Northwest Savier Street
+housenumber: "1415"
 phone: ""
 opening_hours: ""
-website: "http://www.magnumo.com/"
+website: http://www.magnumo.com/

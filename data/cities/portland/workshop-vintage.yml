@@ -1,11 +1,11 @@
 id: 409203900
-type: way
+type: node
 latitude: 45.55234
 longitude: -122.66709
 postcode: "97227"
 city: Portland
-street: "North Williams Avenue"
-housenumber: 4011
+street: North Williams Avenue
+housenumber: "4011"
 phone: ""
-opening_hours: "We-Mo 11:00-18:00"
-website: "https://www.workshopvintage.com/"
+opening_hours: We-Mo 11:00-18:00
+website: https://www.workshopvintage.com/

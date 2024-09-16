@@ -1,11 +1,11 @@
 id: 794874314
-type: way
+type: node
 latitude: 42.38178
 longitude: -122.857
 postcode: "97504"
 city: Medford
-street: "Grumman Drive"
-housenumber: 4606
-phone: "(541) 227-2298"
+street: Grumman Drive
+housenumber: "4606"
+phone: (541) 227-2298
 opening_hours: ""
-website: "https://www.lithiavwmedford.com/"
+website: https://www.lithiavwmedford.com/

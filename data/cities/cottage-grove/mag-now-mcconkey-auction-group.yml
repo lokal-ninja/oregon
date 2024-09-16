@@ -1,11 +1,11 @@
 id: 1254776010
-type: way
+type: node
 latitude: 43.8534
 longitude: -123.01667
 postcode: "97424"
 city: Cottage Grove
-street: "Sears Road"
-housenumber: 80614
-phone: "+1 541 515 8840;+1 509 244 4500"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://magauctions.com/magnow"
+street: Sears Road
+housenumber: "80614"
+phone: +1 541 515 8840;+1 509 244 4500
+opening_hours: Mo-Fr 08:00-17:00
+website: https://magauctions.com/magnow

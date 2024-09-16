@@ -1,11 +1,11 @@
 id: 199924650
-type: way
+type: node
 latitude: 44.0981
 longitude: -123.16973
 postcode: "97402"
 city: Eugene
-street: "Highway 99 North"
-housenumber: 2600
+street: Highway 99 North
+housenumber: "2600"
 phone: ""
 opening_hours: ""
 website: ""

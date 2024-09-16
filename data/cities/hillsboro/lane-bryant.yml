@@ -1,11 +1,11 @@
 id: 562048028
-type: way
+type: node
 latitude: 45.53653
 longitude: -122.87759
 postcode: "97124"
 city: Hillsboro
-street: "Northeast Allie Avenue"
-housenumber: 2280
-phone: "+1-503-207-7735"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.lanebryant.com/"
+street: Northeast Allie Avenue
+housenumber: "2280"
+phone: +1-503-207-7735
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.lanebryant.com/

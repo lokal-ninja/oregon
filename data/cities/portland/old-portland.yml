@@ -1,11 +1,11 @@
 id: 351734749
-type: way
+type: node
 latitude: 45.46441
 longitude: -122.64795
 postcode: "97202"
 city: Portland
-street: "Southeast Tacoma Street"
-housenumber: 1667
-phone: "+1-503-234-7380"
-opening_hours: "Tu-Su 10:00-18:00"
-website: "https://www.oldportlandhardware.com/"
+street: Southeast Tacoma Street
+housenumber: "1667"
+phone: +1-503-234-7380
+opening_hours: Tu-Su 10:00-18:00
+website: https://www.oldportlandhardware.com/

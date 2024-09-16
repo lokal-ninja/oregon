@@ -1,11 +1,11 @@
 id: 402044835
-type: way
+type: node
 latitude: 45.44705
 longitude: -122.76524
 postcode: "97223"
 city: Tigard
-street: "Southwest Hall Boulevard"
-housenumber: 10120
+street: Southwest Hall Boulevard
+housenumber: "10120"
 phone: ""
 opening_hours: ""
 website: ""

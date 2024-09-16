@@ -1,11 +1,11 @@
 id: 368094153
-type: way
+type: node
 latitude: 45.61125
 longitude: -122.68305
 postcode: "97217"
 city: Portland
-street: "North Parker Avenue"
-housenumber: 12135
+street: North Parker Avenue
+housenumber: "12135"
 phone: ""
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

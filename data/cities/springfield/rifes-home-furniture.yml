@@ -1,11 +1,11 @@
 id: 646515794
-type: way
+type: node
 latitude: 44.08038
 longitude: -123.04508
 postcode: "97477"
 city: Springfield
-street: "Gateway Loop"
-housenumber: 1186
+street: Gateway Loop
+housenumber: "1186"
 phone: ""
 opening_hours: ""
 website: ""

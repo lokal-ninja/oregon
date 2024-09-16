@@ -1,11 +1,11 @@
 id: 1165002664
-type: way
+type: node
 latitude: 43.6741
 longitude: -121.50008
 postcode: "97739"
 city: La Pine
-street: "Reed Road"
-housenumber: 16505
-phone: "+1 541 536 1145"
-opening_hours: "05:30-00:00"
+street: Reed Road
+housenumber: "16505"
+phone: +1 541 536 1145
+opening_hours: 05:30-00:00
 website: ""

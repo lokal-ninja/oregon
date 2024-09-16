@@ -1,11 +1,11 @@
 id: 1147484166
-type: way
+type: node
 latitude: 44.58828
 longitude: -123.25694
 postcode: "97330"
 city: Corvallis
-street: "Northwest Circle Boulevard"
-housenumber: 922
-phone: "+1-541-758-8005"
-opening_hours: "07:00-23:00"
-website: "https://www.marketofchoice.com/"
+street: Northwest Circle Boulevard
+housenumber: "922"
+phone: +1-541-758-8005
+opening_hours: 07:00-23:00
+website: https://www.marketofchoice.com/

@@ -1,11 +1,11 @@
 id: 369031433
-type: way
+type: node
 latitude: 45.43784
 longitude: -122.75443
 postcode: "97223"
 city: Tigard
-street: "Southwest Pacific Highway"
-housenumber: 11646
+street: Southwest Pacific Highway
+housenumber: "11646"
 phone: ""
 opening_hours: ""
-website: "http://www.tigardtransmissions.com/"
+website: http://www.tigardtransmissions.com/

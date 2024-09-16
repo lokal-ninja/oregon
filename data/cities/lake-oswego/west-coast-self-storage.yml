@@ -1,11 +1,11 @@
 id: 618110789
-type: way
+type: node
 latitude: 45.40066
 longitude: -122.73573
 postcode: "97035"
 city: Lake Oswego
-street: "Southwest Rosewood Street"
-housenumber: 5650
-phone: "+1-503-636-5050"
+street: Southwest Rosewood Street
+housenumber: "5650"
+phone: +1-503-636-5050
 opening_hours: ""
-website: "https://westcoastselfstorage.com/"
+website: https://westcoastselfstorage.com/

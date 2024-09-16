@@ -1,11 +1,11 @@
 id: 428700186
-type: way
+type: node
 latitude: 45.52814
 longitude: -122.69438
 postcode: "97209"
 city: Portland
-street: "Northwest 21st Avenue"
-housenumber: 724
-phone: "+1-503-477-7473"
+street: Northwest 21st Avenue
+housenumber: "724"
+phone: +1-503-477-7473
 opening_hours: ""
-website: "https://appelnouveausalon.com/"
+website: https://appelnouveausalon.com/

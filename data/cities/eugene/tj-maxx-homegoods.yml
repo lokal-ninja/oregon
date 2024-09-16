@@ -1,11 +1,11 @@
 id: 231947278
-type: way
+type: node
 latitude: 44.06376
 longitude: -123.07503
 postcode: "97401"
 city: Eugene
-street: "Coburg Road"
-housenumber: 235
-phone: "+1 541 242 0927"
-opening_hours: "09:30-21:30"
+street: Coburg Road
+housenumber: "235"
+phone: +1 541 242 0927
+opening_hours: 09:30-21:30
 website: ""

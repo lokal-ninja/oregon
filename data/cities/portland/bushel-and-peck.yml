@@ -1,11 +1,11 @@
 id: 40478341
-type: way
+type: node
 latitude: 45.551
 longitude: -122.66196
 postcode: "97212"
 city: Portland
-street: "Northeast Martin Luther King Junior Boulevard"
-housenumber: 3907
+street: Northeast Martin Luther King Junior Boulevard
+housenumber: "3907"
 phone: ""
 opening_hours: ""
-website: "https://www.bushelandpeckbakeshop.com/"
+website: https://www.bushelandpeckbakeshop.com/

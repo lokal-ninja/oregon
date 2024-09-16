@@ -1,11 +1,11 @@
 id: 542977158
-type: way
+type: node
 latitude: 45.49706
 longitude: -122.6117
 postcode: "97206"
 city: Portland
-street: "Southeast Foster Road"
-housenumber: 4938
-phone: "+1-503-777-9008"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://ck-nails-hair.business.site/"
+street: Southeast Foster Road
+housenumber: "4938"
+phone: +1-503-777-9008
+opening_hours: Mo-Sa 10:00-19:00
+website: https://ck-nails-hair.business.site/

@@ -1,11 +1,11 @@
 id: 317022799
-type: way
+type: node
 latitude: 45.47606
 longitude: -122.672
 postcode: "97239"
 city: Portland
-street: "South Macadam Avenue"
-housenumber: 6655
-phone: "+1-503-246-9800"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-17:00"
-website: "https://www.macadamfloors.com/"
+street: South Macadam Avenue
+housenumber: "6655"
+phone: +1-503-246-9800
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-17:00
+website: https://www.macadamfloors.com/

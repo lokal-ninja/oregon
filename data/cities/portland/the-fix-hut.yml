@@ -1,11 +1,11 @@
 id: 411513946
-type: way
+type: node
 latitude: 45.55888
 longitude: -122.63458
 postcode: "97211"
 city: Portland
-street: "Northeast Alberta Street"
-housenumber: 3008
-phone: "+1-503-442-2885"
+street: Northeast Alberta Street
+housenumber: "3008"
+phone: +1-503-442-2885
 opening_hours: ""
-website: "https://thefixhut.com/"
+website: https://thefixhut.com/

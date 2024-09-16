@@ -1,11 +1,11 @@
 id: 596900565
-type: way
+type: node
 latitude: 45.56585
 longitude: -117.91706
 postcode: "97827"
 city: Elgin
-street: "Albany Street"
-housenumber: 785
+street: Albany Street
+housenumber: "785"
 phone: ""
 opening_hours: ""
 website: ""

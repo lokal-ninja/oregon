@@ -1,11 +1,11 @@
 id: 495750030
-type: way
+type: node
 latitude: 45.53526
 longitude: -122.90376
 postcode: "97124"
 city: Hillsboro
-street: "Northeast Butler Street"
-housenumber: 7300
-phone: "+1-503-726-5900"
-opening_hours: "Mo-Fr 08:00-17:30; We 08:00-18:30"
-website: "https://www.oregon.aaa.com/"
+street: Northeast Butler Street
+housenumber: "7300"
+phone: +1-503-726-5900
+opening_hours: Mo-Fr 08:00-17:30; We 08:00-18:30
+website: https://www.oregon.aaa.com/

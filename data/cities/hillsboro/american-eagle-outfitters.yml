@@ -1,11 +1,11 @@
 id: 81348218
-type: way
+type: node
 latitude: 45.53728
 longitude: -122.8776
 postcode: "97124"
 city: Hillsboro
-street: "Northeast Allie Avenue"
-housenumber: 2265
-phone: "+1-503-533-9573"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ae.com/"
+street: Northeast Allie Avenue
+housenumber: "2265"
+phone: +1-503-533-9573
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ae.com/

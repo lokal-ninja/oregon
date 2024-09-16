@@ -1,11 +1,11 @@
 id: 146527973
-type: way
+type: node
 latitude: 44.58952
 longitude: -123.25094
 postcode: "97330"
 city: Corvallis
-street: "Northeast Circle Boulevard"
-housenumber: 595
+street: Northeast Circle Boulevard
+housenumber: "595"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 368703554
-type: way
+type: node
 latitude: 45.54377
 longitude: -122.38997
 postcode: "97060"
 city: Troutdale
-street: "257th Way"
-housenumber: 450
-phone: "+1-503-491-9336"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-19:00"
-website: "https://www.coach.com/stores/outlets/or/troutdale/450-nw-257th-ave"
+street: 257th Way
+housenumber: "450"
+phone: +1-503-491-9336
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-19:00
+website: https://www.coach.com/stores/outlets/or/troutdale/450-nw-257th-ave

@@ -1,11 +1,11 @@
 id: 411574149
-type: way
+type: node
 latitude: 45.55912
 longitude: -122.63515
 postcode: "97211"
 city: Portland
-street: "Northeast Alberta Street"
-housenumber: 2929
+street: Northeast Alberta Street
+housenumber: "2929"
 phone: ""
 opening_hours: ""
-website: "https://claudiostarzakjewelry.com/"
+website: https://claudiostarzakjewelry.com/

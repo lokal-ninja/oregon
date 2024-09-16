@@ -1,11 +1,11 @@
 id: 314810018
-type: way
+type: node
 latitude: 45.55501
 longitude: -122.83545
 postcode: "97229"
 city: Portland
-street: "Northwest Bethany Boulevard"
-housenumber: 4816
-phone: "+1-503-439-9014"
-opening_hours: "08:00-24:00"
-website: "https://www.walgreens.com/locator/walgreens-4816+nw+bethany+blvd-portland-or-97229/id=1082"
+street: Northwest Bethany Boulevard
+housenumber: "4816"
+phone: +1-503-439-9014
+opening_hours: 08:00-24:00
+website: https://www.walgreens.com/locator/walgreens-4816+nw+bethany+blvd-portland-or-97229/id=1082

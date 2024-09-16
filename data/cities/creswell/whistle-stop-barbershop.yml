@@ -1,11 +1,11 @@
 id: 1312982301
-type: way
+type: node
 latitude: 43.9182
 longitude: -123.01642
 postcode: "97426"
 city: Creswell
-street: "East Oregon Avenue"
-housenumber: 
+street: East Oregon Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

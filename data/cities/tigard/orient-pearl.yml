@@ -1,11 +1,11 @@
 id: 456654796
-type: way
+type: node
 latitude: 45.43133
 longitude: -122.77057
 postcode: "97223"
 city: Tigard
-street: "Southwest Main Street"
-housenumber: 12297
+street: Southwest Main Street
+housenumber: "12297"
 phone: ""
 opening_hours: ""
 website: ""

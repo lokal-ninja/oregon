@@ -1,11 +1,11 @@
 id: 679574615
-type: way
+type: node
 latitude: 44.22017
 longitude: -123.20547
 postcode: "97448"
 city: Junction City
-street: "West 7th Avenue"
-housenumber: 480
+street: West 7th Avenue
+housenumber: "480"
 phone: ""
 opening_hours: ""
 website: ""

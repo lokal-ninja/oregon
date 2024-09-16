@@ -1,11 +1,11 @@
 id: 452553735
-type: way
+type: node
 latitude: 44.02286
 longitude: -123.08134
 postcode: "97405"
 city: Eugene
-street: "Hilyard Street"
-housenumber: 3075
-phone: "+1 541-687-1742"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://local.albertsons.com/or/eugene/3075-hilyard-st.html"
+street: Hilyard Street
+housenumber: "3075"
+phone: +1 541-687-1742
+opening_hours: Mo-Su 06:00-24:00
+website: https://local.albertsons.com/or/eugene/3075-hilyard-st.html

@@ -1,11 +1,11 @@
 id: 168720892
-type: way
+type: node
 latitude: 42.19865
 longitude: -122.7159
 postcode: "97520"
 city: Ashland
-street: "North Main Street"
-housenumber: 96
-phone: "​(541) 708.6718"
-opening_hours: "Th-Su 11:00-17:00"
-website: "https://www.lovejoystearoom-ashland.com/"
+street: North Main Street
+housenumber: "96"
+phone: ​(541) 708.6718
+opening_hours: Th-Su 11:00-17:00
+website: https://www.lovejoystearoom-ashland.com/

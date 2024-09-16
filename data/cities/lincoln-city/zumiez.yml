@@ -1,11 +1,11 @@
 id: 1018266204
-type: way
+type: node
 latitude: 44.95815
 longitude: -124.01112
 postcode: "97367"
 city: Lincoln City
-street: "Southeast East Devils Lake Road"
-housenumber: 1500
-phone: "+1 541 557 1904"
+street: Southeast East Devils Lake Road
+housenumber: "1500"
+phone: +1 541 557 1904
 opening_hours: ""
 website: ""

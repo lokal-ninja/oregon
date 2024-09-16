@@ -1,11 +1,11 @@
 id: 421511788
-type: way
+type: node
 latitude: 45.49623
 longitude: -122.62992
 postcode: "97202"
 city: Portland
-street: "Southeast 33rd Place"
-housenumber: 3628
-phone: "+1-503-764-2390"
+street: Southeast 33rd Place
+housenumber: "3628"
+phone: +1-503-764-2390
 opening_hours: ""
-website: "https://www.cycletunepdx.com/"
+website: https://www.cycletunepdx.com/

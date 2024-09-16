@@ -1,11 +1,11 @@
 id: 394480129
-type: way
+type: node
 latitude: 44.11298
 longitude: -123.18575
 postcode: "97402"
 city: Eugene
-street: "Airport Road"
-housenumber: 29512
-phone: "+1 541 342 5317"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 09:00-15:00"
-website: "https://www.cascadetruckbody.com"
+street: Airport Road
+housenumber: "29512"
+phone: +1 541 342 5317
+opening_hours: Mo-Fr 07:30-17:00; Sa 09:00-15:00
+website: https://www.cascadetruckbody.com

@@ -1,11 +1,11 @@
 id: 367545412
-type: way
+type: node
 latitude: 45.55901
 longitude: -122.64612
 postcode: "97211"
 city: Portland
-street: "Northeast Alberta Street"
-housenumber: 1834
-phone: "+1-503-335-8800"
-opening_hours: "11:00-19:00"
-website: "https://www.tradeupmusic.com/"
+street: Northeast Alberta Street
+housenumber: "1834"
+phone: +1-503-335-8800
+opening_hours: 11:00-19:00
+website: https://www.tradeupmusic.com/

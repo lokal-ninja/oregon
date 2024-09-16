@@ -1,11 +1,11 @@
 id: 768635797
-type: way
+type: node
 latitude: 44.04772
 longitude: -123.13818
 postcode: "97402"
 city: Eugene
-street: "West 11th Avenue"
-housenumber: 3012
-phone: "541.345.7435"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "http://www.mgcollisionspecialists.com/"
+street: West 11th Avenue
+housenumber: "3012"
+phone: 541.345.7435
+opening_hours: Mo-Fr 07:00-17:00
+website: http://www.mgcollisionspecialists.com/

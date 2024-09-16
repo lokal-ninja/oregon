@@ -1,11 +1,11 @@
 id: 405964625
-type: way
+type: node
 latitude: 45.52789
 longitude: -122.82471
 postcode: "97229"
 city: Portland
-street: "Northwest Science Park Drive"
-housenumber: 14207
+street: Northwest Science Park Drive
+housenumber: "14207"
 phone: ""
 opening_hours: ""
-website: "https://www.pdr01.com/"
+website: https://www.pdr01.com/

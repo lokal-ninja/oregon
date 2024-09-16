@@ -1,11 +1,11 @@
 id: 1137808484
-type: way
+type: node
 latitude: 43.91734
 longitude: -123.01698
 postcode: "97426"
 city: Creswell
-street: "East Oregon Avenue"
-housenumber: 
-phone: "+1 541 946 5052"
-opening_hours: "11:00-20:00"
+street: East Oregon Avenue
+housenumber: ""
+phone: +1 541 946 5052
+opening_hours: 11:00-20:00
 website: ""

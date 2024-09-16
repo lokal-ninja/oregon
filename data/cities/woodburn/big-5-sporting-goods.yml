@@ -1,11 +1,11 @@
 id: 432512930
-type: way
+type: node
 latitude: 45.15218
 longitude: -122.83301
 postcode: "97071"
 city: Woodburn
-street: "Mount Hood Avenue"
-housenumber: 1575
-phone: "+1-503-982-5341"
-opening_hours: "Mo-Th 10:00-21:00; Fr 09:00-22:00; Sa 09:00-21:00; Su 09:30-20:00"
-website: "https://www.big5sportinggoods.com/"
+street: Mount Hood Avenue
+housenumber: "1575"
+phone: +1-503-982-5341
+opening_hours: Mo-Th 10:00-21:00; Fr 09:00-22:00; Sa 09:00-21:00; Su 09:30-20:00
+website: https://www.big5sportinggoods.com/

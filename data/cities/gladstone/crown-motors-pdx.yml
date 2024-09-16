@@ -1,11 +1,11 @@
 id: 348352029
-type: way
+type: node
 latitude: 45.38043
 longitude: -122.58411
 postcode: "97027"
 city: Gladstone
-street: "82nd Drive"
-housenumber: 90
+street: 82nd Drive
+housenumber: "90"
 phone: ""
 opening_hours: ""
-website: "http://www.pactradeinc.com/"
+website: http://www.pactradeinc.com/

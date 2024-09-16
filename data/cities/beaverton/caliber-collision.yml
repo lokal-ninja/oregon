@@ -1,11 +1,11 @@
 id: 248148915
-type: way
+type: node
 latitude: 45.4871
 longitude: -122.81778
 postcode: "97005"
 city: Beaverton
-street: "Southwest Rose Lane"
-housenumber: 4400
+street: Southwest Rose Lane
+housenumber: "4400"
 phone: ""
 opening_hours: ""
 website: ""

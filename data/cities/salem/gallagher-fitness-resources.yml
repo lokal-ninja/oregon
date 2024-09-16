@@ -4,8 +4,8 @@ latitude: 44.94089
 longitude: -123.04047
 postcode: "97301"
 city: Salem
-street: "Commercial Street Northeast"
-housenumber: 135
-phone: "+1 503-364-4198"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00"
-website: "https://www.activesalem.com/"
+street: Commercial Street Northeast
+housenumber: "135"
+phone: +1 503-364-4198
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00
+website: https://www.activesalem.com/

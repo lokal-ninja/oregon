@@ -1,11 +1,11 @@
 id: 755371439
-type: way
+type: node
 latitude: 44.04898
 longitude: -123.12258
 postcode: "97402"
 city: Eugene
-street: "Garfield Street"
-housenumber: 977
+street: Garfield Street
+housenumber: "977"
 phone: ""
 opening_hours: ""
 website: ""

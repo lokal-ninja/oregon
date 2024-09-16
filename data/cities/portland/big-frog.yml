@@ -4,8 +4,8 @@ latitude: 45.52317
 longitude: -122.69574
 postcode: "97210"
 city: Portland
-street: "West Burnside Street"
-housenumber: 2168
-phone: "+1-971-271-7191"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 12:00-17:00"
-website: "https://www.bigfrog.com/"
+street: West Burnside Street
+housenumber: "2168"
+phone: +1-971-271-7191
+opening_hours: Mo-Fr 09:00-19:00; Sa 12:00-17:00
+website: https://www.bigfrog.com/

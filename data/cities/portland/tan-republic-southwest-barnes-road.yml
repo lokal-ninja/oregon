@@ -1,11 +1,11 @@
 id: 550744532
-type: way
+type: node
 latitude: 45.51494
 longitude: -122.75486
 postcode: "97225"
 city: Portland
-street: "Southwest Barnes Road"
-housenumber: 7545
-phone: "+1-503-432-8501"
-opening_hours: "Mo-Fr 10:00-21:00; Sa,Su 10:00-18:00"
-website: "https://www.tanrepublic.com/"
+street: Southwest Barnes Road
+housenumber: "7545"
+phone: +1-503-432-8501
+opening_hours: Mo-Fr 10:00-21:00; Sa,Su 10:00-18:00
+website: https://www.tanrepublic.com/

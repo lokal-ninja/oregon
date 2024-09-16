@@ -1,11 +1,11 @@
 id: 1117005390
-type: way
+type: node
 latitude: 44.05872
 longitude: -122.99925
 postcode: "97477"
 city: Springfield
-street: "Mohawk Boulevard"
-housenumber: 1519
-phone: "+1 541 746 5501"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://tradingbloc.crystalcommerce.com/"
+street: Mohawk Boulevard
+housenumber: "1519"
+phone: +1 541 746 5501
+opening_hours: Mo-Sa 10:00-18:00
+website: https://tradingbloc.crystalcommerce.com/

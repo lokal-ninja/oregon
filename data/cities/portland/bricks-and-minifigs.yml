@@ -1,11 +1,11 @@
 id: 486880131
-type: way
+type: node
 latitude: 45.53053
 longitude: -122.63336
 postcode: "97232"
 city: Portland
-street: "Northeast Sandy Boulevard"
-housenumber: 3040
-phone: "503-908-3639"
+street: Northeast Sandy Boulevard
+housenumber: "3040"
+phone: 503-908-3639
 opening_hours: ""
-website: "https://bricksandminifigs.com/portland-or/"
+website: https://bricksandminifigs.com/portland-or/

@@ -1,11 +1,11 @@
 id: 684045866
-type: way
+type: node
 latitude: 44.93101
 longitude: -123.30627
 postcode: "97338"
 city: Dallas
-street: "Northeast Kings Valley Highway"
-housenumber: 321
-phone: "+1 503-623-0490"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walmart.com/store/2315-dallas-or"
+street: Northeast Kings Valley Highway
+housenumber: "321"
+phone: +1 503-623-0490
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walmart.com/store/2315-dallas-or

@@ -1,11 +1,11 @@
 id: 200655002
-type: way
+type: node
 latitude: 44.04529
 longitude: -123.02071
 postcode: "97477"
 city: Springfield
-street: "South A Street"
-housenumber: 415
+street: South A Street
+housenumber: "415"
 phone: ""
 opening_hours: ""
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-springfield-or-10214105/"
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-springfield-or-10214105/

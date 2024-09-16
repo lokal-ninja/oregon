@@ -1,11 +1,11 @@
 id: 331412139
-type: way
+type: node
 latitude: 45.48801
 longitude: -122.78978
 postcode: "97005"
 city: Beaverton
-street: "Southwest 110th Avenue"
-housenumber: 4440
-phone: "+1-503-672-7486"
+street: Southwest 110th Avenue
+housenumber: "4440"
+phone: +1-503-672-7486
 opening_hours: ""
-website: "https://www.samjingifts.com/"
+website: https://www.samjingifts.com/

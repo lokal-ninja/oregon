@@ -4,8 +4,8 @@ latitude: 42.42105
 longitude: -123.33631
 postcode: "97527"
 city: Grants Pass
-street: "Williams Highway"
-housenumber: 1640
-phone: "+1 541-476-1242"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://local.safeway.com/safeway/or/grants-pass/1640-williams-hwy.html"
+street: Williams Highway
+housenumber: "1640"
+phone: +1 541-476-1242
+opening_hours: Mo-Su 07:00-23:00
+website: https://local.safeway.com/safeway/or/grants-pass/1640-williams-hwy.html

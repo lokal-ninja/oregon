@@ -1,11 +1,11 @@
 id: 397340739
-type: way
+type: node
 latitude: 43.7934
 longitude: -123.06162
 postcode: "97424"
 city: Cottage Grove
-street: "Highway 99"
-housenumber: 424
-phone: "+1 541 942 8022"
+street: Highway 99
+housenumber: "424"
+phone: +1 541 942 8022
 opening_hours: ""
-website: "http://automotivespecialties.biz"
+website: http://automotivespecialties.biz

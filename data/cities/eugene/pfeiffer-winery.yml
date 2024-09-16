@@ -1,11 +1,11 @@
 id: 1012479106
-type: way
+type: node
 latitude: 44.0535
 longitude: -123.09029
 postcode: "97401"
 city: Eugene
-street: "Pearl Street"
-housenumber: 590
-phone: "+1 541 998 2828;+1 541 234 5197"
-opening_hours: "12:00-20:00"
-website: "https://pfeifferwinery.com"
+street: Pearl Street
+housenumber: "590"
+phone: +1 541 998 2828;+1 541 234 5197
+opening_hours: 12:00-20:00
+website: https://pfeifferwinery.com

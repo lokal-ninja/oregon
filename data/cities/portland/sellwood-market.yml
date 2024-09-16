@@ -1,11 +1,11 @@
 id: 335994728
-type: way
+type: node
 latitude: 45.468
 longitude: -122.65327
 postcode: "97202"
 city: Portland
-street: "Southeast 13th Avenue"
-housenumber: 7835
+street: Southeast 13th Avenue
+housenumber: "7835"
 phone: ""
 opening_hours: ""
 website: ""

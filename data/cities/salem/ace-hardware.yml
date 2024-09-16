@@ -1,11 +1,11 @@
 id: 546134376
-type: way
+type: node
 latitude: 44.94951
 longitude: -123.05076
 postcode: "97304"
 city: Salem
-street: "Wallace Road Northwest"
-housenumber: 820
-phone: "+1 503-363-3669"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
+street: Wallace Road Northwest
+housenumber: "820"
+phone: +1 503-363-3669
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
 website: ""

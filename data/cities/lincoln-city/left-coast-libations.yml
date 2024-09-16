@@ -1,11 +1,11 @@
 id: 1017781077
-type: way
+type: node
 latitude: 44.94314
 longitude: -124.02112
 postcode: "97367"
 city: Lincoln City
-street: "Southwest Highway 101"
-housenumber: 3203
+street: Southwest Highway 101
+housenumber: "3203"
 phone: ""
 opening_hours: ""
-website: "https://www.oregoncoast.org/directory/left-coast-libations/"
+website: https://www.oregoncoast.org/directory/left-coast-libations/

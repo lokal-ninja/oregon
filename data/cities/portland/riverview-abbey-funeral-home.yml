@@ -1,11 +1,11 @@
 id: 69922398
-type: way
+type: node
 latitude: 45.46688
 longitude: -122.67444
 postcode: "97219"
 city: Portland
-street: "South Taylors Ferry Road"
-housenumber: 319
-phone: "+1-503-244-7577"
+street: South Taylors Ferry Road
+housenumber: "319"
+phone: +1-503-244-7577
 opening_hours: ""
-website: "https://www.riverviewabbey.com/"
+website: https://www.riverviewabbey.com/

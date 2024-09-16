@@ -1,11 +1,11 @@
 id: 432942938
-type: way
+type: node
 latitude: 45.36526
 longitude: -122.83571
 postcode: "97140"
 city: Sherwood
-street: "Southwest Langer Farms Parkway"
-housenumber: 21370
-phone: "+1-503-405-8904"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-19:00"
-website: "https://elementsmassage.com/"
+street: Southwest Langer Farms Parkway
+housenumber: "21370"
+phone: +1-503-405-8904
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-19:00
+website: https://elementsmassage.com/

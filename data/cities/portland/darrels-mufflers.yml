@@ -1,11 +1,11 @@
 id: 369158479
-type: way
+type: node
 latitude: 45.49573
 longitude: -122.57815
 postcode: "97266"
 city: Portland
-street: "Southeast 82nd Avenue"
-housenumber: 3630
+street: Southeast 82nd Avenue
+housenumber: "3630"
 phone: ""
 opening_hours: ""
 website: ""

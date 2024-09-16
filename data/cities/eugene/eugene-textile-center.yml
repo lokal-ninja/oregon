@@ -1,11 +1,11 @@
 id: 793101956
-type: way
+type: node
 latitude: 44.06354
 longitude: -123.13803
 postcode: "97402"
 city: Eugene
-street: "Roosevelt Boulevard"
-housenumber: 2750
-phone: "+1 541 688 1565"
-opening_hours: "Mo-Sa 10:00-17:30"
-website: "https://www.eugenetextilecenter.com/"
+street: Roosevelt Boulevard
+housenumber: "2750"
+phone: +1 541 688 1565
+opening_hours: Mo-Sa 10:00-17:30
+website: https://www.eugenetextilecenter.com/

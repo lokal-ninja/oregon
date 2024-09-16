@@ -1,11 +1,11 @@
 id: 496025770
-type: way
+type: node
 latitude: 45.36947
 longitude: -122.84218
 postcode: "97140"
 city: Sherwood
-street: "Southwest Tualatin Sherwood Road"
-housenumber: 16055
-phone: "+1-503-925-1798"
-opening_hours: "Mo-Sa 09:00-20:00; Su 11:00-19:00"
-website: "https://www.att.com/"
+street: Southwest Tualatin Sherwood Road
+housenumber: "16055"
+phone: +1-503-925-1798
+opening_hours: Mo-Sa 09:00-20:00; Su 11:00-19:00
+website: https://www.att.com/

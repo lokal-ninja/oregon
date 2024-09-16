@@ -1,11 +1,11 @@
 id: 418198688
-type: way
+type: node
 latitude: 45.38247
 longitude: -122.7452
 postcode: "97062"
 city: Tualatin
-street: "Southwest Nyberg Street"
-housenumber: 6630
-phone: "+1 503-692-0822"
+street: Southwest Nyberg Street
+housenumber: "6630"
+phone: +1 503-692-0822
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/or/tualatin/6630-sw-nyberg-23726"
+website: https://www.7-eleven.com/locations/or/tualatin/6630-sw-nyberg-23726

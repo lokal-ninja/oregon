@@ -4,8 +4,8 @@ latitude: 44.56805
 longitude: -123.26052
 postcode: "97330"
 city: Corvallis
-street: "Northwest 4th Street"
-housenumber: 414
+street: Northwest 4th Street
+housenumber: "414"
 phone: ""
-opening_hours: "07:00-22:00"
-website: "https://orderog.com/"
+opening_hours: 07:00-22:00
+website: https://orderog.com/

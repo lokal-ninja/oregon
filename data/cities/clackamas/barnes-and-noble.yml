@@ -1,11 +1,11 @@
 id: 551563450
-type: way
+type: node
 latitude: 45.43546
 longitude: -122.57158
 postcode: "97086"
 city: Clackamas
-street: "Southeast 82nd Avenue"
-housenumber: 12000
+street: Southeast 82nd Avenue
+housenumber: "12000"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00; Fr,Sa 09:00-22:00"
+opening_hours: Mo-Su 09:00-21:00; Fr,Sa 09:00-22:00
 website: ""

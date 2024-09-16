@@ -1,11 +1,11 @@
 id: 551155022
-type: way
+type: node
 latitude: 42.04958
 longitude: -124.25706
 postcode: "97415"
 city: Brookings
-street: "Oregon Coast Highway"
-housenumber: 16261
+street: Oregon Coast Highway
+housenumber: "16261"
 phone: "+15418133203"
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

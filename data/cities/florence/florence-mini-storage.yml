@@ -1,11 +1,11 @@
 id: 463559872
-type: way
+type: node
 latitude: 44.00167
 longitude: -124.10166
 postcode: "97439"
 city: Florence
-street: "Highway 101"
-housenumber: 4099
-phone: "+1 541 997 8557"
+street: Highway 101
+housenumber: "4099"
+phone: +1 541 997 8557
 opening_hours: ""
-website: "https://www.florenceoregonstorage.com/index2.html"
+website: https://www.florenceoregonstorage.com/index2.html

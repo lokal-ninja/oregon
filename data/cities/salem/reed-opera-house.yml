@@ -1,11 +1,11 @@
 id: 201329302
-type: way
+type: node
 latitude: 44.94117
 longitude: -123.03915
 postcode: ""
 city: Salem
-street: "Liberty Street Northeast"
-housenumber: 189
-phone: "+1 503-391-4481"
-opening_hours: "Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Mo 09:00-20:00"
-website: "https://thereedsalem.com/"
+street: Liberty Street Northeast
+housenumber: "189"
+phone: +1 503-391-4481
+opening_hours: Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Mo 09:00-20:00
+website: https://thereedsalem.com/

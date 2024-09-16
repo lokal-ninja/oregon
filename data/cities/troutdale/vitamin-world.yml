@@ -1,11 +1,11 @@
 id: 561388522
-type: way
+type: node
 latitude: 45.543
 longitude: -122.38792
 postcode: "97060"
 city: Troutdale
-street: "257th Way"
-housenumber: 450
-phone: "+1-503-666-2380"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-19:00"
-website: "https://www.vitaminworld.com/"
+street: 257th Way
+housenumber: "450"
+phone: +1-503-666-2380
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-19:00
+website: https://www.vitaminworld.com/

@@ -1,11 +1,11 @@
 id: 1116986352
-type: way
+type: node
 latitude: 44.05595
 longitude: -122.99965
 postcode: "97477"
 city: Springfield
-street: "Centennial Boulevard"
-housenumber: 1705
+street: Centennial Boulevard
+housenumber: "1705"
 phone: ""
-opening_hours: "by appointment"
-website: "https://www.pnwbrowstudio.com"
+opening_hours: '"by appointment"'
+website: https://www.pnwbrowstudio.com

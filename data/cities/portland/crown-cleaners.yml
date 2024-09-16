@@ -1,11 +1,11 @@
 id: 287980568
-type: way
+type: node
 latitude: 45.46238
 longitude: -122.68459
 postcode: "97219"
 city: Portland
-street: "Southwest Terwilliger Boulevard"
-housenumber: 8602
-phone: "+1-503-246-7333"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-16:00"
+street: Southwest Terwilliger Boulevard
+housenumber: "8602"
+phone: +1-503-246-7333
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-16:00
 website: ""

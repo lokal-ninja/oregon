@@ -1,11 +1,11 @@
 id: 303416922
-type: way
+type: node
 latitude: 44.05832
 longitude: -121.3147
 postcode: "97703"
 city: Bend
-street: "Northwest Wall Street"
-housenumber: 818
-phone: "+1-541-617-9866"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-20:00"
-website: "https://powellsss.com/"
+street: Northwest Wall Street
+housenumber: "818"
+phone: +1-541-617-9866
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-20:00
+website: https://powellsss.com/

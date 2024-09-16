@@ -1,11 +1,11 @@
 id: 933966179
-type: way
+type: node
 latitude: 42.27438
 longitude: -122.80736
 postcode: "97535"
 city: Phoenix
-street: "Pear Tree Lane"
-housenumber: 400
-phone: "+1-541-535-7088"
-opening_hours: "Mo-Su 09:00-17:00"
-website: "https://peartreestorage.com/"
+street: Pear Tree Lane
+housenumber: "400"
+phone: +1-541-535-7088
+opening_hours: Mo-Su 09:00-17:00
+website: https://peartreestorage.com/

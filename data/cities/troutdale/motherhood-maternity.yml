@@ -1,11 +1,11 @@
 id: 561388533
-type: way
+type: node
 latitude: 45.54219
 longitude: -122.38793
 postcode: "97060"
 city: Troutdale
-street: "Northwest 257th Avenue"
-housenumber: 450
-phone: "+1-503-618-1685"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-19:00"
-website: "https://www.motherhood.com/"
+street: Northwest 257th Avenue
+housenumber: "450"
+phone: +1-503-618-1685
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-19:00
+website: https://www.motherhood.com/

@@ -1,11 +1,11 @@
 id: 485617491
-type: way
+type: node
 latitude: 44.62931
 longitude: -123.07184
 postcode: "97322"
 city: Albany
-street: "Waverly Drive Southeast"
-housenumber: 1307
-phone: "+1-541-924-3808"
-opening_hours: "08:00-21:00"
-website: "https://www.dollartree.com/locations/or/albany/1508/"
+street: Waverly Drive Southeast
+housenumber: "1307"
+phone: +1-541-924-3808
+opening_hours: 08:00-21:00
+website: https://www.dollartree.com/locations/or/albany/1508/

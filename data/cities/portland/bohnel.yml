@@ -1,11 +1,11 @@
 id: 306350260
-type: way
+type: node
 latitude: 45.47909
 longitude: -122.67311
 postcode: "97239"
 city: Portland
-street: "South Macadam Avenue"
-housenumber: 6141
-phone: "+1-503-246-1722"
+street: South Macadam Avenue
+housenumber: "6141"
+phone: +1-503-246-1722
 opening_hours: ""
 website: ""

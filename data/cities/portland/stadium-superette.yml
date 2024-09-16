@@ -1,11 +1,11 @@
 id: 379853842
-type: way
+type: node
 latitude: 45.52306
 longitude: -122.69266
 postcode: "97209"
 city: Portland
-street: "West Burnside Street"
-housenumber: 2010
+street: West Burnside Street
+housenumber: "2010"
 phone: ""
-opening_hours: "Mo-Th 11:00-23:00; Fr,Sa 11:00-25:00"
+opening_hours: Mo-Th 11:00-23:00; Fr,Sa 11:00-25:00
 website: ""

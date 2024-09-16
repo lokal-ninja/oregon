@@ -1,11 +1,11 @@
 id: 406649679
-type: way
+type: node
 latitude: 45.50742
 longitude: -122.65546
 postcode: "97214"
 city: Portland
-street: "Southeast 10th Avenue"
-housenumber: 2130
+street: Southeast 10th Avenue
+housenumber: "2130"
 phone: ""
 opening_hours: ""
-website: "https://scoutbooks.com/"
+website: https://scoutbooks.com/

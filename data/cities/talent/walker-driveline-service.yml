@@ -1,11 +1,11 @@
 id: 221128188
-type: way
+type: node
 latitude: 42.23701
 longitude: -122.7687
 postcode: "97540"
 city: Talent
-street: "South Pacific Highway"
-housenumber: 1073
+street: South Pacific Highway
+housenumber: "1073"
 phone: ""
 opening_hours: ""
-website: "http://www.walkerdrivelineservice.com/"
+website: http://www.walkerdrivelineservice.com/

@@ -1,11 +1,11 @@
 id: 423923618
-type: way
+type: node
 latitude: 45.51229
 longitude: -122.62924
 postcode: "97214"
 city: Portland
-street: "Southeast Hawthorne Boulevard"
-housenumber: 3405
+street: Southeast Hawthorne Boulevard
+housenumber: "3405"
 phone: ""
 opening_hours: ""
-website: "https://store.fastcommerce.com/clogsnmore/home.html"
+website: https://store.fastcommerce.com/clogsnmore/home.html

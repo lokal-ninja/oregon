@@ -1,11 +1,11 @@
 id: 325611457
-type: way
+type: node
 latitude: 45.51368
 longitude: -122.79016
 postcode: "97225"
 city: Portland
-street: "Southwest Barnes Road"
-housenumber: 10930
+street: Southwest Barnes Road
+housenumber: "10930"
 phone: ""
 opening_hours: ""
-website: "https://thebarbersonline.com/"
+website: https://thebarbersonline.com/

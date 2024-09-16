@@ -1,11 +1,11 @@
 id: 496025725
-type: way
+type: node
 latitude: 45.36743
 longitude: -122.8445
 postcode: "97140"
 city: Sherwood
-street: "Southwest Langer Drive"
-housenumber: 16160
+street: Southwest Langer Drive
+housenumber: "16160"
 phone: "+15036821021"
 opening_hours: ""
-website: "https://www.thegrillcenter.com/"
+website: https://www.thegrillcenter.com/

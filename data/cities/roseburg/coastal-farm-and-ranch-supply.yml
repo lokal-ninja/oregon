@@ -1,11 +1,11 @@
 id: 552239346
-type: way
+type: node
 latitude: 43.2278
 longitude: -123.34556
 postcode: "97470"
 city: Roseburg
-street: "NE Garden Valley Boulevard"
-housenumber: 782
+street: NE Garden Valley Boulevard
+housenumber: "782"
 phone: ""
 opening_hours: ""
 website: ""

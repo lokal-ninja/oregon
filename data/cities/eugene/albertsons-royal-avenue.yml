@@ -1,11 +1,11 @@
 id: 829450679
-type: way
+type: node
 latitude: 44.06888
 longitude: -123.17989
 postcode: "97402"
 city: Eugene
-street: "Royal Avenue"
-housenumber: 4740
-phone: "+1 541-688-6497"
+street: Royal Avenue
+housenumber: "4740"
+phone: +1 541-688-6497
 opening_hours: ""
-website: "https://local.albertsons.com/or/eugene/4740-royal-ave.html"
+website: https://local.albertsons.com/or/eugene/4740-royal-ave.html

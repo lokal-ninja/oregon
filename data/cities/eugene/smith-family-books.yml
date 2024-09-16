@@ -1,11 +1,11 @@
 id: 217003308
-type: way
+type: node
 latitude: 44.05413
 longitude: -123.0926
 postcode: "97401"
 city: Eugene
-street: "Willamette Street"
-housenumber: 525
-phone: "+1 541 343 4717"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://smithfamilybookstore.com/"
+street: Willamette Street
+housenumber: "525"
+phone: +1 541 343 4717
+opening_hours: Mo-Sa 10:00-18:00
+website: https://smithfamilybookstore.com/

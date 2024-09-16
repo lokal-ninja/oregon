@@ -1,11 +1,11 @@
 id: 217003309
-type: way
+type: node
 latitude: 44.05647
 longitude: -123.10022
 postcode: "97401"
 city: Eugene
-street: "Lawrence Street"
-housenumber: 306
-phone: "+1-541-465-1800"
+street: Lawrence Street
+housenumber: "306"
+phone: +1-541-465-1800
 opening_hours: ""
-website: "https://www.rei.com/stores/eugene"
+website: https://www.rei.com/stores/eugene

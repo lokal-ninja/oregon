@@ -1,11 +1,11 @@
 id: 352305277
-type: way
+type: node
 latitude: 45.37437
 longitude: -122.70036
 postcode: "97068"
 city: West Linn
-street: "Southwest Borland Road"
-housenumber: 2351
+street: Southwest Borland Road
+housenumber: "2351"
 phone: ""
 opening_hours: ""
 website: ""

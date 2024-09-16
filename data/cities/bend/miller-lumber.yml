@@ -1,11 +1,11 @@
 id: 428685884
-type: way
+type: node
 latitude: 44.06085
 longitude: -121.30573
 postcode: "97701"
 city: Bend
-street: "Northeast Greenwood Avenue"
-housenumber: 110
-phone: "+1-541-382-2022"
-opening_hours: "Mo-Fr 06:00-17:30; Sa 07:00-13:00"
-website: "https://mlumber.com/"
+street: Northeast Greenwood Avenue
+housenumber: "110"
+phone: +1-541-382-2022
+opening_hours: Mo-Fr 06:00-17:30; Sa 07:00-13:00
+website: https://mlumber.com/

@@ -1,11 +1,11 @@
 id: 784624317
-type: way
+type: node
 latitude: 45.53895
 longitude: -122.71637
 postcode: "97210"
 city: Portland
-street: "Northwest Saint Helens Road"
-housenumber: 2350
-phone: "+1 503 2433836"
-opening_hours: "Mo-Th 09:00-17:00; PH off"
-website: "https://summitsafetyshoes.com"
+street: Northwest Saint Helens Road
+housenumber: "2350"
+phone: +1 503 2433836
+opening_hours: Mo-Th 09:00-17:00; PH off
+website: https://summitsafetyshoes.com

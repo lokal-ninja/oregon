@@ -1,11 +1,11 @@
 id: 399460322
-type: way
+type: node
 latitude: 44.91727
 longitude: -123.04474
 postcode: "97302"
 city: Salem
-street: "Commercial Street Southeast"
-housenumber: 2510
-phone: "+1 503-581-2411"
+street: Commercial Street Southeast
+housenumber: "2510"
+phone: +1 503-581-2411
 opening_hours: ""
-website: "https://www.skylineforddirect.com/"
+website: https://www.skylineforddirect.com/

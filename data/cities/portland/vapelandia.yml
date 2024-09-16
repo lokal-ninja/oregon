@@ -1,11 +1,11 @@
 id: 256883073
-type: way
+type: node
 latitude: 45.51194
 longitude: -122.61556
 postcode: "97215"
 city: Portland
-street: "Southeast Hawthorne Boulevard"
-housenumber: 4526
-phone: "+1-503-841-5452"
-opening_hours: "Mo-Sa 09:30-19:00; Su 11:00-19:00"
-website: "http://www.vapelandia.net/"
+street: Southeast Hawthorne Boulevard
+housenumber: "4526"
+phone: +1-503-841-5452
+opening_hours: Mo-Sa 09:30-19:00; Su 11:00-19:00
+website: http://www.vapelandia.net/

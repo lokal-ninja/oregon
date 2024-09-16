@@ -1,11 +1,11 @@
 id: 1147252039
-type: way
+type: node
 latitude: 44.03374
 longitude: -123.04178
 postcode: "97403"
 city: Eugene
-street: "Glenwood Drive"
-housenumber: 3640
+street: Glenwood Drive
+housenumber: "3640"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1050441008
-type: way
+type: node
 latitude: 42.92783
 longitude: -124.45036
 postcode: "97450"
 city: Langlois
-street: "Oregon Coast Highway"
-housenumber: 48444
-phone: "+1-541-348-2476"
+street: Oregon Coast Highway
+housenumber: "48444"
+phone: +1-541-348-2476
 opening_hours: ""
-website: "https://www.langloismarket.com/"
+website: https://www.langloismarket.com/

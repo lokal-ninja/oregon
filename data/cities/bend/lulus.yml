@@ -1,11 +1,11 @@
 id: 303416917
-type: way
+type: node
 latitude: 44.05886
 longitude: -121.31373
 postcode: "97703"
 city: Bend
-street: "Northwest Minnesota Avenue"
-housenumber: 150
-phone: "+1-541-617-8948"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-17:00"
+street: Northwest Minnesota Avenue
+housenumber: "150"
+phone: +1-541-617-8948
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-17:00
 website: ""

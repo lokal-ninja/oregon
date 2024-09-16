@@ -1,11 +1,11 @@
 id: 369894999
-type: way
+type: node
 latitude: 45.47896
 longitude: -122.61914
 postcode: "97206"
 city: Portland
-street: "Southeast Woodstock Boulevard"
-housenumber: 4214
+street: Southeast Woodstock Boulevard
+housenumber: "4214"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 376195554
-type: way
+type: node
 latitude: 42.20087
 longitude: -122.71164
 postcode: "97520"
 city: Ashland
-street: "Oak Street"
-housenumber: 384
+street: Oak Street
+housenumber: "384"
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:00"
+opening_hours: Mo-Fr 07:30-16:00
 website: ""

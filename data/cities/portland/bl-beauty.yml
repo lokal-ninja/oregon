@@ -1,11 +1,11 @@
 id: 550569035
-type: way
+type: node
 latitude: 45.6155
 longitude: -122.68723
 postcode: "97217"
 city: Portland
-street: "North Starlight Avenue"
-housenumber: 12449
-phone: "+1-503-285-2109"
+street: North Starlight Avenue
+housenumber: "12449"
+phone: +1-503-285-2109
 opening_hours: ""
-website: "http://bellasbeautysupply.weebly.com/"
+website: http://bellasbeautysupply.weebly.com/

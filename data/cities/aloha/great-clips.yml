@@ -1,11 +1,11 @@
 id: 539763922
-type: way
+type: node
 latitude: 45.47948
 longitude: -122.85999
 postcode: "97007"
 city: Aloha
-street: "Southwest Farmington Road"
-housenumber: 17683
-phone: "+1-503-642-0902"
-opening_hours: "Mo-Fr 09:00-21:00; Sa,Su 09:00-18:00"
-website: "https://www.greatclips.com/"
+street: Southwest Farmington Road
+housenumber: "17683"
+phone: +1-503-642-0902
+opening_hours: Mo-Fr 09:00-21:00; Sa,Su 09:00-18:00
+website: https://www.greatclips.com/

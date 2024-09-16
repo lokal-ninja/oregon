@@ -1,11 +1,11 @@
 id: 468923722
-type: way
+type: node
 latitude: 45.42888
 longitude: -122.48789
 postcode: "97015"
 city: Happy Valley
-street: "Southeast Sunnyside Road"
-housenumber: 17005
-phone: "+1 971-999-6250"
-opening_hours: "07:00-23:00"
-website: "https://www.fredmeyer.com/stores/grocery/or/happy-valley/fred-meyer/701/00694"
+street: Southeast Sunnyside Road
+housenumber: "17005"
+phone: +1 971-999-6250
+opening_hours: 07:00-23:00
+website: https://www.fredmeyer.com/stores/grocery/or/happy-valley/fred-meyer/701/00694

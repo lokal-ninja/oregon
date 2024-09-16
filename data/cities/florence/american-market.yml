@@ -1,11 +1,11 @@
 id: 1116369733
-type: way
+type: node
 latitude: 43.9887
 longitude: -124.1021
 postcode: "97439"
 city: Florence
-street: "Oregon Coast Highway"
-housenumber: 2515
+street: Oregon Coast Highway
+housenumber: "2515"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

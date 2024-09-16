@@ -1,11 +1,11 @@
 id: 415634514
-type: way
+type: node
 latitude: 45.48431
 longitude: -122.75523
 postcode: "97225"
 city: Portland
-street: "Southwest 76th Avenue"
-housenumber: 4929
+street: Southwest 76th Avenue
+housenumber: "4929"
 phone: ""
 opening_hours: ""
-website: "http://www.humberstonstravel.com/"
+website: http://www.humberstonstravel.com/

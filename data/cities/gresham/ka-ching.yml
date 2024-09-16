@@ -1,11 +1,11 @@
 id: 558341731
-type: way
+type: node
 latitude: 45.49161
 longitude: -122.47638
 postcode: "97030"
 city: Gresham
-street: "Southeast 182nd Avenue"
-housenumber: 4245
-phone: "+1-503-669-4652"
+street: Southeast 182nd Avenue
+housenumber: "4245"
+phone: +1-503-669-4652
 opening_hours: ""
-website: "https://kachings.business.site/"
+website: https://kachings.business.site/

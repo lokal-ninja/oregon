@@ -4,8 +4,8 @@ latitude: 44.56261
 longitude: -123.26039
 postcode: "97333"
 city: Corvallis
-street: "Southwest 2nd Street"
-housenumber: 211
-phone: "+1 541 243 4673"
-opening_hours: "Mo-Su 11:00-18:00"
-website: "https://preatomic-records.business.site/"
+street: Southwest 2nd Street
+housenumber: "211"
+phone: +1 541 243 4673
+opening_hours: Mo-Su 11:00-18:00
+website: https://preatomic-records.business.site/

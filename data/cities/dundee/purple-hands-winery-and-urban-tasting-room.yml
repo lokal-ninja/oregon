@@ -1,11 +1,11 @@
 id: 1092183098
-type: way
+type: node
 latitude: 45.27386
 longitude: -123.01525
 postcode: "97115"
 city: Dundee
-street: "North Pacific Highway West"
-housenumber: 1200
+street: North Pacific Highway West
+housenumber: "1200"
 phone: ""
 opening_hours: ""
 website: ""

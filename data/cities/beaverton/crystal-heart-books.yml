@@ -1,11 +1,11 @@
 id: 234665788
-type: way
+type: node
 latitude: 45.48584
 longitude: -122.80551
 postcode: "97005"
 city: Beaverton
-street: "Southwest Washington Avenue"
-housenumber: 4675
+street: Southwest Washington Avenue
+housenumber: "4675"
 phone: ""
-opening_hours: "Mo-Sa 11:00-17:00"
-website: "https://crystalheartbooks.com"
+opening_hours: Mo-Sa 11:00-17:00
+website: https://crystalheartbooks.com

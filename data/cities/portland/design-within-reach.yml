@@ -4,8 +4,8 @@ latitude: 45.52918
 longitude: -122.68461
 postcode: "97209"
 city: Portland
-street: "Northwest 13th Avenue"
-housenumber: 825
-phone: "+1-503-220-0200"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.dwr.com/"
+street: Northwest 13th Avenue
+housenumber: "825"
+phone: +1-503-220-0200
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.dwr.com/

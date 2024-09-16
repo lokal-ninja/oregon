@@ -1,11 +1,11 @@
 id: 369042418
-type: way
+type: node
 latitude: 45.50539
 longitude: -122.61259
 postcode: "97206"
 city: Portland
-street: "Southeast Division Street"
-housenumber: 4827
+street: Southeast Division Street
+housenumber: "4827"
 phone: ""
 opening_hours: ""
-website: "https://portland-bicycle-emporium.com/"
+website: https://portland-bicycle-emporium.com/

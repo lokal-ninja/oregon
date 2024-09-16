@@ -1,11 +1,11 @@
 id: 1040424660
-type: way
+type: node
 latitude: 43.79966
 longitude: -123.03455
 postcode: "97424"
 city: Cottage Grove
-street: "East Davidson Avenue"
-housenumber: 255
-phone: "+1 541 942 3408"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-16:00"
-website: "https://www.weltelements.com/"
+street: East Davidson Avenue
+housenumber: "255"
+phone: +1 541 942 3408
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-16:00
+website: https://www.weltelements.com/

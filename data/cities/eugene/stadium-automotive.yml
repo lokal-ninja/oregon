@@ -1,11 +1,11 @@
 id: 492848372
-type: way
+type: node
 latitude: 44.04553
 longitude: -123.06245
 postcode: "97403"
 city: Eugene
-street: "Franklin Boulevard"
-housenumber: 2025
+street: Franklin Boulevard
+housenumber: "2025"
 phone: ""
 opening_hours: ""
 website: ""

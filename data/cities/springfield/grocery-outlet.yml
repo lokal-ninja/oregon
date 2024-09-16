@@ -1,11 +1,11 @@
 id: 200654991
-type: way
+type: node
 latitude: 44.04529
 longitude: -123.00665
 postcode: "97477"
 city: Springfield
-street: "South 14th Street"
-housenumber: 
+street: South 14th Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00"
+opening_hours: Mo-Su 08:00-21:00
 website: ""

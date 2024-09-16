@@ -1,11 +1,11 @@
 id: 368094127
-type: way
+type: node
 latitude: 45.60452
 longitude: -122.66209
 postcode: "97217"
 city: Portland
-street: "Northeast Tomahawk Island Drive"
-housenumber: 303
+street: Northeast Tomahawk Island Drive
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 504318377
-type: way
+type: node
 latitude: 44.05529
 longitude: -121.26772
 postcode: "97701"
 city: Bend
-street: "Northeast Highway 20"
-housenumber: 2550
-phone: "+1-541-389-1020"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 11:00-18:00"
+street: Northeast Highway 20
+housenumber: "2550"
+phone: +1-541-389-1020
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 11:00-18:00
 website: ""

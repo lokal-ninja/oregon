@@ -1,11 +1,11 @@
 id: 821983145
-type: way
+type: node
 latitude: 42.37457
 longitude: -122.85461
 postcode: "97504"
 city: Medford
-street: "Crater Lake Avenue"
-housenumber: 3976
+street: Crater Lake Avenue
+housenumber: "3976"
 phone: ""
 opening_hours: ""
 website: ""

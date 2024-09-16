@@ -1,11 +1,11 @@
 id: 419557873
-type: way
+type: node
 latitude: 44.09702
 longitude: -123.11917
 postcode: "97404"
 city: Eugene
-street: "River Avenue"
-housenumber: 453
+street: River Avenue
+housenumber: "453"
 phone: ""
 opening_hours: ""
 website: ""

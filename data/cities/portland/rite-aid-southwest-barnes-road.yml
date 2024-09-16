@@ -1,11 +1,11 @@
 id: 325611440
-type: way
+type: node
 latitude: 45.51528
 longitude: -122.79164
 postcode: "97225"
 city: Portland
-street: "Southwest Barnes Road"
-housenumber: 11190
+street: Southwest Barnes Road
+housenumber: "11190"
 phone: ""
-opening_hours: "Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00"
-website: "https://www.riteaid.com/locations/or/portland/11190-sw-barnes-rd.html"
+opening_hours: Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00
+website: https://www.riteaid.com/locations/or/portland/11190-sw-barnes-rd.html

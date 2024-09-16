@@ -1,11 +1,11 @@
 id: 314821793
-type: way
+type: node
 latitude: 45.38977
 longitude: -122.61272
 postcode: "97267"
 city: Milwaukie
-street: "Southeast McLoughlin Boulevard"
-housenumber: 18401
+street: Southeast McLoughlin Boulevard
+housenumber: "18401"
 phone: ""
 opening_hours: ""
-website: "https://www.armstrongvw.com/"
+website: https://www.armstrongvw.com/

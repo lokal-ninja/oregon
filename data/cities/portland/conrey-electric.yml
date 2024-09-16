@@ -1,11 +1,11 @@
 id: 406554407
-type: way
+type: node
 latitude: 45.50904
 longitude: -122.65941
 postcode: "97214"
 city: Portland
-street: "Southeast 7th Avenue"
-housenumber: 1903
+street: Southeast 7th Avenue
+housenumber: "1903"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:30-12:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:30-12:00
 website: ""

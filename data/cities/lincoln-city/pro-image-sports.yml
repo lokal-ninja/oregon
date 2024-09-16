@@ -1,11 +1,11 @@
 id: 1018266206
-type: way
+type: node
 latitude: 44.95809
 longitude: -124.01132
 postcode: "97367"
 city: Lincoln City
-street: "Southeast East Devils Lake Road"
-housenumber: 1500
-phone: "+1 541 614 4096"
+street: Southeast East Devils Lake Road
+housenumber: "1500"
+phone: +1 541 614 4096
 opening_hours: ""
-website: "https://proimagesports.com/"
+website: https://proimagesports.com/

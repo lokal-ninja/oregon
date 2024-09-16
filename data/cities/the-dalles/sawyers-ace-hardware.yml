@@ -1,11 +1,11 @@
 id: 282793111
-type: way
+type: node
 latitude: 45.59873
 longitude: -121.17933
-postcode: "97058-2504"
+postcode: 97058-2504
 city: The Dalles
-street: "East 3rd Street"
-housenumber: 500
-phone: "+1 541-296-4814"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-18:00; Su 09:00-18:00"
+street: East 3rd Street
+housenumber: "500"
+phone: +1 541-296-4814
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-18:00; Su 09:00-18:00
 website: ""

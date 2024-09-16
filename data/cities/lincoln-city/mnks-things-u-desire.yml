@@ -1,11 +1,11 @@
 id: 1017728672
-type: way
+type: node
 latitude: 44.91915
 longitude: -124.00898
 postcode: "97367"
 city: Lincoln City
-street: "South Highway 101"
-housenumber: 6334
-phone: "+1-541-614-1302"
+street: South Highway 101
+housenumber: "6334"
+phone: +1-541-614-1302
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 279425175
-type: way
+type: node
 latitude: 43.23969
 longitude: -123.3637
 postcode: "97471"
 city: Roseburg
-street: "Northwest Stewart Parkway"
-housenumber: 3013
-phone: "+1 541-957-9224"
+street: Northwest Stewart Parkway
+housenumber: "3013"
+phone: +1 541-957-9224
 opening_hours: ""
-website: "https://local.albertsons.com/or/roseburg/3013-nw-stewart-pkwy.html"
+website: https://local.albertsons.com/or/roseburg/3013-nw-stewart-pkwy.html

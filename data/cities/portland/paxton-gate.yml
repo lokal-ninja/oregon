@@ -4,8 +4,8 @@ latitude: 45.55393
 longitude: -122.67537
 postcode: "97217"
 city: Portland
-street: "North Mississippi Avenue"
-housenumber: 4204
-phone: "+1-503-719-4508"
-opening_hours: "11:00-19:00"
-website: "https://paxtongate.com/"
+street: North Mississippi Avenue
+housenumber: "4204"
+phone: +1-503-719-4508
+opening_hours: 11:00-19:00
+website: https://paxtongate.com/

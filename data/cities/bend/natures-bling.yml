@@ -1,11 +1,11 @@
 id: 514930841
-type: way
+type: node
 latitude: 44.04998
 longitude: -121.3328
 postcode: "97702"
 city: Bend
-street: "Southwest Century Drive"
-housenumber: 133
-phone: "+1-541-640-0888"
-opening_hours: "Mo, Th-Sa 11:00-17:00; We 11:00-16:00; Su 12:00-16:00"
-website: "https://naturesbling.com/"
+street: Southwest Century Drive
+housenumber: "133"
+phone: +1-541-640-0888
+opening_hours: Mo, Th-Sa 11:00-17:00; We 11:00-16:00; Su 12:00-16:00
+website: https://naturesbling.com/

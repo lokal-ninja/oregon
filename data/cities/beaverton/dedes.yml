@@ -1,11 +1,11 @@
 id: 317887955
-type: way
+type: node
 latitude: 45.49022
 longitude: -122.79687
 postcode: "97005"
 city: Beaverton
-street: "Southwest 117th Avenue"
-housenumber: 4130
+street: Southwest 117th Avenue
+housenumber: "4130"
 phone: ""
 opening_hours: ""
 website: ""

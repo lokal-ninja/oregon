@@ -1,11 +1,11 @@
 id: 95182973
-type: way
+type: node
 latitude: 45.46593
 longitude: -122.57862
 postcode: "97266"
 city: Portland
-street: "Southeast 82nd Avenue"
-housenumber: 7914
+street: Southeast 82nd Avenue
+housenumber: "7914"
 phone: ""
 opening_hours: ""
-website: "https://www.standardtvandappliance.com/"
+website: https://www.standardtvandappliance.com/

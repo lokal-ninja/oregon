@@ -1,11 +1,11 @@
 id: 500776492
-type: way
+type: node
 latitude: 45.36762
 longitude: -122.59892
 postcode: "97045"
 city: Oregon City
-street: "McLoughlin Boulevard"
-housenumber: 1900
-phone: "+1-503-656-0101"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 11:00-16:00"
-website: "https://www.redwingshoes.com/"
+street: McLoughlin Boulevard
+housenumber: "1900"
+phone: +1-503-656-0101
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 11:00-16:00
+website: https://www.redwingshoes.com/

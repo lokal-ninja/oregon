@@ -4,8 +4,8 @@ latitude: 43.11905
 longitude: -123.42495
 postcode: "97496"
 city: Winston
-street: "Abraham Avenue"
-housenumber: 850
+street: Abraham Avenue
+housenumber: "850"
 phone: ""
-opening_hours: "24/7"
-website: "https://find.shell.com/us/fuel/12817140-850-abraham-drive"
+opening_hours: 24/7
+website: https://find.shell.com/us/fuel/12817140-850-abraham-drive

@@ -1,11 +1,11 @@
 id: 40943885
-type: way
+type: node
 latitude: 45.52424
 longitude: -122.69424
 postcode: "97209"
 city: Portland
-street: "Northwest 21st Avenue"
-housenumber: 134
+street: Northwest 21st Avenue
+housenumber: "134"
 phone: ""
 opening_hours: ""
 website: ""

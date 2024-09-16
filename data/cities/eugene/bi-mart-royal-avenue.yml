@@ -1,11 +1,11 @@
 id: 829450678
-type: way
+type: node
 latitude: 44.06879
 longitude: -123.18094
 postcode: "97402"
 city: Eugene
-street: "Royal Avenue"
-housenumber: 4780
-phone: "+1 541 463 1789"
-opening_hours: "Mo-Fr 09:00-20:00; Sa, Su 09:00-18:00"
+street: Royal Avenue
+housenumber: "4780"
+phone: +1 541 463 1789
+opening_hours: Mo-Fr 09:00-20:00; Sa, Su 09:00-18:00
 website: ""

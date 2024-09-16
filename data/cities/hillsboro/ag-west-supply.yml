@@ -1,11 +1,11 @@
 id: 368857593
-type: way
+type: node
 latitude: 45.52131
 longitude: -123.00324
 postcode: "97123"
 city: Hillsboro
-street: "West Main Street"
-housenumber: 185
+street: West Main Street
+housenumber: "185"
 phone: ""
 opening_hours: ""
 website: ""

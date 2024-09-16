@@ -1,11 +1,11 @@
 id: 438346308
-type: way
+type: node
 latitude: 44.04587
 longitude: -121.31571
 postcode: "97702"
 city: Bend
-street: "Southwest Powerhouse Drive"
-housenumber: 425
-phone: "+1-541-389-1916"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
+street: Southwest Powerhouse Drive
+housenumber: "425"
+phone: +1-541-389-1916
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
 website: ""

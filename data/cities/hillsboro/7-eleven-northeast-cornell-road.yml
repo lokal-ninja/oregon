@@ -1,11 +1,11 @@
 id: 331176919
-type: way
+type: node
 latitude: 45.53121
 longitude: -122.96597
 postcode: "97124"
 city: Hillsboro
-street: "Northeast Cornell Road"
-housenumber: 1645
-phone: "+1 503-648-1711"
+street: Northeast Cornell Road
+housenumber: "1645"
+phone: +1 503-648-1711
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/or/hillsboro/1645-ne-cornell-rd-14505"
+website: https://www.7-eleven.com/locations/or/hillsboro/1645-ne-cornell-rd-14505

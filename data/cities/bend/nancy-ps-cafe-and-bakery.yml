@@ -1,11 +1,11 @@
 id: 508318061
-type: way
+type: node
 latitude: 44.06179
 longitude: -121.32736
 postcode: "97703"
 city: Bend
-street: "Northwest Milwaukee Avenue"
-housenumber: 1054
-phone: "+1-541-322-8778"
-opening_hours: "Mo-Sa 07:00-15:00; Su 07:00-14:00"
-website: "https://www.nancyps.com/"
+street: Northwest Milwaukee Avenue
+housenumber: "1054"
+phone: +1-541-322-8778
+opening_hours: Mo-Sa 07:00-15:00; Su 07:00-14:00
+website: https://www.nancyps.com/

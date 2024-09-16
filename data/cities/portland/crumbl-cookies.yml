@@ -1,11 +1,11 @@
 id: 422432363
-type: way
+type: node
 latitude: 45.57309
 longitude: -122.55787
 postcode: "97220"
 city: Portland
-street: "Northeast Cascades Parkway"
-housenumber: 10115
+street: Northeast Cascades Parkway
+housenumber: "10115"
 phone: ""
-opening_hours: "Mo-Th 08:00-22:00; Fr,Sa 08:00-24:00"
+opening_hours: Mo-Th 08:00-22:00; Fr,Sa 08:00-24:00
 website: ""

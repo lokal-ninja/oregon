@@ -1,11 +1,11 @@
 id: 436050552
-type: way
+type: node
 latitude: 45.41949
 longitude: -122.78565
 postcode: "97223"
 city: Tigard
-street: "Southwest Pacific Highway"
-housenumber: 13920
-phone: "+1-503-624-8570"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.goodwill.org/"
+street: Southwest Pacific Highway
+housenumber: "13920"
+phone: +1-503-624-8570
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.goodwill.org/

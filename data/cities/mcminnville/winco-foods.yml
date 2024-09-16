@@ -1,11 +1,11 @@
 id: 437878943
-type: way
+type: node
 latitude: 45.23057
 longitude: -123.17268
 postcode: "97128"
 city: McMinnville
-street: "Northeast Highway 99 West"
-housenumber: 2585
+street: Northeast Highway 99 West
+housenumber: "2585"
 phone: ""
 opening_hours: ""
 website: ""

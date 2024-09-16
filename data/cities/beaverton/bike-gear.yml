@@ -1,11 +1,11 @@
 id: 317891788
-type: way
+type: node
 latitude: 45.49193
 longitude: -122.791
 postcode: "97005"
 city: Beaverton
-street: "Southwest Canyon Road"
-housenumber: 11135
+street: Southwest Canyon Road
+housenumber: "11135"
 phone: ""
 opening_hours: ""
 website: ""

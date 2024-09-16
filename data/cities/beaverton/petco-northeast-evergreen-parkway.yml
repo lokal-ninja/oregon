@@ -1,11 +1,11 @@
 id: 436494946
-type: way
+type: node
 latitude: 45.53663
 longitude: -122.86525
 postcode: "97006"
 city: Beaverton
-street: "Northeast Evergreen Parkway"
-housenumber: 11000
-phone: "+1 503-614-8070"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/or/beaverton/pet-supplies-beaverton-or-254.html"
+street: Northeast Evergreen Parkway
+housenumber: "11000"
+phone: +1 503-614-8070
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/or/beaverton/pet-supplies-beaverton-or-254.html

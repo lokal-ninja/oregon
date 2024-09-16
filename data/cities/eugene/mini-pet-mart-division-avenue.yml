@@ -1,11 +1,11 @@
 id: 843223143
-type: way
+type: node
 latitude: 44.0988
 longitude: -123.12802
 postcode: "97404"
 city: Eugene
-street: "Division Avenue"
-housenumber: 54
+street: Division Avenue
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

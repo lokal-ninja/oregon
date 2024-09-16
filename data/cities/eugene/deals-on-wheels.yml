@@ -1,11 +1,11 @@
 id: 1098734836
-type: way
+type: node
 latitude: 44.04439
 longitude: -123.03439
 postcode: "97403"
 city: Eugene
-street: "Franklin Boulevard"
-housenumber: 4055
-phone: "+1 541 606 9887;+1 541 537 6039"
+street: Franklin Boulevard
+housenumber: "4055"
+phone: +1 541 606 9887;+1 541 537 6039
 opening_hours: ""
 website: ""

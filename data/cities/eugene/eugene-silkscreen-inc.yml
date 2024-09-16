@@ -1,11 +1,11 @@
 id: 1257118009
-type: way
+type: node
 latitude: 44.04937
 longitude: -123.1328
 postcode: "97402"
 city: Eugene
-street: "Wilson Street"
-housenumber: 960
-phone: "+1 541 342 8418"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.eugenesilkscreen.com/"
+street: Wilson Street
+housenumber: "960"
+phone: +1 541 342 8418
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.eugenesilkscreen.com/

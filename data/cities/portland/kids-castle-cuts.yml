@@ -1,11 +1,11 @@
 id: 297277831
-type: way
+type: node
 latitude: 45.47897
 longitude: -122.62036
 postcode: "97202"
 city: Portland
-street: "Southeast 41st Avenue"
-housenumber: 6000
-phone: "+1-503-244-0360"
-opening_hours: "We-Su 10:00-17:00"
-website: "https://www.waynewertz.com/kcc/"
+street: Southeast 41st Avenue
+housenumber: "6000"
+phone: +1-503-244-0360
+opening_hours: We-Su 10:00-17:00
+website: https://www.waynewertz.com/kcc/

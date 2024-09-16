@@ -4,8 +4,8 @@ latitude: 42.19697
 longitude: -122.71485
 postcode: "97520"
 city: Ashland
-street: "East Main Street"
-housenumber: 42
+street: East Main Street
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://shepherdsdream.com/"
+website: https://shepherdsdream.com/

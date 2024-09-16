@@ -1,11 +1,11 @@
 id: 505689748
-type: way
+type: node
 latitude: 44.77766
 longitude: -117.82829
 postcode: "97814"
 city: Baker City
-street: "Washington Avenue"
-housenumber: 1780
-phone: "+1-541-249-4361"
+street: Washington Avenue
+housenumber: "1780"
+phone: +1-541-249-4361
 opening_hours: ""
-website: "https://www.bakercitygmsales.com/"
+website: https://www.bakercitygmsales.com/

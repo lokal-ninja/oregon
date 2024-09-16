@@ -1,11 +1,11 @@
 id: 1262669949
-type: way
+type: node
 latitude: 43.14724
 longitude: -123.37992
 postcode: "97470"
 city: Roseburg
-street: "Carnes Road"
-housenumber: 4601
-phone: "+1 541 679 7771"
-opening_hours: "07:00-22:00"
+street: Carnes Road
+housenumber: "4601"
+phone: +1 541 679 7771
+opening_hours: 07:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.76341
 longitude: -123.09008
 postcode: "97424"
 city: Cottage Grove
-street: "Dugan Lane"
-housenumber: 77479
-phone: "+1 541 913 3852"
-opening_hours: "by appointment"
-website: "https://www.lsfarmstead.com/"
+street: Dugan Lane
+housenumber: "77479"
+phone: +1 541 913 3852
+opening_hours: '"by appointment"'
+website: https://www.lsfarmstead.com/

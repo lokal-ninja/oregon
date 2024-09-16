@@ -1,11 +1,11 @@
 id: 397576797
-type: way
+type: node
 latitude: 44.04016
 longitude: -123.09179
 postcode: ""
 city: Eugene
-street: "East 18th Avenue"
-housenumber: 94
+street: East 18th Avenue
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

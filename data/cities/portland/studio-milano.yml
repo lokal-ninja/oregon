@@ -4,8 +4,8 @@ latitude: 45.52568
 longitude: -122.67473
 postcode: "97209"
 city: Portland
-street: "Northwest 4th Avenue"
-housenumber: 323
-phone: "+1-503-517-2511"
-opening_hours: "by appointment only"
-website: "https://www.studiomilano.biz/"
+street: Northwest 4th Avenue
+housenumber: "323"
+phone: +1-503-517-2511
+opening_hours: '"by appointment only"'
+website: https://www.studiomilano.biz/

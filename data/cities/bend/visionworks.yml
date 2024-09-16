@@ -1,11 +1,11 @@
 id: 503900183
-type: way
+type: node
 latitude: 44.10142
 longitude: -121.30232
 postcode: "97703"
 city: Bend
-street: "North Highway 97"
-housenumber: 63455
-phone: "+1-541-389-5207"
+street: North Highway 97
+housenumber: "63455"
+phone: +1-541-389-5207
 opening_hours: ""
-website: "https://www.visionworks.com/"
+website: https://www.visionworks.com/

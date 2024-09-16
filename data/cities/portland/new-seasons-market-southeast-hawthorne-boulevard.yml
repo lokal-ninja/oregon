@@ -1,11 +1,11 @@
 id: 185918607
-type: way
+type: node
 latitude: 45.51195
 longitude: -122.62111
 postcode: "97214"
 city: Portland
-street: "Southeast Hawthorne Boulevard"
-housenumber: 4034
+street: Southeast Hawthorne Boulevard
+housenumber: "4034"
 phone: ""
-opening_hours: "08:00-22:00"
+opening_hours: 08:00-22:00
 website: ""

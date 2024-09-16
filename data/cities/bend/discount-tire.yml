@@ -1,11 +1,11 @@
 id: 418613459
-type: way
+type: node
 latitude: 44.10702
 longitude: -121.29785
 postcode: "97701"
 city: Bend
-street: "North Highway 97"
-housenumber: 63553
-phone: "+1-541-617-0156"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.discounttire.com/"
+street: North Highway 97
+housenumber: "63553"
+phone: +1-541-617-0156
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.discounttire.com/

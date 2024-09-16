@@ -1,11 +1,11 @@
 id: 1079523113
-type: way
+type: node
 latitude: 44.0457
 longitude: -123.09702
 postcode: "97401"
 city: Eugene
-street: "Lincoln Street"
-housenumber: 1293
-phone: "+1-458-201-8922"
+street: Lincoln Street
+housenumber: "1293"
+phone: +1-458-201-8922
 opening_hours: ""
-website: "https://www.holygrailpharms.com/"
+website: https://www.holygrailpharms.com/

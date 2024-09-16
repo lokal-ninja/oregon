@@ -4,8 +4,8 @@ latitude: 44.07434
 longitude: -123.04487
 postcode: "97477"
 city: Springfield
-street: "Gateway Street"
-housenumber: 222
-phone: "+1 541-746-5052"
-opening_hours: "Su 10:00-19:00; Mo-Sa 10:00-21:00"
-website: "https://www.ulta.com/stores/springfield-or-1129"
+street: Gateway Street
+housenumber: "222"
+phone: +1 541-746-5052
+opening_hours: Su 10:00-19:00; Mo-Sa 10:00-21:00
+website: https://www.ulta.com/stores/springfield-or-1129

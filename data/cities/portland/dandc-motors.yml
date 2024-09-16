@@ -1,11 +1,11 @@
 id: 368088968
-type: way
+type: node
 latitude: 45.49037
 longitude: -122.63906
 postcode: "97202"
 city: Portland
-street: "Southeast Holgate Boulevard"
-housenumber: 2627
+street: Southeast Holgate Boulevard
+housenumber: "2627"
 phone: ""
 opening_hours: ""
-website: "http://dcmotorz.com/"
+website: http://dcmotorz.com/

@@ -1,11 +1,11 @@
 id: 511503126
-type: way
+type: node
 latitude: 43.17517
 longitude: -124.18932
 postcode: "97423"
 city: Coquille
-street: "East 1st Street"
-housenumber: 23
+street: East 1st Street
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

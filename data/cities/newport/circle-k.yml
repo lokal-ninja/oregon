@@ -1,11 +1,11 @@
 id: 171727577
-type: way
+type: node
 latitude: 44.63684
 longitude: -124.0525
 postcode: "97365"
 city: Newport
-street: "Oregon Coast Highway"
-housenumber: 22
-phone: "+1 541 265 8402"
-opening_hours: "24/7"
+street: Oregon Coast Highway
+housenumber: "22"
+phone: +1 541 265 8402
+opening_hours: 24/7
 website: ""

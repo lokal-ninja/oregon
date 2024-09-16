@@ -1,11 +1,11 @@
 id: 1082460731
-type: way
+type: node
 latitude: 45.49205
 longitude: -122.79912
 postcode: "97005"
 city: Beaverton
-street: "Southwest 117th Avenue"
-housenumber: 3831
-phone: "+1-503-747-2132"
-opening_hours: "Mo off; Tu off; We-Fr 11:00-06:00; Sa 09:00-06:00; Su 11:00-06:00"
-website: "https://truesociety.com/locations/the-white-dress-beaverton-or/"
+street: Southwest 117th Avenue
+housenumber: "3831"
+phone: +1-503-747-2132
+opening_hours: Mo off; Tu off; We-Fr 11:00-06:00; Sa 09:00-06:00; Su 11:00-06:00
+website: https://truesociety.com/locations/the-white-dress-beaverton-or/

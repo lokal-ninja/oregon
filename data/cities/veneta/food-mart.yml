@@ -1,11 +1,11 @@
 id: 1080042340
-type: way
+type: node
 latitude: 44.05447
 longitude: -123.3566
 postcode: "97487"
 city: Veneta
-street: "Highway 126"
-housenumber: 
+street: Highway 126
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

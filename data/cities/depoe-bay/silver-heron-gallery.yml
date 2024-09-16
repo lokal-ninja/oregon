@@ -1,11 +1,11 @@
 id: 655134930
-type: way
+type: node
 latitude: 44.81068
 longitude: -124.06167
 postcode: "97341"
 city: Depoe Bay
-street: "Bay Street"
-housenumber: 15
+street: Bay Street
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

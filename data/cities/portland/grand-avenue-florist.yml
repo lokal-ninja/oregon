@@ -1,11 +1,11 @@
 id: 40775618
-type: way
+type: node
 latitude: 45.51273
 longitude: -122.65763
 postcode: "97214"
 city: Portland
-street: "Southeast 8th Avenue"
-housenumber: 1416
+street: Southeast 8th Avenue
+housenumber: "1416"
 phone: ""
 opening_hours: ""
-website: "https://www.grandaveflorist.com/"
+website: https://www.grandaveflorist.com/

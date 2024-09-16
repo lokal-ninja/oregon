@@ -1,11 +1,11 @@
 id: 496025723
-type: way
+type: node
 latitude: 45.36671
 longitude: -122.84478
 postcode: "97140"
 city: Sherwood
-street: "Southwest Langer Drive"
-housenumber: 16260
-phone: "+1 503-625-1603"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-21:00"
-website: "https://www.rossstores.com/"
+street: Southwest Langer Drive
+housenumber: "16260"
+phone: +1 503-625-1603
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-21:00
+website: https://www.rossstores.com/

@@ -4,8 +4,8 @@ latitude: 44.07165
 longitude: -123.10729
 postcode: "97401"
 city: Eugene
-street: "Valley River Drive"
-housenumber: 1169
-phone: "+1 541-485-7900"
-opening_hours: "Mo 09:00-19:00; Tu-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/or/eugene/pet-supplies-eugene-or-1201.html"
+street: Valley River Drive
+housenumber: "1169"
+phone: +1 541-485-7900
+opening_hours: Mo 09:00-19:00; Tu-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/or/eugene/pet-supplies-eugene-or-1201.html

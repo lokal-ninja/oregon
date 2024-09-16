@@ -1,11 +1,11 @@
 id: 522003955
-type: way
+type: node
 latitude: 45.52275
 longitude: -122.65923
 postcode: "97214"
 city: Portland
-street: "East Burnside Street"
-housenumber: 616
-phone: "+1-503-239-3901"
-opening_hours: "Mo-Sa 12:00-19:00; Su 12:00-18:00"
-website: "https://www.rockandrosepdx.com/"
+street: East Burnside Street
+housenumber: "616"
+phone: +1-503-239-3901
+opening_hours: Mo-Sa 12:00-19:00; Su 12:00-18:00
+website: https://www.rockandrosepdx.com/

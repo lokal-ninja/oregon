@@ -1,11 +1,11 @@
 id: 438480754
-type: way
+type: node
 latitude: 44.26695
 longitude: -121.17623
 postcode: "97756"
 city: Redmond
-street: "Southwest Veterans Way"
-housenumber: 944
-phone: "+1 541-504-5100"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.fredmeyer.com/stores/details/701/00650"
+street: Southwest Veterans Way
+housenumber: "944"
+phone: +1 541-504-5100
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.fredmeyer.com/stores/details/701/00650

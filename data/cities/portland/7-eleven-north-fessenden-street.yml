@@ -1,11 +1,11 @@
 id: 365806206
-type: way
+type: node
 latitude: 45.59285
 longitude: -122.7341
 postcode: "97203"
 city: Portland
-street: "North Fessenden Street"
-housenumber: 6840
-phone: "+1 503-286-1137"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/or/portland/6840-n-fessenden-19669"
+street: North Fessenden Street
+housenumber: "6840"
+phone: +1 503-286-1137
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/or/portland/6840-n-fessenden-19669

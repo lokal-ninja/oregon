@@ -1,11 +1,11 @@
 id: 113559392
-type: way
+type: node
 latitude: 45.41411
 longitude: -122.74468
 postcode: "97224"
 city: Tigard
-street: "Southwest Bonita Road"
-housenumber: 6600
-phone: "+1-503-620-6600"
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.paulschatzfurniture.com/"
+street: Southwest Bonita Road
+housenumber: "6600"
+phone: +1-503-620-6600
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.paulschatzfurniture.com/

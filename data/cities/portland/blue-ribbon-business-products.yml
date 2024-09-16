@@ -1,11 +1,11 @@
 id: 368063684
-type: way
+type: node
 latitude: 45.50638
 longitude: -122.65626
 postcode: "97214"
 city: Portland
-street: "Southeast Sherman Street"
-housenumber: 930
+street: Southeast Sherman Street
+housenumber: "930"
 phone: ""
 opening_hours: ""
-website: "http://brbp.net/"
+website: http://brbp.net/

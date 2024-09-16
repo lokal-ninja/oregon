@@ -1,11 +1,11 @@
 id: 1122830068
-type: way
+type: node
 latitude: 42.19807
 longitude: -122.70682
 postcode: "97520"
 city: Ashland
-street: "A Street"
-housenumber: 500
+street: A Street
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

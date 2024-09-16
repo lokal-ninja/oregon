@@ -1,11 +1,11 @@
 id: 525481205
-type: way
+type: node
 latitude: 45.47613
 longitude: -122.86902
 postcode: "97078"
 city: Aloha
-street: "Southwest 185th Avenue"
-housenumber: 5975
-phone: "+1-503-649-6550"
-opening_hours: "Mo-Fr 09:00-20:00; Sa-Su 09:00-18:00"
-website: "https://www.bimart.com/our-locations/632-Aloha"
+street: Southwest 185th Avenue
+housenumber: "5975"
+phone: +1-503-649-6550
+opening_hours: Mo-Fr 09:00-20:00; Sa-Su 09:00-18:00
+website: https://www.bimart.com/our-locations/632-Aloha

@@ -1,11 +1,11 @@
 id: 466513118
-type: way
+type: node
 latitude: 45.3791
 longitude: -122.75932
 postcode: "97062"
 city: Tualatin
-street: "Southwest Martinazzi Avenue"
-housenumber: 19401
-phone: "+1-503-692-8080"
+street: Southwest Martinazzi Avenue
+housenumber: "19401"
+phone: +1-503-692-8080
 opening_hours: ""
 website: ""

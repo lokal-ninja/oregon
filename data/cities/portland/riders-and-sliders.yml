@@ -1,11 +1,11 @@
 id: 440529589
-type: way
+type: node
 latitude: 45.486
 longitude: -122.76061
 postcode: "97225"
 city: Portland
-street: "Southwest Beaverton Hillsdale Highway"
-housenumber: 8122
-phone: "+1-503-477-6733"
-opening_hours: "Tu-Sa 10:00-18:00; Su 12:00-17:00"
-website: "http://ridersandsliders.com/"
+street: Southwest Beaverton Hillsdale Highway
+housenumber: "8122"
+phone: +1-503-477-6733
+opening_hours: Tu-Sa 10:00-18:00; Su 12:00-17:00
+website: http://ridersandsliders.com/

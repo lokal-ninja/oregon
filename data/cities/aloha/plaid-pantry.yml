@@ -1,11 +1,11 @@
 id: 346614624
-type: way
+type: node
 latitude: 45.5157
 longitude: -122.88707
 postcode: "97006"
 city: Aloha
-street: "West Baseline Road"
-housenumber: 20375
+street: West Baseline Road
+housenumber: "20375"
 phone: ""
 opening_hours: ""
-website: "https://www.plaidpantry.com/store/aloha-sw-baseline-rd/"
+website: https://www.plaidpantry.com/store/aloha-sw-baseline-rd/

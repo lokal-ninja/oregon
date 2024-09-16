@@ -1,11 +1,11 @@
 id: 502797826
-type: way
+type: node
 latitude: 44.06151
 longitude: -121.30366
 postcode: "97701"
 city: Bend
-street: "Northeast 2nd Street"
-housenumber: 1132
-phone: "+1-541-389-7767"
-opening_hours: "Mo-Fr 08:30-17:30"
-website: "https://www.presspros.net/"
+street: Northeast 2nd Street
+housenumber: "1132"
+phone: +1-541-389-7767
+opening_hours: Mo-Fr 08:30-17:30
+website: https://www.presspros.net/

@@ -1,11 +1,11 @@
 id: 550569028
-type: way
+type: node
 latitude: 45.61177
 longitude: -122.68328
 postcode: "97217"
 city: Portland
-street: "North Tomahawk Island Drive"
-housenumber: 1460
-phone: "+1-503-289-0267"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.carters.com/"
+street: North Tomahawk Island Drive
+housenumber: "1460"
+phone: +1-503-289-0267
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.carters.com/

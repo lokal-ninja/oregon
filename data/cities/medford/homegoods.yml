@@ -4,8 +4,8 @@ latitude: 42.34106
 longitude: -122.88482
 postcode: "97501"
 city: Medford
-street: "Rossanley Drive"
-housenumber: 271
-phone: "+1 541-245-1923"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Rossanley Drive
+housenumber: "271"
+phone: +1 541-245-1923
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

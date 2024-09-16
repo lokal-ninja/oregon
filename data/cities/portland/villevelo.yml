@@ -1,11 +1,11 @@
 id: 409660518
-type: way
+type: node
 latitude: 45.55578
 longitude: -122.65034
 postcode: "97211"
 city: Portland
-street: "Northeast Prescott Street"
-housenumber: 1465
+street: Northeast Prescott Street
+housenumber: "1465"
 phone: ""
 opening_hours: ""
-website: "http://villevelobakeshop.com/"
+website: http://villevelobakeshop.com/

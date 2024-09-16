@@ -1,11 +1,11 @@
 id: 806889559
-type: way
+type: node
 latitude: 44.26924
 longitude: -121.18131
 postcode: "97756"
 city: Redmond
-street: "Southwest Highland Avenue"
-housenumber: 1210
+street: Southwest Highland Avenue
+housenumber: "1210"
 phone: ""
 opening_hours: ""
 website: ""

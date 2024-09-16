@@ -1,11 +1,11 @@
 id: 506162428
-type: way
+type: node
 latitude: 44.02262
 longitude: -121.31505
 postcode: "97702"
 city: Bend
-street: "South Highway 97"
-housenumber: 61210
-phone: "+1-541-330-1967"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.professionalautobodybend.com/"
+street: South Highway 97
+housenumber: "61210"
+phone: +1-541-330-1967
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.professionalautobodybend.com/

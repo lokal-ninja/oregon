@@ -1,11 +1,11 @@
 id: 369938125
-type: way
+type: node
 latitude: 45.46287
 longitude: -122.61527
 postcode: "97222"
 city: Portland
-street: "Southeast 45th Avenue"
-housenumber: 8440
+street: Southeast 45th Avenue
+housenumber: "8440"
 phone: ""
 opening_hours: ""
 website: ""

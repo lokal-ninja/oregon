@@ -1,11 +1,11 @@
 id: 368251898
-type: way
+type: node
 latitude: 45.5118
 longitude: -122.63042
 postcode: "97214"
 city: Portland
-street: "Southeast Hawthorne Boulevard"
-housenumber: 3328
+street: Southeast Hawthorne Boulevard
+housenumber: "3328"
 phone: ""
 opening_hours: ""
-website: "https://theperfumehouse.com/"
+website: https://theperfumehouse.com/

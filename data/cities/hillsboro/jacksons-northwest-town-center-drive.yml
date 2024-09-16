@@ -1,11 +1,11 @@
 id: 331189824
-type: way
+type: node
 latitude: 45.53635
 longitude: -122.86694
 postcode: "97006"
 city: Hillsboro
-street: "Northwest Town Center Drive"
-housenumber: 2355
+street: Northwest Town Center Drive
+housenumber: "2355"
 phone: ""
 opening_hours: ""
 website: ""

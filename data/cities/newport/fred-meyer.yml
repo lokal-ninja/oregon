@@ -1,11 +1,11 @@
 id: 171729085
-type: way
+type: node
 latitude: 44.65098
 longitude: -124.05194
 postcode: "97365"
 city: Newport
 street: ""
-housenumber: 
-phone: "+1 541-265-4581"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.fredmeyer.com/stores/details/701/00227"
+housenumber: ""
+phone: +1 541-265-4581
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.fredmeyer.com/stores/details/701/00227

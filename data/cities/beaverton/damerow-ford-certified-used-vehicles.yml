@@ -1,11 +1,11 @@
 id: 178693670
-type: way
+type: node
 latitude: 45.48959
 longitude: -122.80331
 postcode: "97005"
 city: Beaverton
-street: "Southwest East Avenue"
-housenumber: 4200
+street: Southwest East Avenue
+housenumber: "4200"
 phone: ""
 opening_hours: ""
-website: "https://www.damerowford.com/"
+website: https://www.damerowford.com/

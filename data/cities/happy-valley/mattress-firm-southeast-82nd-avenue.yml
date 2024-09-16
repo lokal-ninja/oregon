@@ -1,11 +1,11 @@
 id: 624028297
-type: way
+type: node
 latitude: 45.44202
 longitude: -122.58105
 postcode: "97086"
 city: Happy Valley
-street: "Southeast 82nd Avenue"
-housenumber: 11211
-phone: "+1 503-654-0088"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.mattressfirm.com/en-us/stores/or/happy-valley/526005/"
+street: Southeast 82nd Avenue
+housenumber: "11211"
+phone: +1 503-654-0088
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.mattressfirm.com/en-us/stores/or/happy-valley/526005/

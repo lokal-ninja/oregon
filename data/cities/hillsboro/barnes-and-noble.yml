@@ -1,11 +1,11 @@
 id: 436494934
-type: way
+type: node
 latitude: 45.53928
 longitude: -122.86262
 postcode: "97006"
 city: Hillsboro
-street: "Northeast Evergreen Parkway"
-housenumber: 18075
-phone: "+1-503-495-8324"
+street: Northeast Evergreen Parkway
+housenumber: "18075"
+phone: +1-503-495-8324
 opening_hours: ""
-website: "https://stores.barnesandnoble.com/store/3413"
+website: https://stores.barnesandnoble.com/store/3413

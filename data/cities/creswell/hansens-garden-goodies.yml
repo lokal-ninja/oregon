@@ -1,11 +1,11 @@
 id: 1206484563
-type: way
+type: node
 latitude: 43.91534
 longitude: -123.00601
 postcode: "97426"
 city: Creswell
-street: "River Drive"
-housenumber: 82800
-phone: "+1 541 912 7494"
+street: River Drive
+housenumber: "82800"
+phone: +1 541 912 7494
 opening_hours: ""
 website: ""

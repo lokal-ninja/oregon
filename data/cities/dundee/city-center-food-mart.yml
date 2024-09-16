@@ -1,11 +1,11 @@
 id: 441931635
-type: way
+type: node
 latitude: 45.27788
 longitude: -123.01134
 postcode: "97115"
 city: Dundee
-street: "OR-99W"
-housenumber: 710
+street: OR-99W
+housenumber: "710"
 phone: ""
 opening_hours: ""
 website: ""

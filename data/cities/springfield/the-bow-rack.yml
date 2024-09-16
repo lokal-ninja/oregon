@@ -1,11 +1,11 @@
 id: 673985981
-type: way
+type: node
 latitude: 44.06222
 longitude: -123.02035
 postcode: "97477"
 city: Springfield
-street: "Q Street"
-housenumber: 392
-phone: "+1 541 746 9711"
+street: Q Street
+housenumber: "392"
+phone: +1 541 746 9711
 opening_hours: ""
-website: "https://www.thebowrack.com/"
+website: https://www.thebowrack.com/

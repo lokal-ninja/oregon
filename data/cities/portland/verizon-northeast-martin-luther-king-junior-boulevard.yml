@@ -1,11 +1,11 @@
 id: 405047948
-type: way
+type: node
 latitude: 45.53456
 longitude: -122.66132
 postcode: "97232"
 city: Portland
-street: "Northeast Martin Luther King Junior Boulevard"
-housenumber: 1604
-phone: "+1-971-242-3959"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "http://diamond-wireless.com/"
+street: Northeast Martin Luther King Junior Boulevard
+housenumber: "1604"
+phone: +1-971-242-3959
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: http://diamond-wireless.com/

@@ -4,8 +4,8 @@ latitude: 45.52025
 longitude: -122.66337
 postcode: "97214"
 city: Portland
-street: "Southeast Oak Street"
-housenumber: 201
-phone: "+1-503-863-5753"
+street: Southeast Oak Street
+housenumber: "201"
+phone: +1-503-863-5753
 opening_hours: ""
-website: "https://www.autoloc.com/"
+website: https://www.autoloc.com/

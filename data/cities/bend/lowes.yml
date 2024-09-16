@@ -1,11 +1,11 @@
 id: 147063147
-type: way
+type: node
 latitude: 44.10871
 longitude: -121.29909
 postcode: "97703"
 city: Bend
-street: "Cooley Road"
-housenumber: 20501
-phone: "+1 541-693-2560"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://www.lowes.com/"
+street: Cooley Road
+housenumber: "20501"
+phone: +1 541-693-2560
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
+website: https://www.lowes.com/

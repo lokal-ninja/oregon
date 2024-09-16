@@ -1,11 +1,11 @@
 id: 369622013
-type: way
+type: node
 latitude: 45.51564
 longitude: -122.66494
 postcode: "97214"
 city: Portland
-street: "Southeast Yamhill Street"
-housenumber: 50
+street: Southeast Yamhill Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://www.lippmancompany.com/"
+website: https://www.lippmancompany.com/

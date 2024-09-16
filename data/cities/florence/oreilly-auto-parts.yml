@@ -1,11 +1,11 @@
 id: 463559879
-type: way
+type: node
 latitude: 44.00702
 longitude: -124.10244
 postcode: "97439"
 city: Florence
-street: "Hwy 101"
-housenumber: 4615
+street: Hwy 101
+housenumber: "4615"
 phone: ""
-opening_hours: "07:30-20:00"
-website: "https://locations.oreillyauto.com/or/florence/autoparts-4801.html"
+opening_hours: 07:30-20:00
+website: https://locations.oreillyauto.com/or/florence/autoparts-4801.html

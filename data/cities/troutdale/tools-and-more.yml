@@ -1,11 +1,11 @@
 id: 561388517
-type: way
+type: node
 latitude: 45.54354
 longitude: -122.38792
 postcode: "97060"
 city: Troutdale
-street: "257th Way"
-housenumber: 450
-phone: "+1-503-667-7587"
+street: 257th Way
+housenumber: "450"
+phone: +1-503-667-7587
 opening_hours: ""
-website: "http://www.toolsandmore.com/"
+website: http://www.toolsandmore.com/

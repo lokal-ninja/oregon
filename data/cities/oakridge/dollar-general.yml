@@ -1,11 +1,11 @@
 id: 838936664
-type: way
+type: node
 latitude: 43.74627
 longitude: -122.48446
 postcode: "97463"
 city: Oakridge
-street: "State Highway 58"
-housenumber: 47624
-phone: "+1 458 675 2003"
-opening_hours: "08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/or/oakridge/17448"
+street: State Highway 58
+housenumber: "47624"
+phone: +1 458 675 2003
+opening_hours: 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/or/oakridge/17448

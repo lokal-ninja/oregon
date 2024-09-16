@@ -4,8 +4,8 @@ latitude: 45.51861
 longitude: -122.6831
 postcode: "97205"
 city: Portland
-street: "Southwest Taylor Street"
-housenumber: 1000
+street: Southwest Taylor Street
+housenumber: "1000"
 phone: ""
-opening_hours: "Tu-Fr 10:00-17:00; Sa 11:00-15:00"
-website: "https://www.goldmarkjewelers.com/"
+opening_hours: Tu-Fr 10:00-17:00; Sa 11:00-15:00
+website: https://www.goldmarkjewelers.com/

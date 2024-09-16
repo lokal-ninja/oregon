@@ -1,11 +1,11 @@
 id: 777583260
-type: way
+type: node
 latitude: 44.90431
 longitude: -123.04077
 postcode: "97302"
 city: Salem
-street: "Commercial Street Southeast"
-housenumber: 3514
-phone: "+1-503-990-6667"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://nectar.store/store/salem-commercial/"
+street: Commercial Street Southeast
+housenumber: "3514"
+phone: +1-503-990-6667
+opening_hours: Mo-Su 07:00-22:00
+website: https://nectar.store/store/salem-commercial/

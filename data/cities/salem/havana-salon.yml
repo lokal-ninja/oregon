@@ -4,8 +4,8 @@ latitude: 44.94023
 longitude: -123.03921
 postcode: "97301"
 city: Salem
-street: "State Street"
-housenumber: 381
-phone: "+1 503-400-7312"
+street: State Street
+housenumber: "381"
+phone: +1 503-400-7312
 opening_hours: ""
-website: "https://www.salonhavana.com/"
+website: https://www.salonhavana.com/

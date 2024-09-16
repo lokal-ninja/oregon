@@ -4,8 +4,8 @@ latitude: 45.34636
 longitude: -122.65352
 postcode: "97068"
 city: West Linn
-street: "8th Avenue"
-housenumber: 2020
-phone: "+1-503-652-1479"
-opening_hours: "Mo,Th 08:00-13:00,14:00-17:00; Tu,We 09:00-13:00,14:00-18:00; Fr 07:00-11:00"
-website: "https://www.westlinnvision.com/"
+street: 8th Avenue
+housenumber: "2020"
+phone: +1-503-652-1479
+opening_hours: Mo,Th 08:00-13:00,14:00-17:00; Tu,We 09:00-13:00,14:00-18:00; Fr 07:00-11:00
+website: https://www.westlinnvision.com/

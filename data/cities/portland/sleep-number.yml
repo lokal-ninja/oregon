@@ -1,11 +1,11 @@
 id: 365877364
-type: way
+type: node
 latitude: 45.61117
 longitude: -122.6808
 postcode: "97217"
 city: Portland
-street: "North Center Avenue"
-housenumber: 12229
+street: North Center Avenue
+housenumber: "12229"
 phone: ""
 opening_hours: ""
 website: ""

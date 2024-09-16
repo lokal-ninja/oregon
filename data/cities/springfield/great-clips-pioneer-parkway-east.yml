@@ -1,11 +1,11 @@
 id: 1115665365
-type: way
+type: node
 latitude: 44.06343
 longitude: -123.02471
 postcode: "97477"
 city: Springfield
-street: "Pioneer Parkway East"
-housenumber: 1873
+street: Pioneer Parkway East
+housenumber: "1873"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa 09:00-18:00; Su 10:00-17:00"
+opening_hours: Mo-Fr 08:30-20:00; Sa 09:00-18:00; Su 10:00-17:00
 website: ""

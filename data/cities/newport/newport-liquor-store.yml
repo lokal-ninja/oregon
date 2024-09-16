@@ -1,11 +1,11 @@
 id: 1080968250
-type: way
+type: node
 latitude: 44.65181
 longitude: -124.05361
 postcode: "97365"
 city: Newport
-street: "North Coast Highway"
-housenumber: 2019
+street: North Coast Highway
+housenumber: "2019"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 910330365
-type: way
+type: node
 latitude: 44.02796
 longitude: -123.10533
 postcode: "97405"
 city: Eugene
-street: "Friendly Street"
-housenumber: 2775
+street: Friendly Street
+housenumber: "2775"
 phone: ""
 opening_hours: ""
-website: "https://www.radianthealtheugene.com/"
+website: https://www.radianthealtheugene.com/

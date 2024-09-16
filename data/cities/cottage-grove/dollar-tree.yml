@@ -1,11 +1,11 @@
 id: 1009194537
-type: way
+type: node
 latitude: 43.79861
 longitude: -123.04778
 postcode: "97424"
 city: Cottage Grove
-street: "North Gateway Boulevard"
-housenumber: 130
+street: North Gateway Boulevard
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-21:00"
-website: "https://www.dollartree.com/locations/or/cottage-grove/8805/"
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-21:00
+website: https://www.dollartree.com/locations/or/cottage-grove/8805/

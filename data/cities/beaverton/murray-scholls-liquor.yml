@@ -1,11 +1,11 @@
 id: 425665812
-type: way
+type: node
 latitude: 45.43767
 longitude: -122.82791
 postcode: "97007"
 city: Beaverton
-street: "Southwest Murray Scholls Drive"
-housenumber: 14700
-phone: "+1-503-521-9032"
-opening_hours: "Mo-Sa 11:00-20:00; Su 12:00-18:00"
+street: Southwest Murray Scholls Drive
+housenumber: "14700"
+phone: +1-503-521-9032
+opening_hours: Mo-Sa 11:00-20:00; Su 12:00-18:00
 website: ""

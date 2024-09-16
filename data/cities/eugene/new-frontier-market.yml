@@ -1,11 +1,11 @@
 id: 863003162
-type: way
+type: node
 latitude: 44.05114
 longitude: -123.10978
 postcode: "97402"
 city: Eugene
-street: "West 8th Avenue"
-housenumber: 1101
+street: West 8th Avenue
+housenumber: "1101"
 phone: ""
-opening_hours: "Su-Sa 07:00-23:00"
-website: "http://www.newfrontiermarket.com/"
+opening_hours: Su-Sa 07:00-23:00
+website: http://www.newfrontiermarket.com/

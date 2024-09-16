@@ -1,11 +1,11 @@
 id: 735377825
-type: way
+type: node
 latitude: 44.05161
 longitude: -123.13989
 postcode: "97402"
 city: Eugene
-street: "South Seneca Road"
-housenumber: 705
-phone: "+1-541-345-8036"
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://www.svdp.us/what-we-do/retail-thrift-stores/seneca-store/"
+street: South Seneca Road
+housenumber: "705"
+phone: +1-541-345-8036
+opening_hours: Mo-Su 10:00-19:00
+website: https://www.svdp.us/what-we-do/retail-thrift-stores/seneca-store/

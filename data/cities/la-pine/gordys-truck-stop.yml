@@ -1,11 +1,11 @@
 id: 1296323090
-type: way
+type: node
 latitude: 43.70496
 longitude: -121.47397
 postcode: ""
 city: La Pine
-street: "Whitney Road"
-housenumber: 17045
+street: Whitney Road
+housenumber: "17045"
 phone: ""
 opening_hours: ""
 website: ""

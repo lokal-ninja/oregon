@@ -1,11 +1,11 @@
 id: 349325700
-type: way
+type: node
 latitude: 44.77508
 longitude: -117.83037
 postcode: "97814"
 city: Baker City
-street: "Main Street"
-housenumber: 1735
+street: Main Street
+housenumber: "1735"
 phone: ""
 opening_hours: ""
 website: ""

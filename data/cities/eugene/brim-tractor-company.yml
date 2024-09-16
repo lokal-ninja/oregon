@@ -1,11 +1,11 @@
 id: 492748635
-type: way
+type: node
 latitude: 44.11371
 longitude: -123.18348
 postcode: "97402"
 city: Eugene
-street: "Highway 99 North"
-housenumber: 90330
-phone: "+1 541 485 0407"
-opening_hours: "Mo-Fr 08:00-17:00; Mar-Aug 09:00-13:00"
-website: "https://brimtractor.com/store-locations/#brim-eugene"
+street: Highway 99 North
+housenumber: "90330"
+phone: +1 541 485 0407
+opening_hours: Mo-Fr 08:00-17:00; Mar-Aug 09:00-13:00
+website: https://brimtractor.com/store-locations/#brim-eugene

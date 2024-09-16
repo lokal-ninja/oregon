@@ -1,11 +1,11 @@
 id: 258038272
-type: way
+type: node
 latitude: 45.51858
 longitude: -122.66227
 postcode: "97214"
 city: Portland
-street: "Southeast Martin Luther King, Junior Boulevard"
-housenumber: 621
+street: Southeast Martin Luther King, Junior Boulevard
+housenumber: "621"
 phone: ""
 opening_hours: ""
-website: "https://www.portlandoregonautoglass.com/"
+website: https://www.portlandoregonautoglass.com/

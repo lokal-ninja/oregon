@@ -4,8 +4,8 @@ latitude: 45.51439
 longitude: -122.67575
 postcode: "97204"
 city: Portland
-street: "Southwest Madison Street"
-housenumber: 124
-phone: "+1-503-823-4448"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.portlandoregon.gov/"
+street: Southwest Madison Street
+housenumber: "124"
+phone: +1-503-823-4448
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.portlandoregon.gov/

@@ -1,11 +1,11 @@
 id: 405801296
-type: way
+type: node
 latitude: 45.5541
 longitude: -122.83516
 postcode: "97229"
 city: Portland
-street: "Northwest Bethany Boulevard"
-housenumber: 4768
+street: Northwest Bethany Boulevard
+housenumber: "4768"
 phone: ""
 opening_hours: ""
-website: "https://www.tanrepublic.com/"
+website: https://www.tanrepublic.com/

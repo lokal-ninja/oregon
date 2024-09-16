@@ -1,11 +1,11 @@
 id: 402044794
-type: way
+type: node
 latitude: 45.44674
 longitude: -122.76648
 postcode: "97223"
 city: Portland
-street: "Southwest Locust Street"
-housenumber: 8705
-phone: "+1-503-892-5152"
+street: Southwest Locust Street
+housenumber: "8705"
+phone: +1-503-892-5152
 opening_hours: ""
 website: ""

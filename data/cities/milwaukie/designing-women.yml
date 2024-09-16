@@ -1,11 +1,11 @@
 id: 688015631
-type: way
+type: node
 latitude: 45.44274
 longitude: -122.64129
 postcode: "97222"
 city: Milwaukie
-street: "Southeast Main Street"
-housenumber: 11049
-phone: "+1-503-232-9965"
+street: Southeast Main Street
+housenumber: "11049"
+phone: +1-503-232-9965
 opening_hours: ""
 website: ""

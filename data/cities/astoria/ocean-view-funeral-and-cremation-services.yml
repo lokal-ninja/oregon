@@ -1,11 +1,11 @@
 id: 760761451
-type: way
+type: node
 latitude: 46.18685
 longitude: -123.83009
 postcode: "97103"
 city: Astoria
-street: "Franklin Avenue"
-housenumber: 1213
-phone: "+1 503 3387200"
-opening_hours: "Mo-Fr 09:00-17:00,Sa,Su by appointment"
-website: "https://www.oceanviewastoria.com"
+street: Franklin Avenue
+housenumber: "1213"
+phone: +1 503 3387200
+opening_hours: Mo-Fr 09:00-17:00,Sa,Su "by appointment"
+website: https://www.oceanviewastoria.com

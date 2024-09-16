@@ -1,11 +1,11 @@
 id: 250368134
-type: way
+type: node
 latitude: 44.22085
 longitude: -123.20112
 postcode: "97448"
 city: Junction City
-street: "East 6th Avenue"
-housenumber: 110
-phone: "+1-541-998-6373"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 09:00-18:00"
-website: "https://www.bimart.com/"
+street: East 6th Avenue
+housenumber: "110"
+phone: +1-541-998-6373
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 09:00-18:00
+website: https://www.bimart.com/

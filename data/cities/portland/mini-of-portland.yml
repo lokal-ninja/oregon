@@ -1,11 +1,11 @@
 id: 331409209
-type: way
+type: node
 latitude: 45.49564
 longitude: -122.77104
 postcode: "97225"
 city: Portland
-street: "Southwest Canyon Road"
-housenumber: 9134
-phone: "+1-971-285-4182"
-opening_hours: "Mo-Sa 09:00-19:00; Su 11:00-18:00"
-website: "https://www.miniportland.com"
+street: Southwest Canyon Road
+housenumber: "9134"
+phone: +1-971-285-4182
+opening_hours: Mo-Sa 09:00-19:00; Su 11:00-18:00
+website: https://www.miniportland.com

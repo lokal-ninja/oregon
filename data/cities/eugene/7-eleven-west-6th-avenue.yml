@@ -1,11 +1,11 @@
 id: 792756223
-type: way
+type: node
 latitude: 44.05358
 longitude: -123.10778
 postcode: "97402"
 city: Eugene
-street: "West 6th Avenue"
-housenumber: 951
-phone: "+1 541-343-1342"
+street: West 6th Avenue
+housenumber: "951"
+phone: +1 541-343-1342
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/or/eugene/951-w-6th-st-24467"
+website: https://www.7-eleven.com/locations/or/eugene/951-w-6th-st-24467

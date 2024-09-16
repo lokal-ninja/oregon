@@ -1,11 +1,11 @@
 id: 311038554
-type: way
+type: node
 latitude: 44.10458
 longitude: -123.13209
 postcode: "97404"
 city: Eugene
-street: "River Road"
-housenumber: 2788
+street: River Road
+housenumber: "2788"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2788+river+rd-eugene-or-97404/id=12491"
+website: https://www.walgreens.com/locator/walgreens-2788+river+rd-eugene-or-97404/id=12491

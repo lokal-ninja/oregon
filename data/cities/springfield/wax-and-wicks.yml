@@ -4,8 +4,9 @@ latitude: 44.04607
 longitude: -123.02134
 postcode: "97477"
 city: Springfield
-street: "Main Street"
-housenumber: 331
+street: Main Street
+housenumber: "331"
 phone: ""
-opening_hours: "We 11:00-17:00; Th 11:00-18:00; Sa 10:00-18:00; Su 10:00-16:00; PH closed"
+opening_hours: We 11:00-17:00; Th 11:00-18:00; Sa 10:00-18:00; Su 10:00-16:00; PH
+    closed
 website: ""

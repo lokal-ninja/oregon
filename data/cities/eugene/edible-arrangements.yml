@@ -1,11 +1,11 @@
 id: 1118210828
-type: way
+type: node
 latitude: 44.06754
 longitude: -123.1023
 postcode: "97401"
 city: Eugene
-street: "Valley River Way"
-housenumber: 1011
-phone: "+1 541 686 3080"
-opening_hours: "Mo-Sa 09:00-17:00; Su 09:00-14:00"
+street: Valley River Way
+housenumber: "1011"
+phone: +1 541 686 3080
+opening_hours: Mo-Sa 09:00-17:00; Su 09:00-14:00
 website: ""

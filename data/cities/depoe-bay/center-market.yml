@@ -1,11 +1,11 @@
 id: 655136172
-type: way
+type: node
 latitude: 44.81749
 longitude: -124.0624
 postcode: "97341"
 city: Depoe Bay
-street: "Oregon Coast Highway"
-housenumber: 466
+street: Oregon Coast Highway
+housenumber: "466"
 phone: ""
 opening_hours: ""
 website: ""

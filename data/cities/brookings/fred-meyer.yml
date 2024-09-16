@@ -1,11 +1,11 @@
 id: 551139131
-type: way
+type: node
 latitude: 42.05279
 longitude: -124.28981
 postcode: "97415"
 city: Brookings
-street: "5th Street"
-housenumber: 325
-phone: "+1 541-469-1610"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.fredmeyer.com/stores/details/701/00030"
+street: 5th Street
+housenumber: "325"
+phone: +1 541-469-1610
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.fredmeyer.com/stores/details/701/00030

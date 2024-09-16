@@ -1,11 +1,11 @@
 id: 421432989
-type: way
+type: node
 latitude: 45.49629
 longitude: -122.62759
 postcode: "97202"
 city: Portland
-street: "Southeast Powell Boulevard"
-housenumber: 3550
+street: Southeast Powell Boulevard
+housenumber: "3550"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-19:00"
-website: "https://www.dollartree.com/locations/or/portland/8708/"
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-19:00
+website: https://www.dollartree.com/locations/or/portland/8708/

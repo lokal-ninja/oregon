@@ -1,11 +1,11 @@
 id: 564121330
-type: way
+type: node
 latitude: 45.53254
 longitude: -122.55885
 postcode: "97220"
 city: Portland
-street: "Northeast 102nd Avenue"
-housenumber: 1307
+street: Northeast 102nd Avenue
+housenumber: "1307"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa,Su 10:00-20:00"
+opening_hours: Mo-Fr 09:00-21:00; Sa,Su 10:00-20:00
 website: ""

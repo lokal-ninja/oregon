@@ -1,11 +1,11 @@
 id: 338436430
-type: way
+type: node
 latitude: 45.48632
 longitude: -122.7456
 postcode: "97225"
 city: Portland
-street: "Southwest Beaverton Hillsdale Highway"
-housenumber: 6636
-phone: "+1-503-292-0261"
-opening_hours: "Mo 12:00-19:00; Tu-Fr 10:00-19:00; Sa 10:00-17:00"
+street: Southwest Beaverton Hillsdale Highway
+housenumber: "6636"
+phone: +1-503-292-0261
+opening_hours: Mo 12:00-19:00; Tu-Fr 10:00-19:00; Sa 10:00-17:00
 website: ""

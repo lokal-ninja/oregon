@@ -1,11 +1,11 @@
 id: 525187347
-type: way
+type: node
 latitude: 44.95067
 longitude: -123.05003
 postcode: ""
 city: Salem
-street: "Wallace Road Northwest"
-housenumber: 1130
+street: Wallace Road Northwest
+housenumber: "1130"
 phone: ""
 opening_hours: ""
 website: ""

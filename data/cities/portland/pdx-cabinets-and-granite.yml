@@ -1,11 +1,11 @@
 id: 369071293
-type: way
+type: node
 latitude: 45.49625
 longitude: -122.61015
 postcode: "97206"
 city: Portland
-street: "Southeast Foster Road"
-housenumber: 5100
-phone: "+1-503-236-1888"
-opening_hours: "Mo-Th 09:30-17:30; Fr 09:30-16:00; Sa 10:00-16:00"
-website: "https://www.pdxbuildingsupply.com/"
+street: Southeast Foster Road
+housenumber: "5100"
+phone: +1-503-236-1888
+opening_hours: Mo-Th 09:30-17:30; Fr 09:30-16:00; Sa 10:00-16:00
+website: https://www.pdxbuildingsupply.com/

@@ -1,11 +1,11 @@
 id: 502515340
-type: way
+type: node
 latitude: 44.05697
 longitude: -121.30097
 postcode: "97701"
 city: Bend
-street: "Northeast 3rd Street"
-housenumber: 642
-phone: "+1-541-312-6480"
-opening_hours: "00:00-01:00,05:00-24:00"
-website: "https://local.safeway.com/safeway/or/bend/642-ne-3rd.html"
+street: Northeast 3rd Street
+housenumber: "642"
+phone: +1-541-312-6480
+opening_hours: 00:00-01:00,05:00-24:00
+website: https://local.safeway.com/safeway/or/bend/642-ne-3rd.html

@@ -1,11 +1,11 @@
 id: 397340743
-type: way
+type: node
 latitude: 43.79659
 longitude: -123.05924
 postcode: "97424"
 city: Cottage Grove
-street: "Highway 99"
-housenumber: 54
-phone: "+1 541 942 8114"
+street: Highway 99
+housenumber: "54"
+phone: +1 541 942 8114
 opening_hours: ""
 website: ""

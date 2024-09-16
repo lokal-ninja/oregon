@@ -1,11 +1,11 @@
 id: 1165999356
-type: way
+type: node
 latitude: 43.66758
 longitude: -121.4847
 postcode: "97739"
 city: La Pine
-street: "Finley Butte Road"
-housenumber: 16824
-phone: "+1 541 876 5432;+1 541 640 5146"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://integrityautoservices.com"
+street: Finley Butte Road
+housenumber: "16824"
+phone: +1 541 876 5432;+1 541 640 5146
+opening_hours: Mo-Fr 08:00-17:00
+website: https://integrityautoservices.com

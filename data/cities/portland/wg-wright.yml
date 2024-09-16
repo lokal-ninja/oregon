@@ -1,11 +1,11 @@
 id: 355401833
-type: way
+type: node
 latitude: 45.51159
 longitude: -122.65584
 postcode: "97214"
 city: Portland
-street: "Southeast 10th Avenue"
-housenumber: 1525
+street: Southeast 10th Avenue
+housenumber: "1525"
 phone: ""
 opening_hours: ""
-website: "https://wgwright.com/"
+website: https://wgwright.com/

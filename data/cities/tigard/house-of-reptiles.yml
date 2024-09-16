@@ -1,11 +1,11 @@
 id: 354397586
-type: way
+type: node
 latitude: 45.44201
 longitude: -122.74902
 postcode: "97223"
 city: Tigard
-street: "Southwest Pacific Highway"
-housenumber: 11507
+street: Southwest Pacific Highway
+housenumber: "11507"
 phone: ""
 opening_hours: ""
-website: "http://house-of-reptiles.com/"
+website: http://house-of-reptiles.com/

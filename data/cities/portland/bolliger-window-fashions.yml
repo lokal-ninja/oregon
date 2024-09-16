@@ -1,11 +1,11 @@
 id: 697413913
-type: way
+type: node
 latitude: 45.53506
 longitude: -122.63604
 postcode: "97232"
 city: Portland
-street: "Northeast Broadway"
-housenumber: 2834
-phone: "+1 503 281 1236"
+street: Northeast Broadway
+housenumber: "2834"
+phone: +1 503 281 1236
 opening_hours: ""
 website: ""

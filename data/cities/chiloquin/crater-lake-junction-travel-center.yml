@@ -1,11 +1,11 @@
 id: 316474795
-type: way
+type: node
 latitude: 42.53477
 longitude: -121.88499
 postcode: ""
 city: Chiloquin
-street: "The Dalles-California Highway"
-housenumber: 34315
+street: The Dalles-California Highway
+housenumber: "34315"
 phone: "+15417839800"
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

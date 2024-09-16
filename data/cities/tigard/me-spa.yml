@@ -1,11 +1,11 @@
 id: 355240496
-type: way
+type: node
 latitude: 45.39556
 longitude: -122.75287
 postcode: "97224"
 city: Tigard
-street: "Southwest Bridgeport Road"
-housenumber: 7449
-phone: "+1-503-598-0524"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-18:00"
-website: "https://www.me-spas.com/"
+street: Southwest Bridgeport Road
+housenumber: "7449"
+phone: +1-503-598-0524
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-18:00
+website: https://www.me-spas.com/

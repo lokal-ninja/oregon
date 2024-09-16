@@ -1,11 +1,11 @@
 id: 505640547
-type: way
+type: node
 latitude: 44.04801
 longitude: -121.30215
 postcode: "97702"
 city: Bend
-street: "Southeast 3rd Street"
-housenumber: 210
-phone: "+1-541-323-3788"
-opening_hours: "05:30-14:00"
-website: "http://www.sweetheartdonuts.com/"
+street: Southeast 3rd Street
+housenumber: "210"
+phone: +1-541-323-3788
+opening_hours: 05:30-14:00
+website: http://www.sweetheartdonuts.com/

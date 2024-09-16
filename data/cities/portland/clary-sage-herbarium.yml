@@ -1,11 +1,11 @@
 id: 411766585
-type: way
+type: node
 latitude: 45.5592
 longitude: -122.63604
 postcode: "97211"
 city: Portland
-street: "Northeast Alberta Street"
-housenumber: 2841
+street: Northeast Alberta Street
+housenumber: "2841"
 phone: ""
 opening_hours: ""
-website: "https://clarysageherbarium.com/"
+website: https://clarysageherbarium.com/

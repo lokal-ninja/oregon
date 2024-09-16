@@ -1,11 +1,11 @@
 id: 339214923
-type: way
+type: node
 latitude: 45.53394
 longitude: -122.62434
 postcode: "97232"
 city: Portland
-street: "Northeast Sandy Boulevard"
-housenumber: 3738
-phone: "+1-971-242-8561"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://puregreenpdx.com/"
+street: Northeast Sandy Boulevard
+housenumber: "3738"
+phone: +1-971-242-8561
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-19:00
+website: https://puregreenpdx.com/

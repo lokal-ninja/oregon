@@ -1,11 +1,11 @@
 id: 621380933
-type: way
+type: node
 latitude: 45.50496
 longitude: -122.62098
 postcode: "97202"
 city: Portland
-street: "Southeast Division Street"
-housenumber: 4021
+street: Southeast Division Street
+housenumber: "4021"
 phone: ""
 opening_hours: ""
-website: "http://www.gotfreshhair.com/"
+website: http://www.gotfreshhair.com/

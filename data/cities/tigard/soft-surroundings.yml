@@ -1,11 +1,11 @@
 id: 414276482
-type: way
+type: node
 latitude: 45.39501
 longitude: -122.75197
 postcode: ""
 city: Tigard
-street: "Southwest Bridgeport Road"
-housenumber: 7475
-phone: "+1-971-245-1110"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.softsurroundings.com/"
+street: Southwest Bridgeport Road
+housenumber: "7475"
+phone: +1-971-245-1110
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.softsurroundings.com/

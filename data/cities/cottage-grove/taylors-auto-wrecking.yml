@@ -1,11 +1,11 @@
 id: 999267155
-type: way
+type: node
 latitude: 43.8021
 longitude: -123.03582
 postcode: "97424"
 city: Cottage Grove
-street: "Thornton Lane"
-housenumber: 78869
-phone: "+1 541 942 4522;+1 800 533 4356"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://taylorsauto.com"
+street: Thornton Lane
+housenumber: "78869"
+phone: +1 541 942 4522;+1 800 533 4356
+opening_hours: Mo-Fr 08:00-17:00
+website: https://taylorsauto.com

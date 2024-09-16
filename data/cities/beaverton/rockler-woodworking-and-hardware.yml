@@ -1,11 +1,11 @@
 id: 358227503
-type: way
+type: node
 latitude: 45.48793
 longitude: -122.79777
 postcode: "97005"
 city: Beaverton
-street: "Southwest Beaverton Hillsdale Highway"
-housenumber: 11773
+street: Southwest Beaverton Hillsdale Highway
+housenumber: "11773"
 phone: ""
 opening_hours: ""
-website: "https://www.rockler.com/"
+website: https://www.rockler.com/

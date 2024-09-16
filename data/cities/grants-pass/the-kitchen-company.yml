@@ -4,8 +4,8 @@ latitude: 42.43803
 longitude: -123.32742
 postcode: ""
 city: Grants Pass
-street: "Southeast 6th Street"
-housenumber: 301
-phone: "+1 541-955-5311"
-opening_hours: "Mo-Sa 09:30-17:30; Su 11:00-16:00"
-website: "https://www.thekitchencompanygp.com"
+street: Southeast 6th Street
+housenumber: "301"
+phone: +1 541-955-5311
+opening_hours: Mo-Sa 09:30-17:30; Su 11:00-16:00
+website: https://www.thekitchencompanygp.com

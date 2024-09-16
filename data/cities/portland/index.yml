@@ -4,8 +4,8 @@ latitude: 45.52408
 longitude: -122.67322
 postcode: "97209"
 city: Portland
-street: "Northwest 3rd Avenue"
-housenumber: 114
-phone: "+1-503-208-3599"
-opening_hours: "Mo-Sa 12:00-19:00; Su 12:00-17:00"
-website: "https://www.indexpdx.com/"
+street: Northwest 3rd Avenue
+housenumber: "114"
+phone: +1-503-208-3599
+opening_hours: Mo-Sa 12:00-19:00; Su 12:00-17:00
+website: https://www.indexpdx.com/

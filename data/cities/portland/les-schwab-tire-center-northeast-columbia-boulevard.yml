@@ -1,11 +1,11 @@
 id: 1023229479
-type: way
+type: node
 latitude: 45.57536
 longitude: -122.64348
 postcode: "97211"
 city: Portland
-street: "Northeast Columbia Boulevard"
-housenumber: 2140
+street: Northeast Columbia Boulevard
+housenumber: "2140"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 543214095
-type: way
+type: node
 latitude: 45.49483
 longitude: -122.60767
 postcode: "97206"
 city: Portland
-street: "Southeast Foster Road"
-housenumber: 5338
-phone: "+1-503-774-3760"
+street: Southeast Foster Road
+housenumber: "5338"
+phone: +1-503-774-3760
 opening_hours: ""
-website: "https://thedecoretteshop.com/"
+website: https://thedecoretteshop.com/

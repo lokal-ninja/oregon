@@ -1,11 +1,11 @@
 id: 405489233
-type: way
+type: node
 latitude: 44.06541
 longitude: -123.07691
 postcode: "97401"
 city: Eugene
-street: "Oakway Center"
-housenumber: 5
+street: Oakway Center
+housenumber: "5"
 phone: ""
-opening_hours: "10:00-21:00"
+opening_hours: 10:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 784311112
-type: way
+type: node
 latitude: 45.51655
 longitude: -122.5781
 postcode: "97216"
 city: Portland
-street: "Southeast 82nd Avenue"
-housenumber: 930
+street: Southeast 82nd Avenue
+housenumber: "930"
 phone: ""
 opening_hours: ""
-website: "https://www.chuckwisemotors.com/"
+website: https://www.chuckwisemotors.com/

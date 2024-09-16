@@ -1,11 +1,11 @@
 id: 667349695
-type: way
+type: node
 latitude: 43.36335
 longitude: -124.21597
 postcode: "97420"
 city: Coos Bay
-street: "South 4th Street"
-housenumber: 550
+street: South 4th Street
+housenumber: "550"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 772263532
-type: way
+type: node
 latitude: 44.87091
 longitude: -123.0227
 postcode: "97301"
 city: Salem
-street: "Commercial Street Southeast"
-housenumber: 5780
-phone: "+1 503-585-7133"
-opening_hours: "Mar-Sep Mo-Sa 09:00-17:00; Mar-Sep Su 09:00-16:00; Oct-Feb Varies"
+street: Commercial Street Southeast
+housenumber: "5780"
+phone: +1 503-585-7133
+opening_hours: Mar-Sep Mo-Sa 09:00-17:00; Mar-Sep Su 09:00-16:00; Oct-Feb "Varies"
 website: ""

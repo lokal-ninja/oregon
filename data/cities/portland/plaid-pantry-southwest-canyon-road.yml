@@ -1,11 +1,11 @@
 id: 174989205
-type: way
+type: node
 latitude: 45.49385
 longitude: -122.77912
 postcode: "97225"
 city: Portland
-street: "Southwest Canyon Road"
-housenumber: 9917
+street: Southwest Canyon Road
+housenumber: "9917"
 phone: ""
 opening_hours: ""
-website: "http://plaidpantry.com/"
+website: http://plaidpantry.com/

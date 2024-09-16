@@ -1,11 +1,11 @@
 id: 457821488
-type: way
+type: node
 latitude: 45.4735
 longitude: -122.65027
 postcode: "97202"
 city: Portland
-street: "Southeast Bybee Boulevard"
-housenumber: 1528
+street: Southeast Bybee Boulevard
+housenumber: "1528"
 phone: ""
-opening_hours: "Mo-Fr 07:30-21:00; Sa 08:00-18:00; Su 12:00-18:00"
+opening_hours: Mo-Fr 07:30-21:00; Sa 08:00-18:00; Su 12:00-18:00
 website: ""

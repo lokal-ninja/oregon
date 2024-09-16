@@ -1,11 +1,11 @@
 id: 305101420
-type: way
+type: node
 latitude: 45.49559
 longitude: -122.81112
 postcode: "97005"
 city: Beaverton
-street: "Southwest Cedar Hills Boulevard"
-housenumber: 3255
-phone: "+1 503-643-7080"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/beaverton-or-188"
+street: Southwest Cedar Hills Boulevard
+housenumber: "3255"
+phone: +1 503-643-7080
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/beaverton-or-188

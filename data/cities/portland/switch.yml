@@ -1,11 +1,11 @@
 id: 297838858
-type: way
+type: node
 latitude: 45.4678
 longitude: -122.71438
 postcode: "97219"
 city: Portland
-street: "Southwest Capitol Highway"
-housenumber: 7871
-phone: "+1-503-445-4585"
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-16:00"
-website: "https://switch-shoes.com/"
+street: Southwest Capitol Highway
+housenumber: "7871"
+phone: +1-503-445-4585
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-16:00
+website: https://switch-shoes.com/

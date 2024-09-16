@@ -1,11 +1,11 @@
 id: 794185508
-type: way
+type: node
 latitude: 44.06914
 longitude: -123.10069
 postcode: "97401"
 city: Eugene
-street: "Willagillespie Road"
-housenumber: 1030
+street: Willagillespie Road
+housenumber: "1030"
 phone: ""
 opening_hours: ""
 website: ""

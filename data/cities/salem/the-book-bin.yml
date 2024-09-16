@@ -4,8 +4,8 @@ latitude: 44.94076
 longitude: -123.03775
 postcode: ""
 city: Salem
-street: "Court Street Northeast"
-housenumber: 450
-phone: "+1 503-361-1235"
-opening_hours: "10:00-19:00"
-website: "https://bookbin.com/salem-book-bin"
+street: Court Street Northeast
+housenumber: "450"
+phone: +1 503-361-1235
+opening_hours: 10:00-19:00
+website: https://bookbin.com/salem-book-bin

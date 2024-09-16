@@ -1,11 +1,11 @@
 id: 206811920
-type: way
+type: node
 latitude: 45.22751
 longitude: -123.17333
 postcode: "97128"
 city: McMinnville
-street: "Northeast Highway 99W"
-housenumber: 2490
-phone: "+1-503-435-3120"
-opening_hours: "06:00-23:00"
-website: "https://local.safeway.com/safeway/or/mcminnville/2490-n-hwy-99-w.html"
+street: Northeast Highway 99W
+housenumber: "2490"
+phone: +1-503-435-3120
+opening_hours: 06:00-23:00
+website: https://local.safeway.com/safeway/or/mcminnville/2490-n-hwy-99-w.html

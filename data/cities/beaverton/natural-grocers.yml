@@ -1,11 +1,11 @@
 id: 317887978
-type: way
+type: node
 latitude: 45.49178
 longitude: -122.79869
 postcode: "97005"
 city: Beaverton
-street: "Southwest 117th Avenue"
-housenumber: 3805
-phone: "+1-503-520-9100"
-opening_hours: "Mo-Sa 08:27-20:36; Su 08:57-19:36"
-website: "https://www.naturalgrocers.com/store/portland-area-beaverton"
+street: Southwest 117th Avenue
+housenumber: "3805"
+phone: +1-503-520-9100
+opening_hours: Mo-Sa 08:27-20:36; Su 08:57-19:36
+website: https://www.naturalgrocers.com/store/portland-area-beaverton

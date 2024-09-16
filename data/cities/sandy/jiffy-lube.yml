@@ -1,11 +1,11 @@
 id: 366388830
-type: way
+type: node
 latitude: 45.40003
 longitude: -122.27601
 postcode: "97055"
 city: Sandy
-street: "Highway 26"
-housenumber: 37695
-phone: "+1-503-668-4690"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00"
-website: "https://www.jiffylube.com/"
+street: Highway 26
+housenumber: "37695"
+phone: +1-503-668-4690
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00
+website: https://www.jiffylube.com/

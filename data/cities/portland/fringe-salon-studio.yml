@@ -4,8 +4,8 @@ latitude: 45.52609
 longitude: -122.68308
 postcode: "97209"
 city: Portland
-street: "Northwest 12th Avenue"
-housenumber: 406
-phone: "+1-503-222-5333"
+street: Northwest 12th Avenue
+housenumber: "406"
+phone: +1-503-222-5333
 opening_hours: ""
-website: "https://fringesalonstudio.com/"
+website: https://fringesalonstudio.com/

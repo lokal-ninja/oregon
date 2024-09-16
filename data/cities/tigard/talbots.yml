@@ -1,11 +1,11 @@
 id: 355240490
-type: way
+type: node
 latitude: 45.39536
 longitude: -122.75169
 postcode: "97224"
 city: Tigard
-street: "Southwest Bridgeport Road"
-housenumber: 7209
+street: Southwest Bridgeport Road
+housenumber: "7209"
 phone: ""
 opening_hours: ""
-website: "https://www.talbots.com/"
+website: https://www.talbots.com/

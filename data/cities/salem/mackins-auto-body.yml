@@ -1,11 +1,11 @@
 id: 201423387
-type: way
+type: node
 latitude: 44.94612
 longitude: -123.03493
 postcode: "97301"
 city: Salem
-street: "Liberty Street Northeast"
-housenumber: 660
-phone: "+1 503-581-4242"
+street: Liberty Street Northeast
+housenumber: "660"
+phone: +1 503-581-4242
 opening_hours: ""
-website: "https://www.mackinsab.com/locations/salem/"
+website: https://www.mackinsab.com/locations/salem/

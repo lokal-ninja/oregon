@@ -1,11 +1,11 @@
 id: 504280231
-type: way
+type: node
 latitude: 44.05446
 longitude: -121.26486
 postcode: "97701"
 city: Bend
-street: "Northeast Highway 20"
-housenumber: 2675
-phone: "+1-541-312-2226"
+street: Northeast Highway 20
+housenumber: "2675"
+phone: +1-541-312-2226
 opening_hours: ""
-website: "https://www.themeatlockerco.com/"
+website: https://www.themeatlockerco.com/

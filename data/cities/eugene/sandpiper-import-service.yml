@@ -1,11 +1,11 @@
 id: 987156193
-type: way
+type: node
 latitude: 44.04532
 longitude: -123.09665
 postcode: "97401"
 city: Eugene
-street: "Lincoln Street"
-housenumber: 1301
+street: Lincoln Street
+housenumber: "1301"
 phone: ""
 opening_hours: ""
 website: ""

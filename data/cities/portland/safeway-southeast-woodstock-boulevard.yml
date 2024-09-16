@@ -1,11 +1,11 @@
 id: 146603111
-type: way
+type: node
 latitude: 45.48032
 longitude: -122.61582
 postcode: "97206"
 city: Portland
-street: "Southeast Woodstock Boulevard"
-housenumber: 4515
-phone: "+1-503-788-7600"
-opening_hours: "06:00-24:00"
-website: "https://local.safeway.com/safeway/or/portland/4515-se-woodstock-blvd.html"
+street: Southeast Woodstock Boulevard
+housenumber: "4515"
+phone: +1-503-788-7600
+opening_hours: 06:00-24:00
+website: https://local.safeway.com/safeway/or/portland/4515-se-woodstock-blvd.html

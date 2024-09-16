@@ -4,8 +4,8 @@ latitude: 44.05215
 longitude: -123.16489
 postcode: "97402"
 city: Eugene
-street: "Powers Street"
-housenumber: 645
-phone: "+1 541 200 6069"
-opening_hours: "Mo-Fr 09:00-18:00; Sa by appointment"
-website: "https://thehotrodcorner.com"
+street: Powers Street
+housenumber: "645"
+phone: +1 541 200 6069
+opening_hours: Mo-Fr 09:00-18:00; Sa "by appointment"
+website: https://thehotrodcorner.com

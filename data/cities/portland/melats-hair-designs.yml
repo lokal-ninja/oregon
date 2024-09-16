@@ -4,8 +4,8 @@ latitude: 45.53708
 longitude: -122.61971
 postcode: "97213"
 city: Portland
-street: "Northeast 42nd Avenue"
-housenumber: 2000
-phone: "+1-503-281-5497"
+street: Northeast 42nd Avenue
+housenumber: "2000"
+phone: +1-503-281-5497
 opening_hours: ""
-website: "https://www.42ndstreetstation.net/"
+website: https://www.42ndstreetstation.net/

@@ -1,11 +1,11 @@
 id: 517738578
-type: way
+type: node
 latitude: 45.1527
 longitude: -122.8334
 postcode: "97071"
 city: Woodburn
-street: "Mount Hood Avenue"
-housenumber: 1575
-phone: "+1-503-981-7575"
+street: Mount Hood Avenue
+housenumber: "1575"
+phone: +1-503-981-7575
 opening_hours: ""
-website: "https://www.gogenx.com/"
+website: https://www.gogenx.com/

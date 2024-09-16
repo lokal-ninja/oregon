@@ -1,11 +1,11 @@
 id: 376633841
-type: way
+type: node
 latitude: 45.46684
 longitude: -122.75158
 postcode: "97223"
 city: Portland
-street: "Southwest Garden Home Road"
-housenumber: 7303
-phone: "+1-503-892-5677"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.greatclips.com/"
+street: Southwest Garden Home Road
+housenumber: "7303"
+phone: +1-503-892-5677
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.greatclips.com/

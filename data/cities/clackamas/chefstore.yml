@@ -1,11 +1,11 @@
 id: 371823905
-type: way
+type: node
 latitude: 45.40977
 longitude: -122.56795
 postcode: "97015"
 city: Clackamas
-street: "Southeast 82nd Drive"
-housenumber: 15700
-phone: "(503) 655-6045"
-opening_hours: "Mo-Sa 06:00-18:00, Su 08:00-17:00"
-website: "https://www.chefstore.com/locations/store/clackamas-558/"
+street: Southeast 82nd Drive
+housenumber: "15700"
+phone: (503) 655-6045
+opening_hours: Mo-Sa 06:00-18:00, Su 08:00-17:00
+website: https://www.chefstore.com/locations/store/clackamas-558/

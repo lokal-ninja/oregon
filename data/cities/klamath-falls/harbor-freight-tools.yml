@@ -1,11 +1,11 @@
 id: 868208158
-type: way
+type: node
 latitude: 42.20604
 longitude: -121.74113
 postcode: "97603"
 city: Klamath Falls
-street: "South 6th Street"
-housenumber: 3838
-phone: "+1 541-884-1550"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/3838-s-6th-street-klamath-falls-97603?number=752"
+street: South 6th Street
+housenumber: "3838"
+phone: +1 541-884-1550
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/3838-s-6th-street-klamath-falls-97603?number=752

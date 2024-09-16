@@ -4,8 +4,8 @@ latitude: 45.52276
 longitude: -122.63759
 postcode: "97214"
 city: Portland
-street: "East Burnside Street"
-housenumber: 2730
+street: East Burnside Street
+housenumber: "2730"
 phone: ""
 opening_hours: ""
-website: "http://creampdx.com/"
+website: http://creampdx.com/

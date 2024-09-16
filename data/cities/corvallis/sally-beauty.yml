@@ -4,8 +4,8 @@ latitude: 44.58759
 longitude: -123.2754
 postcode: "97330"
 city: Corvallis
-street: "Northwest Circle Boulevard"
-housenumber: 2015
-phone: "+1 541 752 0604"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.sallybeauty.com/store-details/?showMap=true&horizontalView=true&lat=44.587437&long=-123.275361"
+street: Northwest Circle Boulevard
+housenumber: "2015"
+phone: +1 541 752 0604
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.sallybeauty.com/store-details/?showMap=true&horizontalView=true&lat=44.587437&long=-123.275361

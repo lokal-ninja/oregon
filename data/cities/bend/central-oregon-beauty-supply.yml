@@ -1,11 +1,11 @@
 id: 502563889
-type: way
+type: node
 latitude: 44.05361
 longitude: -121.302
 postcode: "97701"
 city: Bend
-street: "Northeast 3rd Street"
-housenumber: 324
-phone: "+1-541-382-8449"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "http://centraloregonbeautysupplyandsalon.com/"
+street: Northeast 3rd Street
+housenumber: "324"
+phone: +1-541-382-8449
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: http://centraloregonbeautysupplyandsalon.com/

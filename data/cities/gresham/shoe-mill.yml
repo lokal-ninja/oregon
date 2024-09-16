@@ -1,11 +1,11 @@
 id: 49398734
-type: way
+type: node
 latitude: 45.50601
 longitude: -122.43874
 postcode: "97030"
 city: Gresham
-street: "Northwest 12th Street"
-housenumber: 659
-phone: "+1-503-491-4455"
+street: Northwest 12th Street
+housenumber: "659"
+phone: +1-503-491-4455
 opening_hours: ""
-website: "https://shoemill.com/"
+website: https://shoemill.com/

@@ -1,11 +1,11 @@
 id: 1013625309
-type: way
+type: node
 latitude: 45.39612
 longitude: -122.75205
 postcode: "97224"
 city: Tigard
-street: "Southwest Bridgeport Road"
-housenumber: 7233
+street: Southwest Bridgeport Road
+housenumber: "7233"
 phone: ""
 opening_hours: ""
-website: "https://brandymelville.com/"
+website: https://brandymelville.com/

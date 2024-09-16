@@ -1,11 +1,11 @@
 id: 262970436
-type: way
+type: node
 latitude: 42.35145
 longitude: -122.87176
 postcode: "97504"
 city: Medford
-street: "Crater Lake Highway"
-housenumber: 2424
-phone: "+1 541-734-2133"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.fredmeyer.com/stores/grocery/or/medford/medford/701/00195"
+street: Crater Lake Highway
+housenumber: "2424"
+phone: +1 541-734-2133
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.fredmeyer.com/stores/grocery/or/medford/medford/701/00195

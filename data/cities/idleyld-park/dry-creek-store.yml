@@ -1,11 +1,11 @@
 id: 815015768
-type: way
+type: node
 latitude: 43.29635
 longitude: -122.6091
 postcode: "97447"
 city: Idleyld Park
-street: "Happy Creek Lane"
-housenumber: 160
-phone: "+1 541 498 22 15"
-opening_hours: "Mo-Su 06:00-18:00"
+street: Happy Creek Lane
+housenumber: "160"
+phone: +1 541 498 22 15
+opening_hours: Mo-Su 06:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1075433252
-type: way
+type: node
 latitude: 44.06444
 longitude: -121.3465
 postcode: "97703"
 city: Bend
-street: "Northwest Shevlin Park Road"
-housenumber: 2155
-phone: "+1-541-604-7068"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-17:00"
-website: "https://www.centraloregoneyecare.com/"
+street: Northwest Shevlin Park Road
+housenumber: "2155"
+phone: +1-541-604-7068
+opening_hours: Mo-Fr 09:00-13:00, 14:00-17:00
+website: https://www.centraloregoneyecare.com/

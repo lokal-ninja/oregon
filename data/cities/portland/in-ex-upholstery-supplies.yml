@@ -1,11 +1,11 @@
 id: 226445939
-type: way
+type: node
 latitude: 45.51187
 longitude: -122.65926
 postcode: "97214"
 city: Portland
-street: "Southeast Clay Street"
-housenumber: 615
-phone: "+1-503-235-0614"
+street: Southeast Clay Street
+housenumber: "615"
+phone: +1-503-235-0614
 opening_hours: ""
-website: "https://www.inexupholstery.com/"
+website: https://www.inexupholstery.com/

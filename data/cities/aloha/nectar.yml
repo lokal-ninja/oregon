@@ -1,11 +1,11 @@
 id: 353357098
-type: way
+type: node
 latitude: 45.49669
 longitude: -122.88889
 postcode: "97003"
 city: Aloha
-street: "Southwest Tualatin Valley Highway"
-housenumber: 20595
-phone: "+1 503 746 4444"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://nectar.store/aloha"
+street: Southwest Tualatin Valley Highway
+housenumber: "20595"
+phone: +1 503 746 4444
+opening_hours: Mo-Su 07:00-22:00
+website: https://nectar.store/aloha

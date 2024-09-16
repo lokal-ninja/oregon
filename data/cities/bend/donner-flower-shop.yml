@@ -1,11 +1,11 @@
 id: 508318067
-type: way
+type: node
 latitude: 44.06214
 longitude: -121.32073
 postcode: "97703"
 city: Bend
-street: "Northwest Newport Avenue"
-housenumber: 605
-phone: "+1-541-382-3791"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-17:00"
-website: "https://www.donnerflower.com/"
+street: Northwest Newport Avenue
+housenumber: "605"
+phone: +1-541-382-3791
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-17:00
+website: https://www.donnerflower.com/

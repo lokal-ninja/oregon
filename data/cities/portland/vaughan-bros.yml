@@ -1,11 +1,11 @@
 id: 408670821
-type: way
+type: node
 latitude: 45.51832
 longitude: -122.66524
 postcode: "97214"
 city: Portland
-street: "Southeast Washington Street"
-housenumber: 88
+street: Southeast Washington Street
+housenumber: "88"
 phone: ""
 opening_hours: ""
-website: "http://www.vaughanbros.com/"
+website: http://www.vaughanbros.com/

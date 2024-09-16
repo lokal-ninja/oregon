@@ -1,11 +1,11 @@
 id: 452816025
-type: way
+type: node
 latitude: 45.50885
 longitude: -122.78395
 postcode: "97225"
 city: Portland
-street: "Southwest Marlow Avenue"
-housenumber: 1517
-phone: "+1-503-292-5221"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 09:00-12:00"
+street: Southwest Marlow Avenue
+housenumber: "1517"
+phone: +1-503-292-5221
+opening_hours: Mo-Fr 08:00-17:30; Sa 09:00-12:00
 website: ""

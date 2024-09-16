@@ -1,11 +1,11 @@
 id: 428386748
-type: way
+type: node
 latitude: 45.51919
 longitude: -123.03045
 postcode: "97123"
 city: Hillsboro
-street: "Baseline Street"
-housenumber: 3437
+street: Baseline Street
+housenumber: "3437"
 phone: ""
 opening_hours: ""
 website: ""

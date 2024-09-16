@@ -1,11 +1,11 @@
 id: 1207641045
-type: way
+type: node
 latitude: 44.12527
 longitude: -122.62943
 postcode: "97489"
 city: Leaburg
-street: "McKenzie Highway"
-housenumber: 44115
+street: McKenzie Highway
+housenumber: "44115"
 phone: ""
 opening_hours: ""
 website: ""

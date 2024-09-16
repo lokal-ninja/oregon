@@ -1,11 +1,11 @@
 id: 511180814
-type: way
+type: node
 latitude: 44.05833
 longitude: -121.31402
 postcode: "97703"
 city: Bend
-street: "Northwest Wall Street"
-housenumber: 842
-phone: "+1-541-382-7884"
-opening_hours: "Mo-Fr 10:00-17:30; Sa 10:30-17:30; Su 10:00-16:00"
+street: Northwest Wall Street
+housenumber: "842"
+phone: +1-541-382-7884
+opening_hours: Mo-Fr 10:00-17:30; Sa 10:30-17:30; Su 10:00-16:00
 website: ""

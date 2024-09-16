@@ -1,11 +1,11 @@
 id: 514557289
-type: way
+type: node
 latitude: 44.05216
 longitude: -121.31391
 postcode: "97703"
 city: Bend
-street: "Northwest Sisemore Street"
-housenumber: 115
-phone: "+1-541-382-2773"
+street: Northwest Sisemore Street
+housenumber: "115"
+phone: +1-541-382-2773
 opening_hours: ""
-website: "https://www.marketofchoice.com/"
+website: https://www.marketofchoice.com/

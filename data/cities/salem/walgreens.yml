@@ -1,11 +1,11 @@
 id: 37101439
-type: way
+type: node
 latitude: 44.9533
 longitude: -122.98265
 postcode: "97305"
 city: Salem
-street: "Lancaster Drive Northeast"
-housenumber: 1992
+street: Lancaster Drive Northeast
+housenumber: "1992"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1992+lancaster+dr+ne-salem-or-97305/id=4229"
+website: https://www.walgreens.com/locator/walgreens-1992+lancaster+dr+ne-salem-or-97305/id=4229

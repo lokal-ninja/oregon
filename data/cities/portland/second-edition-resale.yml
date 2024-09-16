@@ -1,11 +1,11 @@
 id: 403034861
-type: way
+type: node
 latitude: 45.52755
 longitude: -122.80557
 postcode: "97229"
 city: Portland
-street: "Northwest Saltzman"
-housenumber: 1050
+street: Northwest Saltzman
+housenumber: "1050"
 phone: ""
 opening_hours: ""
-website: "https://library.cedarmill.org/second-edition-resale/"
+website: https://library.cedarmill.org/second-edition-resale/

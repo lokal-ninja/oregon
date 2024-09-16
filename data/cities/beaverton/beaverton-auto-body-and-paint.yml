@@ -1,11 +1,11 @@
 id: 248148935
-type: way
+type: node
 latitude: 45.48871
 longitude: -122.82223
 postcode: "97005"
 city: Beaverton
-street: "Southwest 142nd Avenue"
-housenumber: 4330
+street: Southwest 142nd Avenue
+housenumber: "4330"
 phone: ""
 opening_hours: ""
 website: ""

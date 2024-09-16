@@ -1,11 +1,11 @@
 id: 455659854
-type: way
+type: node
 latitude: 44.84822
 longitude: -123.22989
 postcode: "97361"
 city: Monmouth
-street: "Main Street East"
-housenumber: 595
-phone: "+1-503-838-4094"
-opening_hours: "24/7"
-website: "https://www.shell.us/"
+street: Main Street East
+housenumber: "595"
+phone: +1-503-838-4094
+opening_hours: 24/7
+website: https://www.shell.us/

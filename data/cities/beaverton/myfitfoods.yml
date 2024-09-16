@@ -1,11 +1,11 @@
 id: 354909112
-type: way
+type: node
 latitude: 45.42956
 longitude: -122.8306
 postcode: "97007"
 city: Beaverton
-street: "Southwest Barrows Road"
-housenumber: 14985
+street: Southwest Barrows Road
+housenumber: "14985"
 phone: ""
 opening_hours: ""
-website: "https://www.myfitfoods.com/"
+website: https://www.myfitfoods.com/

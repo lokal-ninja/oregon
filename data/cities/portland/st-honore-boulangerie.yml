@@ -4,8 +4,8 @@ latitude: 45.52064
 longitude: -122.67918
 postcode: "97205"
 city: Portland
-street: "Southwest Broadway"
-housenumber: 501
+street: Southwest Broadway
+housenumber: "501"
 phone: ""
-opening_hours: "07:00-17:00"
-website: "https://www.sainthonorebakery.com/"
+opening_hours: 07:00-17:00
+website: https://www.sainthonorebakery.com/

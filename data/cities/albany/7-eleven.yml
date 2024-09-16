@@ -1,11 +1,11 @@
 id: 263655421
-type: way
+type: node
 latitude: 44.62479
 longitude: -123.09833
 postcode: "97322"
 city: Albany
-street: "Queen Avenue Southeast"
-housenumber: 300
-phone: "+1 458-223-2677"
+street: Queen Avenue Southeast
+housenumber: "300"
+phone: +1 458-223-2677
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/or/albany/300-sw-queen-st-38802"
+website: https://www.7-eleven.com/locations/or/albany/300-sw-queen-st-38802

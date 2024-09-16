@@ -1,11 +1,11 @@
 id: 437878939
-type: way
+type: node
 latitude: 45.22996
 longitude: -123.17496
 postcode: "97128"
 city: McMinnville
-street: "Northeast Highway 99W"
-housenumber: 2375
-phone: "+1 503-434-9233"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1843-mcminnville-or"
+street: Northeast Highway 99W
+housenumber: "2375"
+phone: +1 503-434-9233
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1843-mcminnville-or

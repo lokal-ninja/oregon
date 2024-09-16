@@ -1,11 +1,11 @@
 id: 1153939356
-type: way
+type: node
 latitude: 44.96758
 longitude: -122.89007
 postcode: "97305"
 city: Salem
-street: "82nd Avenue Northeast"
-housenumber: 2994
-phone: "+1 503-362-8857"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-18:00; Su 12:00-17:00"
-website: "https://www.wvpie.com/"
+street: 82nd Avenue Northeast
+housenumber: "2994"
+phone: +1 503-362-8857
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-18:00; Su 12:00-17:00
+website: https://www.wvpie.com/

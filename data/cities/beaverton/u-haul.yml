@@ -1,11 +1,11 @@
 id: 331570956
-type: way
+type: node
 latitude: 45.49005
 longitude: -122.82355
 postcode: "97005"
 city: Beaverton
-street: "Southwest Tualatin Valley Highway"
-housenumber: 14225
+street: Southwest Tualatin Valley Highway
+housenumber: "14225"
 phone: ""
 opening_hours: ""
-website: "https://www.uhaul.com/"
+website: https://www.uhaul.com/

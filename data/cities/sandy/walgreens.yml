@@ -1,11 +1,11 @@
 id: 329229646
-type: way
+type: node
 latitude: 45.3979
 longitude: -122.26911
 postcode: "97055"
 city: Sandy
-street: "Proctor Boulevard"
-housenumber: 38241
+street: Proctor Boulevard
+housenumber: "38241"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-38241+proctor+blvd-sandy-or-97055/id=10137"
+website: https://www.walgreens.com/locator/walgreens-38241+proctor+blvd-sandy-or-97055/id=10137

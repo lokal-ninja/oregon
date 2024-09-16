@@ -1,11 +1,11 @@
 id: 457384816
-type: way
+type: node
 latitude: 45.41038
 longitude: -122.74591
 postcode: "97224"
 city: Tigard
-street: "Southwest Sequoia Parkway"
-housenumber: 15230
-phone: "+1-503-624-6090"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-18:00"
-website: "https://www.westmarine.com/"
+street: Southwest Sequoia Parkway
+housenumber: "15230"
+phone: +1-503-624-6090
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-18:00
+website: https://www.westmarine.com/

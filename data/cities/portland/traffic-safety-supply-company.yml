@@ -1,11 +1,11 @@
 id: 428147737
-type: way
+type: node
 latitude: 45.46276
 longitude: -122.64061
 postcode: "97202"
 city: Portland
-street: "Southeast Umatilla Street"
-housenumber: 2324
-phone: "+1-503-235-8531"
+street: Southeast Umatilla Street
+housenumber: "2324"
+phone: +1-503-235-8531
 opening_hours: ""
-website: "https://www.tssco.com/"
+website: https://www.tssco.com/

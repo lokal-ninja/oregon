@@ -1,11 +1,11 @@
 id: 408713314
-type: way
+type: node
 latitude: 46.18959
 longitude: -123.84948
 postcode: "97103"
 city: Astoria
-street: "West Marine Drive"
-housenumber: 248
-phone: "+1 503 3257610"
+street: West Marine Drive
+housenumber: "248"
+phone: +1 503 3257610
 opening_hours: ""
-website: "https://www.mnworkwear.com/"
+website: https://www.mnworkwear.com/

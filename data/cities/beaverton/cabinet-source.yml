@@ -1,11 +1,11 @@
 id: 331412094
-type: way
+type: node
 latitude: 45.4891
 longitude: -122.78972
 postcode: "97005"
 city: Beaverton
-street: "Southwest 110th Avenue"
-housenumber: 4280
+street: Southwest 110th Avenue
+housenumber: "4280"
 phone: ""
 opening_hours: ""
-website: "https://nwcabinetsource.com/"
+website: https://nwcabinetsource.com/

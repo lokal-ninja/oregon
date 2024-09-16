@@ -1,11 +1,11 @@
 id: 596888477
-type: way
+type: node
 latitude: 44.02524
 longitude: -116.93908
 postcode: "97914"
 city: Ontario
-street: "East Idaho Avenue"
-housenumber: 1779
-phone: "+1-541-889-3366"
+street: East Idaho Avenue
+housenumber: "1779"
+phone: +1-541-889-3366
 opening_hours: ""
 website: ""

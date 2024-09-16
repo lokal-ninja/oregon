@@ -1,11 +1,11 @@
 id: 39241741
-type: way
+type: node
 latitude: 45.53492
 longitude: -122.64173
 postcode: "97232"
 city: Portland
-street: "Northeast Broadway"
-housenumber: 2326
+street: Northeast Broadway
+housenumber: "2326"
 phone: ""
 opening_hours: ""
-website: "https://www.spinlaundrylounge.com/"
+website: https://www.spinlaundrylounge.com/

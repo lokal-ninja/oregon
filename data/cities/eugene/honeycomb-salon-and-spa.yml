@@ -1,11 +1,11 @@
 id: 393278050
-type: way
+type: node
 latitude: 44.0454
 longitude: -123.08602
 postcode: "97401"
 city: Eugene
-street: "East 13th Avenue"
-housenumber: 446
+street: East 13th Avenue
+housenumber: "446"
 phone: ""
 opening_hours: ""
-website: "https://honeycombsalonandspa.com/"
+website: https://honeycombsalonandspa.com/

@@ -1,11 +1,11 @@
 id: 421376681
-type: way
+type: node
 latitude: 45.4981
 longitude: -122.62166
 postcode: "97202"
 city: Portland
-street: "Southeast Powell Boulevard"
-housenumber: 3955
+street: Southeast Powell Boulevard
+housenumber: "3955"
 phone: ""
 opening_hours: ""
 website: ""

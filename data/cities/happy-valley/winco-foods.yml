@@ -1,11 +1,11 @@
 id: 116428272
-type: way
+type: node
 latitude: 45.44402
 longitude: -122.57728
 postcode: "97086"
 city: Happy Valley
-street: "Southeast 82nd Avenue"
-housenumber: 11250
+street: Southeast 82nd Avenue
+housenumber: "11250"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

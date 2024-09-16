@@ -1,11 +1,11 @@
 id: 421259907
-type: way
+type: node
 latitude: 45.50523
 longitude: -122.61071
 postcode: "97206"
 city: Portland
-street: "Southeast Division Street"
-housenumber: 5016
-phone: "+1-503-235-8319"
+street: Southeast Division Street
+housenumber: "5016"
+phone: +1-503-235-8319
 opening_hours: ""
-website: "https://www.logikthesalon.com/"
+website: https://www.logikthesalon.com/

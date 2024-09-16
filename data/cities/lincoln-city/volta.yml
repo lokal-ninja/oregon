@@ -1,11 +1,11 @@
 id: 458940384
-type: way
+type: node
 latitude: 44.92951
 longitude: -124.0163
 postcode: "97367"
 city: Lincoln City
-street: "Southeast Highway 101"
-housenumber: 4830
-phone: "+1 541 996 7600"
-opening_hours: "We-Fr,Su 10-17:00; Sa 10:00-18:00"
-website: "https://www.voltaglass.com/"
+street: Southeast Highway 101
+housenumber: "4830"
+phone: +1 541 996 7600
+opening_hours: We-Fr,Su 10-17:00; Sa 10:00-18:00
+website: https://www.voltaglass.com/

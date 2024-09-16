@@ -1,11 +1,11 @@
 id: 436330479
-type: way
+type: node
 latitude: 45.51049
 longitude: -122.96977
 postcode: "97123"
 city: Hillsboro
-street: "Southeast Tualatin Valley Highway"
-housenumber: 1203
+street: Southeast Tualatin Valley Highway
+housenumber: "1203"
 phone: ""
 opening_hours: ""
 website: ""

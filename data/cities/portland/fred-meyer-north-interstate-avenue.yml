@@ -1,11 +1,11 @@
 id: 79675653
-type: way
+type: node
 latitude: 45.57552
 longitude: -122.68043
 postcode: "97217"
 city: Portland
-street: "North Interstate Avenue"
-housenumber: 7404
-phone: "+1 503-286-6784"
-opening_hours: "07:00-23:00"
-website: "https://www.fredmeyer.com/stores/grocery/or/portland/interstate/701/00150"
+street: North Interstate Avenue
+housenumber: "7404"
+phone: +1 503-286-6784
+opening_hours: 07:00-23:00
+website: https://www.fredmeyer.com/stores/grocery/or/portland/interstate/701/00150

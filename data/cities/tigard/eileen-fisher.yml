@@ -1,11 +1,11 @@
 id: 355240472
-type: way
+type: node
 latitude: 45.3966
 longitude: -122.75293
 postcode: "97224"
 city: Tigard
-street: "Southwest Bridgeport Road"
-housenumber: 7353
+street: Southwest Bridgeport Road
+housenumber: "7353"
 phone: ""
 opening_hours: ""
-website: "https://www.eileenfisher.com/"
+website: https://www.eileenfisher.com/

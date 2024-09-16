@@ -1,11 +1,11 @@
 id: 409203798
-type: way
+type: node
 latitude: 45.54936
 longitude: -122.6666
 postcode: "97227"
 city: Portland
-street: "North Williams Avenue"
-housenumber: 3608
+street: North Williams Avenue
+housenumber: "3608"
 phone: ""
 opening_hours: ""
-website: "http://www.cloakanddaggerbarbers.com/"
+website: http://www.cloakanddaggerbarbers.com/

@@ -1,11 +1,11 @@
 id: 1051493629
-type: way
+type: node
 latitude: 43.79511
 longitude: -123.06014
 postcode: "97424"
 city: Cottage Grove
-street: "Highway 99"
-housenumber: 238
-phone: "+1 541 915 3142"
-opening_hours: "by appointment"
-website: "https://skillard.com/"
+street: Highway 99
+housenumber: "238"
+phone: +1 541 915 3142
+opening_hours: '"by appointment"'
+website: https://skillard.com/

@@ -1,11 +1,11 @@
 id: 679590760
-type: way
+type: node
 latitude: 44.22238
 longitude: -123.20213
 postcode: "97448"
 city: Junction City
-street: "Front Street"
-housenumber: 937
+street: Front Street
+housenumber: "937"
 phone: ""
 opening_hours: ""
 website: ""

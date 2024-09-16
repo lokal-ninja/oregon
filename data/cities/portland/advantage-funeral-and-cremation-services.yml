@@ -1,11 +1,11 @@
 id: 368266276
-type: way
+type: node
 latitude: 45.53395
 longitude: -122.55386
 postcode: "97220"
 city: Portland
-street: "Northeast 106th Avenue"
-housenumber: 1515
+street: Northeast 106th Avenue
+housenumber: "1515"
 phone: ""
 opening_hours: ""
 website: ""

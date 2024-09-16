@@ -1,11 +1,11 @@
 id: 365706949
-type: way
+type: node
 latitude: 45.54115
 longitude: -122.69819
 postcode: "97210"
 city: Portland
-street: "Northwest Nicolai Street"
-housenumber: 2245
-phone: "+1-503-221-4944"
+street: Northwest Nicolai Street
+housenumber: "2245"
+phone: +1-503-221-4944
 opening_hours: ""
-website: "https://www.lumberliquidators.com/"
+website: https://www.lumberliquidators.com/

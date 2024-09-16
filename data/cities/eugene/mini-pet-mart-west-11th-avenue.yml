@@ -1,11 +1,11 @@
 id: 1003337246
-type: way
+type: node
 latitude: 44.04813
 longitude: -123.12155
 postcode: "97402"
 city: Eugene
-street: "West 11th Avenue"
-housenumber: 1875
+street: West 11th Avenue
+housenumber: "1875"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00"
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

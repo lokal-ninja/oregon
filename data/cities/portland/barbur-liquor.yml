@@ -1,11 +1,11 @@
 id: 117449340
-type: way
+type: node
 latitude: 45.45424
 longitude: -122.72059
 postcode: "97219"
 city: Portland
-street: "Southwest Barbur Boulevard"
-housenumber: 9875
+street: Southwest Barbur Boulevard
+housenumber: "9875"
 phone: ""
 opening_hours: ""
-website: "http://www.barburliquor.com/"
+website: http://www.barburliquor.com/

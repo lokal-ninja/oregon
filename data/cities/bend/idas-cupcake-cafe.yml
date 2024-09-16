@@ -1,11 +1,11 @@
 id: 507885905
-type: way
+type: node
 latitude: 44.0568
 longitude: -121.33054
 postcode: "97703"
 city: Bend
-street: "Northwest Galveston Avenue"
-housenumber: 1314
-phone: "+1-541-383-2345"
-opening_hours: "Mo-Sa 10:00-17:00; Su 10:00-16:00"
-website: "https://idascupcakecafe.com/"
+street: Northwest Galveston Avenue
+housenumber: "1314"
+phone: +1-541-383-2345
+opening_hours: Mo-Sa 10:00-17:00; Su 10:00-16:00
+website: https://idascupcakecafe.com/

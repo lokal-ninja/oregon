@@ -1,11 +1,11 @@
 id: 527209976
-type: way
+type: node
 latitude: 45.55189
 longitude: -122.67529
 postcode: "97227"
 city: Portland
-street: "North Mississippi Avenue"
-housenumber: 3972
+street: North Mississippi Avenue
+housenumber: "3972"
 phone: ""
 opening_hours: ""
 website: ""

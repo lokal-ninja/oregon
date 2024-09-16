@@ -1,11 +1,11 @@
 id: 793306659
-type: way
+type: node
 latitude: 43.08024
 longitude: -121.82463
 postcode: "97731"
 city: Chemult
-street: "US-97"
-housenumber: 94401
+street: US-97
+housenumber: "94401"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.52363
 longitude: -122.67561
 postcode: "97209"
 city: Portland
-street: "Northwest 5th Avenue"
-housenumber: 23
-phone: "+1-503-548-4835"
-opening_hours: "Mo-Sa 11:00-20:00; Su 12:00-18:00"
-website: "https://www.fifty24pdx.com/"
+street: Northwest 5th Avenue
+housenumber: "23"
+phone: +1-503-548-4835
+opening_hours: Mo-Sa 11:00-20:00; Su 12:00-18:00
+website: https://www.fifty24pdx.com/

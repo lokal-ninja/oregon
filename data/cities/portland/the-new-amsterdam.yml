@@ -1,11 +1,11 @@
 id: 367479723
-type: way
+type: node
 latitude: 45.563
 longitude: -122.6896
 postcode: "97217"
 city: Portland
-street: "North Killingsworth Street"
-housenumber: 2201
+street: North Killingsworth Street
+housenumber: "2201"
 phone: ""
 opening_hours: ""
 website: ""

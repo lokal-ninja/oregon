@@ -1,11 +1,11 @@
 id: 490957552
-type: way
+type: node
 latitude: 45.62984
 longitude: -121.54484
-postcode: "97031-8597"
+postcode: 97031-8597
 city: Hood River
-street: "Eagle Loop"
-housenumber: 3831
-phone: "+1 541-354-3000"
-opening_hours: "Mo-Sa 07:30-17:00"
+street: Eagle Loop
+housenumber: "3831"
+phone: +1 541-354-3000
+opening_hours: Mo-Sa 07:30-17:00
 website: ""

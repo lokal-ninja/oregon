@@ -1,11 +1,11 @@
 id: 1078399972
-type: way
+type: node
 latitude: 45.50395
 longitude: -122.49884
 postcode: "97236"
 city: Portland
-street: "Southeast Division Street"
-housenumber: 15948
+street: Southeast Division Street
+housenumber: "15948"
 phone: ""
 opening_hours: ""
 website: ""

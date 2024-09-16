@@ -1,11 +1,11 @@
 id: 354397607
-type: way
+type: node
 latitude: 45.43989
 longitude: -122.75329
 postcode: "97223"
 city: Tigard
-street: "Southwest Pacific Highway"
-housenumber: 11611
+street: Southwest Pacific Highway
+housenumber: "11611"
 phone: ""
 opening_hours: ""
-website: "https://ugmportland.org/"
+website: https://ugmportland.org/

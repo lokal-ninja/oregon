@@ -1,11 +1,11 @@
 id: 679559107
-type: way
+type: node
 latitude: 44.22798
 longitude: -123.2048
 postcode: "97448"
 city: Junction City
-street: "Ivy Street"
-housenumber: 1650
+street: Ivy Street
+housenumber: "1650"
 phone: ""
 opening_hours: ""
 website: ""

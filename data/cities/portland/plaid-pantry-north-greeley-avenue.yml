@@ -1,11 +1,11 @@
 id: 221686759
-type: way
+type: node
 latitude: 45.57044
 longitude: -122.69507
 postcode: "97217"
 city: Portland
-street: "North Greeley Avenue"
-housenumber: 6510
+street: North Greeley Avenue
+housenumber: "6510"
 phone: ""
 opening_hours: ""
 website: ""

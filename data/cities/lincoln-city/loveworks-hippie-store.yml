@@ -1,11 +1,11 @@
 id: 389100483
-type: way
+type: node
 latitude: 44.98887
 longitude: -124.0054
 postcode: "97367"
 city: Lincoln City
-street: "Northeast Highway 101"
-housenumber: 3244
-phone: "+1 406 293 0680;+1 406 293 0685"
-opening_hours: "10:30-18:30"
+street: Northeast Highway 101
+housenumber: "3244"
+phone: +1 406 293 0680;+1 406 293 0685
+opening_hours: 10:30-18:30
 website: ""

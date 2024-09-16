@@ -1,11 +1,11 @@
 id: 368074067
-type: way
+type: node
 latitude: 45.5933
 longitude: -122.75734
 postcode: "97203"
 city: Portland
-street: "North Lombard Street"
-housenumber: 9101
+street: North Lombard Street
+housenumber: "9101"
 phone: ""
 opening_hours: ""
 website: ""

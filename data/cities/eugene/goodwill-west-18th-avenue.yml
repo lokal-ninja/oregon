@@ -1,11 +1,11 @@
 id: 544925808
-type: way
+type: node
 latitude: 44.04079
 longitude: -123.11829
 postcode: "97402"
 city: Eugene
-street: "West 18th Avenue"
-housenumber: 1717
+street: West 18th Avenue
+housenumber: "1717"
 phone: ""
 opening_hours: ""
 website: ""

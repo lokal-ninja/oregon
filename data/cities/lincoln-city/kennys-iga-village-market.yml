@@ -1,11 +1,11 @@
 id: 458940377
-type: way
+type: node
 latitude: 44.92888
 longitude: -124.0166
 postcode: "97367"
 city: Lincoln City
-street: "Southwest Highway 101"
-housenumber: 4845
-phone: "+1 541-996-2301"
-opening_hours: "Su-Sa 09:00-19:00"
-website: "https://kennysiga.com"
+street: Southwest Highway 101
+housenumber: "4845"
+phone: +1 541-996-2301
+opening_hours: Su-Sa 09:00-19:00
+website: https://kennysiga.com

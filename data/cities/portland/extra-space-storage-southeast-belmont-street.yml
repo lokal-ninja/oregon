@@ -1,11 +1,11 @@
 id: 549836693
-type: way
+type: node
 latitude: 45.51616
 longitude: -122.65854
 postcode: "97214"
 city: Portland
-street: "Southeast Belmont Street"
-housenumber: 710
+street: Southeast Belmont Street
+housenumber: "710"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 168720854
-type: way
+type: node
 latitude: 42.19897
 longitude: -122.71133
 postcode: "97520"
 city: Ashland
-street: "North 1st Street"
-housenumber: 237
-phone: "+1 541 482 2237"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://ashlandfood.coop"
+street: North 1st Street
+housenumber: "237"
+phone: +1 541 482 2237
+opening_hours: Mo-Su 07:00-21:00
+website: https://ashlandfood.coop

@@ -1,11 +1,11 @@
 id: 398391451
-type: way
+type: node
 latitude: 43.79672
 longitude: -123.06254
 postcode: "97424"
 city: Cottage Grove
-street: "South 5th Street"
-housenumber: 40
-phone: "+1 541 942 1301"
-opening_hours: "Mo-Sa 08:00-18:00; Su 09:00-16:00"
+street: South 5th Street
+housenumber: "40"
+phone: +1 541 942 1301
+opening_hours: Mo-Sa 08:00-18:00; Su 09:00-16:00
 website: ""

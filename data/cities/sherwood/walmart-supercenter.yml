@@ -1,11 +1,11 @@
 id: 432942963
-type: way
+type: node
 latitude: 45.3651
 longitude: -122.83355
 postcode: "97140"
 city: Sherwood
-street: "Southwest Langer Farms Parkway"
-housenumber: 21320
-phone: "+1-503-825-4050"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://www.walmart.com/store/4176-sherwood-or"
+street: Southwest Langer Farms Parkway
+housenumber: "21320"
+phone: +1-503-825-4050
+opening_hours: Mo-Su 05:00-01:00
+website: https://www.walmart.com/store/4176-sherwood-or

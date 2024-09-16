@@ -1,11 +1,11 @@
 id: 514373096
-type: way
+type: node
 latitude: 44.03895
 longitude: -121.30664
 postcode: "97702"
 city: Bend
-street: "Southeast Division Street"
-housenumber: 1095
+street: Southeast Division Street
+housenumber: "1095"
 phone: ""
 opening_hours: ""
-website: "https://www.chevronwithtechron.com/"
+website: https://www.chevronwithtechron.com/

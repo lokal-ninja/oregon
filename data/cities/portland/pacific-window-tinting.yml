@@ -1,11 +1,11 @@
 id: 320988247
-type: way
+type: node
 latitude: 45.47671
 longitude: -122.67257
 postcode: "97239"
 city: Portland
-street: "South Idaho Street"
-housenumber: 607
-phone: "+1-503-612-9000"
+street: South Idaho Street
+housenumber: "607"
+phone: +1-503-612-9000
 opening_hours: ""
-website: "https://www.pacific-tint.com/"
+website: https://www.pacific-tint.com/

@@ -1,11 +1,11 @@
 id: 782823701
-type: way
+type: node
 latitude: 44.94411
 longitude: -123.05062
 postcode: ""
 city: Salem
-street: "Edgewater Street Northwest"
-housenumber: 585
+street: Edgewater Street Northwest
+housenumber: "585"
 phone: ""
 opening_hours: ""
 website: ""

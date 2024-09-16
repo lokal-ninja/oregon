@@ -1,11 +1,11 @@
 id: 367357459
-type: way
+type: node
 latitude: 45.56595
 longitude: -122.69537
 postcode: "97217"
 city: Portland
-street: "North Greeley Avenue"
-housenumber: 5916
+street: North Greeley Avenue
+housenumber: "5916"
 phone: ""
-opening_hours: "Mo-Su 12:00-21:00"
-website: "https://bottlesandcanspdx.com/"
+opening_hours: Mo-Su 12:00-21:00
+website: https://bottlesandcanspdx.com/

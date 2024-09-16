@@ -1,11 +1,11 @@
 id: 755371394
-type: way
+type: node
 latitude: 44.05154
 longitude: -123.12326
 postcode: "97402"
 city: Eugene
-street: "Garfield Street"
-housenumber: 720
-phone: "+1 541 345 2873"
-opening_hours: "10:00-22:00"
-website: "https://evasboutique.com/store_locations/evas_garfield/"
+street: Garfield Street
+housenumber: "720"
+phone: +1 541 345 2873
+opening_hours: 10:00-22:00
+website: https://evasboutique.com/store_locations/evas_garfield/

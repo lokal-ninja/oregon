@@ -4,8 +4,8 @@ latitude: 44.04861
 longitude: -123.08988
 postcode: "97401"
 city: Eugene
-street: "Pearl Street"
-housenumber: 1020
-phone: "541-683-2787"
+street: Pearl Street
+housenumber: "1020"
+phone: 541-683-2787
 opening_hours: ""
-website: "https://www.oregonartsupply.com/"
+website: https://www.oregonartsupply.com/

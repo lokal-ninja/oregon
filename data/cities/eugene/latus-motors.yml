@@ -1,11 +1,11 @@
 id: 345135958
-type: way
+type: node
 latitude: 44.01123
 longitude: -123.02084
 postcode: "97405"
 city: Eugene
-street: "College View Road"
-housenumber: 86441
+street: College View Road
+housenumber: "86441"
 phone: ""
 opening_hours: ""
 website: ""

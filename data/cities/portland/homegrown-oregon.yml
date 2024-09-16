@@ -1,11 +1,11 @@
 id: 338436431
-type: way
+type: node
 latitude: 45.4869
 longitude: -122.74229
 postcode: "97221"
 city: Portland
-street: "Southwest Beaverton Hillsdale Highway"
-housenumber: 6330
-phone: "+1-503-477-4926"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://dutchie.com/embedded-menu/homegrown-beaverton/menu"
+street: Southwest Beaverton Hillsdale Highway
+housenumber: "6330"
+phone: +1-503-477-4926
+opening_hours: Mo-Su 08:00-22:00
+website: https://dutchie.com/embedded-menu/homegrown-beaverton/menu

@@ -1,11 +1,11 @@
 id: 450926198
-type: way
+type: node
 latitude: 44.17112
 longitude: -123.5798
 postcode: "97412"
 city: Blachly
-street: "Hwy 36"
-housenumber: 19385
+street: Hwy 36
+housenumber: "19385"
 phone: ""
 opening_hours: ""
 website: ""

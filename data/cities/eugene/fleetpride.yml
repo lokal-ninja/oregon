@@ -1,11 +1,11 @@
 id: 1204312441
-type: way
+type: node
 latitude: 44.04836
 longitude: -123.1225
-postcode: "97402-2737"
+postcode: 97402-2737
 city: Eugene
-street: "Garfield Street"
-housenumber: 1045
-phone: "+1 541 345 8441"
-opening_hours: "Tu-Fr 08:00-17:00"
-website: "https://branches.fleetpride.com/or/eugene/truckparts-egn.html"
+street: Garfield Street
+housenumber: "1045"
+phone: +1 541 345 8441
+opening_hours: Tu-Fr 08:00-17:00
+website: https://branches.fleetpride.com/or/eugene/truckparts-egn.html

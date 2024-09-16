@@ -1,11 +1,11 @@
 id: 234351940
-type: way
+type: node
 latitude: 43.56684
 longitude: -119.07996
 postcode: "97738"
 city: Hines
-street: "US 20"
-housenumber: 306
+street: US 20
+housenumber: "306"
 phone: "+15415731414"
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

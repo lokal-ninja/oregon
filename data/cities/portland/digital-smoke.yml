@@ -1,11 +1,11 @@
 id: 499400611
-type: way
+type: node
 latitude: 45.54888
 longitude: -122.58719
 postcode: "97213"
 city: Portland
-street: "Northeast Sandy Boulevard"
-housenumber: 7346
+street: Northeast Sandy Boulevard
+housenumber: "7346"
 phone: ""
-opening_hours: "11:00-20:00"
-website: "http://www.digitalsmoke.net/"
+opening_hours: 11:00-20:00
+website: http://www.digitalsmoke.net/

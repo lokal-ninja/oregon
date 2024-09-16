@@ -1,11 +1,11 @@
 id: 886816695
-type: way
+type: node
 latitude: 45.98543
 longitude: -123.92215
 postcode: "97138"
 city: Seaside
-street: "Avenue N"
-housenumber: 825
+street: Avenue N
+housenumber: "825"
 phone: ""
 opening_hours: ""
 website: ""

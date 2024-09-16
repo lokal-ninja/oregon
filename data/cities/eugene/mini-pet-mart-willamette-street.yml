@@ -1,11 +1,11 @@
 id: 916062582
-type: way
+type: node
 latitude: 44.02978
 longitude: -123.09138
 postcode: "97405"
 city: Eugene
-street: "Willamette Street"
-housenumber: 2636
+street: Willamette Street
+housenumber: "2636"
 phone: ""
 opening_hours: ""
 website: ""

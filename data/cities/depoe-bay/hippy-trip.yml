@@ -1,11 +1,11 @@
 id: 655134895
-type: way
+type: node
 latitude: 44.8085
 longitude: -124.06212
 postcode: "97341"
 city: Depoe Bay
-street: "South Highway 101"
-housenumber: 249
+street: South Highway 101
+housenumber: "249"
 phone: ""
 opening_hours: ""
 website: ""

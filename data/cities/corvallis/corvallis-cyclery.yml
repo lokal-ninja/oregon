@@ -4,8 +4,8 @@ latitude: 44.56132
 longitude: -123.26151
 postcode: "97333"
 city: Corvallis
-street: "Southwest 2nd Street"
-housenumber: 344
-phone: "+1 541 752 5952"
-opening_hours: "Mo-Sa 09:00-17:30; Su off"
-website: "http://www.corvalliscyclery.com/"
+street: Southwest 2nd Street
+housenumber: "344"
+phone: +1 541 752 5952
+opening_hours: Mo-Sa 09:00-17:30; Su off
+website: http://www.corvalliscyclery.com/

@@ -1,11 +1,11 @@
 id: 496025714
-type: way
+type: node
 latitude: 45.36735
 longitude: -122.84473
 postcode: "97140"
 city: Sherwood
-street: "Southwest Langer Drive"
-housenumber: 16220
-phone: "+1-503-625-0196"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/or/sherwood/1894/"
+street: Southwest Langer Drive
+housenumber: "16220"
+phone: +1-503-625-0196
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/or/sherwood/1894/

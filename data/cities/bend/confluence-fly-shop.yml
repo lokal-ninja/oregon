@@ -1,11 +1,11 @@
 id: 509125373
-type: way
+type: node
 latitude: 44.04691
 longitude: -121.3155
 postcode: "97702"
 city: Bend
-street: "Southwest Powerhouse Drive"
-housenumber: 375
-phone: "+1-541-678-5633"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://confluenceflyshop.com/"
+street: Southwest Powerhouse Drive
+housenumber: "375"
+phone: +1-541-678-5633
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://confluenceflyshop.com/

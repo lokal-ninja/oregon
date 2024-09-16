@@ -1,11 +1,11 @@
 id: 458421099
-type: way
+type: node
 latitude: 45.47442
 longitude: -122.64853
 postcode: "97202"
 city: Portland
-street: "Southeast Milwaukie Avenue"
-housenumber: 6680
-phone: "+1-503-232-1147"
+street: Southeast Milwaukie Avenue
+housenumber: "6680"
+phone: +1-503-232-1147
 opening_hours: ""
 website: ""

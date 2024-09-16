@@ -1,11 +1,11 @@
 id: 263659018
-type: way
+type: node
 latitude: 44.625
 longitude: -123.09148
 postcode: "97322"
 city: Albany
-street: "Queen Avenue Southeast"
-housenumber: 910
+street: Queen Avenue Southeast
+housenumber: "910"
 phone: ""
 opening_hours: ""
 website: ""

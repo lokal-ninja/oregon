@@ -1,11 +1,11 @@
 id: 1064688989
-type: way
+type: node
 latitude: 45.23109
 longitude: -122.75558
 postcode: "97002"
 city: Aurora
-street: "Pacific Highway East"
-housenumber: 21558
+street: Pacific Highway East
+housenumber: "21558"
 phone: ""
-opening_hours: "10:00-20:00"
+opening_hours: 10:00-20:00
 website: ""

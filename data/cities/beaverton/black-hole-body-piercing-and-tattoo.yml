@@ -1,11 +1,11 @@
 id: 234665794
-type: way
+type: node
 latitude: 45.48622
 longitude: -122.80557
 postcode: "97005"
 city: Beaverton
-street: "Southwest 1st Street"
-housenumber: 12550
+street: Southwest 1st Street
+housenumber: "12550"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 412602801
-type: way
+type: node
 latitude: 45.45807
 longitude: -122.78386
 postcode: "97008"
 city: Beaverton
-street: "Southwest Hall Boulevard"
-housenumber: 8606
+street: Southwest Hall Boulevard
+housenumber: "8606"
 phone: ""
 opening_hours: ""
 website: ""

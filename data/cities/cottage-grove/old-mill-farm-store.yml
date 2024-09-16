@@ -1,11 +1,11 @@
 id: 1001654276
-type: way
+type: node
 latitude: 43.79563
 longitude: -123.06891
 postcode: "97424"
 city: Cottage Grove
-street: "South River Road"
-housenumber: 327
-phone: "+1 541 942 3042"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-16:00"
+street: South River Road
+housenumber: "327"
+phone: +1 541 942 3042
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-16:00
 website: ""

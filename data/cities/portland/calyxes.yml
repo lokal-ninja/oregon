@@ -1,11 +1,11 @@
 id: 291272865
-type: way
+type: node
 latitude: 45.47017
 longitude: -122.70783
 postcode: "97219"
 city: Portland
-street: "Southwest Capitol Highway"
-housenumber: 7501
-phone: "+1-503-889-0682"
-opening_hours: "Tu-Sa 11:00-19:00"
-website: "http://www.calyxes.com/"
+street: Southwest Capitol Highway
+housenumber: "7501"
+phone: +1-503-889-0682
+opening_hours: Tu-Sa 11:00-19:00
+website: http://www.calyxes.com/

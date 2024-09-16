@@ -1,11 +1,11 @@
 id: 640074730
-type: way
+type: node
 latitude: 43.96842
 longitude: -122.93376
 postcode: "97455"
 city: Pleasant Hill
-street: "Edenvale Road"
-housenumber: 84841
-phone: "+1 541 741 2751"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; PH off"
+street: Edenvale Road
+housenumber: "84841"
+phone: +1 541 741 2751
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; PH off
 website: ""

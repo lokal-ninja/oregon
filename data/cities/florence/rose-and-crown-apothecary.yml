@@ -1,11 +1,11 @@
 id: 746501972
-type: way
+type: node
 latitude: 43.96646
 longitude: -124.10703
 postcode: "97439"
 city: Florence
-street: "Bay Street"
-housenumber: 1297
+street: Bay Street
+housenumber: "1297"
 phone: ""
 opening_hours: ""
 website: ""
