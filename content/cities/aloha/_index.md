@@ -1,6 +1,6 @@
 ---
 title: Aloha
 url: /aloha/
-latitude: 45.492
-longitude: -122.853
+latitude: 45.493
+longitude: -122.862
 ---
