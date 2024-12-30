@@ -1,5 +1,5 @@
 ---
 title: "Indigo Traders"
 url: /portland/indigo-traders/
-shop: curtain
+shop: interior decoration
 ---
