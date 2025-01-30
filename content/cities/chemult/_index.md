@@ -1,6 +1,6 @@
 ---
 title: Chemult
 url: /chemult/
-latitude: 43.08
-longitude: -121.825
+latitude: 43.218
+longitude: -121.784
 ---
