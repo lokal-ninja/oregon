@@ -1,5 +1,5 @@
 ---
-title: "Warrenton KIA"
+title: "Warrenton Kia"
 url: /warrenton/warrenton-kia/
 shop: car
 ---
