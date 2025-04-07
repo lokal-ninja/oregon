@@ -1,5 +1,5 @@
 ---
 title: "Shift Electric Vehicles"
 url: /albany/shift-electric-vehicles/
-shop: car
+shop: car repair
 ---
