@@ -1,5 +1,5 @@
 ---
-title: "collage"
+title: "Collage"
 url: /portland/collage/
 shop: craft
 ---

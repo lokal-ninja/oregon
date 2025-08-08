@@ -7,5 +7,6 @@ city: Cottage Grove
 street: South R Street
 housenumber: "2175"
 phone: +1 541 942 9163
-opening_hours: ""
+opening_hours: Tu-Fr 09:00-16:30 "Office"; We-Th,Sa 09:00-17:00 "Office"; 06:00-19:00
+    "Gate Access"
 website: ""
