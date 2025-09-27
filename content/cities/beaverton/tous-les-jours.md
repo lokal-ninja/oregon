@@ -1,5 +1,5 @@
 ---
-title: "Tous Les Jours"
+title: "Tous les Jours"
 url: /beaverton/tous-les-jours/
 shop: bakery
 ---
