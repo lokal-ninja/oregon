@@ -1,5 +1,5 @@
 ---
-title: "Dandelion's Flowers & Gifts"
+title: "Dandelions Flowers & Gifts"
 url: /eugene/dandelions-flowers-and-gifts/
 shop: florist
 ---
