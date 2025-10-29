@@ -1,6 +1,6 @@
 ---
 title: Siletz
 url: /siletz/
-latitude: 44.722
+latitude: 44.72
 longitude: -123.918
 ---
