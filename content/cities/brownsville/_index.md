@@ -1,6 +1,6 @@
 ---
 title: Brownsville
 url: /brownsville/
-latitude: 44.387
-longitude: -122.987
+latitude: 44.388
+longitude: -123.056
 ---
