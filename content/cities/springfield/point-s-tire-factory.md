@@ -1,5 +1,5 @@
 ---
 title: "Point S tire factory"
 url: /springfield/point-s-tire-factory/
-shop: tyres
+shop: car repair
 ---
