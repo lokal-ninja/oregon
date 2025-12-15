@@ -1,5 +1,5 @@
 ---
-title: "Discount Mini Mart"
+title: "Discount mini mart"
 url: /portland/discount-mini-mart/
 shop: convenience
 ---
