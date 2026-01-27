@@ -1,6 +1,6 @@
 ---
 title: South Beach
 url: /south-beach/
-latitude: 44.548
-longitude: -124.071
+latitude: 44.614
+longitude: -124.05
 ---

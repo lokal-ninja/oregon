@@ -1,6 +1,6 @@
 ---
 title: Rockaway Beach
 url: /rockaway-beach/
-latitude: 45.617
-longitude: -123.943
+latitude: 45.611
+longitude: -123.944
 ---

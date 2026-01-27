@@ -1,6 +1,6 @@
 ---
 title: Halsey
 url: /halsey/
-latitude: 44.388
-longitude: -123.065
+latitude: 44.365
+longitude: -123.196
 ---
