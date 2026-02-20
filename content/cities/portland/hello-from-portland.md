@@ -1,5 +1,5 @@
 ---
-title: "Hello from Portland"
+title: "Hello From Portland"
 url: /portland/hello-from-portland/
 shop: gift
 ---
