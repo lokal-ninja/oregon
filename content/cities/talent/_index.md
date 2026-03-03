@@ -1,6 +1,6 @@
 ---
 title: Talent
 url: /talent/
-latitude: 42.241
-longitude: -122.777
+latitude: 42.236
+longitude: -122.767
 ---
