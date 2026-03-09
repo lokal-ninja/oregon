@@ -1,6 +1,6 @@
 ---
 title: Banks
 url: /banks/
-latitude: 45.62
-longitude: -123.115
+latitude: 45.619
+longitude: -123.114
 ---
