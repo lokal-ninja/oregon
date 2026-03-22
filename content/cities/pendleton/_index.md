@@ -1,6 +1,6 @@
 ---
 title: Pendleton
 url: /pendleton/
-latitude: 45.671
-longitude: -118.786
+latitude: 45.673
+longitude: -118.782
 ---
