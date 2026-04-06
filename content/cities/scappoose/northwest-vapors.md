@@ -1,5 +1,5 @@
 ---
 title: "Northwest Vapors"
 url: /scappoose/northwest-vapors/
-shop: shop
+shop: e-cigarette
 ---
