@@ -7,5 +7,6 @@ city: Bend
 street: North Highway 97
 housenumber: "3188"
 phone: +1-541-647-2337
-opening_hours: Mo closed, Tu-Sa 05:30-13:00, Su 06:00-13:00
+opening_hours: Mo closed,Tu-Sa 05:30-13:00 "or unless sold out",Su 06:00-13:00 "or
+    unless sold out"
 website: ""

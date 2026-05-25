@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /gresham/great-clips/
-shop: beauty
+shop: hairdresser
 ---
