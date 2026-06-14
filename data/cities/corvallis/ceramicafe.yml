@@ -7,5 +7,5 @@ city: Corvallis
 street: Northwest Jackson Avenue
 housenumber: "118"
 phone: +1 541 257 1198
-opening_hours: Su-Th 11:00-19:00; Fr-Sa 10:00-20:00
+opening_hours: Mo-Th 11:00-20:00; Fr-Sa 10:00-20:00; Su 11:00-19:00
 website: ""
