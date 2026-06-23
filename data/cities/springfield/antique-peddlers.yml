@@ -7,5 +7,5 @@ city: Springfield
 street: Main Street
 housenumber: "650"
 phone: ""
-opening_hours: Mo-We 10:00-17:00; Fr 10:00-17:00; Sa 11:00-13:00
+opening_hours: Mo-We 10:00-17:00; Fr 10:00-17:00; Sa 10:00-17:00; Su 12:00-17:00
 website: ""

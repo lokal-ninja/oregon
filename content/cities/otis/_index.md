@@ -1,6 +1,6 @@
 ---
 title: Otis
 url: /otis/
-latitude: 45.02
-longitude: -123.949
+latitude: 45.011
+longitude: -123.882
 ---
