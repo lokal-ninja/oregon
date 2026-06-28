@@ -1,6 +1,6 @@
 ---
 title: Sisters
 url: /sisters/
-latitude: 44.291
-longitude: -121.554
+latitude: 44.298
+longitude: -121.562
 ---
