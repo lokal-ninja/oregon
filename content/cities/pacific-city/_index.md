@@ -1,6 +1,6 @@
 ---
 title: Pacific City
 url: /pacific-city/
-latitude: 45.215
-longitude: -123.969
+latitude: 45.207
+longitude: -123.96
 ---
