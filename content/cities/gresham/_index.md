@@ -1,6 +1,6 @@
 ---
 title: Gresham
 url: /gresham/
-latitude: 45.5
-longitude: -122.41
+latitude: 45.518
+longitude: -122.412
 ---

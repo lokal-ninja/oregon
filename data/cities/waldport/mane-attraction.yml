@@ -7,5 +7,5 @@ city: Waldport
 street: Northwest Alder Street
 housenumber: "160"
 phone: +1-541-563-7774
-opening_hours: by_appointment
+opening_hours: '"by appointment"'
 website: ""

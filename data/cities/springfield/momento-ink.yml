@@ -7,5 +7,5 @@ city: Springfield
 street: Main Street
 housenumber: "525"
 phone: +1-541-741-0840
-opening_hours: by appointment
+opening_hours: '"by appointment"'
 website: https://mementoink.com/
