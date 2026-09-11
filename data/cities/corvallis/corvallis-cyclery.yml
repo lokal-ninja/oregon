@@ -7,5 +7,5 @@ city: Corvallis
 street: Southwest 2nd Street
 housenumber: "344"
 phone: +1 541 752 5952
-opening_hours: Mo-Sa 09:00-17:30; Su off
+opening_hours: Mo,Su off; Tu-Sa 09:00-17:30
 website: http://www.corvalliscyclery.com/
