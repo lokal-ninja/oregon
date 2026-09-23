@@ -1,5 +1,5 @@
 ---
-title: "FastBreak"
+title: "Fastbreak"
 url: /medford/fastbreak/
 shop: convenience
 ---
