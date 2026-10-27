@@ -1,6 +1,6 @@
 ---
 title: Lake Grove
 url: /lake-grove/
-latitude: 45.413
-longitude: -122.717
+latitude: 45.406
+longitude: -122.726
 ---
